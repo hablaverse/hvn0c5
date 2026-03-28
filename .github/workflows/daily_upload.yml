@@ -1,20 +1,10 @@
-name: Spanish Learning Bot - Daily Upload (5x per day)
+name: Spanish Learning Bot - 19x Daily (Offset Hours)
 
 on:
   schedule:
-    # Run 5 times daily for GLOBAL COVERAGE
-    # Timezone conversions:
-    # 00:00 UTC = 7:00 PM EST (North America evening)
-    # 06:00 UTC = 1:00 AM EST / 7:00 AM CET (Europe morning)
-    # 12:00 UTC = 7:00 AM EST / 1:00 PM CET (Europe lunch)
-    # 18:00 UTC = 1:00 PM EST / 7:00 PM CET (Europe evening)
-    # 20:00 UTC = 3:00 PM EST / 9:00 PM CET (Prime time)
-    #
-    # This covers:
-    # - Latin America (Mexico: UTC-6, Argentina: UTC-3)
-    # - Europe (Spain: UTC+1, UK: UTC+0)
-    # - North America (EST: UTC-5, PST: UTC-8)
-    - cron: '0 0,6,12,18,20 * * *'
+    # This runs exactly 19 times per day.
+    # It excludes: 00:00, 06:00, 12:00, 18:00, and 20:00 UTC.
+    - cron: '0 1,2,3,4,5,7,8,9,10,11,13,14,15,16,17,19,21,22,23 * * *'
 
   workflow_dispatch:  # Allow manual trigger
 
