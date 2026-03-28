@@ -1109,6 +1109,18 @@
         "I live on the third floor.",
         "Make yourself at home."
       ]
+    },
+    {
+      "timestamp": "2026-03-28T21:57:16.874676",
+      "category": "Shopping",
+      "num_phrases": 5,
+      "phrases": [
+        "Is there a discount today?",
+        "Where are the fitting rooms?",
+        "Can you wrap this as a gift?",
+        "Do you have this in red?",
+        "I only want the small size."
+      ]
     }
   ],
   "used_phrases": [
@@ -1570,6 +1582,11 @@
     "Turn off the lights, please.",
     "The door is stuck.",
     "I live on the third floor.",
-    "Make yourself at home."
+    "Make yourself at home.",
+    "Is there a discount today?",
+    "Where are the fitting rooms?",
+    "Can you wrap this as a gift?",
+    "Do you have this in red?",
+    "I only want the small size."
   ]
 }
