@@ -1086,6 +1086,17 @@
         "I fainted, I need help.",
         "I am bleeding a lot."
       ]
+    },
+    {
+      "timestamp": "2026-03-28T18:17:23.690144",
+      "category": "Money & Finance",
+      "num_phrases": 4,
+      "phrases": [
+        "I lost my wallet yesterday.",
+        "I am saving for a trip to Spain.",
+        "My bank blocked my card.",
+        "How much do I owe you?"
+      ]
     }
   ],
   "used_phrases": [
@@ -1538,6 +1549,10 @@
     "My leg is broken.",
     "I am choking, help!",
     "I fainted, I need help.",
-    "I am bleeding a lot."
+    "I am bleeding a lot.",
+    "I lost my wallet yesterday.",
+    "I am saving for a trip to Spain.",
+    "My bank blocked my card.",
+    "How much do I owe you?"
   ]
 }
