@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stunning Spanish Learning Background</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: #000;
+            font-family: 'Arial', sans-serif;
+            overflow: hidden;
+        }
+
+        #canvas {
+            border: 4px solid #fff;
+            box-shadow: 0 0 60px rgba(255, 255, 255, 0.6);
+            border-radius: 10px;
+        }
+
+        .controls {
+            position: fixed;
+            top: 30px;
+            right: 30px;
+            background: linear-gradient(135deg, rgba(0, 0, 0, 0.95) 0%, rgba(20, 20, 40, 0.95) 100%);
+            padding: 35px;
+            border-radius: 25px;
+            color: white;
+            border: 3px solid;
+            border-image: linear-gradient(135deg, #ff00ff, #00ffff, #ffff00) 1;
+            box-shadow: 0 0 40px rgba(255, 0, 255, 0.7);
+            z-index: 1000;
+            backdrop-filter: blur(10px);
+        }
+
+        button {
+            background: linear-gradient(135deg, #ff00ff 0%, #00ffff 50%, #ffff00 100%);
+            color: #000;
+            border: none;
+            padding: 20px 40px;
+            border-radius: 15px;
+            cursor: pointer;
+            font-size: 18px;
+            font-weight: 900;
+            margin: 12px 0;
+            width: 100%;
+            transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            box-shadow: 0 5px 20px rgba(255, 0, 255, 0.4);
+        }
+
+        button:hover {
+            transform: scale(1.1) translateY(-3px);
+            box-shadow: 0 10px 40px rgba(255, 0, 255, 0.8);
+        }
+
+        h3 {
+            margin: 0 0 25px 0;
+            background: linear-gradient(135deg, #ff00ff, #00ffff, #ffff00);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            font-size: 28px;
+            text-align: center;
+            font-weight: 900;
+        }
+
+        .style-name {
+            background: linear-gradient(135deg, #00ffff, #ffff00);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            font-size: 18px;
+            margin: 20px 0;
+            font-weight: bold;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <canvas id="canvas"></canvas>
+
+    <div class="controls">
+        <h3>✨ Background Generator</h3>
+        <div class="style-name" id="styleName">Morphing Blobs</div>
+        <button onclick="downloadBackground()">💾 Download</button>
+        <button onclick="changeStyle()">🎨 Next Style</button>
+        <p style="font-size: 14px; margin-top: 30px; color: #aaa; text-align: center;">
+            1080x1920 • Spanish Learning
+        </p>
+    </div>
+
+    <script>
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+
+        canvas.width = 1080;
+        canvas.height = 1920;
+
+        let styleIndex = 0;
+        let time = 0;
+
+        const styles = [
+            { name: '🌀 Morphing Blobs', draw: drawMorphingBlobs },
+            { name: '⚡ Electric Waves', draw: drawElectricWaves },
+            { name: '🎆 Particle Explosion', draw: drawParticleExplosion },
+            { name: '🌌 Galaxy Swirl', draw: drawGalaxySwirl },
+            { name: '💎 Crystal Prism', draw: drawCrystalPrism }
+        ];
+
+        function drawMorphingBlobs() {
+            // Rich gradient background
+            const bgGradient = ctx.createLinearGradient(0, 0, canvas.width, canvas.height);
+            bgGradient.addColorStop(0, '#0f0c29');
+            bgGradient.addColorStop(0.5, '#302b63');
+            bgGradient.addColorStop(1, '#24243e');
+            ctx.fillStyle = bgGradient;
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            // Morphing blobs
+            for (let i = 0; i < 6; i++) {
+                const angle = (time * 0.001 + i * Math.PI / 3);
+                const radius = 300 + Math.sin(time * 0.002 + i) * 150;
+                const x = canvas.width / 2 + Math.cos(angle) * radius;
+                const y = canvas.height / 2 + Math.sin(angle) * radius;
+
+                const blobGradient = ctx.createRadialGradient(x, y, 0, x, y, 500);
+                const hue = (time * 0.3 + i * 60) % 360;
+                blobGradient.addColorStop(0, `hsla(${hue}, 100%, 60%, 0.6)`);
+                blobGradient.addColorStop(0.5, `hsla(${hue}, 100%, 50%, 0.3)`);
+                blobGradient.addColorStop(1, 'transparent');
+
+                ctx.fillStyle = blobGradient;
+                ctx.beginPath();
+                ctx.arc(x, y, 500, 0, Math.PI * 2);
+                ctx.fill();
+            }
+
+            // Overlay glow
+            ctx.globalCompositeOperation = 'screen';
+            const overlayGradient = ctx.createRadialGradient(
+                canvas.width / 2, canvas.height / 2, 0,
+                canvas.width / 2, canvas.height / 2, canvas.height
+            );
+            overlayGradient.addColorStop(0, 'rgba(255, 255, 255, 0.1)');
+            overlayGradient.addColorStop(1, 'transparent');
+            ctx.fillStyle = overlayGradient;
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+            ctx.globalCompositeOperation = 'source-over';
+        }
+
+        function drawElectricWaves() {
+            // Dark electric background
+            const bgGradient = ctx.createLinearGradient(0, 0, 0, canvas.height);
+            bgGradient.addColorStop(0, '#000000');
+            bgGradient.addColorStop(0.5, '#0a0a2e');
+            bgGradient.addColorStop(1, '#000000');
+            ctx.fillStyle = bgGradient;
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            // Electric waves
+            for (let layer = 0; layer < 12; layer++) {
+                ctx.beginPath();
+                const hue = (time * 0.5 + layer * 30) % 360;
+                ctx.strokeStyle = `hsla(${hue}, 100%, 60%, 0.7)`;
+                ctx.lineWidth = 4;
+                ctx.shadowBlur = 25;
+                ctx.shadowColor = `hsl(${hue}, 100%, 60%)`;
+
+                for (let x = 0; x < canvas.width; x += 3) {
+                    const y = canvas.height / 2 +
+                        Math.sin((x + time * 4 + layer * 80) * 0.008) * 200 +
+                        Math.sin((x + time * 3) * 0.004) * 150 +
+                        Math.cos((time + layer * 40) * 0.01) * 100;
+
+                    if (x === 0) ctx.moveTo(x, y);
+                    else ctx.lineTo(x, y);
+                }
+                ctx.stroke();
+            }
+            ctx.shadowBlur = 0;
+        }
+
+        function drawParticleExplosion() {
+            // Deep gradient
+            const bgGradient = ctx.createRadialGradient(
+                canvas.width / 2, canvas.height / 2, 0,
+                canvas.width / 2, canvas.height / 2, canvas.height
+            );
+            bgGradient.addColorStop(0, '#1a0033');
+            bgGradient.addColorStop(0.5, '#0d001a');
+            bgGradient.addColorStop(1, '#000000');
+            ctx.fillStyle = bgGradient;
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            // Exploding particles
+            for (let i = 0; i < 200; i++) {
+                const angle = (i * 137.5 + time * 0.5) * Math.PI / 180;
+                const distance = 100 + (time * 0.5 + i * 5) % 800;
+                const x = canvas.width / 2 + Math.cos(angle) * distance;
+                const y = canvas.height / 2 + Math.sin(angle) * distance;
+                const size = 5 - (distance / 200);
+
+                if (size > 0) {
+                    const particleGradient = ctx.createRadialGradient(x, y, 0, x, y, size * 10);
+                    const hue = (time * 0.5 + i * 3) % 360;
+                    particleGradient.addColorStop(0, `hsl(${hue}, 100%, 70%)`);
+                    particleGradient.addColorStop(0.5, `hsla(${hue}, 100%, 60%, 0.5)`);
+                    particleGradient.addColorStop(1, 'transparent');
+
+                    ctx.fillStyle = particleGradient;
+                    ctx.beginPath();
+                    ctx.arc(x, y, size * 10, 0, Math.PI * 2);
+                    ctx.fill();
+                }
+            }
+        }
+
+        function drawGalaxySwirl() {
+            // Space background
+            ctx.fillStyle = '#000000';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            // Galaxy arms
+            for (let arm = 0; arm < 4; arm++) {
+                for (let i = 0; i < 100; i++) {
+                    const angle = (arm * Math.PI / 2) + (i * 0.1) + (time * 0.001);
+                    const distance = i * 15;
+                    const x = canvas.width / 2 + Math.cos(angle) * distance;
+                    const y = canvas.height / 2 + Math.sin(angle) * distance;
+                    const size = 20 - (i * 0.15);
+
+                    if (size > 0) {
+                        const starGradient = ctx.createRadialGradient(x, y, 0, x, y, size);
+                        const hue = (time * 0.3 + arm * 90 + i * 3) % 360;
+                        starGradient.addColorStop(0, `hsl(${hue}, 100%, 70%)`);
+                        starGradient.addColorStop(0.5, `hsla(${hue}, 100%, 50%, 0.5)`);
+                        starGradient.addColorStop(1, 'transparent');
+
+                        ctx.fillStyle = starGradient;
+                        ctx.beginPath();
+                        ctx.arc(x, y, size, 0, Math.PI * 2);
+                        ctx.fill();
+                    }
+                }
+            }
+
+            // Center glow
+            const centerGradient = ctx.createRadialGradient(
+                canvas.width / 2, canvas.height / 2, 0,
+                canvas.width / 2, canvas.height / 2, 400
+            );
+            centerGradient.addColorStop(0, 'rgba(255, 255, 255, 0.8)');
+            centerGradient.addColorStop(0.3, 'rgba(255, 200, 100, 0.4)');
+            centerGradient.addColorStop(1, 'transparent');
+            ctx.fillStyle = centerGradient;
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+        }
+
+        function drawCrystalPrism() {
+            // Prismatic gradient
+            const bgGradient = ctx.createLinearGradient(
+                Math.sin(time * 0.001) * 500,
+                Math.cos(time * 0.001) * 500,
+                canvas.width + Math.sin(time * 0.001) * 500,
+                canvas.height + Math.cos(time * 0.001) * 500
+            );
+
+            for (let i = 0; i <= 10; i++) {
+                const hue = (time * 0.5 + i * 36) % 360;
+                bgGradient.addColorStop(i / 10, `hsl(${hue}, 80%, 40%)`);
+            }
+
+            ctx.fillStyle = bgGradient;
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            // Crystal facets
+            for (let i = 0; i < 8; i++) {
+                const angle = (time * 0.002 + i * Math.PI / 4);
+                const x = canvas.width / 2 + Math.cos(angle) * 400;
+                const y = canvas.height / 2 + Math.sin(angle) * 600;
+
+                const facetGradient = ctx.createRadialGradient(x, y, 0, x, y, 600);
+                facetGradient.addColorStop(0, 'rgba(255, 255, 255, 0.3)');
+                facetGradient.addColorStop(0.5, 'rgba(255, 255, 255, 0.1)');
+                facetGradient.addColorStop(1, 'transparent');
+
+                ctx.fillStyle = facetGradient;
+                ctx.fillRect(0, 0, canvas.width, canvas.height);
+            }
+        }
+
+        function animate() {
+            time++;
+            styles[styleIndex].draw();
+            requestAnimationFrame(animate);
+        }
+
+        function changeStyle() {
+            styleIndex = (styleIndex + 1) % styles.length;
+            document.getElementById('styleName').textContent = styles[styleIndex].name;
+        }
+
+        function downloadBackground() {
+            const tempTime = time;
+            time = 0;
+            styles[styleIndex].draw();
+
+            const link = document.createElement('a');
+            link.download = 'background.png';
+            link.href = canvas.toDataURL('image/png');
+            link.click();
+
+            time = tempTime;
+
+            alert('✅ Downloaded! Save as background.png in project folder.');
+        }
+
+        animate();
+    </script>
+</body>
+
+</html>

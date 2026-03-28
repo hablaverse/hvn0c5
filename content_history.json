@@ -1,0 +1,1543 @@
+{
+  "runs": [
+    {
+      "timestamp": "2026-03-13T09:42:00.696497",
+      "category": "Work & Business",
+      "num_phrases": 5,
+      "phrases": [
+        "I'll follow up by email tomorrow.",
+        "Can we move the meeting to 3 p.m.?",
+        "I'm in a client call, I will call you back in 20 minutes.",
+        "I need the report by Friday to meet the deadline.",
+        "Let's table this issue and prioritize the marketing campaign."
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T09:57:36.462954",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the nearest subway station?",
+        "Turn left at the next traffic light.",
+        "Go straight for two blocks.",
+        "Take the second street on the right.",
+        "Is this the way to the beach?"
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T10:00:37.321887",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "I'm allergic to cats.",
+        "That dog is very friendly.",
+        "Do you have a pet?",
+        "I saw a fox last night.",
+        "Birds wake me up early."
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T10:27:36.706057",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "I'll see you at seven tonight, bring your best smile.",
+        "Give me five minutes and I'll steal your heart.",
+        "I am twenty-five and I love dancing with you.",
+        "The movie starts at nine, save me a seat.",
+        "I'll call you in ten minutes if you want."
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T11:00:39.407267",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I'm so happy right now.",
+        "I have butterflies in my stomach.",
+        "I'm proud of myself today.",
+        "I'm angry, please give me space.",
+        "I'm feeling a little lonely tonight."
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T11:12:11.145316",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "This song is my jam.",
+        "What song is this?",
+        "Play my favorite song, please.",
+        "I know all the lyrics.",
+        "This movie made me laugh out loud."
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T11:20:58.377325",
+      "category": "Hobbies & Activities",
+      "num_phrases": 5,
+      "phrases": [
+        "I like to play guitar every weekend.",
+        "I paint watercolor in my free time.",
+        "Let's go for a hike tomorrow morning.",
+        "I cook traditional food from my region.",
+        "I read thrillers before bed every night."
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T11:27:23.658909",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "Help, I'm choking!",
+        "Call an ambulance, please!",
+        "I need a doctor right now.",
+        "Someone stole my bag, call the police!",
+        "I'm allergic to peanuts, my throat is closing."
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T12:03:07.486060",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good morning, beautiful.",
+        "Hey handsome, how are you today?",
+        "You look amazing today.",
+        "Long time no see, cutie.",
+        "Did you sleep well, beautiful?"
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T12:41:48.428276",
+      "category": "Work & Business",
+      "num_phrases": 5,
+      "phrases": [
+        "I need the report by Friday.",
+        "I'll work from home tomorrow.",
+        "Please sign here with your name.",
+        "Can you join the video call now?",
+        "I have five years of experience in sales."
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T12:53:08.078067",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "Send me your Wi-Fi password, and I will stay.",
+        "Text me a selfie, I want to see your smile.",
+        "Let's video call tonight, I miss your face.",
+        "Follow me back, I like your profile.",
+        "Your photos load so fast, you speed my heart."
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T13:41:39.485120",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "You have the nicest smile I've seen.",
+        "Can I buy you a coffee right now?",
+        "Your laugh makes my day so much better.",
+        "Stay a little longer, please.",
+        "You make my heart skip a beat."
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T14:04:02.379830",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "I have two tickets for the concert tonight.",
+        "The train leaves at seven in the morning.",
+        "My appointment is at three o'clock.",
+        "Can I pay in three monthly payments?",
+        "The movie starts in ten minutes."
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T14:19:43.995030",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel happy today.",
+        "I am so proud of you.",
+        "I'm dying laughing.",
+        "I'm feeling a little nervous.",
+        "I'm so excited for tonight."
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T10:24:28.061253",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "My mother still writes me little notes.",
+        "We celebrate my sister's birthday every year.",
+        "My grandparents tell the best stories.",
+        "I call my dad every Sunday afternoon.",
+        "My cousin always brings homemade cookies."
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T10:39:24.028854",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "Call an ambulance now.",
+        "I can't breathe.",
+        "There is a fire in my building.",
+        "My child is missing.",
+        "Call the police now."
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T12:56:35.003005",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "What's up, are you free for coffee?",
+        "No way, that story is unbelievable.",
+        "I'm starving, let's grab something quick.",
+        "That party was lit last night.",
+        "I'm broke, I can't go out."
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T18:41:18.225104",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "My sister lives next door.",
+        "We text each other every morning.",
+        "My dad cooks the best pancakes.",
+        "My boyfriend makes me laugh every day.",
+        "My aunt lives in a tiny house."
+      ]
+    },
+    {
+      "timestamp": "2026-03-13T20:33:23.095376",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "I don't speak Spanish very well.",
+        "Can you help me, please?",
+        "Where is the bathroom?",
+        "I want a coffee, please.",
+        "How much does this cost?"
+      ]
+    },
+    {
+      "timestamp": "2026-03-14T01:54:36.291941",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "It's hot today.",
+        "It's cold outside.",
+        "It's raining hard.",
+        "I forgot my umbrella.",
+        "It's very humid today."
+      ]
+    },
+    {
+      "timestamp": "2026-03-14T06:44:43.455585",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "Call an ambulance, I feel dizzy.",
+        "My heart hurts, I need help now.",
+        "There's a fire, get out with me.",
+        "I think I broke my arm kissing you.",
+        "Call the police, someone stole my purse."
+      ]
+    },
+    {
+      "timestamp": "2026-03-14T12:48:21.170182",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "Does this jacket fit me well?",
+        "Can I try this on, please?",
+        "Where is the fitting room?",
+        "Do you have this in a smaller size?",
+        "This dress matches my shoes perfectly."
+      ]
+    },
+    {
+      "timestamp": "2026-03-14T18:37:28.884015",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "Can I see the menu, please?",
+        "Do you have vegetarian options?",
+        "I am allergic to peanuts.",
+        "Can you bring the check, please?",
+        "This dish is too spicy for me."
+      ]
+    },
+    {
+      "timestamp": "2026-03-14T20:27:55.232372",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "I have a headache.",
+        "My stomach hurts.",
+        "I need water.",
+        "I feel sleepy.",
+        "I cut my finger."
+      ]
+    },
+    {
+      "timestamp": "2026-03-15T02:11:13.454977",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "You have the most beautiful smile.",
+        "Can I buy you a coffee?",
+        "You look stunning tonight.",
+        "I like the way you laugh.",
+        "Tell me your favorite song."
+      ]
+    },
+    {
+      "timestamp": "2026-03-15T06:56:15.255581",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the nearest taxi stand?",
+        "I need a charger for my phone.",
+        "Do you accept credit cards?",
+        "I can't find my passport.",
+        "Is there free Wi-Fi here?"
+      ]
+    },
+    {
+      "timestamp": "2026-03-15T12:50:32.934763",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "Can I pay with a card?",
+        "I need to withdraw cash.",
+        "The price is negotiable.",
+        "I prefer to split the bill.",
+        "I lost my credit card."
+      ]
+    },
+    {
+      "timestamp": "2026-03-15T18:38:04.391217",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel so happy right now.",
+        "I'm a little nervous about this.",
+        "I'm freaking out a bit.",
+        "That scares me a little.",
+        "I miss you so much."
+      ]
+    },
+    {
+      "timestamp": "2026-03-15T20:29:03.136240",
+      "category": "Work & Business",
+      "num_phrases": 5,
+      "phrases": [
+        "I'll send the report today.",
+        "Can we reschedule the meeting?",
+        "I need a minute to think.",
+        "Sorry, I missed the deadline.",
+        "Let's take this offline, please."
+      ]
+    },
+    {
+      "timestamp": "2026-03-16T02:12:56.989627",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "Race me to the park after warm-up.",
+        "I will spot you at the gym, promise.",
+        "Your sweat smells like victory and coffee.",
+        "Teach me your favorite yoga pose tonight.",
+        "Play doubles with me and hold my hand."
+      ]
+    },
+    {
+      "timestamp": "2026-03-16T07:16:16.542157",
+      "category": "Colors & Descriptions",
+      "num_phrases": 5,
+      "phrases": [
+        "This shirt is bright blue and eye-catching.",
+        "My favorite jacket is black and classic.",
+        "The cafe walls are warm beige and cozy.",
+        "Her hair is deep brown with honey highlights.",
+        "Their new car is shiny metallic silver."
+      ]
+    },
+    {
+      "timestamp": "2026-03-16T13:09:16.715342",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "My cat steals my socks every morning.",
+        "My dog knows many tricks.",
+        "I'm allergic to cats, but I still hug them.",
+        "That parrot repeats my secrets.",
+        "A squirrel stole my sandwich yesterday."
+      ]
+    },
+    {
+      "timestamp": "2026-03-16T19:00:50.529135",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "I need five minutes.",
+        "It's three o'clock already.",
+        "I'll be there in ten minutes.",
+        "My phone is at twenty percent.",
+        "Wake me up at seven tomorrow."
+      ]
+    },
+    {
+      "timestamp": "2026-03-16T20:38:18.767407",
+      "category": "Shopping",
+      "num_phrases": 5,
+      "phrases": [
+        "How much is this scarf?",
+        "Can you give me a discount?",
+        "I'm just looking, thank you.",
+        "Can I have a bag, please?",
+        "Does this come in a smaller size?"
+      ]
+    },
+    {
+      "timestamp": "2026-03-17T01:59:58.128875",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you show me on the map?",
+        "Turn left at the big bakery.",
+        "Go straight two blocks and stop.",
+        "Is it far from here?",
+        "I am lost, can you help me?"
+      ]
+    },
+    {
+      "timestamp": "2026-03-17T07:03:35.564600",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "My meeting starts at nine.",
+        "I work from nine to five.",
+        "The bus arrives in five minutes.",
+        "The train leaves at midnight.",
+        "The bill is fifteen euros."
+      ]
+    },
+    {
+      "timestamp": "2026-03-17T13:09:32.580929",
+      "category": "Hobbies & Activities",
+      "num_phrases": 5,
+      "phrases": [
+        "I love painting on rainy afternoons.",
+        "I play guitar when I'm nervous.",
+        "I run five kilometers every morning.",
+        "I grow herbs on my balcony.",
+        "Let's play chess this afternoon."
+      ]
+    },
+    {
+      "timestamp": "2026-03-17T20:38:37.108797",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I'm really happy today.",
+        "I'm a little nervous right now.",
+        "I'm excited for the concert tonight.",
+        "I'm sad about the news.",
+        "I'm relieved the test is over."
+      ]
+    },
+    {
+      "timestamp": "2026-03-18T02:03:56.186703",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "I only speak a little Spanish.",
+        "I need water, please.",
+        "I don't understand, can you repeat?",
+        "That was delicious, thank you.",
+        "You are so cool."
+      ]
+    },
+    {
+      "timestamp": "2026-03-18T07:13:42.657542",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you share the Wi-Fi password?",
+        "My connection is very slow today.",
+        "Is there a charger I can use?",
+        "I need to charge my phone.",
+        "My phone has low battery."
+      ]
+    },
+    {
+      "timestamp": "2026-03-18T13:08:48.522755",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "Can we pay separately, please?",
+        "Is this seat taken?",
+        "I need a taxi now.",
+        "Could you take a photo of us?",
+        "I'm vegetarian, please no meat."
+      ]
+    },
+    {
+      "timestamp": "2026-03-18T18:59:12.629751",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "I need to warm up first.",
+        "Can you help me with this lift?",
+        "How many reps should I do?",
+        "I'm training for a 5K race.",
+        "Let's run another lap."
+      ]
+    },
+    {
+      "timestamp": "2026-03-18T20:39:07.677193",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "Do you have a menu in English?",
+        "I have a food allergy to peanuts.",
+        "Can I get this to go, please?",
+        "Is this dish very spicy?",
+        "I recommend the seafood paella."
+      ]
+    },
+    {
+      "timestamp": "2026-03-19T02:04:37.094860",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "Turn up the music, please.",
+        "Do you like this band?",
+        "She is my favorite singer.",
+        "I want two tickets for tonight.",
+        "Is there a live show nearby?"
+      ]
+    },
+    {
+      "timestamp": "2026-03-19T06:59:24.184064",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "Can I have the bill, please?",
+        "I lost my passport today.",
+        "I need a SIM card, please.",
+        "My phone battery is almost dead.",
+        "Is there a pharmacy nearby?"
+      ]
+    },
+    {
+      "timestamp": "2026-03-19T13:02:51.703452",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "This is my family from home.",
+        "My sister lives in Madrid.",
+        "We are a loud and happy family.",
+        "Call your parents, they will worry.",
+        "I miss my dad every day."
+      ]
+    },
+    {
+      "timestamp": "2026-03-19T18:58:02.002594",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "Call the police, please.",
+        "I need an ambulance right now.",
+        "I am choking, help please!",
+        "I was robbed at the market.",
+        "My leg is broken, I need help."
+      ]
+    },
+    {
+      "timestamp": "2026-03-19T20:37:08.777278",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "How do I get to the train station?",
+        "Go straight until the church.",
+        "It's around the corner.",
+        "Cross the bridge and you'll see it.",
+        "Follow the signs to the beach."
+      ]
+    },
+    {
+      "timestamp": "2026-03-20T01:58:45.368586",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "This is my cousin Ana.",
+        "My grandparents live next to me.",
+        "I am meeting my parents tonight.",
+        "My brother just had a baby.",
+        "She is my sister and my best friend."
+      ]
+    },
+    {
+      "timestamp": "2026-03-20T06:54:06.188497",
+      "category": "Shopping",
+      "num_phrases": 5,
+      "phrases": [
+        "Do you accept credit cards here?",
+        "Where is the fitting room, please?",
+        "I want one kilogram of apples.",
+        "Is this on sale today?",
+        "Can I pay with my phone?"
+      ]
+    },
+    {
+      "timestamp": "2026-03-20T12:57:39.388924",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "Can I pay with cash?",
+        "Let's split the bill evenly.",
+        "I need to withdraw cash now.",
+        "Where is the nearest ATM?",
+        "I want to open a bank account."
+      ]
+    },
+    {
+      "timestamp": "2026-03-20T18:59:09.443288",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "Your dog stole my heart.",
+        "Your cat is jealous of my kisses.",
+        "Your parrot says my name.",
+        "I want to watch your fish all night.",
+        "You look stunning on that horse."
+      ]
+    },
+    {
+      "timestamp": "2026-03-20T20:31:25.150535",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "Can I pay in installments?",
+        "Do you have a cheaper option?",
+        "Keep the change, thank you.",
+        "Can you split the cost?",
+        "I need a receipt, please."
+      ]
+    },
+    {
+      "timestamp": "2026-03-21T01:52:50.920588",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "That parrot repeats my secrets loudly.",
+        "I found a lost puppy in the park.",
+        "The horse loves carrots and gentle pats.",
+        "My neighbor has a noisy rooster at dawn.",
+        "These butterflies remind me of childhood summers."
+      ]
+    },
+    {
+      "timestamp": "2026-03-21T06:42:15.906967",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "I'm allergic to cats, sadly.",
+        "I love your outfit, you look amazing!",
+        "I don't understand, please speak slowly.",
+        "Can you take a picture of us?",
+        "I need coffee before I speak Spanish."
+      ]
+    },
+    {
+      "timestamp": "2026-03-21T12:45:23.186911",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "No way, that's incredible!",
+        "I'm starving, let's grab some tacos!",
+        "Chill out, I'm just joking.",
+        "You've got great style, seriously.",
+        "I'm broke, let's do something cheap."
+      ]
+    },
+    {
+      "timestamp": "2026-03-21T18:35:50.929726",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "Call an ambulance now, please.",
+        "There is a fire, get out now!",
+        "My child is missing, please help me!",
+        "I fell and I cannot move.",
+        "I am allergic to peanuts, I need help."
+      ]
+    },
+    {
+      "timestamp": "2026-03-21T20:25:44.320902",
+      "category": "Work & Business",
+      "num_phrases": 5,
+      "phrases": [
+        "I have a meeting with the client at three.",
+        "Can you send the report by email, please?",
+        "I will finish the task before lunch.",
+        "Let's discuss this idea in tomorrow's meeting.",
+        "Can we reschedule the call to next week?"
+      ]
+    },
+    {
+      "timestamp": "2026-03-22T02:04:27.495505",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "Can I split the bill?",
+        "Keep the change.",
+        "I paid with my card.",
+        "Are there fees for this?",
+        "Can I withdraw cash here?"
+      ]
+    },
+    {
+      "timestamp": "2026-03-22T06:51:04.607902",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you show me the way to the bus stop?",
+        "Is it far on foot or should I take a taxi?",
+        "Turn left at the bakery, you can't miss it.",
+        "Walk straight two blocks and then turn right.",
+        "The post office is next to the green pharmacy."
+      ]
+    },
+    {
+      "timestamp": "2026-03-22T12:48:25.573705",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "This dish is my favorite, I order it every time.",
+        "No puedo comer mariscos, soy alérgico.",
+        "Do you have any vegetarian options today?",
+        "The flavors are amazing in this small bite.",
+        "Check, please, we are ready to pay."
+      ]
+    },
+    {
+      "timestamp": "2026-03-22T18:36:13.488340",
+      "category": "Travel Essentials",
+      "num_phrases": 4,
+      "phrases": [
+        "Is breakfast included with my room?",
+        "Can you call me a taxi?",
+        "My luggage did not arrive.",
+        "How much is one night?"
+      ]
+    },
+    {
+      "timestamp": "2026-03-22T20:27:01.174132",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "I'm embarrassed, not pregnant.",
+        "Can you speak slowly, please?",
+        "I don't understand that word.",
+        "Do you accept cash or card?",
+        "I want to practice my Spanish with you."
+      ]
+    },
+    {
+      "timestamp": "2026-03-23T02:05:41.445605",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "Come in, the apartment is cozier with you here.",
+        "Can I make you coffee while we chat?",
+        "The couch is perfect for two and a movie.",
+        "My plant likes you more than I do.",
+        "Close the door, I want a little privacy."
+      ]
+    },
+    {
+      "timestamp": "2026-03-23T07:09:11.206865",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "He's like a brother to me.",
+        "We are getting married next summer.",
+        "My grandmother tells the best stories.",
+        "I live with my parents now.",
+        "She is dating a really great guy."
+      ]
+    },
+    {
+      "timestamp": "2026-03-23T13:04:55.952641",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel a little nervous about today.",
+        "I feel so calm and relaxed now.",
+        "I'm a little jealous of your success.",
+        "I feel lonely tonight.",
+        "I'm excited for our trip tomorrow."
+      ]
+    },
+    {
+      "timestamp": "2026-03-23T18:53:46.065942",
+      "category": "Colors & Descriptions",
+      "num_phrases": 5,
+      "phrases": [
+        "Your eyes are green like summer.",
+        "That lipstick looks perfect in red.",
+        "Your shirt makes your blue eyes pop.",
+        "The sunset turned the sky golden tonight.",
+        "Your laugh is bright like sunshine."
+      ]
+    },
+    {
+      "timestamp": "2026-03-23T20:37:45.620207",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Hi, you brighten my day.",
+        "Hello, I missed your smile.",
+        "Good afternoon, can I walk with you?",
+        "Hey stranger, where were you?",
+        "Good night, dream about me."
+      ]
+    },
+    {
+      "timestamp": "2026-03-24T01:57:31.253611",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "You have the best smile ever.",
+        "I really like you a lot.",
+        "Do you want to dance with me?",
+        "What's up, beautiful?",
+        "I can't stop looking at you."
+      ]
+    },
+    {
+      "timestamp": "2026-03-24T07:03:36.379134",
+      "category": "Travel Essentials",
+      "num_phrases": 4,
+      "phrases": [
+        "I need a taxi to the airport.",
+        "I lost my passport.",
+        "Where can I exchange money?",
+        "My bag was stolen."
+      ]
+    },
+    {
+      "timestamp": "2026-03-24T13:09:15.089764",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "You look trouble in the best way.",
+        "Your text made me smile all day.",
+        "Stop being so cute, it's unfair.",
+        "Are you single or do you have a partner?",
+        "You owe me a kiss for that smile."
+      ]
+    },
+    {
+      "timestamp": "2026-03-24T19:02:52.724182",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good morning, did you sleep well?",
+        "Hey, how's your day going so far?",
+        "Long time no see, you look great!",
+        "Nice to meet you, I'm really happy.",
+        "Good evening, how was your day?"
+      ]
+    },
+    {
+      "timestamp": "2026-03-24T20:40:54.164697",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "What's the plan for tonight?",
+        "I'm starving, get me the biggest taco.",
+        "No worries, I will handle it.",
+        "Seriously? Tell me the whole story.",
+        "I'm in for that rooftop bar."
+      ]
+    },
+    {
+      "timestamp": "2026-03-25T02:03:13.207220",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "It's raining cats and dogs today.",
+        "I'm melting, it's so hot.",
+        "The sun is showing off again.",
+        "I need an umbrella, not opinions.",
+        "The weather is playing tricks on us."
+      ]
+    },
+    {
+      "timestamp": "2026-03-25T07:02:02.655333",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "Can I meet your family this weekend?",
+        "Call your abuela, she misses your voice.",
+        "You are like family to me.",
+        "My parents support my big dreams.",
+        "We need to talk about our future."
+      ]
+    },
+    {
+      "timestamp": "2026-03-25T13:07:56.072063",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "I love your outfit today.",
+        "Where did you buy those shoes?",
+        "That jacket makes you look confident.",
+        "I prefer vintage over fast fashion.",
+        "These colors show your real personality."
+      ]
+    },
+    {
+      "timestamp": "2026-03-25T18:55:36.954973",
+      "category": "Work & Business",
+      "num_phrases": 5,
+      "phrases": [
+        "I will send the file now.",
+        "I finished the report this morning.",
+        "Please share the spreadsheet with me.",
+        "I disagree, but I respect your idea.",
+        "Can you explain that one more time?"
+      ]
+    },
+    {
+      "timestamp": "2026-03-25T20:38:53.092522",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "Send me your Wi-Fi password, I'm worth the connection.",
+        "Can we video call tonight?",
+        "DM me that link, I want to see it.",
+        "Like my photo, and I'll like yours back.",
+        "My phone battery died, rescue me."
+      ]
+    },
+    {
+      "timestamp": "2026-03-26T02:09:23.009509",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "Can I borrow your vacuum for an hour?",
+        "The light switch is next to the door.",
+        "My keys are on the coffee table.",
+        "Could you water the plants today, please?",
+        "The oven is hot, use an oven mitt."
+      ]
+    },
+    {
+      "timestamp": "2026-03-26T02:35:23.080897",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you explain this problem to me slowly?",
+        "I have a question about the homework assignment.",
+        "Can I borrow a pencil for the test, please?",
+        "I didn't understand the lesson this morning.",
+        "Can we study together after school today?"
+      ]
+    },
+    {
+      "timestamp": "2026-03-26T07:07:42.022785",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "I need to see a doctor today.",
+        "I have an allergy to pollen.",
+        "My stomach hurts after spicy food.",
+        "I feel dizzy right now.",
+        "I need a bandage for this small cut."
+      ]
+    },
+    {
+      "timestamp": "2026-03-26T13:13:02.640782",
+      "category": "Colors & Descriptions",
+      "num_phrases": 5,
+      "phrases": [
+        "That red dress looks amazing on you tonight.",
+        "Your eyes are the perfect deep blue I chase.",
+        "I love your warm brown sweater on a cold day.",
+        "Your smile is bright like golden sunlight.",
+        "That black jacket makes you mysterious and hot."
+      ]
+    },
+    {
+      "timestamp": "2026-03-26T19:04:55.446984",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "Do you accept contactless payment?",
+        "Can I get a receipt?",
+        "I'll transfer the money now.",
+        "What's the exchange rate today?",
+        "This price already includes tax."
+      ]
+    },
+    {
+      "timestamp": "2026-03-26T20:36:05.741438",
+      "category": "Colors & Descriptions",
+      "num_phrases": 5,
+      "phrases": [
+        "This jacket is bright red.",
+        "Her eyes are deep blue.",
+        "My phone case is neon green.",
+        "The coffee is dark brown.",
+        "She wears a pale pink scarf."
+      ]
+    },
+    {
+      "timestamp": "2026-03-27T02:10:47.668983",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "Play that song again, please.",
+        "Who is singing this song?",
+        "This playlist puts me in a good mood.",
+        "Do you know who this artist is?",
+        "Turn the volume down a little."
+      ]
+    },
+    {
+      "timestamp": "2026-03-27T13:04:13.481652",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "It's raining a lot today.",
+        "I'm melting in this summer heat.",
+        "The sun feels amazing right now.",
+        "I forgot my umbrella again.",
+        "It looks like it will snow."
+      ]
+    },
+    {
+      "timestamp": "2026-03-27T18:55:10.165809",
+      "category": "Travel Essentials",
+      "num_phrases": 3,
+      "phrases": [
+        "Is there a train to Madrid?",
+        "My flight was canceled.",
+        "Do you speak English?"
+      ]
+    },
+    {
+      "timestamp": "2026-03-27T20:38:13.925261",
+      "category": "Shopping",
+      "num_phrases": 4,
+      "phrases": [
+        "Can I try this on?",
+        "I'll take this, please.",
+        "Can I return this if it does not fit?",
+        "Do you have a loyalty card?"
+      ]
+    },
+    {
+      "timestamp": "2026-03-28T02:02:13.712163",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "I have a test tomorrow.",
+        "Can you explain this word?",
+        "I study Spanish every morning.",
+        "Repeat after me, please.",
+        "I need help with pronunciation."
+      ]
+    },
+    {
+      "timestamp": "2026-03-28T06:58:38.542784",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "What's up, friend?",
+        "I'm freaking out, this is amazing!",
+        "You're killing it, seriously.",
+        "No way, I can't believe it.",
+        "You're such a legend."
+      ]
+    },
+    {
+      "timestamp": "2026-03-28T12:53:25.752596",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "I need a doctor immediately.",
+        "My leg is broken.",
+        "I am choking, help!",
+        "I fainted, I need help.",
+        "I am bleeding a lot."
+      ]
+    }
+  ],
+  "used_phrases": [
+    "I'll follow up by email tomorrow.",
+    "Can we move the meeting to 3 p.m.?",
+    "I'm in a client call, I will call you back in 20 minutes.",
+    "I need the report by Friday to meet the deadline.",
+    "Let's table this issue and prioritize the marketing campaign.",
+    "Where is the nearest subway station?",
+    "Turn left at the next traffic light.",
+    "Go straight for two blocks.",
+    "Take the second street on the right.",
+    "Is this the way to the beach?",
+    "I'm allergic to cats.",
+    "That dog is very friendly.",
+    "Do you have a pet?",
+    "I saw a fox last night.",
+    "Birds wake me up early.",
+    "I'll see you at seven tonight, bring your best smile.",
+    "Give me five minutes and I'll steal your heart.",
+    "I am twenty-five and I love dancing with you.",
+    "The movie starts at nine, save me a seat.",
+    "I'll call you in ten minutes if you want.",
+    "I'm so happy right now.",
+    "I have butterflies in my stomach.",
+    "I'm proud of myself today.",
+    "I'm angry, please give me space.",
+    "I'm feeling a little lonely tonight.",
+    "This song is my jam.",
+    "What song is this?",
+    "Play my favorite song, please.",
+    "I know all the lyrics.",
+    "This movie made me laugh out loud.",
+    "I like to play guitar every weekend.",
+    "I paint watercolor in my free time.",
+    "Let's go for a hike tomorrow morning.",
+    "I cook traditional food from my region.",
+    "I read thrillers before bed every night.",
+    "Help, I'm choking!",
+    "Call an ambulance, please!",
+    "I need a doctor right now.",
+    "Someone stole my bag, call the police!",
+    "I'm allergic to peanuts, my throat is closing.",
+    "Good morning, beautiful.",
+    "Hey handsome, how are you today?",
+    "You look amazing today.",
+    "Long time no see, cutie.",
+    "Did you sleep well, beautiful?",
+    "I need the report by Friday.",
+    "I'll work from home tomorrow.",
+    "Please sign here with your name.",
+    "Can you join the video call now?",
+    "I have five years of experience in sales.",
+    "Send me your Wi-Fi password, and I will stay.",
+    "Text me a selfie, I want to see your smile.",
+    "Let's video call tonight, I miss your face.",
+    "Follow me back, I like your profile.",
+    "Your photos load so fast, you speed my heart.",
+    "You have the nicest smile I've seen.",
+    "Can I buy you a coffee right now?",
+    "Your laugh makes my day so much better.",
+    "Stay a little longer, please.",
+    "You make my heart skip a beat.",
+    "I have two tickets for the concert tonight.",
+    "The train leaves at seven in the morning.",
+    "My appointment is at three o'clock.",
+    "Can I pay in three monthly payments?",
+    "The movie starts in ten minutes.",
+    "I feel happy today.",
+    "I am so proud of you.",
+    "I'm dying laughing.",
+    "I'm feeling a little nervous.",
+    "I'm so excited for tonight.",
+    "My mother still writes me little notes.",
+    "We celebrate my sister's birthday every year.",
+    "My grandparents tell the best stories.",
+    "I call my dad every Sunday afternoon.",
+    "My cousin always brings homemade cookies.",
+    "Call an ambulance now.",
+    "I can't breathe.",
+    "There is a fire in my building.",
+    "My child is missing.",
+    "Call the police now.",
+    "What's up, are you free for coffee?",
+    "No way, that story is unbelievable.",
+    "I'm starving, let's grab something quick.",
+    "That party was lit last night.",
+    "I'm broke, I can't go out.",
+    "My sister lives next door.",
+    "We text each other every morning.",
+    "My dad cooks the best pancakes.",
+    "My boyfriend makes me laugh every day.",
+    "My aunt lives in a tiny house.",
+    "I don't speak Spanish very well.",
+    "Can you help me, please?",
+    "Where is the bathroom?",
+    "I want a coffee, please.",
+    "How much does this cost?",
+    "It's hot today.",
+    "It's cold outside.",
+    "It's raining hard.",
+    "I forgot my umbrella.",
+    "It's very humid today.",
+    "Call an ambulance, I feel dizzy.",
+    "My heart hurts, I need help now.",
+    "There's a fire, get out with me.",
+    "I think I broke my arm kissing you.",
+    "Call the police, someone stole my purse.",
+    "Does this jacket fit me well?",
+    "Can I try this on, please?",
+    "Where is the fitting room?",
+    "Do you have this in a smaller size?",
+    "This dress matches my shoes perfectly.",
+    "Can I see the menu, please?",
+    "Do you have vegetarian options?",
+    "I am allergic to peanuts.",
+    "Can you bring the check, please?",
+    "This dish is too spicy for me.",
+    "I have a headache.",
+    "My stomach hurts.",
+    "I need water.",
+    "I feel sleepy.",
+    "I cut my finger.",
+    "You have the most beautiful smile.",
+    "Can I buy you a coffee?",
+    "You look stunning tonight.",
+    "I like the way you laugh.",
+    "Tell me your favorite song.",
+    "Where is the nearest taxi stand?",
+    "I need a charger for my phone.",
+    "Do you accept credit cards?",
+    "I can't find my passport.",
+    "Is there free Wi-Fi here?",
+    "Can I pay with a card?",
+    "I need to withdraw cash.",
+    "The price is negotiable.",
+    "I prefer to split the bill.",
+    "I lost my credit card.",
+    "I feel so happy right now.",
+    "I'm a little nervous about this.",
+    "I'm freaking out a bit.",
+    "That scares me a little.",
+    "I miss you so much.",
+    "I'll send the report today.",
+    "Can we reschedule the meeting?",
+    "I need a minute to think.",
+    "Sorry, I missed the deadline.",
+    "Let's take this offline, please.",
+    "Race me to the park after warm-up.",
+    "I will spot you at the gym, promise.",
+    "Your sweat smells like victory and coffee.",
+    "Teach me your favorite yoga pose tonight.",
+    "Play doubles with me and hold my hand.",
+    "This shirt is bright blue and eye-catching.",
+    "My favorite jacket is black and classic.",
+    "The cafe walls are warm beige and cozy.",
+    "Her hair is deep brown with honey highlights.",
+    "Their new car is shiny metallic silver.",
+    "My cat steals my socks every morning.",
+    "My dog knows many tricks.",
+    "I'm allergic to cats, but I still hug them.",
+    "That parrot repeats my secrets.",
+    "A squirrel stole my sandwich yesterday.",
+    "I need five minutes.",
+    "It's three o'clock already.",
+    "I'll be there in ten minutes.",
+    "My phone is at twenty percent.",
+    "Wake me up at seven tomorrow.",
+    "How much is this scarf?",
+    "Can you give me a discount?",
+    "I'm just looking, thank you.",
+    "Can I have a bag, please?",
+    "Does this come in a smaller size?",
+    "Can you show me on the map?",
+    "Turn left at the big bakery.",
+    "Go straight two blocks and stop.",
+    "Is it far from here?",
+    "I am lost, can you help me?",
+    "My meeting starts at nine.",
+    "I work from nine to five.",
+    "The bus arrives in five minutes.",
+    "The train leaves at midnight.",
+    "The bill is fifteen euros.",
+    "I love painting on rainy afternoons.",
+    "I play guitar when I'm nervous.",
+    "I run five kilometers every morning.",
+    "I grow herbs on my balcony.",
+    "Let's play chess this afternoon.",
+    "I'm really happy today.",
+    "I'm a little nervous right now.",
+    "I'm excited for the concert tonight.",
+    "I'm sad about the news.",
+    "I'm relieved the test is over.",
+    "I only speak a little Spanish.",
+    "I need water, please.",
+    "I don't understand, can you repeat?",
+    "That was delicious, thank you.",
+    "You are so cool.",
+    "Can you share the Wi-Fi password?",
+    "My connection is very slow today.",
+    "Is there a charger I can use?",
+    "I need to charge my phone.",
+    "My phone has low battery.",
+    "Can we pay separately, please?",
+    "Is this seat taken?",
+    "I need a taxi now.",
+    "Could you take a photo of us?",
+    "I'm vegetarian, please no meat.",
+    "I need to warm up first.",
+    "Can you help me with this lift?",
+    "How many reps should I do?",
+    "I'm training for a 5K race.",
+    "Let's run another lap.",
+    "Do you have a menu in English?",
+    "I have a food allergy to peanuts.",
+    "Can I get this to go, please?",
+    "Is this dish very spicy?",
+    "I recommend the seafood paella.",
+    "Turn up the music, please.",
+    "Do you like this band?",
+    "She is my favorite singer.",
+    "I want two tickets for tonight.",
+    "Is there a live show nearby?",
+    "Can I have the bill, please?",
+    "I lost my passport today.",
+    "I need a SIM card, please.",
+    "My phone battery is almost dead.",
+    "Is there a pharmacy nearby?",
+    "This is my family from home.",
+    "My sister lives in Madrid.",
+    "We are a loud and happy family.",
+    "Call your parents, they will worry.",
+    "I miss my dad every day.",
+    "Call the police, please.",
+    "I need an ambulance right now.",
+    "I am choking, help please!",
+    "I was robbed at the market.",
+    "My leg is broken, I need help.",
+    "How do I get to the train station?",
+    "Go straight until the church.",
+    "It's around the corner.",
+    "Cross the bridge and you'll see it.",
+    "Follow the signs to the beach.",
+    "This is my cousin Ana.",
+    "My grandparents live next to me.",
+    "I am meeting my parents tonight.",
+    "My brother just had a baby.",
+    "She is my sister and my best friend.",
+    "Do you accept credit cards here?",
+    "Where is the fitting room, please?",
+    "I want one kilogram of apples.",
+    "Is this on sale today?",
+    "Can I pay with my phone?",
+    "Can I pay with cash?",
+    "Let's split the bill evenly.",
+    "I need to withdraw cash now.",
+    "Where is the nearest ATM?",
+    "I want to open a bank account.",
+    "Your dog stole my heart.",
+    "Your cat is jealous of my kisses.",
+    "Your parrot says my name.",
+    "I want to watch your fish all night.",
+    "You look stunning on that horse.",
+    "Can I pay in installments?",
+    "Do you have a cheaper option?",
+    "Keep the change, thank you.",
+    "Can you split the cost?",
+    "I need a receipt, please.",
+    "That parrot repeats my secrets loudly.",
+    "I found a lost puppy in the park.",
+    "The horse loves carrots and gentle pats.",
+    "My neighbor has a noisy rooster at dawn.",
+    "These butterflies remind me of childhood summers.",
+    "I'm allergic to cats, sadly.",
+    "I love your outfit, you look amazing!",
+    "I don't understand, please speak slowly.",
+    "Can you take a picture of us?",
+    "I need coffee before I speak Spanish.",
+    "No way, that's incredible!",
+    "I'm starving, let's grab some tacos!",
+    "Chill out, I'm just joking.",
+    "You've got great style, seriously.",
+    "I'm broke, let's do something cheap.",
+    "Call an ambulance now, please.",
+    "There is a fire, get out now!",
+    "My child is missing, please help me!",
+    "I fell and I cannot move.",
+    "I am allergic to peanuts, I need help.",
+    "I have a meeting with the client at three.",
+    "Can you send the report by email, please?",
+    "I will finish the task before lunch.",
+    "Let's discuss this idea in tomorrow's meeting.",
+    "Can we reschedule the call to next week?",
+    "Can I split the bill?",
+    "Keep the change.",
+    "I paid with my card.",
+    "Are there fees for this?",
+    "Can I withdraw cash here?",
+    "Can you show me the way to the bus stop?",
+    "Is it far on foot or should I take a taxi?",
+    "Turn left at the bakery, you can't miss it.",
+    "Walk straight two blocks and then turn right.",
+    "The post office is next to the green pharmacy.",
+    "This dish is my favorite, I order it every time.",
+    "No puedo comer mariscos, soy alérgico.",
+    "Do you have any vegetarian options today?",
+    "The flavors are amazing in this small bite.",
+    "Check, please, we are ready to pay.",
+    "Is breakfast included with my room?",
+    "Can you call me a taxi?",
+    "My luggage did not arrive.",
+    "How much is one night?",
+    "I'm embarrassed, not pregnant.",
+    "Can you speak slowly, please?",
+    "I don't understand that word.",
+    "Do you accept cash or card?",
+    "I want to practice my Spanish with you.",
+    "Come in, the apartment is cozier with you here.",
+    "Can I make you coffee while we chat?",
+    "The couch is perfect for two and a movie.",
+    "My plant likes you more than I do.",
+    "Close the door, I want a little privacy.",
+    "He's like a brother to me.",
+    "We are getting married next summer.",
+    "My grandmother tells the best stories.",
+    "I live with my parents now.",
+    "She is dating a really great guy.",
+    "I feel a little nervous about today.",
+    "I feel so calm and relaxed now.",
+    "I'm a little jealous of your success.",
+    "I feel lonely tonight.",
+    "I'm excited for our trip tomorrow.",
+    "Your eyes are green like summer.",
+    "That lipstick looks perfect in red.",
+    "Your shirt makes your blue eyes pop.",
+    "The sunset turned the sky golden tonight.",
+    "Your laugh is bright like sunshine.",
+    "Hi, you brighten my day.",
+    "Hello, I missed your smile.",
+    "Good afternoon, can I walk with you?",
+    "Hey stranger, where were you?",
+    "Good night, dream about me.",
+    "You have the best smile ever.",
+    "I really like you a lot.",
+    "Do you want to dance with me?",
+    "What's up, beautiful?",
+    "I can't stop looking at you.",
+    "I need a taxi to the airport.",
+    "I lost my passport.",
+    "Where can I exchange money?",
+    "My bag was stolen.",
+    "You look trouble in the best way.",
+    "Your text made me smile all day.",
+    "Stop being so cute, it's unfair.",
+    "Are you single or do you have a partner?",
+    "You owe me a kiss for that smile.",
+    "Good morning, did you sleep well?",
+    "Hey, how's your day going so far?",
+    "Long time no see, you look great!",
+    "Nice to meet you, I'm really happy.",
+    "Good evening, how was your day?",
+    "What's the plan for tonight?",
+    "I'm starving, get me the biggest taco.",
+    "No worries, I will handle it.",
+    "Seriously? Tell me the whole story.",
+    "I'm in for that rooftop bar.",
+    "It's raining cats and dogs today.",
+    "I'm melting, it's so hot.",
+    "The sun is showing off again.",
+    "I need an umbrella, not opinions.",
+    "The weather is playing tricks on us.",
+    "Can I meet your family this weekend?",
+    "Call your abuela, she misses your voice.",
+    "You are like family to me.",
+    "My parents support my big dreams.",
+    "We need to talk about our future.",
+    "I love your outfit today.",
+    "Where did you buy those shoes?",
+    "That jacket makes you look confident.",
+    "I prefer vintage over fast fashion.",
+    "These colors show your real personality.",
+    "I will send the file now.",
+    "I finished the report this morning.",
+    "Please share the spreadsheet with me.",
+    "I disagree, but I respect your idea.",
+    "Can you explain that one more time?",
+    "Send me your Wi-Fi password, I'm worth the connection.",
+    "Can we video call tonight?",
+    "DM me that link, I want to see it.",
+    "Like my photo, and I'll like yours back.",
+    "My phone battery died, rescue me.",
+    "Can I borrow your vacuum for an hour?",
+    "The light switch is next to the door.",
+    "My keys are on the coffee table.",
+    "Could you water the plants today, please?",
+    "The oven is hot, use an oven mitt.",
+    "Can you explain this problem to me slowly?",
+    "I have a question about the homework assignment.",
+    "Can I borrow a pencil for the test, please?",
+    "I didn't understand the lesson this morning.",
+    "Can we study together after school today?",
+    "I need to see a doctor today.",
+    "I have an allergy to pollen.",
+    "My stomach hurts after spicy food.",
+    "I feel dizzy right now.",
+    "I need a bandage for this small cut.",
+    "That red dress looks amazing on you tonight.",
+    "Your eyes are the perfect deep blue I chase.",
+    "I love your warm brown sweater on a cold day.",
+    "Your smile is bright like golden sunlight.",
+    "That black jacket makes you mysterious and hot.",
+    "Do you accept contactless payment?",
+    "Can I get a receipt?",
+    "I'll transfer the money now.",
+    "What's the exchange rate today?",
+    "This price already includes tax.",
+    "This jacket is bright red.",
+    "Her eyes are deep blue.",
+    "My phone case is neon green.",
+    "The coffee is dark brown.",
+    "She wears a pale pink scarf.",
+    "Play that song again, please.",
+    "Who is singing this song?",
+    "This playlist puts me in a good mood.",
+    "Do you know who this artist is?",
+    "Turn the volume down a little.",
+    "It's raining a lot today.",
+    "I'm melting in this summer heat.",
+    "The sun feels amazing right now.",
+    "I forgot my umbrella again.",
+    "It looks like it will snow.",
+    "Is there a train to Madrid?",
+    "My flight was canceled.",
+    "Do you speak English?",
+    "Can I try this on?",
+    "I'll take this, please.",
+    "Can I return this if it does not fit?",
+    "Do you have a loyalty card?",
+    "I have a test tomorrow.",
+    "Can you explain this word?",
+    "I study Spanish every morning.",
+    "Repeat after me, please.",
+    "I need help with pronunciation.",
+    "What's up, friend?",
+    "I'm freaking out, this is amazing!",
+    "You're killing it, seriously.",
+    "No way, I can't believe it.",
+    "You're such a legend.",
+    "I need a doctor immediately.",
+    "My leg is broken.",
+    "I am choking, help!",
+    "I fainted, I need help.",
+    "I am bleeding a lot."
+  ]
+}
