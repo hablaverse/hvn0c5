@@ -1121,6 +1121,18 @@
         "Do you have this in red?",
         "I only want the small size."
       ]
+    },
+    {
+      "timestamp": "2026-03-28T23:02:30.394444",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "The sink is clogged again.",
+        "Can you turn down the music?",
+        "I forgot to lock the front door.",
+        "The neighbors are too loud tonight.",
+        "I need a new light bulb."
+      ]
     }
   ],
   "used_phrases": [
@@ -1587,6 +1599,11 @@
     "Where are the fitting rooms?",
     "Can you wrap this as a gift?",
     "Do you have this in red?",
-    "I only want the small size."
+    "I only want the small size.",
+    "The sink is clogged again.",
+    "Can you turn down the music?",
+    "I forgot to lock the front door.",
+    "The neighbors are too loud tonight.",
+    "I need a new light bulb."
   ]
 }
