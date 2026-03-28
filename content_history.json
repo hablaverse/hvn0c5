@@ -1097,6 +1097,18 @@
         "My bank blocked my card.",
         "How much do I owe you?"
       ]
+    },
+    {
+      "timestamp": "2026-03-28T19:56:31.825316",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the light switch?",
+        "Turn off the lights, please.",
+        "The door is stuck.",
+        "I live on the third floor.",
+        "Make yourself at home."
+      ]
     }
   ],
   "used_phrases": [
@@ -1553,6 +1565,11 @@
     "I lost my wallet yesterday.",
     "I am saving for a trip to Spain.",
     "My bank blocked my card.",
-    "How much do I owe you?"
+    "How much do I owe you?",
+    "Where is the light switch?",
+    "Turn off the lights, please.",
+    "The door is stuck.",
+    "I live on the third floor.",
+    "Make yourself at home."
   ]
 }
