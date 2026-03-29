@@ -1169,6 +1169,16 @@
         "Good afternoon, how is your day going?",
         "What's up? You look great today!"
       ]
+    },
+    {
+      "timestamp": "2026-03-29T16:00:26.757170",
+      "category": "Shopping",
+      "num_phrases": 3,
+      "phrases": [
+        "Can you gift wrap this?",
+        "I'll pay in cash today.",
+        "Can you hold this for me?"
+      ]
     }
   ],
   "used_phrases": [
@@ -1655,6 +1665,9 @@
     "Nice to see you again!",
     "How are you doing today?",
     "Good afternoon, how is your day going?",
-    "What's up? You look great today!"
+    "What's up? You look great today!",
+    "Can you gift wrap this?",
+    "I'll pay in cash today.",
+    "Can you hold this for me?"
   ]
 }
