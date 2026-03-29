@@ -1214,6 +1214,18 @@
         "We're running five minutes late.",
         "It's half past seven."
       ]
+    },
+    {
+      "timestamp": "2026-03-29T23:06:11.328690",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "My sister is my best friend and partner in crime.",
+        "You're like family to me, seriously and forever.",
+        "My grandmother's food heals any bad day, no joke.",
+        "Introduce my boyfriend at dinner; he brings tacos, always.",
+        "Call your mother, she worries even about small things."
+      ]
     }
   ],
   "used_phrases": [
@@ -1717,6 +1729,11 @@
     "What time is the bus?",
     "The meeting starts at two fifteen.",
     "We're running five minutes late.",
-    "It's half past seven."
+    "It's half past seven.",
+    "My sister is my best friend and partner in crime.",
+    "You're like family to me, seriously and forever.",
+    "My grandmother's food heals any bad day, no joke.",
+    "Introduce my boyfriend at dinner; he brings tacos, always.",
+    "Call your mother, she worries even about small things."
   ]
 }
