@@ -1190,6 +1190,18 @@
         "Please show me the vegetarian options.",
         "Can I keep my luggage here?"
       ]
+    },
+    {
+      "timestamp": "2026-03-29T19:59:29.195695",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "How many reps are left?",
+        "Give me five more, please.",
+        "I prefer morning workouts.",
+        "Let's stretch before we run.",
+        "My knee hurts a little."
+      ]
     }
   ],
   "used_phrases": [
@@ -1683,6 +1695,11 @@
     "Can you call a taxi, please?",
     "I need a glass of water, please.",
     "Please show me the vegetarian options.",
-    "Can I keep my luggage here?"
+    "Can I keep my luggage here?",
+    "How many reps are left?",
+    "Give me five more, please.",
+    "I prefer morning workouts.",
+    "Let's stretch before we run.",
+    "My knee hurts a little."
   ]
 }
