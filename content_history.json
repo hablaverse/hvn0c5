@@ -1157,6 +1157,18 @@
         "I'm fed up with this.",
         "I'm bored with this movie."
       ]
+    },
+    {
+      "timestamp": "2026-03-29T11:06:35.649645",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Hey, what's new with you today?",
+        "Nice to see you again!",
+        "How are you doing today?",
+        "Good afternoon, how is your day going?",
+        "What's up? You look great today!"
+      ]
     }
   ],
   "used_phrases": [
@@ -1638,6 +1650,11 @@
     "I'm a little sad today.",
     "That surprised me a lot.",
     "I'm fed up with this.",
-    "I'm bored with this movie."
+    "I'm bored with this movie.",
+    "Hey, what's new with you today?",
+    "Nice to see you again!",
+    "How are you doing today?",
+    "Good afternoon, how is your day going?",
+    "What's up? You look great today!"
   ]
 }
