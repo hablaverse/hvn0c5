@@ -1179,6 +1179,17 @@
         "I'll pay in cash today.",
         "Can you hold this for me?"
       ]
+    },
+    {
+      "timestamp": "2026-03-29T17:07:13.290015",
+      "category": "Travel Essentials",
+      "num_phrases": 4,
+      "phrases": [
+        "Can you call a taxi, please?",
+        "I need a glass of water, please.",
+        "Please show me the vegetarian options.",
+        "Can I keep my luggage here?"
+      ]
     }
   ],
   "used_phrases": [
@@ -1668,6 +1679,10 @@
     "What's up? You look great today!",
     "Can you gift wrap this?",
     "I'll pay in cash today.",
-    "Can you hold this for me?"
+    "Can you hold this for me?",
+    "Can you call a taxi, please?",
+    "I need a glass of water, please.",
+    "Please show me the vegetarian options.",
+    "Can I keep my luggage here?"
   ]
 }
