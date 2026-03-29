@@ -1202,6 +1202,18 @@
         "Let's stretch before we run.",
         "My knee hurts a little."
       ]
+    },
+    {
+      "timestamp": "2026-03-29T22:00:29.111216",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "It's three o'clock.",
+        "What time is the bus?",
+        "The meeting starts at two fifteen.",
+        "We're running five minutes late.",
+        "It's half past seven."
+      ]
     }
   ],
   "used_phrases": [
@@ -1700,6 +1712,11 @@
     "Give me five more, please.",
     "I prefer morning workouts.",
     "Let's stretch before we run.",
-    "My knee hurts a little."
+    "My knee hurts a little.",
+    "It's three o'clock.",
+    "What time is the bus?",
+    "The meeting starts at two fifteen.",
+    "We're running five minutes late.",
+    "It's half past seven."
   ]
 }
