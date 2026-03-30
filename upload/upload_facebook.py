@@ -14,6 +14,75 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
+
+def generate_facebook_title(category: str) -> str:
+    """Generate engaging title for Facebook post"""
+    return f"Learn Spanish: {category} Phrases"
+
+
+def generate_facebook_description(phrases: list, category: str) -> str:
+    """
+    Generate Facebook description with:
+    - All phrases (English + Spanish + pronunciation)
+    - Helpful information
+    - Lowercase hashtags for searchability
+    NO FLAGS, NO ASTERISKS
+    """
+
+    description_lines = [
+        f"🎯 Learn Spanish with Habla Verse!",
+        f"",
+        f"📚 Category: {category}",
+        f"",
+        f"🎯 Master Spanish one phrase at a time! Today's {category} lesson:",
+        f""
+    ]
+
+    # Add all phrases with emojis
+    emojis = ["1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣"]
+    for i, phrase in enumerate(phrases[:5], 0):
+        emoji = emojis[i] if i < len(emojis) else f"{i+1}."
+        description_lines.append(f"{emoji} {phrase['english']}")
+        description_lines.append(f"   📍 {phrase['spanish']}")
+        description_lines.append(f"   🔊 [{phrase.get('pronunciation', '')}]")
+        description_lines.append("")
+
+    # Call to action (NO ASTERISKS)
+    description_lines.extend([
+        f"💡 Tip: Repeat each phrase out loud 3 times!",
+        f"👍 Like this video if you learned something new!",
+        f"💬 Comment your favorite phrase below!",
+        f"🔔 Follow for daily Spanish lessons!",
+        f"",
+        f"📖 Pronunciation Guide:",
+        f"   The phonetic spelling in brackets helps you say it correctly!",
+        f"",
+    ])
+
+    # Hashtags - ALL LOWERCASE for searchability
+    hashtags = [
+        "#learnspanish",
+        "#spanishlessons",
+        "#spanishforbeginners",
+        "#languagelearning",
+        "#spanishvocabulary",
+        "#hablaverse",
+        "#dailyspanish",
+        "#spanishgrammar",
+        "#learnlanguages",
+        "#spanishteacher",
+        "#speakspanish",
+        "#spanishpractice",
+        "#bilingual",
+        "#spanishwords",
+        "#languagetips"
+    ]
+
+    description_lines.extend(hashtags)
+
+    return "\n".join(description_lines)
+
+
 def upload_to_facebook(video_path, description, title="Slapstick Loops"):
     """
     Upload video to Facebook Page as a Reel.

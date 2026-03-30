@@ -144,12 +144,12 @@ def upload_to_instagram(video_path, caption, is_story=False):
         
         container_id = container_response.json().get('id')
         print(f"[instagram] ✅ Container created: {container_id}")
-        
-        # Step 3: Wait for processing
+
+        # Step 3: Wait for processing (OPTIMIZED for speed - max 60 seconds)
         print(f"[instagram] ⏳ Step 3: Waiting for video processing...")
-        max_wait = 180 # Increased wait time
+        max_wait = 60  # Reduced from 180s to 60s for API quota efficiency
         waited = 0
-        
+
         while waited < max_wait:
             # Check status on the same endpoint used for creation
             status_url = f"https://graph.instagram.com/v21.0/{container_id}"
@@ -157,9 +157,9 @@ def upload_to_instagram(video_path, caption, is_story=False):
                 'fields': 'status_code',
                 'access_token': access_token
             }
-            
+
             status_response = requests.get(status_url, params=status_params, timeout=30)
-            
+
             # Fallback if status check fails on instagram.com
             if status_response.status_code != 200:
                 status_url = f"https://graph.facebook.com/v21.0/{container_id}"
@@ -167,9 +167,9 @@ def upload_to_instagram(video_path, caption, is_story=False):
 
             status_data = status_response.json()
             status_code = status_data.get('status_code', 'UNKNOWN')
-            
+
             print(f"[instagram] Status: {status_code} (waited {waited}s)")
-            
+
             if status_code == 'FINISHED':
                 print(f"[instagram] ✅ Video processing complete!")
                 break
@@ -177,18 +177,17 @@ def upload_to_instagram(video_path, caption, is_story=False):
                 error_msg = status_data.get('error_message', 'Video processing failed')
                 print(f"[instagram] ❌ {error_msg}")
                 raise Exception(error_msg)
-            
-            time.sleep(10)
-            waited += 10
-        
+
+            time.sleep(5)  # Check every 5s instead of 10s for faster response
+            waited += 5
+
         if waited >= max_wait:
-            error_msg = "Video processing timed out"
-            print(f"[instagram] ❌ {error_msg}")
-            raise Exception(error_msg)
-        
-        # Step 4: Publish
-        print(f"[instagram] 📤 Step 4: Publishing to Instagram... (Adding 5s buffer)")
-        time.sleep(5) # Small buffer because IG sometimes says FINISHED before it's actually ready
+            print(f"[instagram] ⚠️ Processing timed out after {max_wait}s, attempting publish anyway...")
+            # Don't raise - try to publish anyway (sometimes IG reports timeout but video is ready)
+
+        # Step 4: Publish (REDUCED buffer from 5s to 2s)
+        print(f"[instagram] 📤 Step 4: Publishing to Instagram... (Adding 2s buffer)")
+        time.sleep(2)  # Reduced buffer for API quota efficiency
         
         publish_url = f"https://graph.instagram.com/v21.0/{user_id}/media_publish"
         publish_params = {
