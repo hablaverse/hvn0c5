@@ -1308,6 +1308,17 @@
         "The flight was delayed again.",
         "Can I have the Wi-Fi password?"
       ]
+    },
+    {
+      "timestamp": "2026-03-30T23:01:51.280813",
+      "category": "Food & Dining",
+      "num_phrases": 4,
+      "phrases": [
+        "I love this flavor.",
+        "Could I have extra napkins, please?",
+        "The coffee is too hot.",
+        "I want a glass of water."
+      ]
     }
   ],
   "used_phrases": [
@@ -1849,6 +1860,10 @@
     "Do you speak English here?",
     "Keep my luggage safe, please.",
     "The flight was delayed again.",
-    "Can I have the Wi-Fi password?"
+    "Can I have the Wi-Fi password?",
+    "I love this flavor.",
+    "Could I have extra napkins, please?",
+    "The coffee is too hot.",
+    "I want a glass of water."
   ]
 }
