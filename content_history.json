@@ -1226,6 +1226,18 @@
         "Introduce my boyfriend at dinner; he brings tacos, always.",
         "Call your mother, she worries even about small things."
       ]
+    },
+    {
+      "timestamp": "2026-03-30T07:08:07.976134",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "It's sunny and perfect for a picnic today.",
+        "It's going to rain in an hour, grab an umbrella.",
+        "The wind is strong; hold onto your hat.",
+        "The temperature dropped suddenly, wear a jacket.",
+        "It's cloudy but still nice to walk."
+      ]
     }
   ],
   "used_phrases": [
@@ -1734,6 +1746,11 @@
     "You're like family to me, seriously and forever.",
     "My grandmother's food heals any bad day, no joke.",
     "Introduce my boyfriend at dinner; he brings tacos, always.",
-    "Call your mother, she worries even about small things."
+    "Call your mother, she worries even about small things.",
+    "It's sunny and perfect for a picnic today.",
+    "It's going to rain in an hour, grab an umbrella.",
+    "The wind is strong; hold onto your hat.",
+    "The temperature dropped suddenly, wear a jacket.",
+    "It's cloudy but still nice to walk."
   ]
 }
