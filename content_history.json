@@ -1238,6 +1238,18 @@
         "The temperature dropped suddenly, wear a jacket.",
         "It's cloudy but still nice to walk."
       ]
+    },
+    {
+      "timestamp": "2026-03-30T11:39:20.660546",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "I don't understand this math problem.",
+        "Please speak slower, I am learning Spanish.",
+        "How do you say this word in Spanish?",
+        "Can I borrow your notes from today?",
+        "I need more time for the assignment."
+      ]
     }
   ],
   "used_phrases": [
@@ -1751,6 +1763,11 @@
     "It's going to rain in an hour, grab an umbrella.",
     "The wind is strong; hold onto your hat.",
     "The temperature dropped suddenly, wear a jacket.",
-    "It's cloudy but still nice to walk."
+    "It's cloudy but still nice to walk.",
+    "I don't understand this math problem.",
+    "Please speak slower, I am learning Spanish.",
+    "How do you say this word in Spanish?",
+    "Can I borrow your notes from today?",
+    "I need more time for the assignment."
   ]
 }
