@@ -1285,6 +1285,18 @@
         "We celebrate birthdays with big homemade cakes.",
         "Your sister has a contagious laugh, I love it."
       ]
+    },
+    {
+      "timestamp": "2026-03-30T16:42:36.915984",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "I love your shoes!",
+        "Does this fit me?",
+        "Where did you buy that hat?",
+        "This color looks good on you.",
+        "I need a bigger size, please."
+      ]
     }
   ],
   "used_phrases": [
@@ -1817,6 +1829,11 @@
     "I called my dad and we laughed for hours.",
     "My cousin lives with three funny cats.",
     "We celebrate birthdays with big homemade cakes.",
-    "Your sister has a contagious laugh, I love it."
+    "Your sister has a contagious laugh, I love it.",
+    "I love your shoes!",
+    "Does this fit me?",
+    "Where did you buy that hat?",
+    "This color looks good on you.",
+    "I need a bigger size, please."
   ]
 }
