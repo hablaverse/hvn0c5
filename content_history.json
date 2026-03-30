@@ -1273,6 +1273,18 @@
         "Take the elevator, not the stairs.",
         "Follow me, I know a shortcut."
       ]
+    },
+    {
+      "timestamp": "2026-03-30T16:24:24.998415",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "My mother cooks the best meals in town.",
+        "I called my dad and we laughed for hours.",
+        "My cousin lives with three funny cats.",
+        "We celebrate birthdays with big homemade cakes.",
+        "Your sister has a contagious laugh, I love it."
+      ]
     }
   ],
   "used_phrases": [
@@ -1800,6 +1812,11 @@
     "The taxi stop is around the corner.",
     "Watch out, the street ends here.",
     "Take the elevator, not the stairs.",
-    "Follow me, I know a shortcut."
+    "Follow me, I know a shortcut.",
+    "My mother cooks the best meals in town.",
+    "I called my dad and we laughed for hours.",
+    "My cousin lives with three funny cats.",
+    "We celebrate birthdays with big homemade cakes.",
+    "Your sister has a contagious laugh, I love it."
   ]
 }
