@@ -1297,6 +1297,17 @@
         "This color looks good on you.",
         "I need a bigger size, please."
       ]
+    },
+    {
+      "timestamp": "2026-03-30T20:01:32.007912",
+      "category": "Travel Essentials",
+      "num_phrases": 4,
+      "phrases": [
+        "Do you speak English here?",
+        "Keep my luggage safe, please.",
+        "The flight was delayed again.",
+        "Can I have the Wi-Fi password?"
+      ]
     }
   ],
   "used_phrases": [
@@ -1834,6 +1845,10 @@
     "Does this fit me?",
     "Where did you buy that hat?",
     "This color looks good on you.",
-    "I need a bigger size, please."
+    "I need a bigger size, please.",
+    "Do you speak English here?",
+    "Keep my luggage safe, please.",
+    "The flight was delayed again.",
+    "Can I have the Wi-Fi password?"
   ]
 }
