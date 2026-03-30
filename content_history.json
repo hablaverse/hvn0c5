@@ -1250,6 +1250,18 @@
         "Can I borrow your notes from today?",
         "I need more time for the assignment."
       ]
+    },
+    {
+      "timestamp": "2026-03-30T15:34:05.820708",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "Can I join your team?",
+        "I need a water break.",
+        "I'm stretching before the run.",
+        "Give me one more set, please.",
+        "I hurt my leg muscle."
+      ]
     }
   ],
   "used_phrases": [
@@ -1768,6 +1780,11 @@
     "Please speak slower, I am learning Spanish.",
     "How do you say this word in Spanish?",
     "Can I borrow your notes from today?",
-    "I need more time for the assignment."
+    "I need more time for the assignment.",
+    "Can I join your team?",
+    "I need a water break.",
+    "I'm stretching before the run.",
+    "Give me one more set, please.",
+    "I hurt my leg muscle."
   ]
 }
