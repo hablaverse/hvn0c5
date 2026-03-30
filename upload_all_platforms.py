@@ -22,6 +22,15 @@ except ImportError as e:
     YOUTUBE_AVAILABLE = False
     print(f"[warning] YouTube upload module not available: {e}")
 
+# Import rich description generator from root folder (for Facebook)
+try:
+    from upload_to_facebook import generate_facebook_description, generate_facebook_title
+    print("[info] Using rich Facebook description from root folder")
+except ImportError as e:
+    print(f"[warning] Using fallback description: {e}")
+    def generate_facebook_title(category): return f"Learn Spanish: {category} Phrases"
+    def generate_facebook_description(phrases, category): return f"Learn Spanish: {category}"
+
 try:
     from upload.upload_instagram import upload_to_instagram
     INSTAGRAM_AVAILABLE = True
@@ -104,49 +113,39 @@ def get_latest_video():
 
 def generate_platform_metadata(category, phrases):
     """Generate platform-specific titles and descriptions"""
-    
-    # Base description from phrases
+
+    # Use RICH Facebook description (from root folder) as the base for all platforms
+    fb_description = generate_facebook_description(phrases, category)
+    fb_title = generate_facebook_title(category)
+
+    # Simple phrases text for other platforms
     phrases_text = "\n".join([f"• {p['english']} → {p['spanish']}" for p in phrases[:5]])
-    
-    base_description = f"""
-🇪🇸 Learn Spanish with HablaVerse!
-
-📚 Category: {category}
-
-{phrases_text}
-
-💡 Tip: Repeat each phrase out loud 3 times!
-💬 Comment your favorite phrase below!
-🔔 Follow for daily Spanish lessons!
-
-#LearnSpanish #SpanishLessons #LanguageLearning #Spanish
-""".strip()
 
     return {
         "youtube": {
-            "title": f"Learn Spanish: {category} Phrases 🇪🇸 #Shorts",
-            "description": base_description + "\n\n#SpanishPhrases #Education #Shorts",
+            "title": f"{fb_title} 🇪🇸 #Shorts",
+            "description": fb_description + "\n\n#SpanishPhrases #Education #Shorts",
             "tags": ["Learn Spanish", "Spanish Lessons", "Language Learning", category, "Spanish Phrases"]
         },
         "instagram": {
-            "caption": base_description + "\n\n#Reels #SpanishReels #LearnOnInstagram"
+            "caption": fb_description + "\n\n#Reels #SpanishReels #LearnOnInstagram"
         },
         "facebook": {
-            "title": f"Learn Spanish: {category} Phrases",
-            "description": base_description
+            "title": fb_title,
+            "description": fb_description
         },
         "twitter": {
-            "caption": f"🇪🇸 Learn Spanish: {category}\n\n{phrases[0]['english'] if phrases else ''} → {phrases[0]['spanish'] if phrases else ''}\n\n#LearnSpanish #Spanish"
+            "caption": f"🇪🇸 {fb_title}\n\n{phrases[0]['english'] if phrases else ''} → {phrases[0]['spanish'] if phrases else ''}\n\n#LearnSpanish #Spanish"
         },
         "telegram": {
-            "caption": f"🇪🇸 <b>Learn Spanish: {category}</b>\n\n{phrases_text}\n\n💡 Repeat each phrase out loud 3 times!"
+            "caption": f"🇪🇸 <b>{fb_title}</b>\n\n{phrases_text}\n\n💡 Repeat each phrase out loud 3 times!"
         },
         "vk": {
-            "title": f"Learn Spanish: {category}",
-            "description": base_description
+            "title": fb_title,
+            "description": fb_description
         },
         "threads": {
-            "text": f"🇪🇸 Learn Spanish: {category}\n\n{phrases[0]['english'] if phrases else ''} → {phrases[0]['spanish'] if phrases else ''}\n\n#LearnSpanish"
+            "text": f"🇪🇸 {fb_title}\n\n{phrases[0]['english'] if phrases else ''} → {phrases[0]['spanish'] if phrases else ''}\n\n#LearnSpanish"
         },
         "tiktok": {
             "description": f"🇪🇸 Learn Spanish: {category} #LearnSpanish #Spanish #LanguageLearning #Education"
@@ -259,10 +258,17 @@ def upload_to_all_platforms(video_path, metadata, category):
         if fb_token and fb_page_id:
             print(f"   ✅ Credentials found")
             try:
+                # Use RICH description from root folder (with all phrases)
+                fb_description = generate_facebook_description(
+                    metadata.get("phrases", []),
+                    category
+                )
+                fb_title = generate_facebook_title(category)
+                
                 upload_result = upload_to_facebook(
                     video_path=video_path,
-                    description=platform_meta["facebook"]["description"],
-                    title=platform_meta["facebook"]["title"]
+                    description=fb_description,
+                    title=fb_title
                 )
                 results["uploads"]["facebook"] = {"status": "success", "result": upload_result}
                 results["platforms_successful"].append("facebook")
