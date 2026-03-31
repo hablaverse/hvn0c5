@@ -1319,6 +1319,18 @@
         "The coffee is too hot.",
         "I want a glass of water."
       ]
+    },
+    {
+      "timestamp": "2026-03-31T00:06:15.058387",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good morning, how did you sleep?",
+        "Have you eaten yet?",
+        "Nice to meet you, I heard great things.",
+        "Can you help me with this, please?",
+        "I am running late, save me a seat."
+      ]
     }
   ],
   "used_phrases": [
@@ -1864,6 +1876,11 @@
     "I love this flavor.",
     "Could I have extra napkins, please?",
     "The coffee is too hot.",
-    "I want a glass of water."
+    "I want a glass of water.",
+    "Good morning, how did you sleep?",
+    "Have you eaten yet?",
+    "Nice to meet you, I heard great things.",
+    "Can you help me with this, please?",
+    "I am running late, save me a seat."
   ]
 }
