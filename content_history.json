@@ -1378,6 +1378,18 @@
         "Good afternoon, how are you?",
         "What's up, troublemaker?"
       ]
+    },
+    {
+      "timestamp": "2026-03-31T21:01:41.015377",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "Where did you put the keys?",
+        "The kitchen smells like garlic tonight.",
+        "I left the lights on again.",
+        "Can we open the windows, please?",
+        "This couch is surprisingly comfortable."
+      ]
     }
   ],
   "used_phrases": [
@@ -1947,6 +1959,11 @@
     "Hey, long time no see!",
     "Good night, sleep tight!",
     "Good afternoon, how are you?",
-    "What's up, troublemaker?"
+    "What's up, troublemaker?",
+    "Where did you put the keys?",
+    "The kitchen smells like garlic tonight.",
+    "I left the lights on again.",
+    "Can we open the windows, please?",
+    "This couch is surprisingly comfortable."
   ]
 }
