@@ -1331,6 +1331,17 @@
         "Can you help me with this, please?",
         "I am running late, save me a seat."
       ]
+    },
+    {
+      "timestamp": "2026-03-31T06:09:29.167732",
+      "category": "Directions",
+      "num_phrases": 4,
+      "phrases": [
+        "Am I going the right way to the beach?",
+        "Is there a shortcut to the plaza?",
+        "Stay on this street for two blocks.",
+        "Walk straight until you see the church."
+      ]
     }
   ],
   "used_phrases": [
@@ -1881,6 +1892,10 @@
     "Have you eaten yet?",
     "Nice to meet you, I heard great things.",
     "Can you help me with this, please?",
-    "I am running late, save me a seat."
+    "I am running late, save me a seat.",
+    "Am I going the right way to the beach?",
+    "Is there a shortcut to the plaza?",
+    "Stay on this street for two blocks.",
+    "Walk straight until you see the church."
   ]
 }
