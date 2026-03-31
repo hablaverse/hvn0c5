@@ -1354,6 +1354,18 @@
         "Do you want to study together?",
         "I learned something new today."
       ]
+    },
+    {
+      "timestamp": "2026-03-31T14:53:14.170245",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "Your outfit makes the whole street stop.",
+        "That hat looks amazing on you, honestly.",
+        "I can't stop staring at your shoes.",
+        "That color brings out your eyes perfectly.",
+        "Your jacket is stealing my attention right now."
+      ]
     }
   ],
   "used_phrases": [
@@ -1913,6 +1925,11 @@
     "My favorite subject is history.",
     "I need help with this essay.",
     "Do you want to study together?",
-    "I learned something new today."
+    "I learned something new today.",
+    "Your outfit makes the whole street stop.",
+    "That hat looks amazing on you, honestly.",
+    "I can't stop staring at your shoes.",
+    "That color brings out your eyes perfectly.",
+    "Your jacket is stealing my attention right now."
   ]
 }
