@@ -1342,6 +1342,18 @@
         "Stay on this street for two blocks.",
         "Walk straight until you see the church."
       ]
+    },
+    {
+      "timestamp": "2026-03-31T10:21:30.063463",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you explain this math problem?",
+        "My favorite subject is history.",
+        "I need help with this essay.",
+        "Do you want to study together?",
+        "I learned something new today."
+      ]
     }
   ],
   "used_phrases": [
@@ -1896,6 +1908,11 @@
     "Am I going the right way to the beach?",
     "Is there a shortcut to the plaza?",
     "Stay on this street for two blocks.",
-    "Walk straight until you see the church."
+    "Walk straight until you see the church.",
+    "Can you explain this math problem?",
+    "My favorite subject is history.",
+    "I need help with this essay.",
+    "Do you want to study together?",
+    "I learned something new today."
   ]
 }
