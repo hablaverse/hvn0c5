@@ -1390,6 +1390,18 @@
         "Can we open the windows, please?",
         "This couch is surprisingly comfortable."
       ]
+    },
+    {
+      "timestamp": "2026-03-31T22:55:55.844202",
+      "category": "Work & Business",
+      "num_phrases": 5,
+      "phrases": [
+        "Can we schedule a meeting tomorrow?",
+        "I will send the report today.",
+        "I need this by Friday.",
+        "Can you review this document, please?",
+        "Let's brainstorm new ideas together."
+      ]
     }
   ],
   "used_phrases": [
@@ -1964,6 +1976,11 @@
     "The kitchen smells like garlic tonight.",
     "I left the lights on again.",
     "Can we open the windows, please?",
-    "This couch is surprisingly comfortable."
+    "This couch is surprisingly comfortable.",
+    "Can we schedule a meeting tomorrow?",
+    "I will send the report today.",
+    "I need this by Friday.",
+    "Can you review this document, please?",
+    "Let's brainstorm new ideas together."
   ]
 }
