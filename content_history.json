@@ -1402,6 +1402,18 @@
         "Can you review this document, please?",
         "Let's brainstorm new ideas together."
       ]
+    },
+    {
+      "timestamp": "2026-04-01T00:06:12.904906",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "I asked for decaf, not regular.",
+        "This bill is wrong.",
+        "Can you make it less spicy?",
+        "I ordered a vegetarian dish, this has meat.",
+        "A glass of water, please, no ice."
+      ]
     }
   ],
   "used_phrases": [
@@ -1981,6 +1993,11 @@
     "I will send the report today.",
     "I need this by Friday.",
     "Can you review this document, please?",
-    "Let's brainstorm new ideas together."
+    "Let's brainstorm new ideas together.",
+    "I asked for decaf, not regular.",
+    "This bill is wrong.",
+    "Can you make it less spicy?",
+    "I ordered a vegetarian dish, this has meat.",
+    "A glass of water, please, no ice."
   ]
 }
