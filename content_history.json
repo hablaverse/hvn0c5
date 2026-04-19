@@ -1438,6 +1438,18 @@
         "Does this come with a warranty?",
         "Can you show me where the fitting rooms are?"
       ]
+    },
+    {
+      "timestamp": "2026-04-19T21:54:28.199536",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "It's raining, so bring your umbrella.",
+        "The forecast says it's going to be sunny.",
+        "It's too hot today. Let's get ice cream.",
+        "It's windy, so be careful with your hat.",
+        "It's getting colder. Put on a jacket."
+      ]
     }
   ],
   "used_phrases": [
@@ -2032,6 +2044,11 @@
     "Do you have this brand, not the cheap one?",
     "I need it for tomorrow, not next week.",
     "Does this come with a warranty?",
-    "Can you show me where the fitting rooms are?"
+    "Can you show me where the fitting rooms are?",
+    "It's raining, so bring your umbrella.",
+    "The forecast says it's going to be sunny.",
+    "It's too hot today. Let's get ice cream.",
+    "It's windy, so be careful with your hat.",
+    "It's getting colder. Put on a jacket."
   ]
 }
