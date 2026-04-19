@@ -1414,6 +1414,18 @@
         "I ordered a vegetarian dish, this has meat.",
         "A glass of water, please, no ice."
       ]
+    },
+    {
+      "timestamp": "2026-04-19T10:10:34.137943",
+      "category": "Shopping",
+      "num_phrases": 5,
+      "phrases": [
+        "Can I try this on for you?",
+        "Is this on sale or just for looks?",
+        "I'll take it if you give me a discount.",
+        "Do you accept credit cards or only cash?",
+        "Can you hold this until I come back?"
+      ]
     }
   ],
   "used_phrases": [
@@ -1998,6 +2010,11 @@
     "This bill is wrong.",
     "Can you make it less spicy?",
     "I ordered a vegetarian dish, this has meat.",
-    "A glass of water, please, no ice."
+    "A glass of water, please, no ice.",
+    "Can I try this on for you?",
+    "Is this on sale or just for looks?",
+    "I'll take it if you give me a discount.",
+    "Do you accept credit cards or only cash?",
+    "Can you hold this until I come back?"
   ]
 }
