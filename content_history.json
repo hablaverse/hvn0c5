@@ -1474,6 +1474,18 @@
         "My brother is fun, but he’s a little crazy sometimes.",
         "I’m closer to my best friend than to my cousins."
       ]
+    },
+    {
+      "timestamp": "2026-04-20T22:31:07.339759",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "That song makes my heart jump, like a movie moment.",
+        "I love this artist, but I hate those loud ads.",
+        "Turn it down, please. The chorus is too loud!",
+        "Do you know the lyrics? I sing along every time.",
+        "That remix is wild, it turns the whole vibe around."
+      ]
     }
   ],
   "used_phrases": [
@@ -2083,6 +2095,11 @@
     "My mom says hello, and she asks how you are.",
     "Dad always gives great advice, even when I’m stubborn.",
     "My brother is fun, but he’s a little crazy sometimes.",
-    "I’m closer to my best friend than to my cousins."
+    "I’m closer to my best friend than to my cousins.",
+    "That song makes my heart jump, like a movie moment.",
+    "I love this artist, but I hate those loud ads.",
+    "Turn it down, please. The chorus is too loud!",
+    "Do you know the lyrics? I sing along every time.",
+    "That remix is wild, it turns the whole vibe around."
   ]
 }
