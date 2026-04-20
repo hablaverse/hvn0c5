@@ -1450,6 +1450,18 @@
         "It's windy, so be careful with your hat.",
         "It's getting colder. Put on a jacket."
       ]
+    },
+    {
+      "timestamp": "2026-04-20T11:59:47.839844",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "Excuse me, where is the bathroom, please?",
+        "I don’t understand. Can you speak slower, please?",
+        "How much is this? Tell me the total.",
+        "I’m hungry, and I want something quick.",
+        "I want coffee, but not too strong, please."
+      ]
     }
   ],
   "used_phrases": [
@@ -2049,6 +2061,11 @@
     "The forecast says it's going to be sunny.",
     "It's too hot today. Let's get ice cream.",
     "It's windy, so be careful with your hat.",
-    "It's getting colder. Put on a jacket."
+    "It's getting colder. Put on a jacket.",
+    "Excuse me, where is the bathroom, please?",
+    "I don’t understand. Can you speak slower, please?",
+    "How much is this? Tell me the total.",
+    "I’m hungry, and I want something quick.",
+    "I want coffee, but not too strong, please."
   ]
 }
