@@ -1498,6 +1498,18 @@
         "There is a fire. Get out now, please!",
         "Stop! Someone is stealing my phone!"
       ]
+    },
+    {
+      "timestamp": "2026-04-21T17:40:35.473005",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "My throat hurts, and I need some water right now.",
+        "I have a headache, so I’m going to rest.",
+        "I feel nauseous, please don’t talk too fast.",
+        "I’m allergic to pollen, and spring is tough.",
+        "My stomach hurts, and I need the bathroom soon."
+      ]
     }
   ],
   "used_phrases": [
@@ -2117,6 +2129,11 @@
     "I cut my finger. Please call an ambulance.",
     "I think I broke my arm. It hurts a lot!",
     "There is a fire. Get out now, please!",
-    "Stop! Someone is stealing my phone!"
+    "Stop! Someone is stealing my phone!",
+    "My throat hurts, and I need some water right now.",
+    "I have a headache, so I’m going to rest.",
+    "I feel nauseous, please don’t talk too fast.",
+    "I’m allergic to pollen, and spring is tough.",
+    "My stomach hurts, and I need the bathroom soon."
   ]
 }
