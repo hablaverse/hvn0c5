@@ -1486,6 +1486,18 @@
         "Do you know the lyrics? I sing along every time.",
         "That remix is wild, it turns the whole vibe around."
       ]
+    },
+    {
+      "timestamp": "2026-04-21T11:46:27.477822",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "Help! Call 911 right now, I feel very sick!",
+        "I cut my finger. Please call an ambulance.",
+        "I think I broke my arm. It hurts a lot!",
+        "There is a fire. Get out now, please!",
+        "Stop! Someone is stealing my phone!"
+      ]
     }
   ],
   "used_phrases": [
@@ -2100,6 +2112,11 @@
     "I love this artist, but I hate those loud ads.",
     "Turn it down, please. The chorus is too loud!",
     "Do you know the lyrics? I sing along every time.",
-    "That remix is wild, it turns the whole vibe around."
+    "That remix is wild, it turns the whole vibe around.",
+    "Help! Call 911 right now, I feel very sick!",
+    "I cut my finger. Please call an ambulance.",
+    "I think I broke my arm. It hurts a lot!",
+    "There is a fire. Get out now, please!",
+    "Stop! Someone is stealing my phone!"
   ]
 }
