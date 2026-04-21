@@ -1510,6 +1510,18 @@
         "I’m allergic to pollen, and spring is tough.",
         "My stomach hurts, and I need the bathroom soon."
       ]
+    },
+    {
+      "timestamp": "2026-04-21T22:27:25.259386",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "It’s raining again, so I’m staying home today.",
+        "The sun is hot, and my face is sweating!",
+        "Clouds are everywhere, and I hate this gloomy vibe.",
+        "It’s windy outside, and my hair is attacking me!",
+        "It’s freezing! I need a hoodie right now."
+      ]
     }
   ],
   "used_phrases": [
@@ -2134,6 +2146,11 @@
     "I have a headache, so I’m going to rest.",
     "I feel nauseous, please don’t talk too fast.",
     "I’m allergic to pollen, and spring is tough.",
-    "My stomach hurts, and I need the bathroom soon."
+    "My stomach hurts, and I need the bathroom soon.",
+    "It’s raining again, so I’m staying home today.",
+    "The sun is hot, and my face is sweating!",
+    "Clouds are everywhere, and I hate this gloomy vibe.",
+    "It’s windy outside, and my hair is attacking me!",
+    "It’s freezing! I need a hoodie right now."
   ]
 }
