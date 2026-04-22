@@ -1546,6 +1546,18 @@
         "Good evening! I’m not tired yet, surprisingly.",
         "Nice to see you! Did you really come today?"
       ]
+    },
+    {
+      "timestamp": "2026-04-22T22:35:47.617002",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "This song is stuck in my head, help me!",
+        "That singer sounds amazing live, you have to go!",
+        "What’s the name of this track? I love it!",
+        "Wait, pause the video. I want to hear that part.",
+        "The movie is hilarious, I’m laughing nonstop."
+      ]
     }
   ],
   "used_phrases": [
@@ -2185,6 +2197,11 @@
     "Hi! How are you doing today, honestly?",
     "Hey, good afternoon! Let’s talk for a minute.",
     "Good evening! I’m not tired yet, surprisingly.",
-    "Nice to see you! Did you really come today?"
+    "Nice to see you! Did you really come today?",
+    "This song is stuck in my head, help me!",
+    "That singer sounds amazing live, you have to go!",
+    "What’s the name of this track? I love it!",
+    "Wait, pause the video. I want to hear that part.",
+    "The movie is hilarious, I’m laughing nonstop."
   ]
 }
