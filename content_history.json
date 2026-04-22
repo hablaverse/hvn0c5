@@ -1534,6 +1534,18 @@
         "Can I call my brother before dinner?",
         "I’m bringing cookies for the whole family."
       ]
+    },
+    {
+      "timestamp": "2026-04-22T17:38:55.385700",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good morning! Today I’m finally up on time.",
+        "Hi! How are you doing today, honestly?",
+        "Hey, good afternoon! Let’s talk for a minute.",
+        "Good evening! I’m not tired yet, surprisingly.",
+        "Nice to see you! Did you really come today?"
+      ]
     }
   ],
   "used_phrases": [
@@ -2168,6 +2180,11 @@
     "Dad texts, and I answer right away.",
     "My sister borrows my stuff and returns it.",
     "Can I call my brother before dinner?",
-    "I’m bringing cookies for the whole family."
+    "I’m bringing cookies for the whole family.",
+    "Good morning! Today I’m finally up on time.",
+    "Hi! How are you doing today, honestly?",
+    "Hey, good afternoon! Let’s talk for a minute.",
+    "Good evening! I’m not tired yet, surprisingly.",
+    "Nice to see you! Did you really come today?"
   ]
 }
