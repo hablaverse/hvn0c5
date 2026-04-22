@@ -1522,6 +1522,18 @@
         "It’s windy outside, and my hair is attacking me!",
         "It’s freezing! I need a hoodie right now."
       ]
+    },
+    {
+      "timestamp": "2026-04-22T11:44:40.254081",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "My mom always says I can do it.",
+        "Dad texts, and I answer right away.",
+        "My sister borrows my stuff and returns it.",
+        "Can I call my brother before dinner?",
+        "I’m bringing cookies for the whole family."
+      ]
     }
   ],
   "used_phrases": [
@@ -2151,6 +2163,11 @@
     "The sun is hot, and my face is sweating!",
     "Clouds are everywhere, and I hate this gloomy vibe.",
     "It’s windy outside, and my hair is attacking me!",
-    "It’s freezing! I need a hoodie right now."
+    "It’s freezing! I need a hoodie right now.",
+    "My mom always says I can do it.",
+    "Dad texts, and I answer right away.",
+    "My sister borrows my stuff and returns it.",
+    "Can I call my brother before dinner?",
+    "I’m bringing cookies for the whole family."
   ]
 }
