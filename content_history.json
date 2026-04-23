@@ -1558,6 +1558,18 @@
         "Wait, pause the video. I want to hear that part.",
         "The movie is hilarious, I’m laughing nonstop."
       ]
+    },
+    {
+      "timestamp": "2026-04-23T11:45:36.000640",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m nervous before my interview, but I’ll do it anyway.",
+        "I’m excited to try this new food tonight!",
+        "I’m so happy you replied. That made my day!",
+        "I feel sad because my plan fell apart today.",
+        "I’m angry, but I’m trying to stay calm."
+      ]
     }
   ],
   "used_phrases": [
@@ -2202,6 +2214,11 @@
     "That singer sounds amazing live, you have to go!",
     "What’s the name of this track? I love it!",
     "Wait, pause the video. I want to hear that part.",
-    "The movie is hilarious, I’m laughing nonstop."
+    "The movie is hilarious, I’m laughing nonstop.",
+    "I’m nervous before my interview, but I’ll do it anyway.",
+    "I’m excited to try this new food tonight!",
+    "I’m so happy you replied. That made my day!",
+    "I feel sad because my plan fell apart today.",
+    "I’m angry, but I’m trying to stay calm."
   ]
 }
