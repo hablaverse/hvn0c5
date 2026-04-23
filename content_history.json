@@ -1582,6 +1582,18 @@
         "It’s too hot; I can’t stay outside long.",
         "Oh no, it’s snowing and my shoes are wet!"
       ]
+    },
+    {
+      "timestamp": "2026-04-23T22:12:27.675446",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "My shirt fits perfectly, and I feel confident today.",
+        "These shoes look good, but they hurt my feet.",
+        "I need a belt because my pants are too loose.",
+        "I want a haircut today, not tomorrow, please.",
+        "Can you recommend a good deodorant for sensitive skin?"
+      ]
     }
   ],
   "used_phrases": [
@@ -2236,6 +2248,11 @@
     "Is it windy today, or am I imagining it?",
     "The sun is strong today, so wear sunscreen.",
     "It’s too hot; I can’t stay outside long.",
-    "Oh no, it’s snowing and my shoes are wet!"
+    "Oh no, it’s snowing and my shoes are wet!",
+    "My shirt fits perfectly, and I feel confident today.",
+    "These shoes look good, but they hurt my feet.",
+    "I need a belt because my pants are too loose.",
+    "I want a haircut today, not tomorrow, please.",
+    "Can you recommend a good deodorant for sensitive skin?"
   ]
 }
