@@ -1570,6 +1570,18 @@
         "I feel sad because my plan fell apart today.",
         "I’m angry, but I’m trying to stay calm."
       ]
+    },
+    {
+      "timestamp": "2026-04-23T18:07:36.111686",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "It’s raining, so I take my umbrella.",
+        "Is it windy today, or am I imagining it?",
+        "The sun is strong today, so wear sunscreen.",
+        "It’s too hot; I can’t stay outside long.",
+        "Oh no, it’s snowing and my shoes are wet!"
+      ]
     }
   ],
   "used_phrases": [
@@ -2219,6 +2231,11 @@
     "I’m excited to try this new food tonight!",
     "I’m so happy you replied. That made my day!",
     "I feel sad because my plan fell apart today.",
-    "I’m angry, but I’m trying to stay calm."
+    "I’m angry, but I’m trying to stay calm.",
+    "It’s raining, so I take my umbrella.",
+    "Is it windy today, or am I imagining it?",
+    "The sun is strong today, so wear sunscreen.",
+    "It’s too hot; I can’t stay outside long.",
+    "Oh no, it’s snowing and my shoes are wet!"
   ]
 }
