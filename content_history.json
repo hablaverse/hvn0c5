@@ -1618,6 +1618,18 @@
         "Nice to meet you! What’s your name?",
         "See you later! Don’t disappear, please!"
       ]
+    },
+    {
+      "timestamp": "2026-04-24T22:28:31.783245",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good morning! I made coffee for you too, really.",
+        "Hey, how are you? My day just got better.",
+        "Good afternoon! Ready for a quick walk with me?",
+        "Hi! I’m bringing snacks today, so don’t be shy.",
+        "What’s happening? I’m in a silly mood right now."
+      ]
     }
   ],
   "used_phrases": [
@@ -2287,6 +2299,11 @@
     "Good night! Sleep well, okay?",
     "What’s up? Tell me the news!",
     "Nice to meet you! What’s your name?",
-    "See you later! Don’t disappear, please!"
+    "See you later! Don’t disappear, please!",
+    "Good morning! I made coffee for you too, really.",
+    "Hey, how are you? My day just got better.",
+    "Good afternoon! Ready for a quick walk with me?",
+    "Hi! I’m bringing snacks today, so don’t be shy.",
+    "What’s happening? I’m in a silly mood right now."
   ]
 }
