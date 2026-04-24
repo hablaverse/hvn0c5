@@ -1594,6 +1594,18 @@
         "I want a haircut today, not tomorrow, please.",
         "Can you recommend a good deodorant for sensitive skin?"
       ]
+    },
+    {
+      "timestamp": "2026-04-24T11:46:32.233629",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "Help! I think I’m having a medical emergency right now!",
+        "I can’t breathe; please call an ambulance!",
+        "My chest hurts; I need help immediately, please!",
+        "Call 911 now; there’s a serious accident!",
+        "I’ve cut my finger badly; please get a first-aid kit!"
+      ]
     }
   ],
   "used_phrases": [
@@ -2253,6 +2265,11 @@
     "These shoes look good, but they hurt my feet.",
     "I need a belt because my pants are too loose.",
     "I want a haircut today, not tomorrow, please.",
-    "Can you recommend a good deodorant for sensitive skin?"
+    "Can you recommend a good deodorant for sensitive skin?",
+    "Help! I think I’m having a medical emergency right now!",
+    "I can’t breathe; please call an ambulance!",
+    "My chest hurts; I need help immediately, please!",
+    "Call 911 now; there’s a serious accident!",
+    "I’ve cut my finger badly; please get a first-aid kit!"
   ]
 }
