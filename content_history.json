@@ -1606,6 +1606,18 @@
         "Call 911 now; there’s a serious accident!",
         "I’ve cut my finger badly; please get a first-aid kit!"
       ]
+    },
+    {
+      "timestamp": "2026-04-24T17:18:13.019606",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good afternoon! What are you doing now?",
+        "Good night! Sleep well, okay?",
+        "What’s up? Tell me the news!",
+        "Nice to meet you! What’s your name?",
+        "See you later! Don’t disappear, please!"
+      ]
     }
   ],
   "used_phrases": [
@@ -2270,6 +2282,11 @@
     "I can’t breathe; please call an ambulance!",
     "My chest hurts; I need help immediately, please!",
     "Call 911 now; there’s a serious accident!",
-    "I’ve cut my finger badly; please get a first-aid kit!"
+    "I’ve cut my finger badly; please get a first-aid kit!",
+    "Good afternoon! What are you doing now?",
+    "Good night! Sleep well, okay?",
+    "What’s up? Tell me the news!",
+    "Nice to meet you! What’s your name?",
+    "See you later! Don’t disappear, please!"
   ]
 }
