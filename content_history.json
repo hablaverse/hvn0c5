@@ -1642,6 +1642,18 @@
         "I love painting; my walls are basically a gallery.",
         "I dance in my kitchen like nobody is watching."
       ]
+    },
+    {
+      "timestamp": "2026-04-25T16:00:48.720508",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "I love cats, and my roommate thinks they’re noisy.",
+        "I’m afraid of spiders, so I scream and run.",
+        "My dog brings my shoes, and I can’t stay mad.",
+        "Don’t feed the birds, or they will follow you.",
+        "I want a goldfish, but I keep forgetting food."
+      ]
     }
   ],
   "used_phrases": [
@@ -2321,6 +2333,11 @@
     "I’m learning guitar, but my strings still hate me.",
     "I go jogging, and yes, I complain the whole time.",
     "I love painting; my walls are basically a gallery.",
-    "I dance in my kitchen like nobody is watching."
+    "I dance in my kitchen like nobody is watching.",
+    "I love cats, and my roommate thinks they’re noisy.",
+    "I’m afraid of spiders, so I scream and run.",
+    "My dog brings my shoes, and I can’t stay mad.",
+    "Don’t feed the birds, or they will follow you.",
+    "I want a goldfish, but I keep forgetting food."
   ]
 }
