@@ -1630,6 +1630,18 @@
         "Hi! I’m bringing snacks today, so don’t be shy.",
         "What’s happening? I’m in a silly mood right now."
       ]
+    },
+    {
+      "timestamp": "2026-04-25T10:32:14.342503",
+      "category": "Hobbies & Activities",
+      "num_phrases": 5,
+      "phrases": [
+        "I love cooking, even when it smells weird.",
+        "I’m learning guitar, but my strings still hate me.",
+        "I go jogging, and yes, I complain the whole time.",
+        "I love painting; my walls are basically a gallery.",
+        "I dance in my kitchen like nobody is watching."
+      ]
     }
   ],
   "used_phrases": [
@@ -2304,6 +2316,11 @@
     "Hey, how are you? My day just got better.",
     "Good afternoon! Ready for a quick walk with me?",
     "Hi! I’m bringing snacks today, so don’t be shy.",
-    "What’s happening? I’m in a silly mood right now."
+    "What’s happening? I’m in a silly mood right now.",
+    "I love cooking, even when it smells weird.",
+    "I’m learning guitar, but my strings still hate me.",
+    "I go jogging, and yes, I complain the whole time.",
+    "I love painting; my walls are basically a gallery.",
+    "I dance in my kitchen like nobody is watching."
   ]
 }
