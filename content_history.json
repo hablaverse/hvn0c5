@@ -1678,6 +1678,18 @@
         "Don’t touch that snake; it bites when scared.",
         "My cat only wants snacks and warm naps."
       ]
+    },
+    {
+      "timestamp": "2026-04-26T16:04:26.381383",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "Can we talk for a minute, please?",
+        "I miss you, and I want to see you soon.",
+        "Are you mad at me? I’m really not sure.",
+        "I’ll call you after dinner, I promise.",
+        "My mom says hello, and she asks about you."
+      ]
     }
   ],
   "used_phrases": [
@@ -2372,6 +2384,11 @@
     "I’m allergic to cats, so I stay away.",
     "My favorite animal is an elephant, super calm.",
     "Don’t touch that snake; it bites when scared.",
-    "My cat only wants snacks and warm naps."
+    "My cat only wants snacks and warm naps.",
+    "Can we talk for a minute, please?",
+    "I miss you, and I want to see you soon.",
+    "Are you mad at me? I’m really not sure.",
+    "I’ll call you after dinner, I promise.",
+    "My mom says hello, and she asks about you."
   ]
 }
