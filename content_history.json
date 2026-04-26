@@ -1666,6 +1666,18 @@
         "This black coffee is strong, like my motivation this morning!",
         "Yellow socks make me happy, even when life feels messy!"
       ]
+    },
+    {
+      "timestamp": "2026-04-26T10:33:53.675051",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "I love dogs, but I’m scared of loud barks.",
+        "I’m allergic to cats, so I stay away.",
+        "My favorite animal is an elephant, super calm.",
+        "Don’t touch that snake; it bites when scared.",
+        "My cat only wants snacks and warm naps."
+      ]
     }
   ],
   "used_phrases": [
@@ -2355,6 +2367,11 @@
     "My blue phone case looks cool, but it collects fingerprints!",
     "That green smoothie is tasty, and I swear it fixes my day!",
     "This black coffee is strong, like my motivation this morning!",
-    "Yellow socks make me happy, even when life feels messy!"
+    "Yellow socks make me happy, even when life feels messy!",
+    "I love dogs, but I’m scared of loud barks.",
+    "I’m allergic to cats, so I stay away.",
+    "My favorite animal is an elephant, super calm.",
+    "Don’t touch that snake; it bites when scared.",
+    "My cat only wants snacks and warm naps."
   ]
 }
