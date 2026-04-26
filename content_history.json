@@ -1690,6 +1690,18 @@
         "I’ll call you after dinner, I promise.",
         "My mom says hello, and she asks about you."
       ]
+    },
+    {
+      "timestamp": "2026-04-26T21:57:57.635069",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "Is it going to rain today, or not?",
+        "It’s hot today, and I can’t stand it.",
+        "The wind is strong, so hold my hat.",
+        "It’s cloudy, so I’m bringing sunglasses.",
+        "Wow, it’s snowing! Should we stay home?"
+      ]
     }
   ],
   "used_phrases": [
@@ -2389,6 +2401,11 @@
     "I miss you, and I want to see you soon.",
     "Are you mad at me? I’m really not sure.",
     "I’ll call you after dinner, I promise.",
-    "My mom says hello, and she asks about you."
+    "My mom says hello, and she asks about you.",
+    "Is it going to rain today, or not?",
+    "It’s hot today, and I can’t stand it.",
+    "The wind is strong, so hold my hat.",
+    "It’s cloudy, so I’m bringing sunglasses.",
+    "Wow, it’s snowing! Should we stay home?"
   ]
 }
