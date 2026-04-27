@@ -1726,6 +1726,18 @@
         "I’m tired, so I’m going to take a nap.",
         "I have a fever, and I feel really hot."
       ]
+    },
+    {
+      "timestamp": "2026-04-27T21:04:26.961979",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m out of breath after this workout, but I love it!",
+        "Can you spot me on squats? I want to show off!",
+        "Push me harder, I can handle it, babe!",
+        "Let’s stretch together, and I’ll brag after!",
+        "I can’t wait to run with you again tonight!"
+      ]
     }
   ],
   "used_phrases": [
@@ -2440,6 +2452,11 @@
     "My stomach hurts, so I need water slowly.",
     "I’m thirsty, can I drink some water now?",
     "I’m tired, so I’m going to take a nap.",
-    "I have a fever, and I feel really hot."
+    "I have a fever, and I feel really hot.",
+    "I’m out of breath after this workout, but I love it!",
+    "Can you spot me on squats? I want to show off!",
+    "Push me harder, I can handle it, babe!",
+    "Let’s stretch together, and I’ll brag after!",
+    "I can’t wait to run with you again tonight!"
   ]
 }
