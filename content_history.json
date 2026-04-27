@@ -1702,6 +1702,18 @@
         "It’s cloudy, so I’m bringing sunglasses.",
         "Wow, it’s snowing! Should we stay home?"
       ]
+    },
+    {
+      "timestamp": "2026-04-27T13:10:33.940192",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m nervous before meetings; I breathe slowly in Spanish.",
+        "I feel proud when I try, even if I fail.",
+        "I’m curious about everything, so ask me lots of questions.",
+        "I’m worried, but I’m trying to stay positive today.",
+        "I’m excited for tonight; the plans are so good."
+      ]
     }
   ],
   "used_phrases": [
@@ -2406,6 +2418,11 @@
     "It’s hot today, and I can’t stand it.",
     "The wind is strong, so hold my hat.",
     "It’s cloudy, so I’m bringing sunglasses.",
-    "Wow, it’s snowing! Should we stay home?"
+    "Wow, it’s snowing! Should we stay home?",
+    "I’m nervous before meetings; I breathe slowly in Spanish.",
+    "I feel proud when I try, even if I fail.",
+    "I’m curious about everything, so ask me lots of questions.",
+    "I’m worried, but I’m trying to stay positive today.",
+    "I’m excited for tonight; the plans are so good."
   ]
 }
