@@ -1762,6 +1762,18 @@
         "I’m saving money, so I won’t buy that today.",
         "Don’t spend it all; keep some for emergencies."
       ]
+    },
+    {
+      "timestamp": "2026-04-28T21:08:40.737343",
+      "category": "Romantic Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "You make my day, like a warm sunrise.",
+        "I like you a lot, and it’s not a joke.",
+        "Can we kiss, right now? Please don’t say no.",
+        "You smell amazing, and I can’t stop smiling.",
+        "Let’s go on a date, even if it’s simple."
+      ]
     }
   ],
   "used_phrases": [
@@ -2491,6 +2503,11 @@
     "I need cash, because my card sometimes fails.",
     "I paid for lunch; you can pay me back later.",
     "I’m saving money, so I won’t buy that today.",
-    "Don’t spend it all; keep some for emergencies."
+    "Don’t spend it all; keep some for emergencies.",
+    "You make my day, like a warm sunrise.",
+    "I like you a lot, and it’s not a joke.",
+    "Can we kiss, right now? Please don’t say no.",
+    "You smell amazing, and I can’t stop smiling.",
+    "Let’s go on a date, even if it’s simple."
   ]
 }
