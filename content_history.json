@@ -1738,6 +1738,18 @@
         "Let’s stretch together, and I’ll brag after!",
         "I can’t wait to run with you again tonight!"
       ]
+    },
+    {
+      "timestamp": "2026-04-28T10:15:40.479168",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the nearest pharmacy, please?",
+        "My bag is missing; can you help me?",
+        "Do you have free Wi-Fi here?",
+        "How much is this in dollars?",
+        "I don’t speak Spanish, please speak slowly."
+      ]
     }
   ],
   "used_phrases": [
@@ -2457,6 +2469,11 @@
     "Can you spot me on squats? I want to show off!",
     "Push me harder, I can handle it, babe!",
     "Let’s stretch together, and I’ll brag after!",
-    "I can’t wait to run with you again tonight!"
+    "I can’t wait to run with you again tonight!",
+    "Where is the nearest pharmacy, please?",
+    "My bag is missing; can you help me?",
+    "Do you have free Wi-Fi here?",
+    "How much is this in dollars?",
+    "I don’t speak Spanish, please speak slowly."
   ]
 }
