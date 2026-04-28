@@ -1750,6 +1750,18 @@
         "How much is this in dollars?",
         "I don’t speak Spanish, please speak slowly."
       ]
+    },
+    {
+      "timestamp": "2026-04-28T16:09:27.104255",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "I budget for tacos and still save money each month.",
+        "I need cash, because my card sometimes fails.",
+        "I paid for lunch; you can pay me back later.",
+        "I’m saving money, so I won’t buy that today.",
+        "Don’t spend it all; keep some for emergencies."
+      ]
     }
   ],
   "used_phrases": [
@@ -2474,6 +2486,11 @@
     "My bag is missing; can you help me?",
     "Do you have free Wi-Fi here?",
     "How much is this in dollars?",
-    "I don’t speak Spanish, please speak slowly."
+    "I don’t speak Spanish, please speak slowly.",
+    "I budget for tacos and still save money each month.",
+    "I need cash, because my card sometimes fails.",
+    "I paid for lunch; you can pay me back later.",
+    "I’m saving money, so I won’t buy that today.",
+    "Don’t spend it all; keep some for emergencies."
   ]
 }
