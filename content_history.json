@@ -1774,6 +1774,18 @@
         "You smell amazing, and I can’t stop smiling.",
         "Let’s go on a date, even if it’s simple."
       ]
+    },
+    {
+      "timestamp": "2026-04-29T10:08:15.365852",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "I want the best deal, babe, tell me the total.",
+        "Don’t waste money; let’s buy only what we need.",
+        "I’ll pay, you just say yes, my love.",
+        "Is this price for one or for two people?",
+        "I got a discount, and it feels like magic."
+      ]
     }
   ],
   "used_phrases": [
@@ -2508,6 +2520,11 @@
     "I like you a lot, and it’s not a joke.",
     "Can we kiss, right now? Please don’t say no.",
     "You smell amazing, and I can’t stop smiling.",
-    "Let’s go on a date, even if it’s simple."
+    "Let’s go on a date, even if it’s simple.",
+    "I want the best deal, babe, tell me the total.",
+    "Don’t waste money; let’s buy only what we need.",
+    "I’ll pay, you just say yes, my love.",
+    "Is this price for one or for two people?",
+    "I got a discount, and it feels like magic."
   ]
 }
