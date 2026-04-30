@@ -1798,6 +1798,18 @@
         "Good evening! Let’s have fun tonight, just us.",
         "Hi! I missed you. Now I’m smiling again."
       ]
+    },
+    {
+      "timestamp": "2026-04-30T10:07:53.731939",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "The Wi-Fi password is on the fridge, not in the folder.",
+        "Please don’t slam the door, it wakes up everyone.",
+        "The light switch is on the wall, not on the ceiling.",
+        "Your keys are not in the drawer, they’re in the bowl.",
+        "The bathroom is near the kitchen, not at the end."
+      ]
     }
   ],
   "used_phrases": [
@@ -2542,6 +2554,11 @@
     "Hey, what’s up? I hope your day is gentle.",
     "Good afternoon! I like your energy, for real.",
     "Good evening! Let’s have fun tonight, just us.",
-    "Hi! I missed you. Now I’m smiling again."
+    "Hi! I missed you. Now I’m smiling again.",
+    "The Wi-Fi password is on the fridge, not in the folder.",
+    "Please don’t slam the door, it wakes up everyone.",
+    "The light switch is on the wall, not on the ceiling.",
+    "Your keys are not in the drawer, they’re in the bowl.",
+    "The bathroom is near the kitchen, not at the end."
   ]
 }
