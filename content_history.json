@@ -1822,6 +1822,18 @@
         "I have a fever, so I’m staying home today.",
         "I feel dizzy, so I need to sit down."
       ]
+    },
+    {
+      "timestamp": "2026-04-30T21:02:18.572472",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "My phone won’t connect to Wi-Fi, help me now.",
+        "I forgot my password, can you reset it?",
+        "Why is my internet so slow today?",
+        "The video keeps buffering, it’s so annoying.",
+        "Tell me the link, I don’t see it."
+      ]
     }
   ],
   "used_phrases": [
@@ -2576,6 +2588,11 @@
     "My stomach is upset, so I’m eating plain food.",
     "I’m cold, so please close the window.",
     "I have a fever, so I’m staying home today.",
-    "I feel dizzy, so I need to sit down."
+    "I feel dizzy, so I need to sit down.",
+    "My phone won’t connect to Wi-Fi, help me now.",
+    "I forgot my password, can you reset it?",
+    "Why is my internet so slow today?",
+    "The video keeps buffering, it’s so annoying.",
+    "Tell me the link, I don’t see it."
   ]
 }
