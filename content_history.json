@@ -1810,6 +1810,18 @@
         "Your keys are not in the drawer, they’re in the bowl.",
         "The bathroom is near the kitchen, not at the end."
       ]
+    },
+    {
+      "timestamp": "2026-04-30T15:49:06.418426",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "I have a headache, and I need water now.",
+        "My stomach is upset, so I’m eating plain food.",
+        "I’m cold, so please close the window.",
+        "I have a fever, so I’m staying home today.",
+        "I feel dizzy, so I need to sit down."
+      ]
     }
   ],
   "used_phrases": [
@@ -2559,6 +2571,11 @@
     "Please don’t slam the door, it wakes up everyone.",
     "The light switch is on the wall, not on the ceiling.",
     "Your keys are not in the drawer, they’re in the bowl.",
-    "The bathroom is near the kitchen, not at the end."
+    "The bathroom is near the kitchen, not at the end.",
+    "I have a headache, and I need water now.",
+    "My stomach is upset, so I’m eating plain food.",
+    "I’m cold, so please close the window.",
+    "I have a fever, so I’m staying home today.",
+    "I feel dizzy, so I need to sit down."
   ]
 }
