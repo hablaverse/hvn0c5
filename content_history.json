@@ -1846,6 +1846,18 @@
         "I’m relieved you’re okay.",
         "I’m angry, and I need space right now."
       ]
+    },
+    {
+      "timestamp": "2026-05-01T14:57:16.538421",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "Where’s the trash can? I need to throw this.",
+        "Can you turn on the heater? It’s freezing in here.",
+        "I love this couch, it’s super comfy.",
+        "Did you lock the door? I don’t trust windows.",
+        "The towel smells bad, so I’m washing it now."
+      ]
     }
   ],
   "used_phrases": [
@@ -2610,6 +2622,11 @@
     "I feel stressed, so I need a short break.",
     "I’m sad, and I need a hug.",
     "I’m relieved you’re okay.",
-    "I’m angry, and I need space right now."
+    "I’m angry, and I need space right now.",
+    "Where’s the trash can? I need to throw this.",
+    "Can you turn on the heater? It’s freezing in here.",
+    "I love this couch, it’s super comfy.",
+    "Did you lock the door? I don’t trust windows.",
+    "The towel smells bad, so I’m washing it now."
   ]
 }
