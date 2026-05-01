@@ -1834,6 +1834,18 @@
         "The video keeps buffering, it’s so annoying.",
         "Tell me the link, I don’t see it."
       ]
+    },
+    {
+      "timestamp": "2026-05-01T09:47:33.476119",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m nervous, but I can do this.",
+        "I feel stressed, so I need a short break.",
+        "I’m sad, and I need a hug.",
+        "I’m relieved you’re okay.",
+        "I’m angry, and I need space right now."
+      ]
     }
   ],
   "used_phrases": [
@@ -2593,6 +2605,11 @@
     "I forgot my password, can you reset it?",
     "Why is my internet so slow today?",
     "The video keeps buffering, it’s so annoying.",
-    "Tell me the link, I don’t see it."
+    "Tell me the link, I don’t see it.",
+    "I’m nervous, but I can do this.",
+    "I feel stressed, so I need a short break.",
+    "I’m sad, and I need a hug.",
+    "I’m relieved you’re okay.",
+    "I’m angry, and I need space right now."
   ]
 }
