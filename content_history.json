@@ -1858,6 +1858,18 @@
         "Did you lock the door? I don’t trust windows.",
         "The towel smells bad, so I’m washing it now."
       ]
+    },
+    {
+      "timestamp": "2026-05-01T20:54:14.677154",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m buying this only if it’s on sale.",
+        "Can you split the bill with me, please?",
+        "I’m checking my bank balance right now.",
+        "Does this price include taxes?",
+        "I need cash, not a card payment."
+      ]
     }
   ],
   "used_phrases": [
@@ -2627,6 +2639,11 @@
     "Can you turn on the heater? It’s freezing in here.",
     "I love this couch, it’s super comfy.",
     "Did you lock the door? I don’t trust windows.",
-    "The towel smells bad, so I’m washing it now."
+    "The towel smells bad, so I’m washing it now.",
+    "I’m buying this only if it’s on sale.",
+    "Can you split the bill with me, please?",
+    "I’m checking my bank balance right now.",
+    "Does this price include taxes?",
+    "I need cash, not a card payment."
   ]
 }
