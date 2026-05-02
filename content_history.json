@@ -1882,6 +1882,18 @@
         "My favorite is number seven, it feels lucky.",
         "Give me two minutes, I’ll be right there."
       ]
+    },
+    {
+      "timestamp": "2026-05-02T20:43:02.962202",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m obsessed with this song’s chorus, it’s stuck in my head.",
+        "This playlist has perfect songs for driving at night.",
+        "Can you turn it up? This beat is too good to ignore.",
+        "I love live concerts because the crowd sings with you.",
+        "That singer’s voice is unreal, it gives me chills."
+      ]
     }
   ],
   "used_phrases": [
@@ -2661,6 +2673,11 @@
     "What time is it? I’m late, but don’t panic.",
     "I’m number one on the list, so let’s go!",
     "My favorite is number seven, it feels lucky.",
-    "Give me two minutes, I’ll be right there."
+    "Give me two minutes, I’ll be right there.",
+    "I’m obsessed with this song’s chorus, it’s stuck in my head.",
+    "This playlist has perfect songs for driving at night.",
+    "Can you turn it up? This beat is too good to ignore.",
+    "I love live concerts because the crowd sings with you.",
+    "That singer’s voice is unreal, it gives me chills."
   ]
 }
