@@ -1870,6 +1870,18 @@
         "Does this price include taxes?",
         "I need cash, not a card payment."
       ]
+    },
+    {
+      "timestamp": "2026-05-02T09:07:35.260793",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "It’s 3 pm, and I’m ready for coffee.",
+        "What time is it? I’m late, but don’t panic.",
+        "I’m number one on the list, so let’s go!",
+        "My favorite is number seven, it feels lucky.",
+        "Give me two minutes, I’ll be right there."
+      ]
     }
   ],
   "used_phrases": [
@@ -2644,6 +2656,11 @@
     "Can you split the bill with me, please?",
     "I’m checking my bank balance right now.",
     "Does this price include taxes?",
-    "I need cash, not a card payment."
+    "I need cash, not a card payment.",
+    "It’s 3 pm, and I’m ready for coffee.",
+    "What time is it? I’m late, but don’t panic.",
+    "I’m number one on the list, so let’s go!",
+    "My favorite is number seven, it feels lucky.",
+    "Give me two minutes, I’ll be right there."
   ]
 }
