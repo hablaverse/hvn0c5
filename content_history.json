@@ -1918,6 +1918,18 @@
         "Call me at six, I’ll be free then.",
         "My number is five, so please listen carefully."
       ]
+    },
+    {
+      "timestamp": "2026-05-04T16:03:57.513346",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "I need help with this Spanish homework, please.",
+        "Can you speak slower? I’m learning Spanish.",
+        "I don’t understand, can you explain it again?",
+        "Where is the library? I need books.",
+        "Please write it down for me, quickly."
+      ]
     }
   ],
   "used_phrases": [
@@ -2712,6 +2724,11 @@
     "It’s ten minutes past two, hurry up!",
     "I’m meeting you at seven o’clock, not later.",
     "Call me at six, I’ll be free then.",
-    "My number is five, so please listen carefully."
+    "My number is five, so please listen carefully.",
+    "I need help with this Spanish homework, please.",
+    "Can you speak slower? I’m learning Spanish.",
+    "I don’t understand, can you explain it again?",
+    "Where is the library? I need books.",
+    "Please write it down for me, quickly."
   ]
 }
