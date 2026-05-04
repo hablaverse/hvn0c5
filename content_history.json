@@ -1906,6 +1906,18 @@
         "This banana is yellow, and it’s perfectly sweet.",
         "Your hoodie is dark green, and it looks super cool."
       ]
+    },
+    {
+      "timestamp": "2026-05-04T10:14:34.825393",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "What time is it now, and are we early?",
+        "It’s ten minutes past two, hurry up!",
+        "I’m meeting you at seven o’clock, not later.",
+        "Call me at six, I’ll be free then.",
+        "My number is five, so please listen carefully."
+      ]
     }
   ],
   "used_phrases": [
@@ -2695,6 +2707,11 @@
     "The sky is light blue today, and it feels calm.",
     "My phone case is black, but it never gets dirty.",
     "This banana is yellow, and it’s perfectly sweet.",
-    "Your hoodie is dark green, and it looks super cool."
+    "Your hoodie is dark green, and it looks super cool.",
+    "What time is it now, and are we early?",
+    "It’s ten minutes past two, hurry up!",
+    "I’m meeting you at seven o’clock, not later.",
+    "Call me at six, I’ll be free then.",
+    "My number is five, so please listen carefully."
   ]
 }
