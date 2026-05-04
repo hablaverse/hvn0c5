@@ -1930,6 +1930,18 @@
         "Where is the library? I need books.",
         "Please write it down for me, quickly."
       ]
+    },
+    {
+      "timestamp": "2026-05-04T21:10:43.735128",
+      "category": "Romantic Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "I have a crush on you, and I mean it.",
+        "You make me smile, and that’s my favorite feeling.",
+        "I like your vibe, it feels warm and safe.",
+        "Can I hold your hand right now?",
+        "I missed you today, and it’s honestly embarrassing."
+      ]
     }
   ],
   "used_phrases": [
@@ -2729,6 +2741,11 @@
     "Can you speak slower? I’m learning Spanish.",
     "I don’t understand, can you explain it again?",
     "Where is the library? I need books.",
-    "Please write it down for me, quickly."
+    "Please write it down for me, quickly.",
+    "I have a crush on you, and I mean it.",
+    "You make me smile, and that’s my favorite feeling.",
+    "I like your vibe, it feels warm and safe.",
+    "Can I hold your hand right now?",
+    "I missed you today, and it’s honestly embarrassing."
   ]
 }
