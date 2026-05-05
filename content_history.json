@@ -1942,6 +1942,18 @@
         "Can I hold your hand right now?",
         "I missed you today, and it’s honestly embarrassing."
       ]
+    },
+    {
+      "timestamp": "2026-05-05T10:04:17.258966",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m out of breath after one lap, wow!",
+        "I’m sore everywhere, even my legs feel heavy.",
+        "I forgot my water bottle, so I’m drinking juice today.",
+        "Can we stretch first? It saves my back!",
+        "My coach says slow down, so I listen."
+      ]
     }
   ],
   "used_phrases": [
@@ -2746,6 +2758,11 @@
     "You make me smile, and that’s my favorite feeling.",
     "I like your vibe, it feels warm and safe.",
     "Can I hold your hand right now?",
-    "I missed you today, and it’s honestly embarrassing."
+    "I missed you today, and it’s honestly embarrassing.",
+    "I’m out of breath after one lap, wow!",
+    "I’m sore everywhere, even my legs feel heavy.",
+    "I forgot my water bottle, so I’m drinking juice today.",
+    "Can we stretch first? It saves my back!",
+    "My coach says slow down, so I listen."
   ]
 }
