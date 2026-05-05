@@ -1954,6 +1954,18 @@
         "Can we stretch first? It saves my back!",
         "My coach says slow down, so I listen."
       ]
+    },
+    {
+      "timestamp": "2026-05-05T21:46:37.619232",
+      "category": "Colors & Descriptions",
+      "num_phrases": 5,
+      "phrases": [
+        "That red shirt looks amazing on you.",
+        "This blue backpack is my favorite.",
+        "I love green trees; they feel so fresh.",
+        "The yellow banana is ripe and so sweet.",
+        "Your black shoes look super classy."
+      ]
     }
   ],
   "used_phrases": [
@@ -2763,6 +2775,11 @@
     "I’m sore everywhere, even my legs feel heavy.",
     "I forgot my water bottle, so I’m drinking juice today.",
     "Can we stretch first? It saves my back!",
-    "My coach says slow down, so I listen."
+    "My coach says slow down, so I listen.",
+    "That red shirt looks amazing on you.",
+    "This blue backpack is my favorite.",
+    "I love green trees; they feel so fresh.",
+    "The yellow banana is ripe and so sweet.",
+    "Your black shoes look super classy."
   ]
 }
