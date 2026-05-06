@@ -1966,6 +1966,18 @@
         "The yellow banana is ripe and so sweet.",
         "Your black shoes look super classy."
       ]
+    },
+    {
+      "timestamp": "2026-05-06T10:20:14.090796",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel nervous before speeches, but I keep going anyway.",
+        "I’m excited for tacos tonight, my mood is perfect!",
+        "I’m bored in lines, so I start people-watching.",
+        "I’m tired, but I’m okay. One more walk!",
+        "I’m relieved the rain stopped. Now I can breathe!"
+      ]
     }
   ],
   "used_phrases": [
@@ -2780,6 +2792,11 @@
     "This blue backpack is my favorite.",
     "I love green trees; they feel so fresh.",
     "The yellow banana is ripe and so sweet.",
-    "Your black shoes look super classy."
+    "Your black shoes look super classy.",
+    "I feel nervous before speeches, but I keep going anyway.",
+    "I’m excited for tacos tonight, my mood is perfect!",
+    "I’m bored in lines, so I start people-watching.",
+    "I’m tired, but I’m okay. One more walk!",
+    "I’m relieved the rain stopped. Now I can breathe!"
   ]
 }
