@@ -1990,6 +1990,18 @@
         "Bunnies are so cute; I want to hug them.",
         "Birds wake me up, and I secretly love it."
       ]
+    },
+    {
+      "timestamp": "2026-05-06T21:12:52.692579",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel jealous when my friend gets all the attention.",
+        "I’m proud of you for trying, not just for winning.",
+        "I feel annoyed when people talk during movies.",
+        "I’m embarrassed because I dropped my keys.",
+        "I feel calm now that everything is under control."
+      ]
     }
   ],
   "used_phrases": [
@@ -2814,6 +2826,11 @@
     "Dogs are the happiest neighbors in my whole street.",
     "I’m scared of spiders, but I don’t panic.",
     "Bunnies are so cute; I want to hug them.",
-    "Birds wake me up, and I secretly love it."
+    "Birds wake me up, and I secretly love it.",
+    "I feel jealous when my friend gets all the attention.",
+    "I’m proud of you for trying, not just for winning.",
+    "I feel annoyed when people talk during movies.",
+    "I’m embarrassed because I dropped my keys.",
+    "I feel calm now that everything is under control."
   ]
 }
