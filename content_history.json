@@ -1978,6 +1978,18 @@
         "I’m tired, but I’m okay. One more walk!",
         "I’m relieved the rain stopped. Now I can breathe!"
       ]
+    },
+    {
+      "timestamp": "2026-05-06T16:03:36.045373",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "I love cats, they are my little daily heroes.",
+        "Dogs are the happiest neighbors in my whole street.",
+        "I’m scared of spiders, but I don’t panic.",
+        "Bunnies are so cute; I want to hug them.",
+        "Birds wake me up, and I secretly love it."
+      ]
     }
   ],
   "used_phrases": [
@@ -2797,6 +2809,11 @@
     "I’m excited for tacos tonight, my mood is perfect!",
     "I’m bored in lines, so I start people-watching.",
     "I’m tired, but I’m okay. One more walk!",
-    "I’m relieved the rain stopped. Now I can breathe!"
+    "I’m relieved the rain stopped. Now I can breathe!",
+    "I love cats, they are my little daily heroes.",
+    "Dogs are the happiest neighbors in my whole street.",
+    "I’m scared of spiders, but I don’t panic.",
+    "Bunnies are so cute; I want to hug them.",
+    "Birds wake me up, and I secretly love it."
   ]
 }
