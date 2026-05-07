@@ -2014,6 +2014,18 @@
         "Can you turn it up? I can’t hear the beat!",
         "Wait, play the chorus again. That part is everything!"
       ]
+    },
+    {
+      "timestamp": "2026-05-07T16:09:36.508047",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "Help! I need a doctor right now, please.",
+        "Call 911! Someone is hurt badly here!",
+        "I’m lost. Can you help me find my way?",
+        "Stop! Don’t touch that. It’s dangerous!",
+        "I swallowed something. I need help immediately!"
+      ]
     }
   ],
   "used_phrases": [
@@ -2848,6 +2860,11 @@
     "Is this live, or is it just a recording?",
     "That movie was wild; I laughed and screamed!",
     "Can you turn it up? I can’t hear the beat!",
-    "Wait, play the chorus again. That part is everything!"
+    "Wait, play the chorus again. That part is everything!",
+    "Help! I need a doctor right now, please.",
+    "Call 911! Someone is hurt badly here!",
+    "I’m lost. Can you help me find my way?",
+    "Stop! Don’t touch that. It’s dangerous!",
+    "I swallowed something. I need help immediately!"
   ]
 }
