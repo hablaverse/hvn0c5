@@ -2002,6 +2002,18 @@
         "I’m embarrassed because I dropped my keys.",
         "I feel calm now that everything is under control."
       ]
+    },
+    {
+      "timestamp": "2026-05-07T10:25:59.578781",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "What song is this? I need the title now!",
+        "Is this live, or is it just a recording?",
+        "That movie was wild; I laughed and screamed!",
+        "Can you turn it up? I can’t hear the beat!",
+        "Wait, play the chorus again. That part is everything!"
+      ]
     }
   ],
   "used_phrases": [
@@ -2831,6 +2843,11 @@
     "I’m proud of you for trying, not just for winning.",
     "I feel annoyed when people talk during movies.",
     "I’m embarrassed because I dropped my keys.",
-    "I feel calm now that everything is under control."
+    "I feel calm now that everything is under control.",
+    "What song is this? I need the title now!",
+    "Is this live, or is it just a recording?",
+    "That movie was wild; I laughed and screamed!",
+    "Can you turn it up? I can’t hear the beat!",
+    "Wait, play the chorus again. That part is everything!"
   ]
 }
