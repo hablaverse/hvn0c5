@@ -2026,6 +2026,18 @@
         "Stop! Don’t touch that. It’s dangerous!",
         "I swallowed something. I need help immediately!"
       ]
+    },
+    {
+      "timestamp": "2026-05-07T21:06:36.732873",
+      "category": "Shopping",
+      "num_phrases": 5,
+      "phrases": [
+        "How much is this? I’m ready to buy.",
+        "Do you take cash, or only card?",
+        "Where is the checkout counter?",
+        "Does it come in another color?",
+        "I’ll take it. Do I get a receipt?"
+      ]
     }
   ],
   "used_phrases": [
@@ -2865,6 +2877,11 @@
     "Call 911! Someone is hurt badly here!",
     "I’m lost. Can you help me find my way?",
     "Stop! Don’t touch that. It’s dangerous!",
-    "I swallowed something. I need help immediately!"
+    "I swallowed something. I need help immediately!",
+    "How much is this? I’m ready to buy.",
+    "Do you take cash, or only card?",
+    "Where is the checkout counter?",
+    "Does it come in another color?",
+    "I’ll take it. Do I get a receipt?"
   ]
 }
