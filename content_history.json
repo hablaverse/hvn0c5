@@ -2038,6 +2038,18 @@
         "Does it come in another color?",
         "I’ll take it. Do I get a receipt?"
       ]
+    },
+    {
+      "timestamp": "2026-05-08T09:22:44.500466",
+      "category": "Romantic Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "Can I kiss you, just one time, right now?",
+        "You look amazing tonight; I can’t stop staring.",
+        "I brought you flowers because you deserve the best.",
+        "I miss you; can we talk for a bit?",
+        "Let’s go on a date; I’ll pick the place."
+      ]
     }
   ],
   "used_phrases": [
@@ -2882,6 +2894,11 @@
     "Do you take cash, or only card?",
     "Where is the checkout counter?",
     "Does it come in another color?",
-    "I’ll take it. Do I get a receipt?"
+    "I’ll take it. Do I get a receipt?",
+    "Can I kiss you, just one time, right now?",
+    "You look amazing tonight; I can’t stop staring.",
+    "I brought you flowers because you deserve the best.",
+    "I miss you; can we talk for a bit?",
+    "Let’s go on a date; I’ll pick the place."
   ]
 }
