@@ -2062,6 +2062,18 @@
         "I speak a little Spanish, but I’m improving fast.",
         "Do you know any fun Spanish slang for beginners?"
       ]
+    },
+    {
+      "timestamp": "2026-05-08T21:01:32.684341",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m scared of spiders, even the small ones at home.",
+        "Cats always find me, even when I don’t want them.",
+        "Dogs are my favorite; they make travel feel friendly.",
+        "Don’t feed pigeons here; they get too bold fast.",
+        "I love horses; they look calm and strong in parks."
+      ]
     }
   ],
   "used_phrases": [
@@ -2916,6 +2928,11 @@
     "What does this mean? I want the real translation.",
     "Where is the bathroom? I’ll be right back.",
     "I speak a little Spanish, but I’m improving fast.",
-    "Do you know any fun Spanish slang for beginners?"
+    "Do you know any fun Spanish slang for beginners?",
+    "I’m scared of spiders, even the small ones at home.",
+    "Cats always find me, even when I don’t want them.",
+    "Dogs are my favorite; they make travel feel friendly.",
+    "Don’t feed pigeons here; they get too bold fast.",
+    "I love horses; they look calm and strong in parks."
   ]
 }
