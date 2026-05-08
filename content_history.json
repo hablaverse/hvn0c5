@@ -2050,6 +2050,18 @@
         "I miss you; can we talk for a bit?",
         "Let’s go on a date; I’ll pick the place."
       ]
+    },
+    {
+      "timestamp": "2026-05-08T15:23:25.524318",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you speak slower, please? I’m learning.",
+        "What does this mean? I want the real translation.",
+        "Where is the bathroom? I’ll be right back.",
+        "I speak a little Spanish, but I’m improving fast.",
+        "Do you know any fun Spanish slang for beginners?"
+      ]
     }
   ],
   "used_phrases": [
@@ -2899,6 +2911,11 @@
     "You look amazing tonight; I can’t stop staring.",
     "I brought you flowers because you deserve the best.",
     "I miss you; can we talk for a bit?",
-    "Let’s go on a date; I’ll pick the place."
+    "Let’s go on a date; I’ll pick the place.",
+    "Can you speak slower, please? I’m learning.",
+    "What does this mean? I want the real translation.",
+    "Where is the bathroom? I’ll be right back.",
+    "I speak a little Spanish, but I’m improving fast.",
+    "Do you know any fun Spanish slang for beginners?"
   ]
 }
