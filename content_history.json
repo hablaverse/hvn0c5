@@ -2074,6 +2074,18 @@
         "Don’t feed pigeons here; they get too bold fast.",
         "I love horses; they look calm and strong in parks."
       ]
+    },
+    {
+      "timestamp": "2026-05-09T09:20:46.792081",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the closest train station from here?",
+        "My phone is at one percent. Do you have Wi-Fi?",
+        "How do I get to the museum by bus?",
+        "Can you help me book a tour for tomorrow?",
+        "I’m looking for a pharmacy. Is it around here?"
+      ]
     }
   ],
   "used_phrases": [
@@ -2933,6 +2945,11 @@
     "Cats always find me, even when I don’t want them.",
     "Dogs are my favorite; they make travel feel friendly.",
     "Don’t feed pigeons here; they get too bold fast.",
-    "I love horses; they look calm and strong in parks."
+    "I love horses; they look calm and strong in parks.",
+    "Where is the closest train station from here?",
+    "My phone is at one percent. Do you have Wi-Fi?",
+    "How do I get to the museum by bus?",
+    "Can you help me book a tour for tomorrow?",
+    "I’m looking for a pharmacy. Is it around here?"
   ]
 }
