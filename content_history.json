@@ -2098,6 +2098,18 @@
         "Is there free Wi-Fi here? I need it right now.",
         "I accidentally closed the tab. Can I open it again?"
       ]
+    },
+    {
+      "timestamp": "2026-05-09T20:44:05.659419",
+      "category": "Work & Business",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m here for the meeting, not for small talk.",
+        "Let’s schedule the call for tomorrow morning.",
+        "Can you email me the invoice, please?",
+        "I’ll review it today and send feedback fast.",
+        "We need a quote by Friday, no later."
+      ]
     }
   ],
   "used_phrases": [
@@ -2967,6 +2979,11 @@
     "Where is the power outlet? My phone is dying fast.",
     "I can’t log in, my password keeps getting rejected.",
     "Is there free Wi-Fi here? I need it right now.",
-    "I accidentally closed the tab. Can I open it again?"
+    "I accidentally closed the tab. Can I open it again?",
+    "I’m here for the meeting, not for small talk.",
+    "Let’s schedule the call for tomorrow morning.",
+    "Can you email me the invoice, please?",
+    "I’ll review it today and send feedback fast.",
+    "We need a quote by Friday, no later."
   ]
 }
