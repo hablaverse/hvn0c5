@@ -2086,6 +2086,18 @@
         "Can you help me book a tour for tomorrow?",
         "I’m looking for a pharmacy. Is it around here?"
       ]
+    },
+    {
+      "timestamp": "2026-05-09T14:52:17.772201",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "My Wi-Fi password is wrong, can you help me reset?",
+        "Where is the power outlet? My phone is dying fast.",
+        "I can’t log in, my password keeps getting rejected.",
+        "Is there free Wi-Fi here? I need it right now.",
+        "I accidentally closed the tab. Can I open it again?"
+      ]
     }
   ],
   "used_phrases": [
@@ -2950,6 +2962,11 @@
     "My phone is at one percent. Do you have Wi-Fi?",
     "How do I get to the museum by bus?",
     "Can you help me book a tour for tomorrow?",
-    "I’m looking for a pharmacy. Is it around here?"
+    "I’m looking for a pharmacy. Is it around here?",
+    "My Wi-Fi password is wrong, can you help me reset?",
+    "Where is the power outlet? My phone is dying fast.",
+    "I can’t log in, my password keeps getting rejected.",
+    "Is there free Wi-Fi here? I need it right now.",
+    "I accidentally closed the tab. Can I open it again?"
   ]
 }
