@@ -2134,6 +2134,18 @@
         "I want your attention, but I’m being polite.",
         "I’m jealous, but in a cute way, I promise."
       ]
+    },
+    {
+      "timestamp": "2026-05-10T20:48:54.557260",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m sick, but I feel better after coffee and soup.",
+        "My stomach hurts, so I’ll skip spicy food today.",
+        "I need to use the bathroom right now, please.",
+        "I’m allergic to cats, and that’s my worst day.",
+        "I hurt my knee playing soccer, so it’s swollen."
+      ]
     }
   ],
   "used_phrases": [
@@ -3018,6 +3030,11 @@
     "You smell amazing; I keep thinking about you.",
     "Can we go on a date this weekend? Please!",
     "I want your attention, but I’m being polite.",
-    "I’m jealous, but in a cute way, I promise."
+    "I’m jealous, but in a cute way, I promise.",
+    "I’m sick, but I feel better after coffee and soup.",
+    "My stomach hurts, so I’ll skip spicy food today.",
+    "I need to use the bathroom right now, please.",
+    "I’m allergic to cats, and that’s my worst day.",
+    "I hurt my knee playing soccer, so it’s swollen."
   ]
 }
