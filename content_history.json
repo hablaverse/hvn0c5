@@ -2110,6 +2110,18 @@
         "I’ll review it today and send feedback fast.",
         "We need a quote by Friday, no later."
       ]
+    },
+    {
+      "timestamp": "2026-05-10T09:28:59.524250",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "This song is stuck in my head all day.",
+        "Where can I buy tickets for this concert?",
+        "What time does the show start tonight?",
+        "Is there an opening act before the main artist?",
+        "I love this artist, but I don’t know their lyrics."
+      ]
     }
   ],
   "used_phrases": [
@@ -2984,6 +2996,11 @@
     "Let’s schedule the call for tomorrow morning.",
     "Can you email me the invoice, please?",
     "I’ll review it today and send feedback fast.",
-    "We need a quote by Friday, no later."
+    "We need a quote by Friday, no later.",
+    "This song is stuck in my head all day.",
+    "Where can I buy tickets for this concert?",
+    "What time does the show start tonight?",
+    "Is there an opening act before the main artist?",
+    "I love this artist, but I don’t know their lyrics."
   ]
 }
