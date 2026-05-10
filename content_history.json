@@ -2122,6 +2122,18 @@
         "Is there an opening act before the main artist?",
         "I love this artist, but I don’t know their lyrics."
       ]
+    },
+    {
+      "timestamp": "2026-05-10T14:53:51.016216",
+      "category": "Romantic Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "I really like you, and I hope you feel it too.",
+        "You smell amazing; I keep thinking about you.",
+        "Can we go on a date this weekend? Please!",
+        "I want your attention, but I’m being polite.",
+        "I’m jealous, but in a cute way, I promise."
+      ]
     }
   ],
   "used_phrases": [
@@ -3001,6 +3013,11 @@
     "Where can I buy tickets for this concert?",
     "What time does the show start tonight?",
     "Is there an opening act before the main artist?",
-    "I love this artist, but I don’t know their lyrics."
+    "I love this artist, but I don’t know their lyrics.",
+    "I really like you, and I hope you feel it too.",
+    "You smell amazing; I keep thinking about you.",
+    "Can we go on a date this weekend? Please!",
+    "I want your attention, but I’m being polite.",
+    "I’m jealous, but in a cute way, I promise."
   ]
 }
