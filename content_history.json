@@ -2146,6 +2146,18 @@
         "I’m allergic to cats, and that’s my worst day.",
         "I hurt my knee playing soccer, so it’s swollen."
       ]
+    },
+    {
+      "timestamp": "2026-05-11T11:21:35.202347",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "My throat hurts, so I’m drinking hot tea.",
+        "I have a headache, and the lights are too bright.",
+        "I’m feeling dizzy, so I’m sitting down now.",
+        "My back hurts, so I’m stretching gently.",
+        "I have a fever, so I’m resting at home."
+      ]
     }
   ],
   "used_phrases": [
@@ -3035,6 +3047,11 @@
     "My stomach hurts, so I’ll skip spicy food today.",
     "I need to use the bathroom right now, please.",
     "I’m allergic to cats, and that’s my worst day.",
-    "I hurt my knee playing soccer, so it’s swollen."
+    "I hurt my knee playing soccer, so it’s swollen.",
+    "My throat hurts, so I’m drinking hot tea.",
+    "I have a headache, and the lights are too bright.",
+    "I’m feeling dizzy, so I’m sitting down now.",
+    "My back hurts, so I’m stretching gently.",
+    "I have a fever, so I’m resting at home."
   ]
 }
