@@ -2158,6 +2158,18 @@
         "My back hurts, so I’m stretching gently.",
         "I have a fever, so I’m resting at home."
       ]
+    },
+    {
+      "timestamp": "2026-05-11T16:34:15.745996",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "I have two dollars left, so please be quick.",
+        "Today is Monday, and I’m finally relaxed.",
+        "I work from nine to five, every weekday.",
+        "I need one more minute, then we leave.",
+        "It’s already three pm, so hurry up."
+      ]
     }
   ],
   "used_phrases": [
@@ -3052,6 +3064,11 @@
     "I have a headache, and the lights are too bright.",
     "I’m feeling dizzy, so I’m sitting down now.",
     "My back hurts, so I’m stretching gently.",
-    "I have a fever, so I’m resting at home."
+    "I have a fever, so I’m resting at home.",
+    "I have two dollars left, so please be quick.",
+    "Today is Monday, and I’m finally relaxed.",
+    "I work from nine to five, every weekday.",
+    "I need one more minute, then we leave.",
+    "It’s already three pm, so hurry up."
   ]
 }
