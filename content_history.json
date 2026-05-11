@@ -2170,6 +2170,18 @@
         "I need one more minute, then we leave.",
         "It’s already three pm, so hurry up."
       ]
+    },
+    {
+      "timestamp": "2026-05-11T21:18:12.635505",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good morning! How are you today?",
+        "Hi! What’s up? Did you sleep well?",
+        "Hello! Nice to see you today.",
+        "Good afternoon! Are you busy right now?",
+        "Good night! Sleep well, see you tomorrow."
+      ]
     }
   ],
   "used_phrases": [
@@ -3069,6 +3081,11 @@
     "Today is Monday, and I’m finally relaxed.",
     "I work from nine to five, every weekday.",
     "I need one more minute, then we leave.",
-    "It’s already three pm, so hurry up."
+    "It’s already three pm, so hurry up.",
+    "Good morning! How are you today?",
+    "Hi! What’s up? Did you sleep well?",
+    "Hello! Nice to see you today.",
+    "Good afternoon! Are you busy right now?",
+    "Good night! Sleep well, see you tomorrow."
   ]
 }
