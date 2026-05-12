@@ -2182,6 +2182,18 @@
         "Good afternoon! Are you busy right now?",
         "Good night! Sleep well, see you tomorrow."
       ]
+    },
+    {
+      "timestamp": "2026-05-12T10:44:39.623125",
+      "category": "Colors & Descriptions",
+      "num_phrases": 5,
+      "phrases": [
+        "This red apple looks sweeter than it really is.",
+        "That blue shirt is my favorite because it pops.",
+        "Green tea tastes fresh, like the color itself.",
+        "Your yellow shoes make walking feel more fun.",
+        "I love black coffee; it feels strong and simple."
+      ]
     }
   ],
   "used_phrases": [
@@ -3086,6 +3098,11 @@
     "Hi! What’s up? Did you sleep well?",
     "Hello! Nice to see you today.",
     "Good afternoon! Are you busy right now?",
-    "Good night! Sleep well, see you tomorrow."
+    "Good night! Sleep well, see you tomorrow.",
+    "This red apple looks sweeter than it really is.",
+    "That blue shirt is my favorite because it pops.",
+    "Green tea tastes fresh, like the color itself.",
+    "Your yellow shoes make walking feel more fun.",
+    "I love black coffee; it feels strong and simple."
   ]
 }
