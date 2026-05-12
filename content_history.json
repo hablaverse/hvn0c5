@@ -2194,6 +2194,18 @@
         "Your yellow shoes make walking feel more fun.",
         "I love black coffee; it feels strong and simple."
       ]
+    },
+    {
+      "timestamp": "2026-05-12T21:21:20.393414",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m scared of dogs, even the friendly ones.",
+        "Cats love boxes, and mine always steals mine.",
+        "My neighbor’s parrot repeats everything like a tiny comedian.",
+        "I have a turtle, and it never hurries.",
+        "Horses are strong, but they scare me at first."
+      ]
     }
   ],
   "used_phrases": [
@@ -3103,6 +3115,11 @@
     "That blue shirt is my favorite because it pops.",
     "Green tea tastes fresh, like the color itself.",
     "Your yellow shoes make walking feel more fun.",
-    "I love black coffee; it feels strong and simple."
+    "I love black coffee; it feels strong and simple.",
+    "I’m scared of dogs, even the friendly ones.",
+    "Cats love boxes, and mine always steals mine.",
+    "My neighbor’s parrot repeats everything like a tiny comedian.",
+    "I have a turtle, and it never hurries.",
+    "Horses are strong, but they scare me at first."
   ]
 }
