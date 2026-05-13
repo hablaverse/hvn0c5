@@ -2218,6 +2218,18 @@
         "Can you spot me? I’m lifting, not teleporting.",
         "I’m skipping sweets, because my stomach wants protein."
       ]
+    },
+    {
+      "timestamp": "2026-05-13T16:32:43.266157",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m ten minutes late, sorry, my bus was slow.",
+        "What time is it right now, exactly?",
+        "I have one ticket for tonight’s show.",
+        "My phone is at twenty percent, please charge it.",
+        "I’m free at three o’clock, come by anytime."
+      ]
     }
   ],
   "used_phrases": [
@@ -3137,6 +3149,11 @@
     "My muscles are sore, so today is my recovery day.",
     "No pain, no gain, but I’m keeping it safe today.",
     "Can you spot me? I’m lifting, not teleporting.",
-    "I’m skipping sweets, because my stomach wants protein."
+    "I’m skipping sweets, because my stomach wants protein.",
+    "I’m ten minutes late, sorry, my bus was slow.",
+    "What time is it right now, exactly?",
+    "I have one ticket for tonight’s show.",
+    "My phone is at twenty percent, please charge it.",
+    "I’m free at three o’clock, come by anytime."
   ]
 }
