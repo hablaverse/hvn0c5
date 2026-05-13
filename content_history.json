@@ -2206,6 +2206,18 @@
         "I have a turtle, and it never hurries.",
         "Horses are strong, but they scare me at first."
       ]
+    },
+    {
+      "timestamp": "2026-05-13T10:29:39.082138",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m out of breath, but I want one more lap.",
+        "My muscles are sore, so today is my recovery day.",
+        "No pain, no gain, but I’m keeping it safe today.",
+        "Can you spot me? I’m lifting, not teleporting.",
+        "I’m skipping sweets, because my stomach wants protein."
+      ]
     }
   ],
   "used_phrases": [
@@ -3120,6 +3132,11 @@
     "Cats love boxes, and mine always steals mine.",
     "My neighbor’s parrot repeats everything like a tiny comedian.",
     "I have a turtle, and it never hurries.",
-    "Horses are strong, but they scare me at first."
+    "Horses are strong, but they scare me at first.",
+    "I’m out of breath, but I want one more lap.",
+    "My muscles are sore, so today is my recovery day.",
+    "No pain, no gain, but I’m keeping it safe today.",
+    "Can you spot me? I’m lifting, not teleporting.",
+    "I’m skipping sweets, because my stomach wants protein."
   ]
 }
