@@ -2230,6 +2230,18 @@
         "My phone is at twenty percent, please charge it.",
         "I’m free at three o’clock, come by anytime."
       ]
+    },
+    {
+      "timestamp": "2026-05-13T21:27:59.990939",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the bathroom? I really need it now.",
+        "How much is this? I want to buy it today.",
+        "I don’t understand. Can you say it again, please?",
+        "Is there Wi-Fi here? I need it for my phone.",
+        "I’m just looking, but thank you for your help."
+      ]
     }
   ],
   "used_phrases": [
@@ -3154,6 +3166,11 @@
     "What time is it right now, exactly?",
     "I have one ticket for tonight’s show.",
     "My phone is at twenty percent, please charge it.",
-    "I’m free at three o’clock, come by anytime."
+    "I’m free at three o’clock, come by anytime.",
+    "Where is the bathroom? I really need it now.",
+    "How much is this? I want to buy it today.",
+    "I don’t understand. Can you say it again, please?",
+    "Is there Wi-Fi here? I need it for my phone.",
+    "I’m just looking, but thank you for your help."
   ]
 }
