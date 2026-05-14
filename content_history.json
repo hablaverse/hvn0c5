@@ -2254,6 +2254,18 @@
         "I watch football, and I shout like a cheering robot.",
         "I paint on weekends, and my room looks like a circus."
       ]
+    },
+    {
+      "timestamp": "2026-05-14T16:11:32.487013",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "This shirt fits me perfectly, no pulling or tugging.",
+        "These shoes are comfy, so I walk all day.",
+        "My jacket looks cool, even when the weather is weird.",
+        "I want a plain tee, not something too loud.",
+        "This color makes my face look brighter instantly."
+      ]
     }
   ],
   "used_phrases": [
@@ -3188,6 +3200,11 @@
     "I’m learning guitar, but my cat judges every chord.",
     "I go running early, because mornings feel like free therapy.",
     "I watch football, and I shout like a cheering robot.",
-    "I paint on weekends, and my room looks like a circus."
+    "I paint on weekends, and my room looks like a circus.",
+    "This shirt fits me perfectly, no pulling or tugging.",
+    "These shoes are comfy, so I walk all day.",
+    "My jacket looks cool, even when the weather is weird.",
+    "I want a plain tee, not something too loud.",
+    "This color makes my face look brighter instantly."
   ]
 }
