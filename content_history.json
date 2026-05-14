@@ -2242,6 +2242,18 @@
         "Is there Wi-Fi here? I need it for my phone.",
         "I’m just looking, but thank you for your help."
       ]
+    },
+    {
+      "timestamp": "2026-05-14T10:15:49.040749",
+      "category": "Hobbies & Activities",
+      "num_phrases": 5,
+      "phrases": [
+        "I love cooking tacos, and I always brag a little.",
+        "I’m learning guitar, but my cat judges every chord.",
+        "I go running early, because mornings feel like free therapy.",
+        "I watch football, and I shout like a cheering robot.",
+        "I paint on weekends, and my room looks like a circus."
+      ]
     }
   ],
   "used_phrases": [
@@ -3171,6 +3183,11 @@
     "How much is this? I want to buy it today.",
     "I don’t understand. Can you say it again, please?",
     "Is there Wi-Fi here? I need it for my phone.",
-    "I’m just looking, but thank you for your help."
+    "I’m just looking, but thank you for your help.",
+    "I love cooking tacos, and I always brag a little.",
+    "I’m learning guitar, but my cat judges every chord.",
+    "I go running early, because mornings feel like free therapy.",
+    "I watch football, and I shout like a cheering robot.",
+    "I paint on weekends, and my room looks like a circus."
   ]
 }
