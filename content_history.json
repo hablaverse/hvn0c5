@@ -2302,6 +2302,18 @@
         "I love this remix; it makes the song cooler.",
         "Can you turn it down? The volume hurts my head."
       ]
+    },
+    {
+      "timestamp": "2026-05-15T21:01:28.984952",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "Can I have water, please, not soda.",
+        "I’m allergic to nuts, so please be careful.",
+        "No cheese on my burger, please. Thanks!",
+        "This food is too salty. Can it be less?",
+        "I’ll have the chicken, not the fish."
+      ]
     }
   ],
   "used_phrases": [
@@ -3256,6 +3268,11 @@
     "Is this song on Spotify? I need it now.",
     "That movie is too long; I’m bored already.",
     "I love this remix; it makes the song cooler.",
-    "Can you turn it down? The volume hurts my head."
+    "Can you turn it down? The volume hurts my head.",
+    "Can I have water, please, not soda.",
+    "I’m allergic to nuts, so please be careful.",
+    "No cheese on my burger, please. Thanks!",
+    "This food is too salty. Can it be less?",
+    "I’ll have the chicken, not the fish."
   ]
 }
