@@ -2290,6 +2290,18 @@
         "My stomach hurts, and I need to rest.",
         "I have a sore throat, so no spicy food today."
       ]
+    },
+    {
+      "timestamp": "2026-05-15T16:04:42.306474",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "I hate loud concerts; my ears need peace, please.",
+        "Is this song on Spotify? I need it now.",
+        "That movie is too long; I’m bored already.",
+        "I love this remix; it makes the song cooler.",
+        "Can you turn it down? The volume hurts my head."
+      ]
     }
   ],
   "used_phrases": [
@@ -3239,6 +3251,11 @@
     "I’m out of breath, and I need a break.",
     "I’m thirsty, so please give me water.",
     "My stomach hurts, and I need to rest.",
-    "I have a sore throat, so no spicy food today."
+    "I have a sore throat, so no spicy food today.",
+    "I hate loud concerts; my ears need peace, please.",
+    "Is this song on Spotify? I need it now.",
+    "That movie is too long; I’m bored already.",
+    "I love this remix; it makes the song cooler.",
+    "Can you turn it down? The volume hurts my head."
   ]
 }
