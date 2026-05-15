@@ -2278,6 +2278,18 @@
         "This black hoodie makes me feel mysterious and brave.",
         "White bread is boring, but I still eat it."
       ]
+    },
+    {
+      "timestamp": "2026-05-15T10:25:45.550084",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel sick, so I’m staying home today.",
+        "I’m out of breath, and I need a break.",
+        "I’m thirsty, so please give me water.",
+        "My stomach hurts, and I need to rest.",
+        "I have a sore throat, so no spicy food today."
+      ]
     }
   ],
   "used_phrases": [
@@ -3222,6 +3234,11 @@
     "That blue sky looks unreal today, like a filter.",
     "My green plant looks happy, even if I forget water.",
     "This black hoodie makes me feel mysterious and brave.",
-    "White bread is boring, but I still eat it."
+    "White bread is boring, but I still eat it.",
+    "I feel sick, so I’m staying home today.",
+    "I’m out of breath, and I need a break.",
+    "I’m thirsty, so please give me water.",
+    "My stomach hurts, and I need to rest.",
+    "I have a sore throat, so no spicy food today."
   ]
 }
