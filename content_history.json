@@ -2338,6 +2338,18 @@
         "My dad is strict, but he means well.",
         "I respect my grandparents because they taught me a lot."
       ]
+    },
+    {
+      "timestamp": "2026-05-16T20:47:55.388500",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "This shirt feels too tight, so I need a bigger size.",
+        "Do you have this in black or navy, please?",
+        "My shoes are hurting my feet, so I need new ones.",
+        "I want a simple hairstyle that takes five minutes.",
+        "Can you recommend a moisturizer for dry skin?"
+      ]
     }
   ],
   "used_phrases": [
@@ -3307,6 +3319,11 @@
     "I love my sister, even when she annoys me.",
     "We argue, but we always make up fast.",
     "My dad is strict, but he means well.",
-    "I respect my grandparents because they taught me a lot."
+    "I respect my grandparents because they taught me a lot.",
+    "This shirt feels too tight, so I need a bigger size.",
+    "Do you have this in black or navy, please?",
+    "My shoes are hurting my feet, so I need new ones.",
+    "I want a simple hairstyle that takes five minutes.",
+    "Can you recommend a moisturizer for dry skin?"
   ]
 }
