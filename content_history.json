@@ -2326,6 +2326,18 @@
         "Today is Monday, and I feel unstoppable.",
         "Tomorrow is Friday, so almost there!"
       ]
+    },
+    {
+      "timestamp": "2026-05-16T14:57:26.124113",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you call your mom when you finish, please?",
+        "I love my sister, even when she annoys me.",
+        "We argue, but we always make up fast.",
+        "My dad is strict, but he means well.",
+        "I respect my grandparents because they taught me a lot."
+      ]
     }
   ],
   "used_phrases": [
@@ -3290,6 +3302,11 @@
     "Meet me at 3 p.m. near the cafe.",
     "I have class at two-thirty.",
     "Today is Monday, and I feel unstoppable.",
-    "Tomorrow is Friday, so almost there!"
+    "Tomorrow is Friday, so almost there!",
+    "Can you call your mom when you finish, please?",
+    "I love my sister, even when she annoys me.",
+    "We argue, but we always make up fast.",
+    "My dad is strict, but he means well.",
+    "I respect my grandparents because they taught me a lot."
   ]
 }
