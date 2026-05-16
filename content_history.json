@@ -2314,6 +2314,18 @@
         "This food is too salty. Can it be less?",
         "I’ll have the chicken, not the fish."
       ]
+    },
+    {
+      "timestamp": "2026-05-16T09:41:19.120418",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "It’s seven o’clock, and I’m running late.",
+        "Meet me at 3 p.m. near the cafe.",
+        "I have class at two-thirty.",
+        "Today is Monday, and I feel unstoppable.",
+        "Tomorrow is Friday, so almost there!"
+      ]
     }
   ],
   "used_phrases": [
@@ -3273,6 +3285,11 @@
     "I’m allergic to nuts, so please be careful.",
     "No cheese on my burger, please. Thanks!",
     "This food is too salty. Can it be less?",
-    "I’ll have the chicken, not the fish."
+    "I’ll have the chicken, not the fish.",
+    "It’s seven o’clock, and I’m running late.",
+    "Meet me at 3 p.m. near the cafe.",
+    "I have class at two-thirty.",
+    "Today is Monday, and I feel unstoppable.",
+    "Tomorrow is Friday, so almost there!"
   ]
 }
