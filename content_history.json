@@ -2350,6 +2350,18 @@
         "I want a simple hairstyle that takes five minutes.",
         "Can you recommend a moisturizer for dry skin?"
       ]
+    },
+    {
+      "timestamp": "2026-05-17T09:47:41.079093",
+      "category": "Romantic Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "You look amazing tonight, and I can’t stop smiling.",
+        "I miss you already, and it’s not even late.",
+        "Your laugh is my favorite sound, for real.",
+        "Let’s go on a cute date, just us two.",
+        "Hold my hand, I feel safe with you."
+      ]
     }
   ],
   "used_phrases": [
@@ -3324,6 +3336,11 @@
     "Do you have this in black or navy, please?",
     "My shoes are hurting my feet, so I need new ones.",
     "I want a simple hairstyle that takes five minutes.",
-    "Can you recommend a moisturizer for dry skin?"
+    "Can you recommend a moisturizer for dry skin?",
+    "You look amazing tonight, and I can’t stop smiling.",
+    "I miss you already, and it’s not even late.",
+    "Your laugh is my favorite sound, for real.",
+    "Let’s go on a cute date, just us two.",
+    "Hold my hand, I feel safe with you."
   ]
 }
