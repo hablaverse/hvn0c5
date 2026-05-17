@@ -2374,6 +2374,18 @@
         "I paint every weekend, and my walls look happier.",
         "I watch soccer, and I yell like a tiny referee."
       ]
+    },
+    {
+      "timestamp": "2026-05-17T20:52:56.781084",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel stressed, but I can handle it.",
+        "I'm so happy today, everything feels lighter.",
+        "I'm nervous before interviews, but I breathe slowly.",
+        "I'm sad, and I just need a quiet chat.",
+        "I'm embarrassed, I tripped in front of everyone."
+      ]
     }
   ],
   "used_phrases": [
@@ -3358,6 +3370,11 @@
     "I go jogging early, because coffee needs winners.",
     "I play video games, but only after I do chores.",
     "I paint every weekend, and my walls look happier.",
-    "I watch soccer, and I yell like a tiny referee."
+    "I watch soccer, and I yell like a tiny referee.",
+    "I feel stressed, but I can handle it.",
+    "I'm so happy today, everything feels lighter.",
+    "I'm nervous before interviews, but I breathe slowly.",
+    "I'm sad, and I just need a quiet chat.",
+    "I'm embarrassed, I tripped in front of everyone."
   ]
 }
