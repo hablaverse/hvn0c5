@@ -2362,6 +2362,18 @@
         "Let’s go on a cute date, just us two.",
         "Hold my hand, I feel safe with you."
       ]
+    },
+    {
+      "timestamp": "2026-05-17T14:57:31.354005",
+      "category": "Hobbies & Activities",
+      "num_phrases": 5,
+      "phrases": [
+        "I love cooking tacos, and everyone eats in five minutes.",
+        "I go jogging early, because coffee needs winners.",
+        "I play video games, but only after I do chores.",
+        "I paint every weekend, and my walls look happier.",
+        "I watch soccer, and I yell like a tiny referee."
+      ]
     }
   ],
   "used_phrases": [
@@ -3341,6 +3353,11 @@
     "I miss you already, and it’s not even late.",
     "Your laugh is my favorite sound, for real.",
     "Let’s go on a cute date, just us two.",
-    "Hold my hand, I feel safe with you."
+    "Hold my hand, I feel safe with you.",
+    "I love cooking tacos, and everyone eats in five minutes.",
+    "I go jogging early, because coffee needs winners.",
+    "I play video games, but only after I do chores.",
+    "I paint every weekend, and my walls look happier.",
+    "I watch soccer, and I yell like a tiny referee."
   ]
 }
