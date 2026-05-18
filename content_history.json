@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-13T09:42:00.696497",
-      "category": "Work & Business",
-      "num_phrases": 5,
-      "phrases": [
-        "I'll follow up by email tomorrow.",
-        "Can we move the meeting to 3 p.m.?",
-        "I'm in a client call, I will call you back in 20 minutes.",
-        "I need the report by Friday to meet the deadline.",
-        "Let's table this issue and prioritize the marketing campaign."
-      ]
-    },
-    {
       "timestamp": "2026-03-13T09:57:36.462954",
       "category": "Directions",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "I'm sad, and I just need a quiet chat.",
         "I'm embarrassed, I tripped in front of everyone."
       ]
+    },
+    {
+      "timestamp": "2026-05-18T11:45:16.521305",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "I forgot my wallet, so I paid with my phone.",
+        "That ATM charged me fees, and I was not amused.",
+        "I’m on a budget, so I skip fancy coffee.",
+        "I need to save money, not spend it on snacks.",
+        "I set a monthly limit, and I stick to it."
+      ]
     }
   ],
   "used_phrases": [
@@ -3375,6 +3375,11 @@
     "I'm so happy today, everything feels lighter.",
     "I'm nervous before interviews, but I breathe slowly.",
     "I'm sad, and I just need a quiet chat.",
-    "I'm embarrassed, I tripped in front of everyone."
+    "I'm embarrassed, I tripped in front of everyone.",
+    "I forgot my wallet, so I paid with my phone.",
+    "That ATM charged me fees, and I was not amused.",
+    "I’m on a budget, so I skip fancy coffee.",
+    "I need to save money, not spend it on snacks.",
+    "I set a monthly limit, and I stick to it."
   ]
 }
