@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-13T09:57:36.462954",
-      "category": "Directions",
-      "num_phrases": 5,
-      "phrases": [
-        "Where is the nearest subway station?",
-        "Turn left at the next traffic light.",
-        "Go straight for two blocks.",
-        "Take the second street on the right.",
-        "Is this the way to the beach?"
-      ]
-    },
-    {
       "timestamp": "2026-03-13T10:00:37.321887",
       "category": "Animals",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "I need to save money, not spend it on snacks.",
         "I set a monthly limit, and I stick to it."
       ]
+    },
+    {
+      "timestamp": "2026-05-18T16:48:31.827102",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the Wi-Fi password on the router label?",
+        "My phone says I have no internet, but Wi-Fi is on.",
+        "Can you share the Wi-Fi password with me, please?",
+        "Does this website work in Spanish, or only English?",
+        "I need a SIM card, not just Wi-Fi for roaming."
+      ]
     }
   ],
   "used_phrases": [
@@ -3380,6 +3380,11 @@
     "That ATM charged me fees, and I was not amused.",
     "I’m on a budget, so I skip fancy coffee.",
     "I need to save money, not spend it on snacks.",
-    "I set a monthly limit, and I stick to it."
+    "I set a monthly limit, and I stick to it.",
+    "Where is the Wi-Fi password on the router label?",
+    "My phone says I have no internet, but Wi-Fi is on.",
+    "Can you share the Wi-Fi password with me, please?",
+    "Does this website work in Spanish, or only English?",
+    "I need a SIM card, not just Wi-Fi for roaming."
   ]
 }
