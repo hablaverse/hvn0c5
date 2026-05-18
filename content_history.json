@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-13T10:00:37.321887",
-      "category": "Animals",
-      "num_phrases": 5,
-      "phrases": [
-        "I'm allergic to cats.",
-        "That dog is very friendly.",
-        "Do you have a pet?",
-        "I saw a fox last night.",
-        "Birds wake me up early."
-      ]
-    },
-    {
       "timestamp": "2026-03-13T10:27:36.706057",
       "category": "Numbers & Time",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "Does this website work in Spanish, or only English?",
         "I need a SIM card, not just Wi-Fi for roaming."
       ]
+    },
+    {
+      "timestamp": "2026-05-18T21:13:44.068722",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "I paid cash, so no credit card fees today.",
+        "How much is it per month, for the plan?",
+        "I think my bill is wrong; can you check it?",
+        "I want to cancel, because I don't use it.",
+        "Can I get a refund for this item?"
+      ]
     }
   ],
   "used_phrases": [
@@ -3385,6 +3385,11 @@
     "My phone says I have no internet, but Wi-Fi is on.",
     "Can you share the Wi-Fi password with me, please?",
     "Does this website work in Spanish, or only English?",
-    "I need a SIM card, not just Wi-Fi for roaming."
+    "I need a SIM card, not just Wi-Fi for roaming.",
+    "I paid cash, so no credit card fees today.",
+    "How much is it per month, for the plan?",
+    "I think my bill is wrong; can you check it?",
+    "I want to cancel, because I don't use it.",
+    "Can I get a refund for this item?"
   ]
 }
