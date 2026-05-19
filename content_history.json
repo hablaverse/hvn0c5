@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-13T11:00:39.407267",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I'm so happy right now.",
-        "I have butterflies in my stomach.",
-        "I'm proud of myself today.",
-        "I'm angry, please give me space.",
-        "I'm feeling a little lonely tonight."
-      ]
-    },
-    {
       "timestamp": "2026-03-13T11:12:11.145316",
       "category": "Music & Entertainment",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "What do you recommend here? I trust your taste.",
         "How much is this? Tell me before I fall in love."
       ]
+    },
+    {
+      "timestamp": "2026-05-19T16:51:28.672236",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "My phone is at 2%, so I need power fast.",
+        "Can you send me that link, please, right now?",
+        "I’m locked out of my account again, help me.",
+        "My password won’t work, so I need a reset.",
+        "Tell me why it’s buffering, I’m trying to watch."
+      ]
     }
   ],
   "used_phrases": [
@@ -3395,6 +3395,11 @@
     "I’m looking for this address. Can you help me?",
     "I’ll have water, please. No drama, just water.",
     "What do you recommend here? I trust your taste.",
-    "How much is this? Tell me before I fall in love."
+    "How much is this? Tell me before I fall in love.",
+    "My phone is at 2%, so I need power fast.",
+    "Can you send me that link, please, right now?",
+    "I’m locked out of my account again, help me.",
+    "My password won’t work, so I need a reset.",
+    "Tell me why it’s buffering, I’m trying to watch."
   ]
 }
