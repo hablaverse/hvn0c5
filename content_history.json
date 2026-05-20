@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-13T11:27:23.658909",
-      "category": "Emergency Situations",
-      "num_phrases": 5,
-      "phrases": [
-        "Help, I'm choking!",
-        "Call an ambulance, please!",
-        "I need a doctor right now.",
-        "Someone stole my bag, call the police!",
-        "I'm allergic to peanuts, my throat is closing."
-      ]
-    },
-    {
       "timestamp": "2026-03-13T12:03:07.486060",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "My phone is at 20%, so charge it now.",
         "I’m hungry, so let’s eat at 6 o’clock."
       ]
+    },
+    {
+      "timestamp": "2026-05-20T21:54:44.355706",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "My mom makes the best tacos, seriously, every Sunday.",
+        "Dad is grumpy, but he always helps me.",
+        "I call my sister when I need advice.",
+        "My brother is chill, but he’s secretly competitive.",
+        "We argue, then we laugh ten minutes later."
+      ]
     }
   ],
   "used_phrases": [
@@ -3410,6 +3410,11 @@
     "I have class at 3 p.m., not at 3:30.",
     "Wait, it's 11:59, so we need to hurry.",
     "My phone is at 20%, so charge it now.",
-    "I’m hungry, so let’s eat at 6 o’clock."
+    "I’m hungry, so let’s eat at 6 o’clock.",
+    "My mom makes the best tacos, seriously, every Sunday.",
+    "Dad is grumpy, but he always helps me.",
+    "I call my sister when I need advice.",
+    "My brother is chill, but he’s secretly competitive.",
+    "We argue, then we laugh ten minutes later."
   ]
 }
