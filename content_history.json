@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-13T11:20:58.377325",
-      "category": "Hobbies & Activities",
-      "num_phrases": 5,
-      "phrases": [
-        "I like to play guitar every weekend.",
-        "I paint watercolor in my free time.",
-        "Let's go for a hike tomorrow morning.",
-        "I cook traditional food from my region.",
-        "I read thrillers before bed every night."
-      ]
-    },
-    {
       "timestamp": "2026-03-13T11:27:23.658909",
       "category": "Emergency Situations",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "I forgot my wallet, so I had to borrow money.",
         "Is there a late fee, or do I just pay later?"
       ]
+    },
+    {
+      "timestamp": "2026-05-20T16:53:52.457689",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "It's 7 a.m., so meet me at seven sharp.",
+        "I have class at 3 p.m., not at 3:30.",
+        "Wait, it's 11:59, so we need to hurry.",
+        "My phone is at 20%, so charge it now.",
+        "I’m hungry, so let’s eat at 6 o’clock."
+      ]
     }
   ],
   "used_phrases": [
@@ -3405,6 +3405,11 @@
     "I need cash today, because the card machine is broken.",
     "I paid in installments, so my budget feels lighter.",
     "I forgot my wallet, so I had to borrow money.",
-    "Is there a late fee, or do I just pay later?"
+    "Is there a late fee, or do I just pay later?",
+    "It's 7 a.m., so meet me at seven sharp.",
+    "I have class at 3 p.m., not at 3:30.",
+    "Wait, it's 11:59, so we need to hurry.",
+    "My phone is at 20%, so charge it now.",
+    "I’m hungry, so let’s eat at 6 o’clock."
   ]
 }
