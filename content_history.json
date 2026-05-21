@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-13T12:41:48.428276",
-      "category": "Work & Business",
-      "num_phrases": 5,
-      "phrases": [
-        "I need the report by Friday.",
-        "I'll work from home tomorrow.",
-        "Please sign here with your name.",
-        "Can you join the video call now?",
-        "I have five years of experience in sales."
-      ]
-    },
-    {
       "timestamp": "2026-03-13T12:53:08.078067",
       "category": "Technology & Internet",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "I’m angry, but I’ll calm down in five minutes.",
         "I feel scared in the dark hall at night."
       ]
+    },
+    {
+      "timestamp": "2026-05-21T16:40:17.691765",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "I don't have enough money, so can I pay later?",
+        "Don't worry, I'll pay by cash, not my card.",
+        "I think this is too expensive, can we find cheaper?",
+        "My card got declined, so I need another payment.",
+        "I forgot my PIN, so I can't buy anything."
+      ]
     }
   ],
   "used_phrases": [
@@ -3420,6 +3420,11 @@
     "I’m so excited to start this new class!",
     "I feel sad when I miss my best friend.",
     "I’m angry, but I’ll calm down in five minutes.",
-    "I feel scared in the dark hall at night."
+    "I feel scared in the dark hall at night.",
+    "I don't have enough money, so can I pay later?",
+    "Don't worry, I'll pay by cash, not my card.",
+    "I think this is too expensive, can we find cheaper?",
+    "My card got declined, so I need another payment.",
+    "I forgot my PIN, so I can't buy anything."
   ]
 }
