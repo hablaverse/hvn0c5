@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-13T12:03:07.486060",
-      "category": "Daily Greetings",
-      "num_phrases": 5,
-      "phrases": [
-        "Good morning, beautiful.",
-        "Hey handsome, how are you today?",
-        "You look amazing today.",
-        "Long time no see, cutie.",
-        "Did you sleep well, beautiful?"
-      ]
-    },
-    {
       "timestamp": "2026-03-13T12:41:48.428276",
       "category": "Work & Business",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "My brother is chill, but he’s secretly competitive.",
         "We argue, then we laugh ten minutes later."
       ]
+    },
+    {
+      "timestamp": "2026-05-21T11:25:41.382379",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel nervous before every job interview.",
+        "I’m so excited to start this new class!",
+        "I feel sad when I miss my best friend.",
+        "I’m angry, but I’ll calm down in five minutes.",
+        "I feel scared in the dark hall at night."
+      ]
     }
   ],
   "used_phrases": [
@@ -3415,6 +3415,11 @@
     "Dad is grumpy, but he always helps me.",
     "I call my sister when I need advice.",
     "My brother is chill, but he’s secretly competitive.",
-    "We argue, then we laugh ten minutes later."
+    "We argue, then we laugh ten minutes later.",
+    "I feel nervous before every job interview.",
+    "I’m so excited to start this new class!",
+    "I feel sad when I miss my best friend.",
+    "I’m angry, but I’ll calm down in five minutes.",
+    "I feel scared in the dark hall at night."
   ]
 }
