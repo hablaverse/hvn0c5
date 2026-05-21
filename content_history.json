@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-13T12:53:08.078067",
-      "category": "Technology & Internet",
-      "num_phrases": 5,
-      "phrases": [
-        "Send me your Wi-Fi password, and I will stay.",
-        "Text me a selfie, I want to see your smile.",
-        "Let's video call tonight, I miss your face.",
-        "Follow me back, I like your profile.",
-        "Your photos load so fast, you speed my heart."
-      ]
-    },
-    {
       "timestamp": "2026-03-13T13:41:39.485120",
       "category": "Common Phrases",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "My card got declined, so I need another payment.",
         "I forgot my PIN, so I can't buy anything."
       ]
+    },
+    {
+      "timestamp": "2026-05-21T21:28:29.211574",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "My phone says no service, so I need Wi-Fi.",
+        "Where is the charging cable? Mine is missing again.",
+        "I can't connect; the password is wrong, I think.",
+        "Can you take a screenshot for me, please?",
+        "I just updated my phone, and it looks brand new."
+      ]
     }
   ],
   "used_phrases": [
@@ -3425,6 +3425,11 @@
     "Don't worry, I'll pay by cash, not my card.",
     "I think this is too expensive, can we find cheaper?",
     "My card got declined, so I need another payment.",
-    "I forgot my PIN, so I can't buy anything."
+    "I forgot my PIN, so I can't buy anything.",
+    "My phone says no service, so I need Wi-Fi.",
+    "Where is the charging cable? Mine is missing again.",
+    "I can't connect; the password is wrong, I think.",
+    "Can you take a screenshot for me, please?",
+    "I just updated my phone, and it looks brand new."
   ]
 }
