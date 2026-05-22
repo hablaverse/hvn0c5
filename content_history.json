@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-13T14:04:02.379830",
-      "category": "Numbers & Time",
-      "num_phrases": 5,
-      "phrases": [
-        "I have two tickets for the concert tonight.",
-        "The train leaves at seven in the morning.",
-        "My appointment is at three o'clock.",
-        "Can I pay in three monthly payments?",
-        "The movie starts in ten minutes."
-      ]
-    },
-    {
       "timestamp": "2026-03-13T14:19:43.995030",
       "category": "Emotions & Feelings",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "Nice to meet you! Let’s be friends.",
         "How are you? I’m doing great, thanks!"
       ]
+    },
+    {
+      "timestamp": "2026-05-22T16:27:33.677083",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m hungry. What do you recommend at this place?",
+        "Sorry, I don’t understand. Can you say that again?",
+        "How much is this? I want to know the total price.",
+        "I’ll have water, please. No soda for me today.",
+        "Is there Wi-Fi here? I need to check something."
+      ]
     }
   ],
   "used_phrases": [
@@ -3435,6 +3435,11 @@
     "Hi there! How’s your day going so far?",
     "Hey! What are you doing right now?",
     "Nice to meet you! Let’s be friends.",
-    "How are you? I’m doing great, thanks!"
+    "How are you? I’m doing great, thanks!",
+    "I’m hungry. What do you recommend at this place?",
+    "Sorry, I don’t understand. Can you say that again?",
+    "How much is this? I want to know the total price.",
+    "I’ll have water, please. No soda for me today.",
+    "Is there Wi-Fi here? I need to check something."
   ]
 }
