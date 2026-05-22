@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-13T14:19:43.995030",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I feel happy today.",
-        "I am so proud of you.",
-        "I'm dying laughing.",
-        "I'm feeling a little nervous.",
-        "I'm so excited for tonight."
-      ]
-    },
-    {
       "timestamp": "2026-03-13T10:24:28.061253",
       "category": "Family & Relationships",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "I’ll have water, please. No soda for me today.",
         "Is there Wi-Fi here? I need to check something."
       ]
+    },
+    {
+      "timestamp": "2026-05-22T21:10:11.766826",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "It’s five o’clock, let’s go!",
+        "I have ten minutes, then I’m leaving.",
+        "The store opens at nine in the morning.",
+        "We’ll meet at seven p.m. tonight.",
+        "My class starts at six, not at seven."
+      ]
     }
   ],
   "used_phrases": [
@@ -3440,6 +3440,11 @@
     "Sorry, I don’t understand. Can you say that again?",
     "How much is this? I want to know the total price.",
     "I’ll have water, please. No soda for me today.",
-    "Is there Wi-Fi here? I need to check something."
+    "Is there Wi-Fi here? I need to check something.",
+    "It’s five o’clock, let’s go!",
+    "I have ten minutes, then I’m leaving.",
+    "The store opens at nine in the morning.",
+    "We’ll meet at seven p.m. tonight.",
+    "My class starts at six, not at seven."
   ]
 }
