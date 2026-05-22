@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-13T13:41:39.485120",
-      "category": "Common Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "You have the nicest smile I've seen.",
-        "Can I buy you a coffee right now?",
-        "Your laugh makes my day so much better.",
-        "Stay a little longer, please.",
-        "You make my heart skip a beat."
-      ]
-    },
-    {
       "timestamp": "2026-03-13T14:04:02.379830",
       "category": "Numbers & Time",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "Can you take a screenshot for me, please?",
         "I just updated my phone, and it looks brand new."
       ]
+    },
+    {
+      "timestamp": "2026-05-22T10:51:56.605022",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good morning! Coffee first, then we talk.",
+        "Hi there! How’s your day going so far?",
+        "Hey! What are you doing right now?",
+        "Nice to meet you! Let’s be friends.",
+        "How are you? I’m doing great, thanks!"
+      ]
     }
   ],
   "used_phrases": [
@@ -3430,6 +3430,11 @@
     "Where is the charging cable? Mine is missing again.",
     "I can't connect; the password is wrong, I think.",
     "Can you take a screenshot for me, please?",
-    "I just updated my phone, and it looks brand new."
+    "I just updated my phone, and it looks brand new.",
+    "Good morning! Coffee first, then we talk.",
+    "Hi there! How’s your day going so far?",
+    "Hey! What are you doing right now?",
+    "Nice to meet you! Let’s be friends.",
+    "How are you? I’m doing great, thanks!"
   ]
 }
