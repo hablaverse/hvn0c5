@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-13T10:39:24.028854",
-      "category": "Emergency Situations",
-      "num_phrases": 5,
-      "phrases": [
-        "Call an ambulance now.",
-        "I can't breathe.",
-        "There is a fire in my building.",
-        "My child is missing.",
-        "Call the police now."
-      ]
-    },
-    {
       "timestamp": "2026-03-13T12:56:35.003005",
       "category": "Slang & Informal",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "I have a fever, so I won’t go out today.",
         "My stomach hurts; I think I ate something bad."
       ]
+    },
+    {
+      "timestamp": "2026-05-23T20:53:21.156752",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "I love this song, it’s stuck in my head!",
+        "This singer sounds amazing live, no joke!",
+        "Don’t spoil it, I want to watch this tonight.",
+        "I’m obsessed with that new series, help me!",
+        "Can you turn it up? I need more bass!"
+      ]
     }
   ],
   "used_phrases": [
@@ -3450,6 +3450,11 @@
     "I’m thirsty; can I have some water, please?",
     "I’m not sick, I just feel a little tired.",
     "I have a fever, so I won’t go out today.",
-    "My stomach hurts; I think I ate something bad."
+    "My stomach hurts; I think I ate something bad.",
+    "I love this song, it’s stuck in my head!",
+    "This singer sounds amazing live, no joke!",
+    "Don’t spoil it, I want to watch this tonight.",
+    "I’m obsessed with that new series, help me!",
+    "Can you turn it up? I need more bass!"
   ]
 }
