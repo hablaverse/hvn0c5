@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-13T12:56:35.003005",
-      "category": "Slang & Informal",
-      "num_phrases": 5,
-      "phrases": [
-        "What's up, are you free for coffee?",
-        "No way, that story is unbelievable.",
-        "I'm starving, let's grab something quick.",
-        "That party was lit last night.",
-        "I'm broke, I can't go out."
-      ]
-    },
-    {
       "timestamp": "2026-03-13T18:41:18.225104",
       "category": "Family & Relationships",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "I’m obsessed with that new series, help me!",
         "Can you turn it up? I need more bass!"
       ]
+    },
+    {
+      "timestamp": "2026-05-24T09:55:23.564255",
+      "category": "Hobbies & Activities",
+      "num_phrases": 5,
+      "phrases": [
+        "I love cooking; it’s my favorite hobby after work.",
+        "I’m always practicing Spanish; it’s my daily workout.",
+        "I go for a walk every night; it clears my head.",
+        "I’m addicted to puzzles; they calm me down fast.",
+        "Let’s play video games tonight; I’m in my zone."
+      ]
     }
   ],
   "used_phrases": [
@@ -3455,6 +3455,11 @@
     "This singer sounds amazing live, no joke!",
     "Don’t spoil it, I want to watch this tonight.",
     "I’m obsessed with that new series, help me!",
-    "Can you turn it up? I need more bass!"
+    "Can you turn it up? I need more bass!",
+    "I love cooking; it’s my favorite hobby after work.",
+    "I’m always practicing Spanish; it’s my daily workout.",
+    "I go for a walk every night; it clears my head.",
+    "I’m addicted to puzzles; they calm me down fast.",
+    "Let’s play video games tonight; I’m in my zone."
   ]
 }
