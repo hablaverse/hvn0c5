@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-13T18:41:18.225104",
-      "category": "Family & Relationships",
-      "num_phrases": 5,
-      "phrases": [
-        "My sister lives next door.",
-        "We text each other every morning.",
-        "My dad cooks the best pancakes.",
-        "My boyfriend makes me laugh every day.",
-        "My aunt lives in a tiny house."
-      ]
-    },
-    {
       "timestamp": "2026-03-13T20:33:23.095376",
       "category": "Common Phrases",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "I’m addicted to puzzles; they calm me down fast.",
         "Let’s play video games tonight; I’m in my zone."
       ]
+    },
+    {
+      "timestamp": "2026-05-24T15:05:23.655086",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "The Wi-Fi password is on the fridge, trust me.",
+        "Where are the extra blankets? I’m freezing in here.",
+        "Don’t forget to turn off the lights when you leave.",
+        "The bathroom is on the left, past the kitchen.",
+        "I can smell smoke, so I’m checking the oven."
+      ]
     }
   ],
   "used_phrases": [
@@ -3460,6 +3460,11 @@
     "I’m always practicing Spanish; it’s my daily workout.",
     "I go for a walk every night; it clears my head.",
     "I’m addicted to puzzles; they calm me down fast.",
-    "Let’s play video games tonight; I’m in my zone."
+    "Let’s play video games tonight; I’m in my zone.",
+    "The Wi-Fi password is on the fridge, trust me.",
+    "Where are the extra blankets? I’m freezing in here.",
+    "Don’t forget to turn off the lights when you leave.",
+    "The bathroom is on the left, past the kitchen.",
+    "I can smell smoke, so I’m checking the oven."
   ]
 }
