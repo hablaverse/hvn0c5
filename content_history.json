@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-13T20:33:23.095376",
-      "category": "Common Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "I don't speak Spanish very well.",
-        "Can you help me, please?",
-        "Where is the bathroom?",
-        "I want a coffee, please.",
-        "How much does this cost?"
-      ]
-    },
-    {
       "timestamp": "2026-03-14T01:54:36.291941",
       "category": "Weather",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "The bathroom is on the left, past the kitchen.",
         "I can smell smoke, so I’m checking the oven."
       ]
+    },
+    {
+      "timestamp": "2026-05-24T20:56:34.279776",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "Cats are cool, but I am allergic to cats.",
+        "I hate mosquitoes; they always bite me at night.",
+        "Dogs are friendly, and my neighbor has a friendly dog.",
+        "My favorite animal is a giraffe, so tall!",
+        "That horse is big, but it looks calm to me."
+      ]
     }
   ],
   "used_phrases": [
@@ -3465,6 +3465,11 @@
     "Where are the extra blankets? I’m freezing in here.",
     "Don’t forget to turn off the lights when you leave.",
     "The bathroom is on the left, past the kitchen.",
-    "I can smell smoke, so I’m checking the oven."
+    "I can smell smoke, so I’m checking the oven.",
+    "Cats are cool, but I am allergic to cats.",
+    "I hate mosquitoes; they always bite me at night.",
+    "Dogs are friendly, and my neighbor has a friendly dog.",
+    "My favorite animal is a giraffe, so tall!",
+    "That horse is big, but it looks calm to me."
   ]
 }
