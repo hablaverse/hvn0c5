@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-14T06:44:43.455585",
-      "category": "Emergency Situations",
-      "num_phrases": 5,
-      "phrases": [
-        "Call an ambulance, I feel dizzy.",
-        "My heart hurts, I need help now.",
-        "There's a fire, get out with me.",
-        "I think I broke my arm kissing you.",
-        "Call the police, someone stole my purse."
-      ]
-    },
-    {
       "timestamp": "2026-03-14T12:48:21.170182",
       "category": "Fashion & Appearance",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "I can’t breathe! Help me breathe, right now!",
         "My child is choking, please help immediately!"
       ]
+    },
+    {
+      "timestamp": "2026-05-25T16:23:40.469750",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you help me carry this big box?",
+        "I locked the door, and now I need my key.",
+        "Is the faucet dripping, or is it just me?",
+        "My sink smells bad; something is stuck.",
+        "Please, can I borrow your umbrella for today?"
+      ]
     }
   ],
   "used_phrases": [
@@ -3475,6 +3475,11 @@
     "Call 911 now, I’m not feeling okay at all!",
     "Stop the bleeding, please! I need a bandage, now!",
     "I can’t breathe! Help me breathe, right now!",
-    "My child is choking, please help immediately!"
+    "My child is choking, please help immediately!",
+    "Can you help me carry this big box?",
+    "I locked the door, and now I need my key.",
+    "Is the faucet dripping, or is it just me?",
+    "My sink smells bad; something is stuck.",
+    "Please, can I borrow your umbrella for today?"
   ]
 }
