@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-14T12:48:21.170182",
-      "category": "Fashion & Appearance",
-      "num_phrases": 5,
-      "phrases": [
-        "Does this jacket fit me well?",
-        "Can I try this on, please?",
-        "Where is the fitting room?",
-        "Do you have this in a smaller size?",
-        "This dress matches my shoes perfectly."
-      ]
-    },
-    {
       "timestamp": "2026-03-14T18:37:28.884015",
       "category": "Food & Dining",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "My sink smells bad; something is stuck.",
         "Please, can I borrow your umbrella for today?"
       ]
+    },
+    {
+      "timestamp": "2026-05-25T21:06:46.287317",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m sore today, but I’ll stretch after my workout.",
+        "I forgot my water bottle, so I’m thirsty right now.",
+        "No, I don’t want to rest; let’s do one more set!",
+        "My legs are shaking, so I’m slowing down a bit.",
+        "Can you spot me for squats, please?"
+      ]
     }
   ],
   "used_phrases": [
@@ -3480,6 +3480,11 @@
     "I locked the door, and now I need my key.",
     "Is the faucet dripping, or is it just me?",
     "My sink smells bad; something is stuck.",
-    "Please, can I borrow your umbrella for today?"
+    "Please, can I borrow your umbrella for today?",
+    "I’m sore today, but I’ll stretch after my workout.",
+    "I forgot my water bottle, so I’m thirsty right now.",
+    "No, I don’t want to rest; let’s do one more set!",
+    "My legs are shaking, so I’m slowing down a bit.",
+    "Can you spot me for squats, please?"
   ]
 }
