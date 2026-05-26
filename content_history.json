@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-14T18:37:28.884015",
-      "category": "Food & Dining",
-      "num_phrases": 5,
-      "phrases": [
-        "Can I see the menu, please?",
-        "Do you have vegetarian options?",
-        "I am allergic to peanuts.",
-        "Can you bring the check, please?",
-        "This dish is too spicy for me."
-      ]
-    },
-    {
       "timestamp": "2026-03-14T20:27:55.232372",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "My legs are shaking, so I’m slowing down a bit.",
         "Can you spot me for squats, please?"
       ]
+    },
+    {
+      "timestamp": "2026-05-26T21:46:39.710606",
+      "category": "Hobbies & Activities",
+      "num_phrases": 5,
+      "phrases": [
+        "I love cooking pasta, and the smell makes me happy.",
+        "I go jogging early, because mornings feel like a reset.",
+        "I practice guitar at night, and my fingers learn quietly.",
+        "I love painting walls, but only with bright colors.",
+        "I play soccer with friends, and we laugh a lot."
+      ]
     }
   ],
   "used_phrases": [
@@ -3485,6 +3485,11 @@
     "I forgot my water bottle, so I’m thirsty right now.",
     "No, I don’t want to rest; let’s do one more set!",
     "My legs are shaking, so I’m slowing down a bit.",
-    "Can you spot me for squats, please?"
+    "Can you spot me for squats, please?",
+    "I love cooking pasta, and the smell makes me happy.",
+    "I go jogging early, because mornings feel like a reset.",
+    "I practice guitar at night, and my fingers learn quietly.",
+    "I love painting walls, but only with bright colors.",
+    "I play soccer with friends, and we laugh a lot."
   ]
 }
