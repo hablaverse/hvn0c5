@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-14T20:27:55.232372",
-      "category": "Health & Body",
-      "num_phrases": 5,
-      "phrases": [
-        "I have a headache.",
-        "My stomach hurts.",
-        "I need water.",
-        "I feel sleepy.",
-        "I cut my finger."
-      ]
-    },
-    {
       "timestamp": "2026-03-15T02:11:13.454977",
       "category": "Common Phrases",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "I love painting walls, but only with bright colors.",
         "I play soccer with friends, and we laugh a lot."
       ]
+    },
+    {
+      "timestamp": "2026-05-27T11:39:11.860319",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you help me find the bus stop near here?",
+        "Where is the nearest pharmacy for this medicine?",
+        "I need a ticket to the airport, please.",
+        "Is this water safe to drink, or is it risky?",
+        "Do you accept credit cards, or only cash here?"
+      ]
     }
   ],
   "used_phrases": [
@@ -3490,6 +3490,11 @@
     "I go jogging early, because mornings feel like a reset.",
     "I practice guitar at night, and my fingers learn quietly.",
     "I love painting walls, but only with bright colors.",
-    "I play soccer with friends, and we laugh a lot."
+    "I play soccer with friends, and we laugh a lot.",
+    "Can you help me find the bus stop near here?",
+    "Where is the nearest pharmacy for this medicine?",
+    "I need a ticket to the airport, please.",
+    "Is this water safe to drink, or is it risky?",
+    "Do you accept credit cards, or only cash here?"
   ]
 }
