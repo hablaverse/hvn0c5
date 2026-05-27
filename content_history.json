@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-15T02:11:13.454977",
-      "category": "Common Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "You have the most beautiful smile.",
-        "Can I buy you a coffee?",
-        "You look stunning tonight.",
-        "I like the way you laugh.",
-        "Tell me your favorite song."
-      ]
-    },
-    {
       "timestamp": "2026-03-15T06:56:15.255581",
       "category": "Travel Essentials",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "Is this water safe to drink, or is it risky?",
         "Do you accept credit cards, or only cash here?"
       ]
+    },
+    {
+      "timestamp": "2026-05-27T17:20:10.073234",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "I have a headache, so I need quiet right now.",
+        "I’m tired, and I need to sleep early tonight.",
+        "I feel sick, so I’m not going out today.",
+        "I have a sore throat, and it hurts when I talk.",
+        "I’m hungry, and I need something healthy to eat."
+      ]
     }
   ],
   "used_phrases": [
@@ -3495,6 +3495,11 @@
     "Where is the nearest pharmacy for this medicine?",
     "I need a ticket to the airport, please.",
     "Is this water safe to drink, or is it risky?",
-    "Do you accept credit cards, or only cash here?"
+    "Do you accept credit cards, or only cash here?",
+    "I have a headache, so I need quiet right now.",
+    "I’m tired, and I need to sleep early tonight.",
+    "I feel sick, so I’m not going out today.",
+    "I have a sore throat, and it hurts when I talk.",
+    "I’m hungry, and I need something healthy to eat."
   ]
 }
