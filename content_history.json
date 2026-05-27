@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-15T06:56:15.255581",
-      "category": "Travel Essentials",
-      "num_phrases": 5,
-      "phrases": [
-        "Where is the nearest taxi stand?",
-        "I need a charger for my phone.",
-        "Do you accept credit cards?",
-        "I can't find my passport.",
-        "Is there free Wi-Fi here?"
-      ]
-    },
-    {
       "timestamp": "2026-03-15T12:50:32.934763",
       "category": "Money & Finance",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "I have a sore throat, and it hurts when I talk.",
         "I’m hungry, and I need something healthy to eat."
       ]
+    },
+    {
+      "timestamp": "2026-05-27T21:56:24.785782",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "I need help right now. Call the police, please.",
+        "Is anyone injured? Please call an ambulance now.",
+        "I can’t breathe. Please call 911 immediately.",
+        "My chest hurts. I think I’m having a heart problem.",
+        "I’m choking. Someone help me, please."
+      ]
     }
   ],
   "used_phrases": [
@@ -3500,6 +3500,11 @@
     "I’m tired, and I need to sleep early tonight.",
     "I feel sick, so I’m not going out today.",
     "I have a sore throat, and it hurts when I talk.",
-    "I’m hungry, and I need something healthy to eat."
+    "I’m hungry, and I need something healthy to eat.",
+    "I need help right now. Call the police, please.",
+    "Is anyone injured? Please call an ambulance now.",
+    "I can’t breathe. Please call 911 immediately.",
+    "My chest hurts. I think I’m having a heart problem.",
+    "I’m choking. Someone help me, please."
   ]
 }
