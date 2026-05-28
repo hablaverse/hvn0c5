@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-15T20:29:03.136240",
-      "category": "Work & Business",
-      "num_phrases": 5,
-      "phrases": [
-        "I'll send the report today.",
-        "Can we reschedule the meeting?",
-        "I need a minute to think.",
-        "Sorry, I missed the deadline.",
-        "Let's take this offline, please."
-      ]
-    },
-    {
       "timestamp": "2026-03-16T02:12:56.989627",
       "category": "Sports & Fitness",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "Please confirm the deadline by Friday.",
         "I need this approved before we ship it."
       ]
+    },
+    {
+      "timestamp": "2026-05-28T21:55:52.343375",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "That dress is cute, and you look amazing tonight.",
+        "This playlist is fire, turn it up right now.",
+        "No worries, we’ll figure it out together.",
+        "I’m down for tacos later, let’s make plans.",
+        "Stop teasing me, you know I like you."
+      ]
     }
   ],
   "used_phrases": [
@@ -3515,6 +3515,11 @@
     "I’ll handle the meeting notes and send them.",
     "Can you give me a quick update on progress?",
     "Please confirm the deadline by Friday.",
-    "I need this approved before we ship it."
+    "I need this approved before we ship it.",
+    "That dress is cute, and you look amazing tonight.",
+    "This playlist is fire, turn it up right now.",
+    "No worries, we’ll figure it out together.",
+    "I’m down for tacos later, let’s make plans.",
+    "Stop teasing me, you know I like you."
   ]
 }
