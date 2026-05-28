@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-15T12:50:32.934763",
-      "category": "Money & Finance",
-      "num_phrases": 5,
-      "phrases": [
-        "Can I pay with a card?",
-        "I need to withdraw cash.",
-        "The price is negotiable.",
-        "I prefer to split the bill.",
-        "I lost my credit card."
-      ]
-    },
-    {
       "timestamp": "2026-03-15T18:38:04.391217",
       "category": "Emotions & Feelings",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "My chest hurts. I think I’m having a heart problem.",
         "I’m choking. Someone help me, please."
       ]
+    },
+    {
+      "timestamp": "2026-05-28T11:39:25.777293",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "I cut my hand; press here and call for help now.",
+        "I think I have food poisoning; I need a doctor.",
+        "My phone is dead; I need to call emergency services.",
+        "I’m dizzy; I might faint, so stay with me.",
+        "I got burned by hot water; cool it with water."
+      ]
     }
   ],
   "used_phrases": [
@@ -3505,6 +3505,11 @@
     "Is anyone injured? Please call an ambulance now.",
     "I can’t breathe. Please call 911 immediately.",
     "My chest hurts. I think I’m having a heart problem.",
-    "I’m choking. Someone help me, please."
+    "I’m choking. Someone help me, please.",
+    "I cut my hand; press here and call for help now.",
+    "I think I have food poisoning; I need a doctor.",
+    "My phone is dead; I need to call emergency services.",
+    "I’m dizzy; I might faint, so stay with me.",
+    "I got burned by hot water; cool it with water."
   ]
 }
