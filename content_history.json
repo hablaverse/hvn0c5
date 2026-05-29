@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-16T13:09:16.715342",
-      "category": "Animals",
-      "num_phrases": 5,
-      "phrases": [
-        "My cat steals my socks every morning.",
-        "My dog knows many tricks.",
-        "I'm allergic to cats, but I still hug them.",
-        "That parrot repeats my secrets.",
-        "A squirrel stole my sandwich yesterday."
-      ]
-    },
-    {
       "timestamp": "2026-03-16T19:00:50.529135",
       "category": "Numbers & Time",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "Call me at six o’clock, please.",
         "I’m meeting you at 3 p.m. today."
       ]
+    },
+    {
+      "timestamp": "2026-05-29T21:53:10.425379",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "I love live music, it makes me feel alive.",
+        "This song is a total earworm, I can’t stop.",
+        "Are we going to the concert tonight or tomorrow?",
+        "That DJ is amazing, the beat is perfect.",
+        "The movie soundtrack is so good, I bought it."
+      ]
     }
   ],
   "used_phrases": [
@@ -3530,6 +3530,11 @@
     "I have one coffee, then I’m done.",
     "My password is number seven, seriously.",
     "Call me at six o’clock, please.",
-    "I’m meeting you at 3 p.m. today."
+    "I’m meeting you at 3 p.m. today.",
+    "I love live music, it makes me feel alive.",
+    "This song is a total earworm, I can’t stop.",
+    "Are we going to the concert tonight or tomorrow?",
+    "That DJ is amazing, the beat is perfect.",
+    "The movie soundtrack is so good, I bought it."
   ]
 }
