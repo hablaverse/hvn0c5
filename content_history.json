@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-16T07:16:16.542157",
-      "category": "Colors & Descriptions",
-      "num_phrases": 5,
-      "phrases": [
-        "This shirt is bright blue and eye-catching.",
-        "My favorite jacket is black and classic.",
-        "The cafe walls are warm beige and cozy.",
-        "Her hair is deep brown with honey highlights.",
-        "Their new car is shiny metallic silver."
-      ]
-    },
-    {
       "timestamp": "2026-03-16T13:09:16.715342",
       "category": "Animals",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "Who’s responsible for the client follow-up?",
         "I’m running late, but I’ll be there soon."
       ]
+    },
+    {
+      "timestamp": "2026-05-29T17:34:30.911909",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "I’ll be there in ten minutes, not one more.",
+        "I have one coffee, then I’m done.",
+        "My password is number seven, seriously.",
+        "Call me at six o’clock, please.",
+        "I’m meeting you at 3 p.m. today."
+      ]
     }
   ],
   "used_phrases": [
@@ -3525,6 +3525,11 @@
     "I’ll review the document and get back to you.",
     "Let’s jump on a quick call this afternoon.",
     "Who’s responsible for the client follow-up?",
-    "I’m running late, but I’ll be there soon."
+    "I’m running late, but I’ll be there soon.",
+    "I’ll be there in ten minutes, not one more.",
+    "I have one coffee, then I’m done.",
+    "My password is number seven, seriously.",
+    "Call me at six o’clock, please.",
+    "I’m meeting you at 3 p.m. today."
   ]
 }
