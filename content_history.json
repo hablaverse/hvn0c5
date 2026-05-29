@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-16T02:12:56.989627",
-      "category": "Sports & Fitness",
-      "num_phrases": 5,
-      "phrases": [
-        "Race me to the park after warm-up.",
-        "I will spot you at the gym, promise.",
-        "Your sweat smells like victory and coffee.",
-        "Teach me your favorite yoga pose tonight.",
-        "Play doubles with me and hold my hand."
-      ]
-    },
-    {
       "timestamp": "2026-03-16T07:16:16.542157",
       "category": "Colors & Descriptions",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "I’m down for tacos later, let’s make plans.",
         "Stop teasing me, you know I like you."
       ]
+    },
+    {
+      "timestamp": "2026-05-29T11:31:04.774203",
+      "category": "Work & Business",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you send the invoice today, please?",
+        "I’ll review the document and get back to you.",
+        "Let’s jump on a quick call this afternoon.",
+        "Who’s responsible for the client follow-up?",
+        "I’m running late, but I’ll be there soon."
+      ]
     }
   ],
   "used_phrases": [
@@ -3520,6 +3520,11 @@
     "This playlist is fire, turn it up right now.",
     "No worries, we’ll figure it out together.",
     "I’m down for tacos later, let’s make plans.",
-    "Stop teasing me, you know I like you."
+    "Stop teasing me, you know I like you.",
+    "Can you send the invoice today, please?",
+    "I’ll review the document and get back to you.",
+    "Let’s jump on a quick call this afternoon.",
+    "Who’s responsible for the client follow-up?",
+    "I’m running late, but I’ll be there soon."
   ]
 }
