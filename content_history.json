@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-16T20:38:18.767407",
-      "category": "Shopping",
-      "num_phrases": 5,
-      "phrases": [
-        "How much is this scarf?",
-        "Can you give me a discount?",
-        "I'm just looking, thank you.",
-        "Can I have a bag, please?",
-        "Does this come in a smaller size?"
-      ]
-    },
-    {
       "timestamp": "2026-03-17T01:59:58.128875",
       "category": "Directions",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "I have a fever, can I buy some medicine today?",
         "I hurt my ankle, where is the nearest clinic?"
       ]
+    },
+    {
+      "timestamp": "2026-05-30T15:07:30.253262",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "Do you have a map of the city?",
+        "How much is a ticket to the airport?",
+        "I need water without ice, please.",
+        "Where can I buy a SIM card?",
+        "Can you write that down for me, please?"
+      ]
     }
   ],
   "used_phrases": [
@@ -3540,6 +3540,11 @@
     "I feel dizzy, I need to sit down for a minute.",
     "I’m allergic to peanuts, so no snacks for me.",
     "I have a fever, can I buy some medicine today?",
-    "I hurt my ankle, where is the nearest clinic?"
+    "I hurt my ankle, where is the nearest clinic?",
+    "Do you have a map of the city?",
+    "How much is a ticket to the airport?",
+    "I need water without ice, please.",
+    "Where can I buy a SIM card?",
+    "Can you write that down for me, please?"
   ]
 }
