@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-16T19:00:50.529135",
-      "category": "Numbers & Time",
-      "num_phrases": 5,
-      "phrases": [
-        "I need five minutes.",
-        "It's three o'clock already.",
-        "I'll be there in ten minutes.",
-        "My phone is at twenty percent.",
-        "Wake me up at seven tomorrow."
-      ]
-    },
-    {
       "timestamp": "2026-03-16T20:38:18.767407",
       "category": "Shopping",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "That DJ is amazing, the beat is perfect.",
         "The movie soundtrack is so good, I bought it."
       ]
+    },
+    {
+      "timestamp": "2026-05-30T10:02:08.855459",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "I have a headache, can you help me find a pharmacy?",
+        "I feel dizzy, I need to sit down for a minute.",
+        "I’m allergic to peanuts, so no snacks for me.",
+        "I have a fever, can I buy some medicine today?",
+        "I hurt my ankle, where is the nearest clinic?"
+      ]
     }
   ],
   "used_phrases": [
@@ -3535,6 +3535,11 @@
     "This song is a total earworm, I can’t stop.",
     "Are we going to the concert tonight or tomorrow?",
     "That DJ is amazing, the beat is perfect.",
-    "The movie soundtrack is so good, I bought it."
+    "The movie soundtrack is so good, I bought it.",
+    "I have a headache, can you help me find a pharmacy?",
+    "I feel dizzy, I need to sit down for a minute.",
+    "I’m allergic to peanuts, so no snacks for me.",
+    "I have a fever, can I buy some medicine today?",
+    "I hurt my ankle, where is the nearest clinic?"
   ]
 }
