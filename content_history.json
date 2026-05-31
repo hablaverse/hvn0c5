@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-17T13:09:32.580929",
-      "category": "Hobbies & Activities",
-      "num_phrases": 5,
-      "phrases": [
-        "I love painting on rainy afternoons.",
-        "I play guitar when I'm nervous.",
-        "I run five kilometers every morning.",
-        "I grow herbs on my balcony.",
-        "Let's play chess this afternoon."
-      ]
-    },
-    {
       "timestamp": "2026-03-17T20:38:37.108797",
       "category": "Emotions & Feelings",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "The wind is freezing, and I can’t stop shivering.",
         "It’s too hot; I’m staying inside today."
       ]
+    },
+    {
+      "timestamp": "2026-05-31T15:19:09.806470",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "I spent too much money today; I need a cheaper plan.",
+        "Can I pay with card, or do you only take cash?",
+        "Where is the ATM nearby? I need cash fast.",
+        "Don’t buy it; it’s too expensive for me today.",
+        "I got change back, but was it the right amount?"
+      ]
     }
   ],
   "used_phrases": [
@@ -3555,6 +3555,11 @@
     "The sun is out, so let’s go for a walk.",
     "Is it going to storm tonight?",
     "The wind is freezing, and I can’t stop shivering.",
-    "It’s too hot; I’m staying inside today."
+    "It’s too hot; I’m staying inside today.",
+    "I spent too much money today; I need a cheaper plan.",
+    "Can I pay with card, or do you only take cash?",
+    "Where is the ATM nearby? I need cash fast.",
+    "Don’t buy it; it’s too expensive for me today.",
+    "I got change back, but was it the right amount?"
   ]
 }
