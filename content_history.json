@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-17T07:03:35.564600",
-      "category": "Numbers & Time",
-      "num_phrases": 5,
-      "phrases": [
-        "My meeting starts at nine.",
-        "I work from nine to five.",
-        "The bus arrives in five minutes.",
-        "The train leaves at midnight.",
-        "The bill is fifteen euros."
-      ]
-    },
-    {
       "timestamp": "2026-03-17T13:09:32.580929",
       "category": "Hobbies & Activities",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "I have three minutes, then I have to go.",
         "Your place is on the third street, trust me."
       ]
+    },
+    {
+      "timestamp": "2026-05-31T10:17:10.608325",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "It’s raining hard, so take an umbrella, please.",
+        "The sun is out, so let’s go for a walk.",
+        "Is it going to storm tonight?",
+        "The wind is freezing, and I can’t stop shivering.",
+        "It’s too hot; I’m staying inside today."
+      ]
     }
   ],
   "used_phrases": [
@@ -3550,6 +3550,11 @@
     "I’m free at two, and yes, you can call me.",
     "It’s 5 minutes from now, let’s hurry, okay?",
     "I have three minutes, then I have to go.",
-    "Your place is on the third street, trust me."
+    "Your place is on the third street, trust me.",
+    "It’s raining hard, so take an umbrella, please.",
+    "The sun is out, so let’s go for a walk.",
+    "Is it going to storm tonight?",
+    "The wind is freezing, and I can’t stop shivering.",
+    "It’s too hot; I’m staying inside today."
   ]
 }
