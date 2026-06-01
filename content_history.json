@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-18T07:13:42.657542",
-      "category": "Technology & Internet",
-      "num_phrases": 5,
-      "phrases": [
-        "Can you share the Wi-Fi password?",
-        "My connection is very slow today.",
-        "Is there a charger I can use?",
-        "I need to charge my phone.",
-        "My phone has low battery."
-      ]
-    },
-    {
       "timestamp": "2026-03-18T13:08:48.522755",
       "category": "Common Phrases",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "This floor is slippery, so watch your step, okay?",
         "My roommate keeps losing the keys, again and again."
       ]
+    },
+    {
+      "timestamp": "2026-06-01T19:21:20.812371",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "I understand, but I need it slower, please.",
+        "Can you say that again in simpler words?",
+        "What does this word mean in everyday Spanish?",
+        "I’m learning Spanish, so please talk to me kindly.",
+        "Where do I buy a SIM card for my phone?"
+      ]
     }
   ],
   "used_phrases": [
@@ -3570,6 +3570,11 @@
     "Where is the light switch, because the room is dark?",
     "Please don’t slam the door; my walls are dramatic.",
     "This floor is slippery, so watch your step, okay?",
-    "My roommate keeps losing the keys, again and again."
+    "My roommate keeps losing the keys, again and again.",
+    "I understand, but I need it slower, please.",
+    "Can you say that again in simpler words?",
+    "What does this word mean in everyday Spanish?",
+    "I’m learning Spanish, so please talk to me kindly.",
+    "Where do I buy a SIM card for my phone?"
   ]
 }
