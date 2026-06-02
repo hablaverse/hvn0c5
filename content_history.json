@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-18T20:39:07.677193",
-      "category": "Food & Dining",
-      "num_phrases": 5,
-      "phrases": [
-        "Do you have a menu in English?",
-        "I have a food allergy to peanuts.",
-        "Can I get this to go, please?",
-        "Is this dish very spicy?",
-        "I recommend the seafood paella."
-      ]
-    },
-    {
       "timestamp": "2026-03-19T02:04:37.094860",
       "category": "Music & Entertainment",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "This price is crazy; I’m going to wait for sales.",
         "I’m budgeting this month, and my cravings are shocked."
       ]
+    },
+    {
+      "timestamp": "2026-06-02T18:05:44.945581",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "Turn left at the bakery, and go straight for two blocks.",
+        "Go to the pharmacy, then ask for medicine for a cough.",
+        "Walk past the park, and you’ll see the museum on your right.",
+        "Take the elevator to floor three, please, not the stairs.",
+        "The bathroom is behind you, so look back and go in."
+      ]
     }
   ],
   "used_phrases": [
@@ -3585,6 +3585,11 @@
     "Can you split the bill, please? I forgot my card.",
     "I need cash for the bus, not excuses.",
     "This price is crazy; I’m going to wait for sales.",
-    "I’m budgeting this month, and my cravings are shocked."
+    "I’m budgeting this month, and my cravings are shocked.",
+    "Turn left at the bakery, and go straight for two blocks.",
+    "Go to the pharmacy, then ask for medicine for a cough.",
+    "Walk past the park, and you’ll see the museum on your right.",
+    "Take the elevator to floor three, please, not the stairs.",
+    "The bathroom is behind you, so look back and go in."
   ]
 }
