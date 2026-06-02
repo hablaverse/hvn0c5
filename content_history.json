@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-18T18:59:12.629751",
-      "category": "Sports & Fitness",
-      "num_phrases": 5,
-      "phrases": [
-        "I need to warm up first.",
-        "Can you help me with this lift?",
-        "How many reps should I do?",
-        "I'm training for a 5K race.",
-        "Let's run another lap."
-      ]
-    },
-    {
       "timestamp": "2026-03-18T20:39:07.677193",
       "category": "Food & Dining",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "Where’s the trash bin? I have a snack wrapper.",
         "My Wi-Fi drops here, so I need better signal indoors."
       ]
+    },
+    {
+      "timestamp": "2026-06-02T12:05:08.717556",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "I just spent all my cash, and now I’m broke.",
+        "Can you split the bill, please? I forgot my card.",
+        "I need cash for the bus, not excuses.",
+        "This price is crazy; I’m going to wait for sales.",
+        "I’m budgeting this month, and my cravings are shocked."
+      ]
     }
   ],
   "used_phrases": [
@@ -3580,6 +3580,11 @@
     "The fridge is empty, so I’m craving something big.",
     "Don’t slam the windows, the neighbors hate loud sounds.",
     "Where’s the trash bin? I have a snack wrapper.",
-    "My Wi-Fi drops here, so I need better signal indoors."
+    "My Wi-Fi drops here, so I need better signal indoors.",
+    "I just spent all my cash, and now I’m broke.",
+    "Can you split the bill, please? I forgot my card.",
+    "I need cash for the bus, not excuses.",
+    "This price is crazy; I’m going to wait for sales.",
+    "I’m budgeting this month, and my cravings are shocked."
   ]
 }
