@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-19T13:02:51.703452",
-      "category": "Family & Relationships",
-      "num_phrases": 5,
-      "phrases": [
-        "This is my family from home.",
-        "My sister lives in Madrid.",
-        "We are a loud and happy family.",
-        "Call your parents, they will worry.",
-        "I miss my dad every day."
-      ]
-    },
-    {
       "timestamp": "2026-03-19T18:58:02.002594",
       "category": "Emergency Situations",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "How do you say hello in Spanish, please?",
         "Excuse me, where is the bathroom? I’m in trouble!"
       ]
+    },
+    {
+      "timestamp": "2026-06-03T18:24:25.629265",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "Go straight until you see the big church, please.",
+        "Turn right at the pharmacy, then go one block.",
+        "Turn left after the bridge, and follow the signs.",
+        "Is it near here, or do I need to walk?",
+        "Can you point to the bus stop, please?"
+      ]
     }
   ],
   "used_phrases": [
@@ -3600,6 +3600,11 @@
     "Can you say that again, slower, please? I’m lost.",
     "What does this word mean? My brain needs help.",
     "How do you say hello in Spanish, please?",
-    "Excuse me, where is the bathroom? I’m in trouble!"
+    "Excuse me, where is the bathroom? I’m in trouble!",
+    "Go straight until you see the big church, please.",
+    "Turn right at the pharmacy, then go one block.",
+    "Turn left after the bridge, and follow the signs.",
+    "Is it near here, or do I need to walk?",
+    "Can you point to the bus stop, please?"
   ]
 }
