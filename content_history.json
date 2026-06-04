@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-20T01:58:45.368586",
-      "category": "Family & Relationships",
-      "num_phrases": 5,
-      "phrases": [
-        "This is my cousin Ana.",
-        "My grandparents live next to me.",
-        "I am meeting my parents tonight.",
-        "My brother just had a baby.",
-        "She is my sister and my best friend."
-      ]
-    },
-    {
       "timestamp": "2026-03-20T06:54:06.188497",
       "category": "Shopping",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "Good evening! Did you eat already?",
         "Cheers! Today is better than yesterday, right?"
       ]
+    },
+    {
+      "timestamp": "2026-06-04T16:55:44.635717",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m so hungry; let’s grab something quick after class.",
+        "That’s awesome, bro! You speak Spanish way better than me.",
+        "Don’t worry, we’ll figure it out together, for real.",
+        "I’m broke today, so I’ll just look and walk.",
+        "That restaurant was crazy good, I’m going back tomorrow."
+      ]
     }
   ],
   "used_phrases": [
@@ -3615,6 +3615,11 @@
     "Hi! How’s it going today, friend?",
     "Hey, what’s up? I’m in a great mood!",
     "Good evening! Did you eat already?",
-    "Cheers! Today is better than yesterday, right?"
+    "Cheers! Today is better than yesterday, right?",
+    "I’m so hungry; let’s grab something quick after class.",
+    "That’s awesome, bro! You speak Spanish way better than me.",
+    "Don’t worry, we’ll figure it out together, for real.",
+    "I’m broke today, so I’ll just look and walk.",
+    "That restaurant was crazy good, I’m going back tomorrow."
   ]
 }
