@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-20T06:54:06.188497",
-      "category": "Shopping",
-      "num_phrases": 5,
-      "phrases": [
-        "Do you accept credit cards here?",
-        "Where is the fitting room, please?",
-        "I want one kilogram of apples.",
-        "Is this on sale today?",
-        "Can I pay with my phone?"
-      ]
-    },
-    {
       "timestamp": "2026-03-20T12:57:39.388924",
       "category": "Money & Finance",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "I’m broke today, so I’ll just look and walk.",
         "That restaurant was crazy good, I’m going back tomorrow."
       ]
+    },
+    {
+      "timestamp": "2026-06-04T21:42:35.375794",
+      "category": "Work & Business",
+      "num_phrases": 5,
+      "phrases": [
+        "I need this quote today, please. I’m ready to sign.",
+        "Can you send the invoice to my email, right now?",
+        "I’ll call you after the meeting. Don’t disappear, okay?",
+        "Your presentation was amazing. I want those results, too.",
+        "Let’s schedule a quick call. I’m free in ten minutes."
+      ]
     }
   ],
   "used_phrases": [
@@ -3620,6 +3620,11 @@
     "That’s awesome, bro! You speak Spanish way better than me.",
     "Don’t worry, we’ll figure it out together, for real.",
     "I’m broke today, so I’ll just look and walk.",
-    "That restaurant was crazy good, I’m going back tomorrow."
+    "That restaurant was crazy good, I’m going back tomorrow.",
+    "I need this quote today, please. I’m ready to sign.",
+    "Can you send the invoice to my email, right now?",
+    "I’ll call you after the meeting. Don’t disappear, okay?",
+    "Your presentation was amazing. I want those results, too.",
+    "Let’s schedule a quick call. I’m free in ten minutes."
   ]
 }
