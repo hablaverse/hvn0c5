@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-20T12:57:39.388924",
-      "category": "Money & Finance",
-      "num_phrases": 5,
-      "phrases": [
-        "Can I pay with cash?",
-        "Let's split the bill evenly.",
-        "I need to withdraw cash now.",
-        "Where is the nearest ATM?",
-        "I want to open a bank account."
-      ]
-    },
-    {
       "timestamp": "2026-03-20T18:59:09.443288",
       "category": "Animals",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "Your presentation was amazing. I want those results, too.",
         "Let’s schedule a quick call. I’m free in ten minutes."
       ]
+    },
+    {
+      "timestamp": "2026-06-05T11:30:01.430799",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "Do you speak English, please, or a little?",
+        "I’m lost. Is there a bus to the center?",
+        "Can I pay by card? I don’t have cash.",
+        "I like this a lot. Do you have it in small?",
+        "What’s your name? I want to say it correctly."
+      ]
     }
   ],
   "used_phrases": [
@@ -3625,6 +3625,11 @@
     "Can you send the invoice to my email, right now?",
     "I’ll call you after the meeting. Don’t disappear, okay?",
     "Your presentation was amazing. I want those results, too.",
-    "Let’s schedule a quick call. I’m free in ten minutes."
+    "Let’s schedule a quick call. I’m free in ten minutes.",
+    "Do you speak English, please, or a little?",
+    "I’m lost. Is there a bus to the center?",
+    "Can I pay by card? I don’t have cash.",
+    "I like this a lot. Do you have it in small?",
+    "What’s your name? I want to say it correctly."
   ]
 }
