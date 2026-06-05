@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-20T20:31:25.150535",
-      "category": "Money & Finance",
-      "num_phrases": 5,
-      "phrases": [
-        "Can I pay in installments?",
-        "Do you have a cheaper option?",
-        "Keep the change, thank you.",
-        "Can you split the cost?",
-        "I need a receipt, please."
-      ]
-    },
-    {
       "timestamp": "2026-03-21T01:52:50.920588",
       "category": "Animals",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "Good afternoon! I hope your day is going well.",
         "Hey! What did you do today? Give me the highlights."
       ]
+    },
+    {
+      "timestamp": "2026-06-05T21:27:23.637436",
+      "category": "Hobbies & Activities",
+      "num_phrases": 5,
+      "phrases": [
+        "I love hiking on weekends; it clears my mind fast.",
+        "I’m learning guitar, and my favorite song is easy.",
+        "I cook tacos at home because it feels like fun therapy.",
+        "I go to the gym, but I only love the warm-up.",
+        "I paint small pictures, and strangers always ask about them."
+      ]
     }
   ],
   "used_phrases": [
@@ -3635,6 +3635,11 @@
     "Hi, my friend! How are you today, really?",
     "Hello! Tell me, how’s your day going so far?",
     "Good afternoon! I hope your day is going well.",
-    "Hey! What did you do today? Give me the highlights."
+    "Hey! What did you do today? Give me the highlights.",
+    "I love hiking on weekends; it clears my mind fast.",
+    "I’m learning guitar, and my favorite song is easy.",
+    "I cook tacos at home because it feels like fun therapy.",
+    "I go to the gym, but I only love the warm-up.",
+    "I paint small pictures, and strangers always ask about them."
   ]
 }
