@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-20T18:59:09.443288",
-      "category": "Animals",
-      "num_phrases": 5,
-      "phrases": [
-        "Your dog stole my heart.",
-        "Your cat is jealous of my kisses.",
-        "Your parrot says my name.",
-        "I want to watch your fish all night.",
-        "You look stunning on that horse."
-      ]
-    },
-    {
       "timestamp": "2026-03-20T20:31:25.150535",
       "category": "Money & Finance",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "I like this a lot. Do you have it in small?",
         "What’s your name? I want to say it correctly."
       ]
+    },
+    {
+      "timestamp": "2026-06-05T16:31:05.855538",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good morning! I’m ready for today, are you?",
+        "Hi, my friend! How are you today, really?",
+        "Hello! Tell me, how’s your day going so far?",
+        "Good afternoon! I hope your day is going well.",
+        "Hey! What did you do today? Give me the highlights."
+      ]
     }
   ],
   "used_phrases": [
@@ -3630,6 +3630,11 @@
     "I’m lost. Is there a bus to the center?",
     "Can I pay by card? I don’t have cash.",
     "I like this a lot. Do you have it in small?",
-    "What’s your name? I want to say it correctly."
+    "What’s your name? I want to say it correctly.",
+    "Good morning! I’m ready for today, are you?",
+    "Hi, my friend! How are you today, really?",
+    "Hello! Tell me, how’s your day going so far?",
+    "Good afternoon! I hope your day is going well.",
+    "Hey! What did you do today? Give me the highlights."
   ]
 }
