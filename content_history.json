@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-21T01:52:50.920588",
-      "category": "Animals",
-      "num_phrases": 5,
-      "phrases": [
-        "That parrot repeats my secrets loudly.",
-        "I found a lost puppy in the park.",
-        "The horse loves carrots and gentle pats.",
-        "My neighbor has a noisy rooster at dawn.",
-        "These butterflies remind me of childhood summers."
-      ]
-    },
-    {
       "timestamp": "2026-03-21T06:42:15.906967",
       "category": "Common Phrases",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "I go to the gym, but I only love the warm-up.",
         "I paint small pictures, and strangers always ask about them."
       ]
+    },
+    {
+      "timestamp": "2026-06-06T10:04:38.042379",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m hungry. Where is the best food around here?",
+        "What time does it open?",
+        "I’m thirsty. Do you have water?",
+        "What do you recommend?",
+        "Sorry, I’m late. The bus was delayed."
+      ]
     }
   ],
   "used_phrases": [
@@ -3640,6 +3640,11 @@
     "I’m learning guitar, and my favorite song is easy.",
     "I cook tacos at home because it feels like fun therapy.",
     "I go to the gym, but I only love the warm-up.",
-    "I paint small pictures, and strangers always ask about them."
+    "I paint small pictures, and strangers always ask about them.",
+    "I’m hungry. Where is the best food around here?",
+    "What time does it open?",
+    "I’m thirsty. Do you have water?",
+    "What do you recommend?",
+    "Sorry, I’m late. The bus was delayed."
   ]
 }
