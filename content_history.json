@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-21T06:42:15.906967",
-      "category": "Common Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "I'm allergic to cats, sadly.",
-        "I love your outfit, you look amazing!",
-        "I don't understand, please speak slowly.",
-        "Can you take a picture of us?",
-        "I need coffee before I speak Spanish."
-      ]
-    },
-    {
       "timestamp": "2026-03-21T12:45:23.186911",
       "category": "Slang & Informal",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "What do you recommend?",
         "Sorry, I’m late. The bus was delayed."
       ]
+    },
+    {
+      "timestamp": "2026-06-06T15:16:30.200324",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "Can I get the menu, please? I’m ready to order.",
+        "I want chicken, but I don’t want spicy sauce.",
+        "No onions, please. I can’t handle that smell.",
+        "Is this vegetarian? I need a simple answer.",
+        "I’m allergic to peanuts. Please keep them away."
+      ]
     }
   ],
   "used_phrases": [
@@ -3645,6 +3645,11 @@
     "What time does it open?",
     "I’m thirsty. Do you have water?",
     "What do you recommend?",
-    "Sorry, I’m late. The bus was delayed."
+    "Sorry, I’m late. The bus was delayed.",
+    "Can I get the menu, please? I’m ready to order.",
+    "I want chicken, but I don’t want spicy sauce.",
+    "No onions, please. I can’t handle that smell.",
+    "Is this vegetarian? I need a simple answer.",
+    "I’m allergic to peanuts. Please keep them away."
   ]
 }
