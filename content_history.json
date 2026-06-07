@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-21T18:35:50.929726",
-      "category": "Emergency Situations",
-      "num_phrases": 5,
-      "phrases": [
-        "Call an ambulance now, please.",
-        "There is a fire, get out now!",
-        "My child is missing, please help me!",
-        "I fell and I cannot move.",
-        "I am allergic to peanuts, I need help."
-      ]
-    },
-    {
       "timestamp": "2026-03-21T20:25:44.320902",
       "category": "Work & Business",
       "num_phrases": 5,
@@ -2386,6 +2374,18 @@
         "Do you think this hat matches my jacket?",
         "I need a jacket because it’s chilly outside."
       ]
+    },
+    {
+      "timestamp": "2026-06-07T10:30:42.012573",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "Excuse me, where is the nearest bus stop?",
+        "How much is this? I want a quick price.",
+        "What does this mean? I want to understand signs.",
+        "I’m looking for the bathroom. Where is it?",
+        "Thank you! You’re super helpful."
+      ]
     }
   ],
   "used_phrases": [
@@ -3655,6 +3655,11 @@
     "My shoes are so comfortable; I can walk all day.",
     "I love this color; it makes me look fresh.",
     "Do you think this hat matches my jacket?",
-    "I need a jacket because it’s chilly outside."
+    "I need a jacket because it’s chilly outside.",
+    "Excuse me, where is the nearest bus stop?",
+    "How much is this? I want a quick price.",
+    "What does this mean? I want to understand signs.",
+    "I’m looking for the bathroom. Where is it?",
+    "Thank you! You’re super helpful."
   ]
 }
