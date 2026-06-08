@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-22T12:48:25.573705",
-      "category": "Food & Dining",
-      "num_phrases": 5,
-      "phrases": [
-        "This dish is my favorite, I order it every time.",
-        "No puedo comer mariscos, soy alérgico.",
-        "Do you have any vegetarian options today?",
-        "The flavors are amazing in this small bite.",
-        "Check, please, we are ready to pay."
-      ]
-    },
-    {
       "timestamp": "2026-03-22T18:36:13.488340",
       "category": "Travel Essentials",
       "num_phrases": 4,
@@ -2386,6 +2374,18 @@
         "Please don’t borrow my charger without asking.",
         "I’m not mad; I just need quiet for ten minutes."
       ]
+    },
+    {
+      "timestamp": "2026-06-08T17:23:35.579542",
+      "category": "Hobbies & Activities",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m learning Spanish with music, and it’s really fun!",
+        "I love cooking tacos at home; it smells amazing!",
+        "I go jogging every morning, and it clears my head!",
+        "I’m into painting; your eyes would love my colors!",
+        "I take photos of sunsets; they make me feel calm!"
+      ]
     }
   ],
   "used_phrases": [
@@ -3675,6 +3675,11 @@
     "I’m close with my sister, and we tell everything.",
     "We argue a little, but we always make up quickly.",
     "Please don’t borrow my charger without asking.",
-    "I’m not mad; I just need quiet for ten minutes."
+    "I’m not mad; I just need quiet for ten minutes.",
+    "I’m learning Spanish with music, and it’s really fun!",
+    "I love cooking tacos at home; it smells amazing!",
+    "I go jogging every morning, and it clears my head!",
+    "I’m into painting; your eyes would love my colors!",
+    "I take photos of sunsets; they make me feel calm!"
   ]
 }
