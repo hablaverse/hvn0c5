@@ -1,17 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-22T18:36:13.488340",
-      "category": "Travel Essentials",
-      "num_phrases": 4,
-      "phrases": [
-        "Is breakfast included with my room?",
-        "Can you call me a taxi?",
-        "My luggage did not arrive.",
-        "How much is one night?"
-      ]
-    },
-    {
       "timestamp": "2026-03-22T20:27:01.174132",
       "category": "Common Phrases",
       "num_phrases": 5,
@@ -2386,6 +2375,18 @@
         "I’m into painting; your eyes would love my colors!",
         "I take photos of sunsets; they make me feel calm!"
       ]
+    },
+    {
+      "timestamp": "2026-06-09T11:16:02.960964",
+      "category": "Shopping",
+      "num_phrases": 5,
+      "phrases": [
+        "Is there a sale today, like a special discount?",
+        "Can I try it on right now, please?",
+        "Where is the fitting room? I don’t see it.",
+        "I’ll take it. How much is it total?",
+        "Can I get a receipt, please? For my records."
+      ]
     }
   ],
   "used_phrases": [
@@ -3680,6 +3681,11 @@
     "I love cooking tacos at home; it smells amazing!",
     "I go jogging every morning, and it clears my head!",
     "I’m into painting; your eyes would love my colors!",
-    "I take photos of sunsets; they make me feel calm!"
+    "I take photos of sunsets; they make me feel calm!",
+    "Is there a sale today, like a special discount?",
+    "Can I try it on right now, please?",
+    "Where is the fitting room? I don’t see it.",
+    "I’ll take it. How much is it total?",
+    "Can I get a receipt, please? For my records."
   ]
 }
