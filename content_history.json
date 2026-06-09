@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-22T20:27:01.174132",
-      "category": "Common Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "I'm embarrassed, not pregnant.",
-        "Can you speak slowly, please?",
-        "I don't understand that word.",
-        "Do you accept cash or card?",
-        "I want to practice my Spanish with you."
-      ]
-    },
-    {
       "timestamp": "2026-03-23T02:05:41.445605",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2387,6 +2375,18 @@
         "I’ll take it. How much is it total?",
         "Can I get a receipt, please? For my records."
       ]
+    },
+    {
+      "timestamp": "2026-06-09T16:32:36.124752",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "I need a good workout today, like right now.",
+        "I’m sore, so I’m going to stretch gently.",
+        "I can’t breathe, so I need water.",
+        "Can you show me the correct form for squats?",
+        "I warmed up, now it’s time to go hard."
+      ]
     }
   ],
   "used_phrases": [
@@ -3686,6 +3686,11 @@
     "Can I try it on right now, please?",
     "Where is the fitting room? I don’t see it.",
     "I’ll take it. How much is it total?",
-    "Can I get a receipt, please? For my records."
+    "Can I get a receipt, please? For my records.",
+    "I need a good workout today, like right now.",
+    "I’m sore, so I’m going to stretch gently.",
+    "I can’t breathe, so I need water.",
+    "Can you show me the correct form for squats?",
+    "I warmed up, now it’s time to go hard."
   ]
 }
