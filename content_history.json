@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-23T02:05:41.445605",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "Come in, the apartment is cozier with you here.",
-        "Can I make you coffee while we chat?",
-        "The couch is perfect for two and a movie.",
-        "My plant likes you more than I do.",
-        "Close the door, I want a little privacy."
-      ]
-    },
-    {
       "timestamp": "2026-03-23T07:09:11.206865",
       "category": "Family & Relationships",
       "num_phrases": 5,
@@ -2387,6 +2375,18 @@
         "Can you show me the correct form for squats?",
         "I warmed up, now it’s time to go hard."
       ]
+    },
+    {
+      "timestamp": "2026-06-09T21:48:50.032733",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "I have a stomachache, and I can’t stop going.",
+        "I think I’m getting a cold, my throat feels bad.",
+        "My back hurts, so don’t ask me to lift that.",
+        "I need an ice pack for my ankle, please.",
+        "I’m okay, but I’m dizzy, so I’ll sit down."
+      ]
     }
   ],
   "used_phrases": [
@@ -3691,6 +3691,11 @@
     "I’m sore, so I’m going to stretch gently.",
     "I can’t breathe, so I need water.",
     "Can you show me the correct form for squats?",
-    "I warmed up, now it’s time to go hard."
+    "I warmed up, now it’s time to go hard.",
+    "I have a stomachache, and I can’t stop going.",
+    "I think I’m getting a cold, my throat feels bad.",
+    "My back hurts, so don’t ask me to lift that.",
+    "I need an ice pack for my ankle, please.",
+    "I’m okay, but I’m dizzy, so I’ll sit down."
   ]
 }
