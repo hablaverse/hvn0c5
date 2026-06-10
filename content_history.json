@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-23T13:04:55.952641",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I feel a little nervous about today.",
-        "I feel so calm and relaxed now.",
-        "I'm a little jealous of your success.",
-        "I feel lonely tonight.",
-        "I'm excited for our trip tomorrow."
-      ]
-    },
-    {
       "timestamp": "2026-03-23T18:53:46.065942",
       "category": "Colors & Descriptions",
       "num_phrases": 5,
@@ -2387,6 +2375,18 @@
         "The fabric feels soft, and it looks super stylish.",
         "I need a smaller size, this one feels too big."
       ]
+    },
+    {
+      "timestamp": "2026-06-10T17:00:15.155680",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m going to practice today, even for five minutes.",
+        "I need help. Where is the grammar explanation?",
+        "Can we do a short conversation practice right now?",
+        "What does this phrase mean in real life?",
+        "I want to learn useful phrases, not rules only."
+      ]
     }
   ],
   "used_phrases": [
@@ -3701,6 +3701,11 @@
     "I love this color, it matches my shoes perfectly.",
     "Where can I find a good jacket for fall?",
     "The fabric feels soft, and it looks super stylish.",
-    "I need a smaller size, this one feels too big."
+    "I need a smaller size, this one feels too big.",
+    "I’m going to practice today, even for five minutes.",
+    "I need help. Where is the grammar explanation?",
+    "Can we do a short conversation practice right now?",
+    "What does this phrase mean in real life?",
+    "I want to learn useful phrases, not rules only."
   ]
 }
