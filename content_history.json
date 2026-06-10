@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-23T07:09:11.206865",
-      "category": "Family & Relationships",
-      "num_phrases": 5,
-      "phrases": [
-        "He's like a brother to me.",
-        "We are getting married next summer.",
-        "My grandmother tells the best stories.",
-        "I live with my parents now.",
-        "She is dating a really great guy."
-      ]
-    },
-    {
       "timestamp": "2026-03-23T13:04:55.952641",
       "category": "Emotions & Feelings",
       "num_phrases": 5,
@@ -2387,6 +2375,18 @@
         "I need an ice pack for my ankle, please.",
         "I’m okay, but I’m dizzy, so I’ll sit down."
       ]
+    },
+    {
+      "timestamp": "2026-06-10T11:39:50.074092",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "Your shirt looks amazing, where did you buy it?",
+        "I love this color, it matches my shoes perfectly.",
+        "Where can I find a good jacket for fall?",
+        "The fabric feels soft, and it looks super stylish.",
+        "I need a smaller size, this one feels too big."
+      ]
     }
   ],
   "used_phrases": [
@@ -3696,6 +3696,11 @@
     "I think I’m getting a cold, my throat feels bad.",
     "My back hurts, so don’t ask me to lift that.",
     "I need an ice pack for my ankle, please.",
-    "I’m okay, but I’m dizzy, so I’ll sit down."
+    "I’m okay, but I’m dizzy, so I’ll sit down.",
+    "Your shirt looks amazing, where did you buy it?",
+    "I love this color, it matches my shoes perfectly.",
+    "Where can I find a good jacket for fall?",
+    "The fabric feels soft, and it looks super stylish.",
+    "I need a smaller size, this one feels too big."
   ]
 }
