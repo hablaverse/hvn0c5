@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-24T01:57:31.253611",
-      "category": "Slang & Informal",
-      "num_phrases": 5,
-      "phrases": [
-        "You have the best smile ever.",
-        "I really like you a lot.",
-        "Do you want to dance with me?",
-        "What's up, beautiful?",
-        "I can't stop looking at you."
-      ]
-    },
-    {
       "timestamp": "2026-03-24T07:03:36.379134",
       "category": "Travel Essentials",
       "num_phrases": 4,
@@ -2387,6 +2375,18 @@
         "Don’t slam the door, it scares my cat!",
         "The bathroom mirror is foggy, how do I clean it?"
       ]
+    },
+    {
+      "timestamp": "2026-06-11T17:37:50.609776",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m running late, can we meet in ten minutes?",
+        "What’s the Wi-Fi password? Mine doesn’t work.",
+        "I’ll take this one, it looks perfect for me.",
+        "Is there a restroom here, like right now?",
+        "How much is it? I’m on a budget today."
+      ]
     }
   ],
   "used_phrases": [
@@ -3716,6 +3716,11 @@
     "My Wi-Fi is slow, can you restart the router?",
     "Is there a kitchen towel, or should I grab one?",
     "Don’t slam the door, it scares my cat!",
-    "The bathroom mirror is foggy, how do I clean it?"
+    "The bathroom mirror is foggy, how do I clean it?",
+    "I’m running late, can we meet in ten minutes?",
+    "What’s the Wi-Fi password? Mine doesn’t work.",
+    "I’ll take this one, it looks perfect for me.",
+    "Is there a restroom here, like right now?",
+    "How much is it? I’m on a budget today."
   ]
 }
