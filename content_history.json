@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-23T20:37:45.620207",
-      "category": "Daily Greetings",
-      "num_phrases": 5,
-      "phrases": [
-        "Hi, you brighten my day.",
-        "Hello, I missed your smile.",
-        "Good afternoon, can I walk with you?",
-        "Hey stranger, where were you?",
-        "Good night, dream about me."
-      ]
-    },
-    {
       "timestamp": "2026-03-24T01:57:31.253611",
       "category": "Slang & Informal",
       "num_phrases": 5,
@@ -2387,6 +2375,18 @@
         "I swallowed something, call poison control, please!",
         "My chest hurts, I might be having a heart problem."
       ]
+    },
+    {
+      "timestamp": "2026-06-11T12:10:51.704957",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "The lights are off, can you turn them on?",
+        "My Wi-Fi is slow, can you restart the router?",
+        "Is there a kitchen towel, or should I grab one?",
+        "Don’t slam the door, it scares my cat!",
+        "The bathroom mirror is foggy, how do I clean it?"
+      ]
     }
   ],
   "used_phrases": [
@@ -3711,6 +3711,11 @@
     "I think I broke my arm, don’t move me!",
     "I can’t stop vomiting, I need help immediately.",
     "I swallowed something, call poison control, please!",
-    "My chest hurts, I might be having a heart problem."
+    "My chest hurts, I might be having a heart problem.",
+    "The lights are off, can you turn them on?",
+    "My Wi-Fi is slow, can you restart the router?",
+    "Is there a kitchen towel, or should I grab one?",
+    "Don’t slam the door, it scares my cat!",
+    "The bathroom mirror is foggy, how do I clean it?"
   ]
 }
