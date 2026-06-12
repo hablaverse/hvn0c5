@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-24T13:09:15.089764",
-      "category": "Slang & Informal",
-      "num_phrases": 5,
-      "phrases": [
-        "You look trouble in the best way.",
-        "Your text made me smile all day.",
-        "Stop being so cute, it's unfair.",
-        "Are you single or do you have a partner?",
-        "You owe me a kiss for that smile."
-      ]
-    },
-    {
       "timestamp": "2026-03-24T19:02:52.724182",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2388,6 +2376,18 @@
         "Don’t worry, I understand a little.",
         "Show me this on your phone, please."
       ]
+    },
+    {
+      "timestamp": "2026-06-12T16:47:04.352094",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "I can’t log in, my password is wrong again.",
+        "My phone is at 2%, so plug it in, please.",
+        "Turn off Bluetooth, it keeps reconnecting to everything.",
+        "Did my message send, or is it stuck?",
+        "I clicked the link, now I need to go back."
+      ]
     }
   ],
   "used_phrases": [
@@ -3727,6 +3727,11 @@
     "Come in, the door is open.",
     "Please speak slowly, I’m learning Spanish.",
     "Don’t worry, I understand a little.",
-    "Show me this on your phone, please."
+    "Show me this on your phone, please.",
+    "I can’t log in, my password is wrong again.",
+    "My phone is at 2%, so plug it in, please.",
+    "Turn off Bluetooth, it keeps reconnecting to everything.",
+    "Did my message send, or is it stuck?",
+    "I clicked the link, now I need to go back."
   ]
 }
