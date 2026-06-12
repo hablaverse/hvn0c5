@@ -1,17 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-24T07:03:36.379134",
-      "category": "Travel Essentials",
-      "num_phrases": 4,
-      "phrases": [
-        "I need a taxi to the airport.",
-        "I lost my passport.",
-        "Where can I exchange money?",
-        "My bag was stolen."
-      ]
-    },
-    {
       "timestamp": "2026-03-24T13:09:15.089764",
       "category": "Slang & Informal",
       "num_phrases": 5,
@@ -2387,6 +2376,18 @@
         "Is there a restroom here, like right now?",
         "How much is it? I’m on a budget today."
       ]
+    },
+    {
+      "timestamp": "2026-06-12T11:44:09.602806",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "Go straight for two blocks, then stop.",
+        "Come in, the door is open.",
+        "Please speak slowly, I’m learning Spanish.",
+        "Don’t worry, I understand a little.",
+        "Show me this on your phone, please."
+      ]
     }
   ],
   "used_phrases": [
@@ -3721,6 +3722,11 @@
     "What’s the Wi-Fi password? Mine doesn’t work.",
     "I’ll take this one, it looks perfect for me.",
     "Is there a restroom here, like right now?",
-    "How much is it? I’m on a budget today."
+    "How much is it? I’m on a budget today.",
+    "Go straight for two blocks, then stop.",
+    "Come in, the door is open.",
+    "Please speak slowly, I’m learning Spanish.",
+    "Don’t worry, I understand a little.",
+    "Show me this on your phone, please."
   ]
 }
