@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-24T20:40:54.164697",
-      "category": "Slang & Informal",
-      "num_phrases": 5,
-      "phrases": [
-        "What's the plan for tonight?",
-        "I'm starving, get me the biggest taco.",
-        "No worries, I will handle it.",
-        "Seriously? Tell me the whole story.",
-        "I'm in for that rooftop bar."
-      ]
-    },
-    {
       "timestamp": "2026-03-25T02:03:13.207220",
       "category": "Weather",
       "num_phrases": 5,
@@ -2388,6 +2376,18 @@
         "Let’s go to a bookshop and pick something fun.",
         "I like drawing, so can you teach me one easy trick?"
       ]
+    },
+    {
+      "timestamp": "2026-06-13T10:29:22.297116",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "It's raining again, so I brought my umbrella.",
+        "It's windy, and my hat keeps flying away.",
+        "I can't go out, it's too cold for me.",
+        "It's hot, and I want a cold drink now.",
+        "Is it going to rain later today?"
+      ]
     }
   ],
   "used_phrases": [
@@ -3737,6 +3737,11 @@
     "I’m learning Spanish, so I practice with street musicians.",
     "Tonight I’m cooking tacos, and I need salsa tips.",
     "Let’s go to a bookshop and pick something fun.",
-    "I like drawing, so can you teach me one easy trick?"
+    "I like drawing, so can you teach me one easy trick?",
+    "It's raining again, so I brought my umbrella.",
+    "It's windy, and my hat keeps flying away.",
+    "I can't go out, it's too cold for me.",
+    "It's hot, and I want a cold drink now.",
+    "Is it going to rain later today?"
   ]
 }
