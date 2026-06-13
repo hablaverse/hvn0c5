@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-25T07:02:02.655333",
-      "category": "Family & Relationships",
-      "num_phrases": 5,
-      "phrases": [
-        "Can I meet your family this weekend?",
-        "Call your abuela, she misses your voice.",
-        "You are like family to me.",
-        "My parents support my big dreams.",
-        "We need to talk about our future."
-      ]
-    },
-    {
       "timestamp": "2026-03-25T13:07:56.072063",
       "category": "Fashion & Appearance",
       "num_phrases": 5,
@@ -2388,6 +2376,18 @@
         "I’m looking for a place to study tonight with you.",
         "Can you help me? I promise I’ll try fast."
       ]
+    },
+    {
+      "timestamp": "2026-06-13T21:16:58.146620",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "It's sunny today, so let's go for a walk.",
+        "It's cloudy, so bring a jacket just in case.",
+        "It might rain, so I’ll take an umbrella.",
+        "The wind is strong, and my hair is going crazy.",
+        "It’s freezing, so I’m staying inside today."
+      ]
     }
   ],
   "used_phrases": [
@@ -3747,6 +3747,11 @@
     "How do you say this? Teach me, I love challenges.",
     "I want to order tacos, not boring food, please.",
     "I’m looking for a place to study tonight with you.",
-    "Can you help me? I promise I’ll try fast."
+    "Can you help me? I promise I’ll try fast.",
+    "It's sunny today, so let's go for a walk.",
+    "It's cloudy, so bring a jacket just in case.",
+    "It might rain, so I’ll take an umbrella.",
+    "The wind is strong, and my hair is going crazy.",
+    "It’s freezing, so I’m staying inside today."
   ]
 }
