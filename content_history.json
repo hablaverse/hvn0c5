@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-25T20:38:53.092522",
-      "category": "Technology & Internet",
-      "num_phrases": 5,
-      "phrases": [
-        "Send me your Wi-Fi password, I'm worth the connection.",
-        "Can we video call tonight?",
-        "DM me that link, I want to see it.",
-        "Like my photo, and I'll like yours back.",
-        "My phone battery died, rescue me."
-      ]
-    },
-    {
       "timestamp": "2026-03-26T02:09:23.009509",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2388,6 +2376,18 @@
         "This workout is harder than I expected today.",
         "Can I drink water between sets, please?"
       ]
+    },
+    {
+      "timestamp": "2026-06-14T21:13:41.205950",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "Do you like this song, or is it just noise?",
+        "I love the singer’s voice, it sounds so real.",
+        "What’s the name of the band in this video?",
+        "Turn it up, this beat is getting me moving!",
+        "I’m obsessed with that movie, I’ve watched it twice."
+      ]
     }
   ],
   "used_phrases": [
@@ -3762,6 +3762,11 @@
     "My legs feel heavy after the gym class.",
     "I always stretch first, or I feel sore later.",
     "This workout is harder than I expected today.",
-    "Can I drink water between sets, please?"
+    "Can I drink water between sets, please?",
+    "Do you like this song, or is it just noise?",
+    "I love the singer’s voice, it sounds so real.",
+    "What’s the name of the band in this video?",
+    "Turn it up, this beat is getting me moving!",
+    "I’m obsessed with that movie, I’ve watched it twice."
   ]
 }
