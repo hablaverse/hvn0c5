@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-26T02:35:23.080897",
-      "category": "Education & Learning",
-      "num_phrases": 5,
-      "phrases": [
-        "Can you explain this problem to me slowly?",
-        "I have a question about the homework assignment.",
-        "Can I borrow a pencil for the test, please?",
-        "I didn't understand the lesson this morning.",
-        "Can we study together after school today?"
-      ]
-    },
-    {
       "timestamp": "2026-03-26T07:07:42.022785",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2388,6 +2376,18 @@
         "I don’t want candles; I want real light today.",
         "The bed feels lumpy, so I need a new mattress."
       ]
+    },
+    {
+      "timestamp": "2026-06-15T18:27:11.802598",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you repeat that, please? I missed it.",
+        "I know a little Spanish, but I need practice.",
+        "How do I say “thank you” in Spanish?",
+        "I don’t understand. Can we try again?",
+        "Is it “ser” or “estar”? I get confused!"
+      ]
     }
   ],
   "used_phrases": [
@@ -3772,6 +3772,11 @@
     "My smoke alarm is beeping again, and I’m panicking.",
     "Where do you keep the keys when you’re home?",
     "I don’t want candles; I want real light today.",
-    "The bed feels lumpy, so I need a new mattress."
+    "The bed feels lumpy, so I need a new mattress.",
+    "Can you repeat that, please? I missed it.",
+    "I know a little Spanish, but I need practice.",
+    "How do I say “thank you” in Spanish?",
+    "I don’t understand. Can we try again?",
+    "Is it “ser” or “estar”? I get confused!"
   ]
 }
