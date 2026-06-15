@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-26T02:09:23.009509",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "Can I borrow your vacuum for an hour?",
-        "The light switch is next to the door.",
-        "My keys are on the coffee table.",
-        "Could you water the plants today, please?",
-        "The oven is hot, use an oven mitt."
-      ]
-    },
-    {
       "timestamp": "2026-03-26T02:35:23.080897",
       "category": "Education & Learning",
       "num_phrases": 5,
@@ -2388,6 +2376,18 @@
         "Turn it up, this beat is getting me moving!",
         "I’m obsessed with that movie, I’ve watched it twice."
       ]
+    },
+    {
+      "timestamp": "2026-06-15T13:56:23.653295",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "I need batteries for the remote, not new furniture.",
+        "My smoke alarm is beeping again, and I’m panicking.",
+        "Where do you keep the keys when you’re home?",
+        "I don’t want candles; I want real light today.",
+        "The bed feels lumpy, so I need a new mattress."
+      ]
     }
   ],
   "used_phrases": [
@@ -3767,6 +3767,11 @@
     "I love the singer’s voice, it sounds so real.",
     "What’s the name of the band in this video?",
     "Turn it up, this beat is getting me moving!",
-    "I’m obsessed with that movie, I’ve watched it twice."
+    "I’m obsessed with that movie, I’ve watched it twice.",
+    "I need batteries for the remote, not new furniture.",
+    "My smoke alarm is beeping again, and I’m panicking.",
+    "Where do you keep the keys when you’re home?",
+    "I don’t want candles; I want real light today.",
+    "The bed feels lumpy, so I need a new mattress."
   ]
 }
