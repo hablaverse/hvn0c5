@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-26T07:07:42.022785",
-      "category": "Health & Body",
-      "num_phrases": 5,
-      "phrases": [
-        "I need to see a doctor today.",
-        "I have an allergy to pollen.",
-        "My stomach hurts after spicy food.",
-        "I feel dizzy right now.",
-        "I need a bandage for this small cut."
-      ]
-    },
-    {
       "timestamp": "2026-03-26T13:13:02.640782",
       "category": "Colors & Descriptions",
       "num_phrases": 5,
@@ -2388,6 +2376,18 @@
         "I don’t understand. Can we try again?",
         "Is it “ser” or “estar”? I get confused!"
       ]
+    },
+    {
+      "timestamp": "2026-06-15T22:20:14.355264",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "My house is freezing, can I turn on the heat?",
+        "The couch smells weird, did you clean it recently?",
+        "I spilled coffee on the floor, please bring a mop.",
+        "Where is the trash can, I need to throw this away.",
+        "Please turn off the lights; it’s bright in here."
+      ]
     }
   ],
   "used_phrases": [
@@ -3777,6 +3777,11 @@
     "I know a little Spanish, but I need practice.",
     "How do I say “thank you” in Spanish?",
     "I don’t understand. Can we try again?",
-    "Is it “ser” or “estar”? I get confused!"
+    "Is it “ser” or “estar”? I get confused!",
+    "My house is freezing, can I turn on the heat?",
+    "The couch smells weird, did you clean it recently?",
+    "I spilled coffee on the floor, please bring a mop.",
+    "Where is the trash can, I need to throw this away.",
+    "Please turn off the lights; it’s bright in here."
   ]
 }
