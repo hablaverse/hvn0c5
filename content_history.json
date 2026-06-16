@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-26T13:13:02.640782",
-      "category": "Colors & Descriptions",
-      "num_phrases": 5,
-      "phrases": [
-        "That red dress looks amazing on you tonight.",
-        "Your eyes are the perfect deep blue I chase.",
-        "I love your warm brown sweater on a cold day.",
-        "Your smile is bright like golden sunlight.",
-        "That black jacket makes you mysterious and hot."
-      ]
-    },
-    {
       "timestamp": "2026-03-26T19:04:55.446984",
       "category": "Money & Finance",
       "num_phrases": 5,
@@ -2388,6 +2376,18 @@
         "Where is the trash can, I need to throw this away.",
         "Please turn off the lights; it’s bright in here."
       ]
+    },
+    {
+      "timestamp": "2026-06-16T12:54:08.282762",
+      "category": "Romantic Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "You make me smile so fast, it’s unfair.",
+        "I like your vibe, and I want more tonight.",
+        "Don’t worry, I’ll text you after this.",
+        "Hold my hand, I promise I’m not shy.",
+        "Let’s be honest, you look too good today."
+      ]
     }
   ],
   "used_phrases": [
@@ -3782,6 +3782,11 @@
     "The couch smells weird, did you clean it recently?",
     "I spilled coffee on the floor, please bring a mop.",
     "Where is the trash can, I need to throw this away.",
-    "Please turn off the lights; it’s bright in here."
+    "Please turn off the lights; it’s bright in here.",
+    "You make me smile so fast, it’s unfair.",
+    "I like your vibe, and I want more tonight.",
+    "Don’t worry, I’ll text you after this.",
+    "Hold my hand, I promise I’m not shy.",
+    "Let’s be honest, you look too good today."
   ]
 }
