@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-26T19:04:55.446984",
-      "category": "Money & Finance",
-      "num_phrases": 5,
-      "phrases": [
-        "Do you accept contactless payment?",
-        "Can I get a receipt?",
-        "I'll transfer the money now.",
-        "What's the exchange rate today?",
-        "This price already includes tax."
-      ]
-    },
-    {
       "timestamp": "2026-03-26T20:36:05.741438",
       "category": "Colors & Descriptions",
       "num_phrases": 5,
@@ -2388,6 +2376,18 @@
         "Hold my hand, I promise I’m not shy.",
         "Let’s be honest, you look too good today."
       ]
+    },
+    {
+      "timestamp": "2026-06-16T18:28:23.886298",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "My phone is at ten percent, can we find Wi-Fi?",
+        "The video won’t load, is your internet slow too?",
+        "Please turn on airplane mode, it will help my signal.",
+        "Where is the charging cable, my battery is dying!",
+        "I sent it, but it says message not delivered."
+      ]
     }
   ],
   "used_phrases": [
@@ -3787,6 +3787,11 @@
     "I like your vibe, and I want more tonight.",
     "Don’t worry, I’ll text you after this.",
     "Hold my hand, I promise I’m not shy.",
-    "Let’s be honest, you look too good today."
+    "Let’s be honest, you look too good today.",
+    "My phone is at ten percent, can we find Wi-Fi?",
+    "The video won’t load, is your internet slow too?",
+    "Please turn on airplane mode, it will help my signal.",
+    "Where is the charging cable, my battery is dying!",
+    "I sent it, but it says message not delivered."
   ]
 }
