@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-26T20:36:05.741438",
-      "category": "Colors & Descriptions",
-      "num_phrases": 5,
-      "phrases": [
-        "This jacket is bright red.",
-        "Her eyes are deep blue.",
-        "My phone case is neon green.",
-        "The coffee is dark brown.",
-        "She wears a pale pink scarf."
-      ]
-    },
-    {
       "timestamp": "2026-03-27T02:10:47.668983",
       "category": "Music & Entertainment",
       "num_phrases": 5,
@@ -2388,6 +2376,18 @@
         "Where is the charging cable, my battery is dying!",
         "I sent it, but it says message not delivered."
       ]
+    },
+    {
+      "timestamp": "2026-06-16T22:12:51.976457",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m down to grab tacos after class, let’s go.",
+        "That’s awesome, I love it, no cap.",
+        "Don’t worry, it’s all good, we’re fine.",
+        "This place is packed, it’s crazy right now.",
+        "I’m hungry, I need food, like now."
+      ]
     }
   ],
   "used_phrases": [
@@ -3792,6 +3792,11 @@
     "The video won’t load, is your internet slow too?",
     "Please turn on airplane mode, it will help my signal.",
     "Where is the charging cable, my battery is dying!",
-    "I sent it, but it says message not delivered."
+    "I sent it, but it says message not delivered.",
+    "I’m down to grab tacos after class, let’s go.",
+    "That’s awesome, I love it, no cap.",
+    "Don’t worry, it’s all good, we’re fine.",
+    "This place is packed, it’s crazy right now.",
+    "I’m hungry, I need food, like now."
   ]
 }
