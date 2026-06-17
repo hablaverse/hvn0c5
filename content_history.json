@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-27T13:04:13.481652",
-      "category": "Weather",
-      "num_phrases": 5,
-      "phrases": [
-        "It's raining a lot today.",
-        "I'm melting in this summer heat.",
-        "The sun feels amazing right now.",
-        "I forgot my umbrella again.",
-        "It looks like it will snow."
-      ]
-    },
-    {
       "timestamp": "2026-03-27T18:55:10.165809",
       "category": "Travel Essentials",
       "num_phrases": 3,
@@ -2388,6 +2376,18 @@
         "Can I get water, no ice, please?",
         "How much is this, and is service included?"
       ]
+    },
+    {
+      "timestamp": "2026-06-17T17:01:57.780498",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "My mom calls me all the time, and I love it.",
+        "My dad says I can do it, and I believe him.",
+        "My sister always steals my hoodie, and I don’t mind.",
+        "Are we meeting my family today, or later?",
+        "My boyfriend helps me, and it melts my heart."
+      ]
     }
   ],
   "used_phrases": [
@@ -3802,6 +3802,11 @@
     "What do you recommend for a first time?",
     "I’m allergic to peanuts, just so you know.",
     "Can I get water, no ice, please?",
-    "How much is this, and is service included?"
+    "How much is this, and is service included?",
+    "My mom calls me all the time, and I love it.",
+    "My dad says I can do it, and I believe him.",
+    "My sister always steals my hoodie, and I don’t mind.",
+    "Are we meeting my family today, or later?",
+    "My boyfriend helps me, and it melts my heart."
   ]
 }
