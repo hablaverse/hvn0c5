@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-27T02:10:47.668983",
-      "category": "Music & Entertainment",
-      "num_phrases": 5,
-      "phrases": [
-        "Play that song again, please.",
-        "Who is singing this song?",
-        "This playlist puts me in a good mood.",
-        "Do you know who this artist is?",
-        "Turn the volume down a little."
-      ]
-    },
-    {
       "timestamp": "2026-03-27T13:04:13.481652",
       "category": "Weather",
       "num_phrases": 5,
@@ -2388,6 +2376,18 @@
         "This place is packed, it’s crazy right now.",
         "I’m hungry, I need food, like now."
       ]
+    },
+    {
+      "timestamp": "2026-06-17T12:17:13.117592",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "Is this spicy, or is it mild?",
+        "What do you recommend for a first time?",
+        "I’m allergic to peanuts, just so you know.",
+        "Can I get water, no ice, please?",
+        "How much is this, and is service included?"
+      ]
     }
   ],
   "used_phrases": [
@@ -3797,6 +3797,11 @@
     "That’s awesome, I love it, no cap.",
     "Don’t worry, it’s all good, we’re fine.",
     "This place is packed, it’s crazy right now.",
-    "I’m hungry, I need food, like now."
+    "I’m hungry, I need food, like now.",
+    "Is this spicy, or is it mild?",
+    "What do you recommend for a first time?",
+    "I’m allergic to peanuts, just so you know.",
+    "Can I get water, no ice, please?",
+    "How much is this, and is service included?"
   ]
 }
