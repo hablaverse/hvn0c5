@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-28T06:58:38.542784",
-      "category": "Slang & Informal",
-      "num_phrases": 5,
-      "phrases": [
-        "What's up, friend?",
-        "I'm freaking out, this is amazing!",
-        "You're killing it, seriously.",
-        "No way, I can't believe it.",
-        "You're such a legend."
-      ]
-    },
-    {
       "timestamp": "2026-03-28T12:53:25.752596",
       "category": "Emergency Situations",
       "num_phrases": 5,
@@ -2391,6 +2379,18 @@
         "I feel calm when I walk alone at night.",
         "I’m tired, but I still want to hang out."
       ]
+    },
+    {
+      "timestamp": "2026-06-18T22:10:43.537762",
+      "category": "Romantic Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "I like you a lot, and I wanted to say it.",
+        "Can I steal you for coffee after dinner?",
+        "Let’s cancel plans and stay together tonight.",
+        "I miss you, even when we just said hi.",
+        "Hold my hand, please. I love your touch."
+      ]
     }
   ],
   "used_phrases": [
@@ -3825,6 +3825,11 @@
     "I’m super happy you texted me first.",
     "I’m annoyed because my phone keeps buzzing.",
     "I feel calm when I walk alone at night.",
-    "I’m tired, but I still want to hang out."
+    "I’m tired, but I still want to hang out.",
+    "I like you a lot, and I wanted to say it.",
+    "Can I steal you for coffee after dinner?",
+    "Let’s cancel plans and stay together tonight.",
+    "I miss you, even when we just said hi.",
+    "Hold my hand, please. I love your touch."
   ]
 }
