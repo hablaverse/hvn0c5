@@ -1,17 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-27T20:38:13.925261",
-      "category": "Shopping",
-      "num_phrases": 4,
-      "phrases": [
-        "Can I try this on?",
-        "I'll take this, please.",
-        "Can I return this if it does not fit?",
-        "Do you have a loyalty card?"
-      ]
-    },
-    {
       "timestamp": "2026-03-28T02:02:13.712163",
       "category": "Education & Learning",
       "num_phrases": 5,
@@ -2390,6 +2379,18 @@
         "Today I’ll learn three new Spanish words.",
         "I speak slowly, so you can understand me."
       ]
+    },
+    {
+      "timestamp": "2026-06-18T11:51:31.092412",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m lost, I need to find my way.",
+        "I’m bleeding, please help me right away.",
+        "Is anyone hurt? Please call for help!",
+        "I can’t breathe, I need air!",
+        "Don’t touch me, I might be injured."
+      ]
     }
   ],
   "used_phrases": [
@@ -3814,6 +3815,11 @@
     "I don’t understand, can you repeat that?",
     "I learn faster with short videos and subtitles.",
     "Today I’ll learn three new Spanish words.",
-    "I speak slowly, so you can understand me."
+    "I speak slowly, so you can understand me.",
+    "I’m lost, I need to find my way.",
+    "I’m bleeding, please help me right away.",
+    "Is anyone hurt? Please call for help!",
+    "I can’t breathe, I need air!",
+    "Don’t touch me, I might be injured."
   ]
 }
