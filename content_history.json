@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-28T12:53:25.752596",
-      "category": "Emergency Situations",
-      "num_phrases": 5,
-      "phrases": [
-        "I need a doctor immediately.",
-        "My leg is broken.",
-        "I am choking, help!",
-        "I fainted, I need help.",
-        "I am bleeding a lot."
-      ]
-    },
-    {
       "timestamp": "2026-03-28T18:17:23.690144",
       "category": "Money & Finance",
       "num_phrases": 4,
@@ -2391,6 +2379,18 @@
         "I miss you, even when we just said hi.",
         "Hold my hand, please. I love your touch."
       ]
+    },
+    {
+      "timestamp": "2026-06-19T12:06:50.732073",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "Go straight, and turn left at the second street.",
+        "The bus stop is near, so keep walking.",
+        "Please show me on your map, right here.",
+        "Stop there, and I’ll catch up to you.",
+        "Follow me, and don’t worry, it’s easy."
+      ]
     }
   ],
   "used_phrases": [
@@ -3830,6 +3830,11 @@
     "Can I steal you for coffee after dinner?",
     "Let’s cancel plans and stay together tonight.",
     "I miss you, even when we just said hi.",
-    "Hold my hand, please. I love your touch."
+    "Hold my hand, please. I love your touch.",
+    "Go straight, and turn left at the second street.",
+    "The bus stop is near, so keep walking.",
+    "Please show me on your map, right here.",
+    "Stop there, and I’ll catch up to you.",
+    "Follow me, and don’t worry, it’s easy."
   ]
 }
