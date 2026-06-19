@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-28T19:56:31.825316",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "Where is the light switch?",
-        "Turn off the lights, please.",
-        "The door is stuck.",
-        "I live on the third floor.",
-        "Make yourself at home."
-      ]
-    },
-    {
       "timestamp": "2026-03-28T21:57:16.874676",
       "category": "Shopping",
       "num_phrases": 5,
@@ -2392,6 +2380,18 @@
         "My hair is messy, so I need a quick fix.",
         "These sunglasses make me look cooler, instantly."
       ]
+    },
+    {
+      "timestamp": "2026-06-19T21:11:54.322641",
+      "category": "Colors & Descriptions",
+      "num_phrases": 5,
+      "phrases": [
+        "I love red, it looks so powerful.",
+        "My phone is blue, and it matches everything.",
+        "Green feels fresh, like new leaves after rain.",
+        "That yellow shirt makes me happy instantly.",
+        "Black is classic, and it never goes out."
+      ]
     }
   ],
   "used_phrases": [
@@ -3841,6 +3841,11 @@
     "I need new shoes because my old ones hurt.",
     "Do you like my shirt color? I chose it myself.",
     "My hair is messy, so I need a quick fix.",
-    "These sunglasses make me look cooler, instantly."
+    "These sunglasses make me look cooler, instantly.",
+    "I love red, it looks so powerful.",
+    "My phone is blue, and it matches everything.",
+    "Green feels fresh, like new leaves after rain.",
+    "That yellow shirt makes me happy instantly.",
+    "Black is classic, and it never goes out."
   ]
 }
