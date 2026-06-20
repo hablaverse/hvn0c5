@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-28T21:57:16.874676",
-      "category": "Shopping",
-      "num_phrases": 5,
-      "phrases": [
-        "Is there a discount today?",
-        "Where are the fitting rooms?",
-        "Can you wrap this as a gift?",
-        "Do you have this in red?",
-        "I only want the small size."
-      ]
-    },
-    {
       "timestamp": "2026-03-28T23:02:30.394444",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2392,6 +2380,18 @@
         "That yellow shirt makes me happy instantly.",
         "Black is classic, and it never goes out."
       ]
+    },
+    {
+      "timestamp": "2026-06-20T10:33:17.996653",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel nervous before big meetings, but I can do it.",
+        "I’m so happy you replied to my message.",
+        "I’m tired, so I need a quiet night at home.",
+        "I feel stressed when my phone keeps buzzing nonstop.",
+        "I’m scared of the dark, so I keep a light on."
+      ]
     }
   ],
   "used_phrases": [
@@ -3846,6 +3846,11 @@
     "My phone is blue, and it matches everything.",
     "Green feels fresh, like new leaves after rain.",
     "That yellow shirt makes me happy instantly.",
-    "Black is classic, and it never goes out."
+    "Black is classic, and it never goes out.",
+    "I feel nervous before big meetings, but I can do it.",
+    "I’m so happy you replied to my message.",
+    "I’m tired, so I need a quiet night at home.",
+    "I feel stressed when my phone keeps buzzing nonstop.",
+    "I’m scared of the dark, so I keep a light on."
   ]
 }
