@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-29T09:04:19.082655",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I'm so proud of you.",
-        "I'm a little sad today.",
-        "That surprised me a lot.",
-        "I'm fed up with this.",
-        "I'm bored with this movie."
-      ]
-    },
-    {
       "timestamp": "2026-03-29T11:06:35.649645",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2392,6 +2380,18 @@
         "Can I get water without gas, please?",
         "Is Wi-Fi free here? I need it for maps."
       ]
+    },
+    {
+      "timestamp": "2026-06-21T11:16:38.376945",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good morning! Today feels like a fun new start.",
+        "Hello! How’s your day going, friend?",
+        "Good afternoon! Let’s grab something quick to eat.",
+        "Good evening! Are we still on for dinner?",
+        "What’s up? Tell me your best local tip today."
+      ]
     }
   ],
   "used_phrases": [
@@ -3861,6 +3861,11 @@
     "Where is the bus stop for the city center?",
     "I have a reservation for two people at seven.",
     "Can I get water without gas, please?",
-    "Is Wi-Fi free here? I need it for maps."
+    "Is Wi-Fi free here? I need it for maps.",
+    "Good morning! Today feels like a fun new start.",
+    "Hello! How’s your day going, friend?",
+    "Good afternoon! Let’s grab something quick to eat.",
+    "Good evening! Are we still on for dinner?",
+    "What’s up? Tell me your best local tip today."
   ]
 }
