@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-29T19:59:29.195695",
-      "category": "Sports & Fitness",
-      "num_phrases": 5,
-      "phrases": [
-        "How many reps are left?",
-        "Give me five more, please.",
-        "I prefer morning workouts.",
-        "Let's stretch before we run.",
-        "My knee hurts a little."
-      ]
-    },
-    {
       "timestamp": "2026-03-29T22:00:29.111216",
       "category": "Numbers & Time",
       "num_phrases": 5,
@@ -2395,6 +2383,18 @@
         "I want to buy a day pass for transport.",
         "Where can I store my luggage safely?"
       ]
+    },
+    {
+      "timestamp": "2026-06-22T22:03:09.430102",
+      "category": "Work & Business",
+      "num_phrases": 5,
+      "phrases": [
+        "Can we move this meeting to tomorrow, please?",
+        "I will send the invoice today, not later.",
+        "I’m not sure yet, but I’ll confirm by noon.",
+        "We need a budget, not just ideas.",
+        "Let’s keep it simple and decide today."
+      ]
     }
   ],
   "used_phrases": [
@@ -3884,6 +3884,11 @@
     "Is there a platform number for this train?",
     "Does this bus stop near the museum?",
     "I want to buy a day pass for transport.",
-    "Where can I store my luggage safely?"
+    "Where can I store my luggage safely?",
+    "Can we move this meeting to tomorrow, please?",
+    "I will send the invoice today, not later.",
+    "I’m not sure yet, but I’ll confirm by noon.",
+    "We need a budget, not just ideas.",
+    "Let’s keep it simple and decide today."
   ]
 }
