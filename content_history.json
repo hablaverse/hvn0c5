@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-30T07:08:07.976134",
-      "category": "Weather",
-      "num_phrases": 5,
-      "phrases": [
-        "It's sunny and perfect for a picnic today.",
-        "It's going to rain in an hour, grab an umbrella.",
-        "The wind is strong; hold onto your hat.",
-        "The temperature dropped suddenly, wear a jacket.",
-        "It's cloudy but still nice to walk."
-      ]
-    },
-    {
       "timestamp": "2026-03-30T11:39:20.660546",
       "category": "Education & Learning",
       "num_phrases": 5,
@@ -2393,6 +2381,18 @@
         "I love your jacket, it looks super cool.",
         "This dress is perfect for tonight."
       ]
+    },
+    {
+      "timestamp": "2026-06-23T21:43:59.015891",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "I have two tickets for tonight’s show.",
+        "My phone number is seven-eight-nine-four.",
+        "I’m late by five minutes, sorry!",
+        "It’s three o’clock, and I need to go.",
+        "I wake up at six every morning."
+      ]
     }
   ],
   "used_phrases": [
@@ -3895,6 +3895,11 @@
     "My shoes feel tight, so I need new ones.",
     "Do you have this in black, not white?",
     "I love your jacket, it looks super cool.",
-    "This dress is perfect for tonight."
+    "This dress is perfect for tonight.",
+    "I have two tickets for tonight’s show.",
+    "My phone number is seven-eight-nine-four.",
+    "I’m late by five minutes, sorry!",
+    "It’s three o’clock, and I need to go.",
+    "I wake up at six every morning."
   ]
 }
