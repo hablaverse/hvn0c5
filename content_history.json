@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-29T23:06:11.328690",
-      "category": "Family & Relationships",
-      "num_phrases": 5,
-      "phrases": [
-        "My sister is my best friend and partner in crime.",
-        "You're like family to me, seriously and forever.",
-        "My grandmother's food heals any bad day, no joke.",
-        "Introduce my boyfriend at dinner; he brings tacos, always.",
-        "Call your mother, she worries even about small things."
-      ]
-    },
-    {
       "timestamp": "2026-03-30T07:08:07.976134",
       "category": "Weather",
       "num_phrases": 5,
@@ -2393,6 +2381,18 @@
         "Is breakfast included in the price?",
         "What time is check-out, exactly?"
       ]
+    },
+    {
+      "timestamp": "2026-06-23T16:27:38.814652",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "This shirt is too big for me.",
+        "My shoes feel tight, so I need new ones.",
+        "Do you have this in black, not white?",
+        "I love your jacket, it looks super cool.",
+        "This dress is perfect for tonight."
+      ]
     }
   ],
   "used_phrases": [
@@ -3890,6 +3890,11 @@
     "Let’s keep it simple and decide today.",
     "Can I pay by card, please, not cash?",
     "Is breakfast included in the price?",
-    "What time is check-out, exactly?"
+    "What time is check-out, exactly?",
+    "This shirt is too big for me.",
+    "My shoes feel tight, so I need new ones.",
+    "Do you have this in black, not white?",
+    "I love your jacket, it looks super cool.",
+    "This dress is perfect for tonight."
   ]
 }
