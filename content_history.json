@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-30T16:24:24.998415",
-      "category": "Family & Relationships",
-      "num_phrases": 5,
-      "phrases": [
-        "My mother cooks the best meals in town.",
-        "I called my dad and we laughed for hours.",
-        "My cousin lives with three funny cats.",
-        "We celebrate birthdays with big homemade cakes.",
-        "Your sister has a contagious laugh, I love it."
-      ]
-    },
-    {
       "timestamp": "2026-03-30T16:42:36.915984",
       "category": "Fashion & Appearance",
       "num_phrases": 5,
@@ -2394,6 +2382,18 @@
         "Walk two blocks, and you will see it.",
         "Turn right at the traffic light, please."
       ]
+    },
+    {
+      "timestamp": "2026-06-25T10:42:03.670143",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "My password is wrong, so the app won’t open.",
+        "Please turn on Wi-Fi, because my signal is terrible.",
+        "I can’t log in, even though I know my email.",
+        "Wait, I accidentally shared my photo with everyone.",
+        "The website is slow, so I’m switching to another."
+      ]
     }
   ],
   "used_phrases": [
@@ -3916,6 +3916,11 @@
     "Is there a pharmacy near here, please?",
     "The bus stop is behind the supermarket.",
     "Walk two blocks, and you will see it.",
-    "Turn right at the traffic light, please."
+    "Turn right at the traffic light, please.",
+    "My password is wrong, so the app won’t open.",
+    "Please turn on Wi-Fi, because my signal is terrible.",
+    "I can’t log in, even though I know my email.",
+    "Wait, I accidentally shared my photo with everyone.",
+    "The website is slow, so I’m switching to another."
   ]
 }
