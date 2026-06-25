@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-30T16:42:36.915984",
-      "category": "Fashion & Appearance",
-      "num_phrases": 5,
-      "phrases": [
-        "I love your shoes!",
-        "Does this fit me?",
-        "Where did you buy that hat?",
-        "This color looks good on you.",
-        "I need a bigger size, please."
-      ]
-    },
-    {
       "timestamp": "2026-03-30T20:01:32.007912",
       "category": "Travel Essentials",
       "num_phrases": 4,
@@ -2394,6 +2382,18 @@
         "Wait, I accidentally shared my photo with everyone.",
         "The website is slow, so I’m switching to another."
       ]
+    },
+    {
+      "timestamp": "2026-06-25T16:24:24.592352",
+      "category": "Romantic Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "I really like you, and I mean it.",
+        "Can I hold your hand, please?",
+        "Your laugh is my favorite sound in the world.",
+        "I miss you already, even if you just left.",
+        "Stay with me a little longer, okay?"
+      ]
     }
   ],
   "used_phrases": [
@@ -3921,6 +3921,11 @@
     "Please turn on Wi-Fi, because my signal is terrible.",
     "I can’t log in, even though I know my email.",
     "Wait, I accidentally shared my photo with everyone.",
-    "The website is slow, so I’m switching to another."
+    "The website is slow, so I’m switching to another.",
+    "I really like you, and I mean it.",
+    "Can I hold your hand, please?",
+    "Your laugh is my favorite sound in the world.",
+    "I miss you already, even if you just left.",
+    "Stay with me a little longer, okay?"
   ]
 }
