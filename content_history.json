@@ -1,17 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-30T20:01:32.007912",
-      "category": "Travel Essentials",
-      "num_phrases": 4,
-      "phrases": [
-        "Do you speak English here?",
-        "Keep my luggage safe, please.",
-        "The flight was delayed again.",
-        "Can I have the Wi-Fi password?"
-      ]
-    },
-    {
       "timestamp": "2026-03-30T23:01:51.280813",
       "category": "Food & Dining",
       "num_phrases": 4,
@@ -2394,6 +2383,18 @@
         "I miss you already, even if you just left.",
         "Stay with me a little longer, okay?"
       ]
+    },
+    {
+      "timestamp": "2026-06-25T21:43:13.962944",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "I messed up again, and now I look so dumb.",
+        "That’s a great deal, no joke, I’m buying it.",
+        "I’m broke today, so I can’t go out.",
+        "Don’t worry, it’s fine, we’ll fix it.",
+        "That movie was wild, I couldn’t stop watching."
+      ]
     }
   ],
   "used_phrases": [
@@ -3926,6 +3927,11 @@
     "Can I hold your hand, please?",
     "Your laugh is my favorite sound in the world.",
     "I miss you already, even if you just left.",
-    "Stay with me a little longer, okay?"
+    "Stay with me a little longer, okay?",
+    "I messed up again, and now I look so dumb.",
+    "That’s a great deal, no joke, I’m buying it.",
+    "I’m broke today, so I can’t go out.",
+    "Don’t worry, it’s fine, we’ll fix it.",
+    "That movie was wild, I couldn’t stop watching."
   ]
 }
