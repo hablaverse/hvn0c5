@@ -1,17 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-30T23:01:51.280813",
-      "category": "Food & Dining",
-      "num_phrases": 4,
-      "phrases": [
-        "I love this flavor.",
-        "Could I have extra napkins, please?",
-        "The coffee is too hot.",
-        "I want a glass of water."
-      ]
-    },
-    {
       "timestamp": "2026-03-31T00:06:15.058387",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2395,6 +2384,18 @@
         "Don’t worry, it’s fine, we’ll fix it.",
         "That movie was wild, I couldn’t stop watching."
       ]
+    },
+    {
+      "timestamp": "2026-06-26T10:51:58.941941",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "Dogs are my best friends, always.",
+        "I love cats, but they are picky.",
+        "My parrot talks all day, nonstop.",
+        "I’m afraid of snakes, even small ones.",
+        "Turtles are slow, but they look tough."
+      ]
     }
   ],
   "used_phrases": [
@@ -3932,6 +3933,11 @@
     "That’s a great deal, no joke, I’m buying it.",
     "I’m broke today, so I can’t go out.",
     "Don’t worry, it’s fine, we’ll fix it.",
-    "That movie was wild, I couldn’t stop watching."
+    "That movie was wild, I couldn’t stop watching.",
+    "Dogs are my best friends, always.",
+    "I love cats, but they are picky.",
+    "My parrot talks all day, nonstop.",
+    "I’m afraid of snakes, even small ones.",
+    "Turtles are slow, but they look tough."
   ]
 }
