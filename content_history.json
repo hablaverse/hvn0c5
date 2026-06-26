@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-31T00:06:15.058387",
-      "category": "Daily Greetings",
-      "num_phrases": 5,
-      "phrases": [
-        "Good morning, how did you sleep?",
-        "Have you eaten yet?",
-        "Nice to meet you, I heard great things.",
-        "Can you help me with this, please?",
-        "I am running late, save me a seat."
-      ]
-    },
-    {
       "timestamp": "2026-03-31T06:09:29.167732",
       "category": "Directions",
       "num_phrases": 4,
@@ -2396,6 +2384,18 @@
         "I’m afraid of snakes, even small ones.",
         "Turtles are slow, but they look tough."
       ]
+    },
+    {
+      "timestamp": "2026-06-26T21:20:06.119215",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m hungry, can I get a menu, please?",
+        "Do you have tacos with chicken?",
+        "One water, no ice, please. I hate melted ice!",
+        "No spicy food, please. My mouth is already burning!",
+        "I’m allergic to peanuts, so no peanut sauce."
+      ]
     }
   ],
   "used_phrases": [
@@ -3938,6 +3938,11 @@
     "I love cats, but they are picky.",
     "My parrot talks all day, nonstop.",
     "I’m afraid of snakes, even small ones.",
-    "Turtles are slow, but they look tough."
+    "Turtles are slow, but they look tough.",
+    "I’m hungry, can I get a menu, please?",
+    "Do you have tacos with chicken?",
+    "One water, no ice, please. I hate melted ice!",
+    "No spicy food, please. My mouth is already burning!",
+    "I’m allergic to peanuts, so no peanut sauce."
   ]
 }
