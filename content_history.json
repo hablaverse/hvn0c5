@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-31T14:53:14.170245",
-      "category": "Fashion & Appearance",
-      "num_phrases": 5,
-      "phrases": [
-        "Your outfit makes the whole street stop.",
-        "That hat looks amazing on you, honestly.",
-        "I can't stop staring at your shoes.",
-        "That color brings out your eyes perfectly.",
-        "Your jacket is stealing my attention right now."
-      ]
-    },
-    {
       "timestamp": "2026-03-31T18:08:10.679970",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I clicked the wrong link, and now I’m lost.",
         "This app keeps freezing, so I’m deleting it."
       ]
+    },
+    {
+      "timestamp": "2026-06-27T21:04:20.969580",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "I have a headache, so please keep the noise down.",
+        "I’m thirsty, and this water tastes like lemon, wow!",
+        "I’m feeling tired, but coffee helps me a lot.",
+        "I have a fever, so I’m going to rest in bed.",
+        "My back hurts, and I shouldn’t lift that heavy box."
+      ]
     }
   ],
   "used_phrases": [
@@ -3954,6 +3954,11 @@
     "Can you share the password, please? I’m stuck.",
     "My phone is at one percent, please help!",
     "I clicked the wrong link, and now I’m lost.",
-    "This app keeps freezing, so I’m deleting it."
+    "This app keeps freezing, so I’m deleting it.",
+    "I have a headache, so please keep the noise down.",
+    "I’m thirsty, and this water tastes like lemon, wow!",
+    "I’m feeling tired, but coffee helps me a lot.",
+    "I have a fever, so I’m going to rest in bed.",
+    "My back hurts, and I shouldn’t lift that heavy box."
   ]
 }
