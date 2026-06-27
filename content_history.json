@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-31T10:21:30.063463",
-      "category": "Education & Learning",
-      "num_phrases": 5,
-      "phrases": [
-        "Can you explain this math problem?",
-        "My favorite subject is history.",
-        "I need help with this essay.",
-        "Do you want to study together?",
-        "I learned something new today."
-      ]
-    },
-    {
       "timestamp": "2026-03-31T14:53:14.170245",
       "category": "Fashion & Appearance",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "My heart goes fast when you say my name.",
         "I’m not good at flirting, but you make it easy."
       ]
+    },
+    {
+      "timestamp": "2026-06-27T15:16:30.636121",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "My Wi-Fi is acting weird again, and I hate it.",
+        "Can you share the password, please? I’m stuck.",
+        "My phone is at one percent, please help!",
+        "I clicked the wrong link, and now I’m lost.",
+        "This app keeps freezing, so I’m deleting it."
+      ]
     }
   ],
   "used_phrases": [
@@ -3949,6 +3949,11 @@
     "I can’t stop smiling since you texted me.",
     "I think about you when I’m walking home.",
     "My heart goes fast when you say my name.",
-    "I’m not good at flirting, but you make it easy."
+    "I’m not good at flirting, but you make it easy.",
+    "My Wi-Fi is acting weird again, and I hate it.",
+    "Can you share the password, please? I’m stuck.",
+    "My phone is at one percent, please help!",
+    "I clicked the wrong link, and now I’m lost.",
+    "This app keeps freezing, so I’m deleting it."
   ]
 }
