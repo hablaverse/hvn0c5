@@ -1,17 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-31T06:09:29.167732",
-      "category": "Directions",
-      "num_phrases": 4,
-      "phrases": [
-        "Am I going the right way to the beach?",
-        "Is there a shortcut to the plaza?",
-        "Stay on this street for two blocks.",
-        "Walk straight until you see the church."
-      ]
-    },
-    {
       "timestamp": "2026-03-31T10:21:30.063463",
       "category": "Education & Learning",
       "num_phrases": 5,
@@ -2396,6 +2385,18 @@
         "No spicy food, please. My mouth is already burning!",
         "I’m allergic to peanuts, so no peanut sauce."
       ]
+    },
+    {
+      "timestamp": "2026-06-27T10:09:04.982033",
+      "category": "Romantic Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "You look amazing tonight, and I’m totally serious.",
+        "I can’t stop smiling since you texted me.",
+        "I think about you when I’m walking home.",
+        "My heart goes fast when you say my name.",
+        "I’m not good at flirting, but you make it easy."
+      ]
     }
   ],
   "used_phrases": [
@@ -3943,6 +3944,11 @@
     "Do you have tacos with chicken?",
     "One water, no ice, please. I hate melted ice!",
     "No spicy food, please. My mouth is already burning!",
-    "I’m allergic to peanuts, so no peanut sauce."
+    "I’m allergic to peanuts, so no peanut sauce.",
+    "You look amazing tonight, and I’m totally serious.",
+    "I can’t stop smiling since you texted me.",
+    "I think about you when I’m walking home.",
+    "My heart goes fast when you say my name.",
+    "I’m not good at flirting, but you make it easy."
   ]
 }
