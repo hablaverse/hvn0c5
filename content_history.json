@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-31T22:55:55.844202",
-      "category": "Work & Business",
-      "num_phrases": 5,
-      "phrases": [
-        "Can we schedule a meeting tomorrow?",
-        "I will send the report today.",
-        "I need this by Friday.",
-        "Can you review this document, please?",
-        "Let's brainstorm new ideas together."
-      ]
-    },
-    {
       "timestamp": "2026-04-01T00:06:12.904906",
       "category": "Food & Dining",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I’ll try it, but I’m scared of spicy food.",
         "Please make it less salty; I taste the ocean."
       ]
+    },
+    {
+      "timestamp": "2026-06-28T21:01:32.256811",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "The concert starts late, so I’m annoyed already.",
+        "Why is the DJ talking so much during the song?",
+        "I love this movie, but the ending is confusing.",
+        "That actor is great, but his accent is weird.",
+        "I can’t find the subtitles, and it’s frustrating."
+      ]
     }
   ],
   "used_phrases": [
@@ -3969,6 +3969,11 @@
     "This coffee is too bitter for me, wow.",
     "Do you have vegetarian options? I’m hungry right now.",
     "I’ll try it, but I’m scared of spicy food.",
-    "Please make it less salty; I taste the ocean."
+    "Please make it less salty; I taste the ocean.",
+    "The concert starts late, so I’m annoyed already.",
+    "Why is the DJ talking so much during the song?",
+    "I love this movie, but the ending is confusing.",
+    "That actor is great, but his accent is weird.",
+    "I can’t find the subtitles, and it’s frustrating."
   ]
 }
