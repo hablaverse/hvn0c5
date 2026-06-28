@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-31T21:01:41.015377",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "Where did you put the keys?",
-        "The kitchen smells like garlic tonight.",
-        "I left the lights on again.",
-        "Can we open the windows, please?",
-        "This couch is surprisingly comfortable."
-      ]
-    },
-    {
       "timestamp": "2026-03-31T22:55:55.844202",
       "category": "Work & Business",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I need water and rest, not another workout challenge.",
         "I’m out of breath after stairs, can we take it slow?"
       ]
+    },
+    {
+      "timestamp": "2026-06-28T15:18:23.925459",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m allergic to peanuts, so no sauces with them.",
+        "This coffee is too bitter for me, wow.",
+        "Do you have vegetarian options? I’m hungry right now.",
+        "I’ll try it, but I’m scared of spicy food.",
+        "Please make it less salty; I taste the ocean."
+      ]
     }
   ],
   "used_phrases": [
@@ -3964,6 +3964,11 @@
     "My nose is running like crazy today, wow.",
     "I think I’m getting a cold, so I’ll take it easy.",
     "I need water and rest, not another workout challenge.",
-    "I’m out of breath after stairs, can we take it slow?"
+    "I’m out of breath after stairs, can we take it slow?",
+    "I’m allergic to peanuts, so no sauces with them.",
+    "This coffee is too bitter for me, wow.",
+    "Do you have vegetarian options? I’m hungry right now.",
+    "I’ll try it, but I’m scared of spicy food.",
+    "Please make it less salty; I taste the ocean."
   ]
 }
