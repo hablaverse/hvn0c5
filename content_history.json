@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-03-31T18:08:10.679970",
-      "category": "Daily Greetings",
-      "num_phrases": 5,
-      "phrases": [
-        "Good morning, sleepyhead!",
-        "Hey, long time no see!",
-        "Good night, sleep tight!",
-        "Good afternoon, how are you?",
-        "What's up, troublemaker?"
-      ]
-    },
-    {
       "timestamp": "2026-03-31T21:01:41.015377",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I have a fever, so I’m going to rest in bed.",
         "My back hurts, and I shouldn’t lift that heavy box."
       ]
+    },
+    {
+      "timestamp": "2026-06-28T10:28:51.471465",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "I have a stomachache, and I need to sit down.",
+        "My nose is running like crazy today, wow.",
+        "I think I’m getting a cold, so I’ll take it easy.",
+        "I need water and rest, not another workout challenge.",
+        "I’m out of breath after stairs, can we take it slow?"
+      ]
     }
   ],
   "used_phrases": [
@@ -3959,6 +3959,11 @@
     "I’m thirsty, and this water tastes like lemon, wow!",
     "I’m feeling tired, but coffee helps me a lot.",
     "I have a fever, so I’m going to rest in bed.",
-    "My back hurts, and I shouldn’t lift that heavy box."
+    "My back hurts, and I shouldn’t lift that heavy box.",
+    "I have a stomachache, and I need to sit down.",
+    "My nose is running like crazy today, wow.",
+    "I think I’m getting a cold, so I’ll take it easy.",
+    "I need water and rest, not another workout challenge.",
+    "I’m out of breath after stairs, can we take it slow?"
   ]
 }
