@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-01T00:06:12.904906",
-      "category": "Food & Dining",
-      "num_phrases": 5,
-      "phrases": [
-        "I asked for decaf, not regular.",
-        "This bill is wrong.",
-        "Can you make it less spicy?",
-        "I ordered a vegetarian dish, this has meat.",
-        "A glass of water, please, no ice."
-      ]
-    },
-    {
       "timestamp": "2026-04-19T10:10:34.137943",
       "category": "Shopping",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "That actor is great, but his accent is weird.",
         "I can’t find the subtitles, and it’s frustrating."
       ]
+    },
+    {
+      "timestamp": "2026-06-29T12:34:40.672404",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m starting a workout today, are you coming with me?",
+        "Where is the gym locker room? I need to change.",
+        "I’ll do warm-up first, then we hit the machines.",
+        "How many sets do you want to do today?",
+        "Give me one good tip before we start."
+      ]
     }
   ],
   "used_phrases": [
@@ -3974,6 +3974,11 @@
     "Why is the DJ talking so much during the song?",
     "I love this movie, but the ending is confusing.",
     "That actor is great, but his accent is weird.",
-    "I can’t find the subtitles, and it’s frustrating."
+    "I can’t find the subtitles, and it’s frustrating.",
+    "I’m starting a workout today, are you coming with me?",
+    "Where is the gym locker room? I need to change.",
+    "I’ll do warm-up first, then we hit the machines.",
+    "How many sets do you want to do today?",
+    "Give me one good tip before we start."
   ]
 }
