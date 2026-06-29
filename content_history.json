@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-19T10:10:34.137943",
-      "category": "Shopping",
-      "num_phrases": 5,
-      "phrases": [
-        "Can I try this on for you?",
-        "Is this on sale or just for looks?",
-        "I'll take it if you give me a discount.",
-        "Do you accept credit cards or only cash?",
-        "Can you hold this until I come back?"
-      ]
-    },
-    {
       "timestamp": "2026-04-19T15:57:56.700896",
       "category": "Shopping",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "How many sets do you want to do today?",
         "Give me one good tip before we start."
       ]
+    },
+    {
+      "timestamp": "2026-06-29T16:53:32.204050",
+      "category": "Hobbies & Activities",
+      "num_phrases": 5,
+      "phrases": [
+        "I love cooking tacos, and I always share extra sauce.",
+        "Every weekend, I go to the park to walk my dog.",
+        "I play guitar at night, and my neighbors survive somehow.",
+        "I’m learning Spanish through memes, and it’s actually fun.",
+        "I journal at night, because my thoughts get loud."
+      ]
     }
   ],
   "used_phrases": [
@@ -3979,6 +3979,11 @@
     "Where is the gym locker room? I need to change.",
     "I’ll do warm-up first, then we hit the machines.",
     "How many sets do you want to do today?",
-    "Give me one good tip before we start."
+    "Give me one good tip before we start.",
+    "I love cooking tacos, and I always share extra sauce.",
+    "Every weekend, I go to the park to walk my dog.",
+    "I play guitar at night, and my neighbors survive somehow.",
+    "I’m learning Spanish through memes, and it’s actually fun.",
+    "I journal at night, because my thoughts get loud."
   ]
 }
