@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-19T15:57:56.700896",
-      "category": "Shopping",
-      "num_phrases": 5,
-      "phrases": [
-        "How much is this shirt, and is it on sale?",
-        "Do you have this brand, not the cheap one?",
-        "I need it for tomorrow, not next week.",
-        "Does this come with a warranty?",
-        "Can you show me where the fitting rooms are?"
-      ]
-    },
-    {
       "timestamp": "2026-04-19T21:54:28.199536",
       "category": "Weather",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I’m learning Spanish through memes, and it’s actually fun.",
         "I journal at night, because my thoughts get loud."
       ]
+    },
+    {
+      "timestamp": "2026-06-30T10:57:48.927698",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "Cats make me sneeze, so I avoid them.",
+        "Dogs are my favorite, they always look happy.",
+        "I’m afraid of snakes, please keep them far.",
+        "My parrot copies everything I say, it’s hilarious.",
+        "I love horses, they feel calm and strong."
+      ]
     }
   ],
   "used_phrases": [
@@ -3984,6 +3984,11 @@
     "Every weekend, I go to the park to walk my dog.",
     "I play guitar at night, and my neighbors survive somehow.",
     "I’m learning Spanish through memes, and it’s actually fun.",
-    "I journal at night, because my thoughts get loud."
+    "I journal at night, because my thoughts get loud.",
+    "Cats make me sneeze, so I avoid them.",
+    "Dogs are my favorite, they always look happy.",
+    "I’m afraid of snakes, please keep them far.",
+    "My parrot copies everything I say, it’s hilarious.",
+    "I love horses, they feel calm and strong."
   ]
 }
