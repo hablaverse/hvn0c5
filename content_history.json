@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-19T21:54:28.199536",
-      "category": "Weather",
-      "num_phrases": 5,
-      "phrases": [
-        "It's raining, so bring your umbrella.",
-        "The forecast says it's going to be sunny.",
-        "It's too hot today. Let's get ice cream.",
-        "It's windy, so be careful with your hat.",
-        "It's getting colder. Put on a jacket."
-      ]
-    },
-    {
       "timestamp": "2026-04-20T11:59:47.839844",
       "category": "Common Phrases",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "My parrot copies everything I say, it’s hilarious.",
         "I love horses, they feel calm and strong."
       ]
+    },
+    {
+      "timestamp": "2026-06-30T16:24:20.183055",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good afternoon! Are you free for coffee later?",
+        "Nice to see you! How have you been?",
+        "Hi, my friend! What’s the plan today?",
+        "Hey! Let’s talk later, I’m busy now.",
+        "Take care! I’ll text you when I’m home."
+      ]
     }
   ],
   "used_phrases": [
@@ -3989,6 +3989,11 @@
     "Dogs are my favorite, they always look happy.",
     "I’m afraid of snakes, please keep them far.",
     "My parrot copies everything I say, it’s hilarious.",
-    "I love horses, they feel calm and strong."
+    "I love horses, they feel calm and strong.",
+    "Good afternoon! Are you free for coffee later?",
+    "Nice to see you! How have you been?",
+    "Hi, my friend! What’s the plan today?",
+    "Hey! Let’s talk later, I’m busy now.",
+    "Take care! I’ll text you when I’m home."
   ]
 }
