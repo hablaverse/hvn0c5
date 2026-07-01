@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-21T11:46:27.477822",
-      "category": "Emergency Situations",
-      "num_phrases": 5,
-      "phrases": [
-        "Help! Call 911 right now, I feel very sick!",
-        "I cut my finger. Please call an ambulance.",
-        "I think I broke my arm. It hurts a lot!",
-        "There is a fire. Get out now, please!",
-        "Stop! Someone is stealing my phone!"
-      ]
-    },
-    {
       "timestamp": "2026-04-21T17:40:35.473005",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "The water is hot, so wash your hands quickly.",
         "Please stop the leak under the sink right now."
       ]
+    },
+    {
+      "timestamp": "2026-07-01T21:28:54.462714",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "My shoes are killing me, I need new ones!",
+        "This color looks amazing on me, seriously!",
+        "Do you like my outfit, or is it too much?",
+        "This shirt is too big; I need a smaller size.",
+        "I’m always forgetting accessories, so I add earrings."
+      ]
     }
   ],
   "used_phrases": [
@@ -4009,6 +4009,11 @@
     "Where is the living room TV remote, please?",
     "I lost my keys, so I’m calling for help now.",
     "The water is hot, so wash your hands quickly.",
-    "Please stop the leak under the sink right now."
+    "Please stop the leak under the sink right now.",
+    "My shoes are killing me, I need new ones!",
+    "This color looks amazing on me, seriously!",
+    "Do you like my outfit, or is it too much?",
+    "This shirt is too big; I need a smaller size.",
+    "I’m always forgetting accessories, so I add earrings."
   ]
 }
