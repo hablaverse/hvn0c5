@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-20T17:40:19.772071",
-      "category": "Family & Relationships",
-      "num_phrases": 5,
-      "phrases": [
-        "I miss you a lot, can we talk today?",
-        "My mom says hello, and she asks how you are.",
-        "Dad always gives great advice, even when I’m stubborn.",
-        "My brother is fun, but he’s a little crazy sometimes.",
-        "I’m closer to my best friend than to my cousins."
-      ]
-    },
-    {
       "timestamp": "2026-04-20T22:31:07.339759",
       "category": "Music & Entertainment",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Where do I put trash and recycling?",
         "The kettle is in the cabinet above the sink."
       ]
+    },
+    {
+      "timestamp": "2026-07-01T11:23:49.207969",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "I hate when it rains like this, it's nonstop.",
+        "It’s freezing outside, I need a warm jacket.",
+        "It’s boiling hot today, I’m sweating already.",
+        "There are dark clouds, so I’ll bring my umbrella.",
+        "The air is clear, and it feels so fresh."
+      ]
     }
   ],
   "used_phrases": [
@@ -3999,6 +3999,11 @@
     "Can I borrow a key for one hour?",
     "My apartment is cold, can you lower the heat?",
     "Where do I put trash and recycling?",
-    "The kettle is in the cabinet above the sink."
+    "The kettle is in the cabinet above the sink.",
+    "I hate when it rains like this, it's nonstop.",
+    "It’s freezing outside, I need a warm jacket.",
+    "It’s boiling hot today, I’m sweating already.",
+    "There are dark clouds, so I’ll bring my umbrella.",
+    "The air is clear, and it feels so fresh."
   ]
 }
