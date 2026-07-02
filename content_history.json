@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-21T17:40:35.473005",
-      "category": "Health & Body",
-      "num_phrases": 5,
-      "phrases": [
-        "My throat hurts, and I need some water right now.",
-        "I have a headache, so I’m going to rest.",
-        "I feel nauseous, please don’t talk too fast.",
-        "I’m allergic to pollen, and spring is tough.",
-        "My stomach hurts, and I need the bathroom soon."
-      ]
-    },
-    {
       "timestamp": "2026-04-21T22:27:25.259386",
       "category": "Weather",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "This shirt is too big; I need a smaller size.",
         "I’m always forgetting accessories, so I add earrings."
       ]
+    },
+    {
+      "timestamp": "2026-07-02T10:40:28.751323",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "Dogs are so cute, but they bark too much sometimes.",
+        "I love birds, especially when they sing in the morning.",
+        "That horse looks calm, not scared at all.",
+        "My roommate hates snakes, so we never keep one.",
+        "I’m scared of spiders, so please don’t show me."
+      ]
     }
   ],
   "used_phrases": [
@@ -4014,6 +4014,11 @@
     "This color looks amazing on me, seriously!",
     "Do you like my outfit, or is it too much?",
     "This shirt is too big; I need a smaller size.",
-    "I’m always forgetting accessories, so I add earrings."
+    "I’m always forgetting accessories, so I add earrings.",
+    "Dogs are so cute, but they bark too much sometimes.",
+    "I love birds, especially when they sing in the morning.",
+    "That horse looks calm, not scared at all.",
+    "My roommate hates snakes, so we never keep one.",
+    "I’m scared of spiders, so please don’t show me."
   ]
 }
