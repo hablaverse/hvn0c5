@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-22T11:44:40.254081",
-      "category": "Family & Relationships",
-      "num_phrases": 5,
-      "phrases": [
-        "My mom always says I can do it.",
-        "Dad texts, and I answer right away.",
-        "My sister borrows my stuff and returns it.",
-        "Can I call my brother before dinner?",
-        "I’m bringing cookies for the whole family."
-      ]
-    },
-    {
       "timestamp": "2026-04-22T17:38:55.385700",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I’ll take it. Thanks, you’re super helpful.",
         "Let’s meet later. What time works for you?"
       ]
+    },
+    {
+      "timestamp": "2026-07-02T21:07:18.249695",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "I need batteries for the remote control, please.",
+        "Can you bring me a towel from the bathroom?",
+        "I think the fridge is making a weird noise again.",
+        "The stove is off, so it is safe to touch.",
+        "Please put the dishes in the dishwasher, not the sink."
+      ]
     }
   ],
   "used_phrases": [
@@ -4024,6 +4024,11 @@
     "Do you have Wi-Fi here? Please tell me.",
     "I don’t understand, can you speak more slowly?",
     "I’ll take it. Thanks, you’re super helpful.",
-    "Let’s meet later. What time works for you?"
+    "Let’s meet later. What time works for you?",
+    "I need batteries for the remote control, please.",
+    "Can you bring me a towel from the bathroom?",
+    "I think the fridge is making a weird noise again.",
+    "The stove is off, so it is safe to touch.",
+    "Please put the dishes in the dishwasher, not the sink."
   ]
 }
