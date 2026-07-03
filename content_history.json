@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-22T22:35:47.617002",
-      "category": "Music & Entertainment",
-      "num_phrases": 5,
-      "phrases": [
-        "This song is stuck in my head, help me!",
-        "That singer sounds amazing live, you have to go!",
-        "What’s the name of this track? I love it!",
-        "Wait, pause the video. I want to hear that part.",
-        "The movie is hilarious, I’m laughing nonstop."
-      ]
-    },
-    {
       "timestamp": "2026-04-23T11:45:36.000640",
       "category": "Emotions & Feelings",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "The wind is so strong, hold your hat tight!",
         "It might snow later, so stay near home."
       ]
+    },
+    {
+      "timestamp": "2026-07-03T21:06:36.743560",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel nervous before exams, but I’m okay.",
+        "I feel happy when I walk in the morning.",
+        "I’m sad today, so be patient with me.",
+        "I feel angry when people cut in line.",
+        "I’m worried about the flight, but we’ll be fine."
+      ]
     }
   ],
   "used_phrases": [
@@ -4034,6 +4034,11 @@
     "The sun is blazing, so use sunscreen, please.",
     "It’s cloudy today, so bring a light jacket.",
     "The wind is so strong, hold your hat tight!",
-    "It might snow later, so stay near home."
+    "It might snow later, so stay near home.",
+    "I feel nervous before exams, but I’m okay.",
+    "I feel happy when I walk in the morning.",
+    "I’m sad today, so be patient with me.",
+    "I feel angry when people cut in line.",
+    "I’m worried about the flight, but we’ll be fine."
   ]
 }
