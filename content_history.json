@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-23T18:07:36.111686",
-      "category": "Weather",
-      "num_phrases": 5,
-      "phrases": [
-        "It’s raining, so I take my umbrella.",
-        "Is it windy today, or am I imagining it?",
-        "The sun is strong today, so wear sunscreen.",
-        "It’s too hot; I can’t stay outside long.",
-        "Oh no, it’s snowing and my shoes are wet!"
-      ]
-    },
-    {
       "timestamp": "2026-04-23T22:12:27.675446",
       "category": "Fashion & Appearance",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Hey! What’s up? Tell me, how are you really?",
         "Nice to meet you! I’m happy we met today."
       ]
+    },
+    {
+      "timestamp": "2026-07-04T15:06:17.423618",
+      "category": "Shopping",
+      "num_phrases": 5,
+      "phrases": [
+        "Does this come in black or white?",
+        "Where is the checkout line, so I can pay?",
+        "I’ll take two if the price is right.",
+        "Can you show me the return policy, please?",
+        "This is perfect, but is it comfortable?"
+      ]
     }
   ],
   "used_phrases": [
@@ -4044,6 +4044,11 @@
     "Hi there! What’s your name and where are you from?",
     "Good evening! Are you doing anything fun tonight?",
     "Hey! What’s up? Tell me, how are you really?",
-    "Nice to meet you! I’m happy we met today."
+    "Nice to meet you! I’m happy we met today.",
+    "Does this come in black or white?",
+    "Where is the checkout line, so I can pay?",
+    "I’ll take two if the price is right.",
+    "Can you show me the return policy, please?",
+    "This is perfect, but is it comfortable?"
   ]
 }
