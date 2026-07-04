@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-23T11:45:36.000640",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m nervous before my interview, but I’ll do it anyway.",
-        "I’m excited to try this new food tonight!",
-        "I’m so happy you replied. That made my day!",
-        "I feel sad because my plan fell apart today.",
-        "I’m angry, but I’m trying to stay calm."
-      ]
-    },
-    {
       "timestamp": "2026-04-23T18:07:36.111686",
       "category": "Weather",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I feel angry when people cut in line.",
         "I’m worried about the flight, but we’ll be fine."
       ]
+    },
+    {
+      "timestamp": "2026-07-04T10:10:26.860469",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Hello! Are you free for a quick coffee?",
+        "Hi there! What’s your name and where are you from?",
+        "Good evening! Are you doing anything fun tonight?",
+        "Hey! What’s up? Tell me, how are you really?",
+        "Nice to meet you! I’m happy we met today."
+      ]
     }
   ],
   "used_phrases": [
@@ -4039,6 +4039,11 @@
     "I feel happy when I walk in the morning.",
     "I’m sad today, so be patient with me.",
     "I feel angry when people cut in line.",
-    "I’m worried about the flight, but we’ll be fine."
+    "I’m worried about the flight, but we’ll be fine.",
+    "Hello! Are you free for a quick coffee?",
+    "Hi there! What’s your name and where are you from?",
+    "Good evening! Are you doing anything fun tonight?",
+    "Hey! What’s up? Tell me, how are you really?",
+    "Nice to meet you! I’m happy we met today."
   ]
 }
