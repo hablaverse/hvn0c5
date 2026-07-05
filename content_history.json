@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-24T17:18:13.019606",
-      "category": "Daily Greetings",
-      "num_phrases": 5,
-      "phrases": [
-        "Good afternoon! What are you doing now?",
-        "Good night! Sleep well, okay?",
-        "What’s up? Tell me the news!",
-        "Nice to meet you! What’s your name?",
-        "See you later! Don’t disappear, please!"
-      ]
-    },
-    {
       "timestamp": "2026-04-24T22:28:31.783245",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Stop the bleeding! Put pressure on the cut.",
         "I might be having an allergic reaction. Help!"
       ]
+    },
+    {
+      "timestamp": "2026-07-05T15:13:15.251544",
+      "category": "Colors & Descriptions",
+      "num_phrases": 5,
+      "phrases": [
+        "This blue shirt looks great on you.",
+        "The red apples look so fresh today.",
+        "That green dress is my favorite color right now.",
+        "The black shoes are stylish and easy to match.",
+        "This white coffee cup is super clean."
+      ]
     }
   ],
   "used_phrases": [
@@ -4059,6 +4059,11 @@
     "Call 911 now! I have chest pain.",
     "I need an ambulance. Please, help me.",
     "Stop the bleeding! Put pressure on the cut.",
-    "I might be having an allergic reaction. Help!"
+    "I might be having an allergic reaction. Help!",
+    "This blue shirt looks great on you.",
+    "The red apples look so fresh today.",
+    "That green dress is my favorite color right now.",
+    "The black shoes are stylish and easy to match.",
+    "This white coffee cup is super clean."
   ]
 }
