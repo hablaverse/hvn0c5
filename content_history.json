@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-25T10:32:14.342503",
-      "category": "Hobbies & Activities",
-      "num_phrases": 5,
-      "phrases": [
-        "I love cooking, even when it smells weird.",
-        "I’m learning guitar, but my strings still hate me.",
-        "I go jogging, and yes, I complain the whole time.",
-        "I love painting; my walls are basically a gallery.",
-        "I dance in my kitchen like nobody is watching."
-      ]
-    },
-    {
       "timestamp": "2026-04-25T16:00:48.720508",
       "category": "Animals",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I think I’ll take this one.",
         "Is there a bigger size available?"
       ]
+    },
+    {
+      "timestamp": "2026-07-06T12:05:29.326661",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "I love this song, can you tell me the title?",
+        "Is there a merch store after the show, please?",
+        "Tickets, please, we have seats in section B.",
+        "Can I take a photo during the song?",
+        "The singer is amazing, I love the live vibe!"
+      ]
     }
   ],
   "used_phrases": [
@@ -4069,6 +4069,11 @@
     "Can I pay with cash here, please?",
     "Do you have this on sale?",
     "I think I’ll take this one.",
-    "Is there a bigger size available?"
+    "Is there a bigger size available?",
+    "I love this song, can you tell me the title?",
+    "Is there a merch store after the show, please?",
+    "Tickets, please, we have seats in section B.",
+    "Can I take a photo during the song?",
+    "The singer is amazing, I love the live vibe!"
   ]
 }
