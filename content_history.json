@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-26T16:04:26.381383",
-      "category": "Family & Relationships",
-      "num_phrases": 5,
-      "phrases": [
-        "Can we talk for a minute, please?",
-        "I miss you, and I want to see you soon.",
-        "Are you mad at me? I’m really not sure.",
-        "I’ll call you after dinner, I promise.",
-        "My mom says hello, and she asks about you."
-      ]
-    },
-    {
       "timestamp": "2026-04-26T21:57:57.635069",
       "category": "Weather",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "My neighbor keeps moving the furniture late at night.",
         "I can’t find my keys, I checked everywhere!"
       ]
+    },
+    {
+      "timestamp": "2026-07-07T16:31:18.628182",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m broke, can you spot me five dollars until Friday?",
+        "I spent too much, and now my wallet is crying.",
+        "Do you have change for a twenty, please?",
+        "I want to save money, not buy random stuff.",
+        "My phone bill is crazy, I need a cheaper plan."
+      ]
     }
   ],
   "used_phrases": [
@@ -4089,6 +4089,11 @@
     "Where is the light switch for the hallway?",
     "Can I borrow your broom for two minutes?",
     "My neighbor keeps moving the furniture late at night.",
-    "I can’t find my keys, I checked everywhere!"
+    "I can’t find my keys, I checked everywhere!",
+    "I’m broke, can you spot me five dollars until Friday?",
+    "I spent too much, and now my wallet is crying.",
+    "Do you have change for a twenty, please?",
+    "I want to save money, not buy random stuff.",
+    "My phone bill is crazy, I need a cheaper plan."
   ]
 }
