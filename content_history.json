@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-26T10:33:53.675051",
-      "category": "Animals",
-      "num_phrases": 5,
-      "phrases": [
-        "I love dogs, but I’m scared of loud barks.",
-        "I’m allergic to cats, so I stay away.",
-        "My favorite animal is an elephant, super calm.",
-        "Don’t touch that snake; it bites when scared.",
-        "My cat only wants snacks and warm naps."
-      ]
-    },
-    {
       "timestamp": "2026-04-26T16:04:26.381383",
       "category": "Family & Relationships",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I love drawing, and I always doodle while waiting.",
         "I’m into soccer, and I watch every weekend match."
       ]
+    },
+    {
+      "timestamp": "2026-07-07T10:56:28.321020",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "I need a plunger, my sink is totally clogged.",
+        "Where is the light switch for the hallway?",
+        "Can I borrow your broom for two minutes?",
+        "My neighbor keeps moving the furniture late at night.",
+        "I can’t find my keys, I checked everywhere!"
+      ]
     }
   ],
   "used_phrases": [
@@ -4084,6 +4084,11 @@
     "I go hiking early, because the views feel unreal.",
     "I’m learning guitar, and my neighbors keep smiling.",
     "I love drawing, and I always doodle while waiting.",
-    "I’m into soccer, and I watch every weekend match."
+    "I’m into soccer, and I watch every weekend match.",
+    "I need a plunger, my sink is totally clogged.",
+    "Where is the light switch for the hallway?",
+    "Can I borrow your broom for two minutes?",
+    "My neighbor keeps moving the furniture late at night.",
+    "I can’t find my keys, I checked everywhere!"
   ]
 }
