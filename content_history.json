@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-30T21:02:18.572472",
-      "category": "Technology & Internet",
-      "num_phrases": 5,
-      "phrases": [
-        "My phone won’t connect to Wi-Fi, help me now.",
-        "I forgot my password, can you reset it?",
-        "Why is my internet so slow today?",
-        "The video keeps buffering, it’s so annoying.",
-        "Tell me the link, I don’t see it."
-      ]
-    },
-    {
       "timestamp": "2026-05-01T09:47:33.476119",
       "category": "Emotions & Feelings",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Do you have it in black? I want the classic.",
         "This feels great. Can I get it, please?"
       ]
+    },
+    {
+      "timestamp": "2026-07-14T15:24:02.616724",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "I want to practice Spanish with you, slowly please.",
+        "Do you speak English, or should I try Spanish?",
+        "I don’t understand, but I can read a little.",
+        "Repeat that slower, and I will try again.",
+        "Is tap water safe to drink here?"
+      ]
     }
   ],
   "used_phrases": [
@@ -4149,6 +4149,11 @@
     "Is there a sale today? I’m hunting bargains!",
     "Where is the fitting room? I need to try it!",
     "Do you have it in black? I want the classic.",
-    "This feels great. Can I get it, please?"
+    "This feels great. Can I get it, please?",
+    "I want to practice Spanish with you, slowly please.",
+    "Do you speak English, or should I try Spanish?",
+    "I don’t understand, but I can read a little.",
+    "Repeat that slower, and I will try again.",
+    "Is tap water safe to drink here?"
   ]
 }
