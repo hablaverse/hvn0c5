@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-01T09:47:33.476119",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m nervous, but I can do this.",
-        "I feel stressed, so I need a short break.",
-        "I’m sad, and I need a hug.",
-        "I’m relieved you’re okay.",
-        "I’m angry, and I need space right now."
-      ]
-    },
-    {
       "timestamp": "2026-05-01T14:57:16.538421",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Repeat that slower, and I will try again.",
         "Is tap water safe to drink here?"
       ]
+    },
+    {
+      "timestamp": "2026-07-14T21:00:16.004464",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "I study Spanish for ten minutes every day after work.",
+        "Please repeat that. I want to learn it correctly.",
+        "I remember it better when I say it out loud.",
+        "I’m practicing “ser” and “estar” with my examples.",
+        "I make mistakes, but I keep going every day."
+      ]
     }
   ],
   "used_phrases": [
@@ -4154,6 +4154,11 @@
     "Do you speak English, or should I try Spanish?",
     "I don’t understand, but I can read a little.",
     "Repeat that slower, and I will try again.",
-    "Is tap water safe to drink here?"
+    "Is tap water safe to drink here?",
+    "I study Spanish for ten minutes every day after work.",
+    "Please repeat that. I want to learn it correctly.",
+    "I remember it better when I say it out loud.",
+    "I’m practicing “ser” and “estar” with my examples.",
+    "I make mistakes, but I keep going every day."
   ]
 }
