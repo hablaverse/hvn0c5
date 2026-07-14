@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-29T15:58:00.622532",
-      "category": "Daily Greetings",
-      "num_phrases": 5,
-      "phrases": [
-        "Good morning! You’re the first thing on my mind.",
-        "Hey, what’s up? I hope your day is gentle.",
-        "Good afternoon! I like your energy, for real.",
-        "Good evening! Let’s have fun tonight, just us.",
-        "Hi! I missed you. Now I’m smiling again."
-      ]
-    },
-    {
       "timestamp": "2026-04-30T10:07:53.731939",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "The actor is cute, I can’t stop smiling.",
         "I’m obsessed with that band, their sound is perfect."
       ]
+    },
+    {
+      "timestamp": "2026-07-14T04:26:34.081196",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "I lost my wallet. Can you help me?",
+        "Call an ambulance, please. It’s an emergency!",
+        "I’m allergic to peanuts. Please do not serve them.",
+        "Help! I think I’m being robbed right now.",
+        "I got into an accident. Where is the hospital?"
+      ]
     }
   ],
   "used_phrases": [
@@ -4134,6 +4134,11 @@
     "Can you play that track again, please?",
     "This movie is so good, I want to watch it again.",
     "The actor is cute, I can’t stop smiling.",
-    "I’m obsessed with that band, their sound is perfect."
+    "I’m obsessed with that band, their sound is perfect.",
+    "I lost my wallet. Can you help me?",
+    "Call an ambulance, please. It’s an emergency!",
+    "I’m allergic to peanuts. Please do not serve them.",
+    "Help! I think I’m being robbed right now.",
+    "I got into an accident. Where is the hospital?"
   ]
 }
