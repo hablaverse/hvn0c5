@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-28T16:09:27.104255",
-      "category": "Money & Finance",
-      "num_phrases": 5,
-      "phrases": [
-        "I budget for tacos and still save money each month.",
-        "I need cash, because my card sometimes fails.",
-        "I paid for lunch; you can pay me back later.",
-        "I’m saving money, so I won’t buy that today.",
-        "Don’t spend it all; keep some for emergencies."
-      ]
-    },
-    {
       "timestamp": "2026-04-28T21:08:40.737343",
       "category": "Romantic Phrases",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I spent too much today, so I’ll slow down.",
         "Is this a good deal, or is it overpriced?"
       ]
+    },
+    {
+      "timestamp": "2026-07-14T04:06:24.010436",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "Turn left here, please. It’s right next to the park.",
+        "The restaurant is behind the museum, trust me.",
+        "It’s in front of the bank, not far at all.",
+        "Take the first street, then go straight again.",
+        "Go past the school, and the store is on your right."
+      ]
     }
   ],
   "used_phrases": [
@@ -4119,6 +4119,11 @@
     "Is there a fee for using the ATM here?",
     "I want to check my bank balance online.",
     "I spent too much today, so I’ll slow down.",
-    "Is this a good deal, or is it overpriced?"
+    "Is this a good deal, or is it overpriced?",
+    "Turn left here, please. It’s right next to the park.",
+    "The restaurant is behind the museum, trust me.",
+    "It’s in front of the bank, not far at all.",
+    "Take the first street, then go straight again.",
+    "Go past the school, and the store is on your right."
   ]
 }
