@@ -126,20 +126,19 @@ def upload_to_instagram(video_path, caption, is_story=False):
                 print(f"[instagram] Facebook response: {video_data}")
 
             if not video_url:
-                print(f"[instagram] Source URL not available, using catbox.moe instead")
-                print(f"[instagram] Uploading to catbox.moe for reliable hosting...")
+                print(f"[instagram] Source URL not available, using 0x0.st for reliable hosting")
+                print(f"[instagram] Uploading to 0x0.st...")
                 with open(video_path, 'rb') as f:
-                    cb_response = requests.post(
-                        'https://catbox.moe/user/api.php',
-                        data={'reqtype': 'fileupload'},
-                        files={'fileToUpload': f},
+                    x0_response = requests.post(
+                        'https://0x0.st',
+                        files={'file': ('video.mp4', f, 'video/mp4')},
                         timeout=180
                     )
-                if cb_response.status_code == 200 and cb_response.text.strip():
-                    video_url = cb_response.text.strip()
-                    print(f"[instagram] catbox.moe URL: {video_url}")
+                if x0_response.status_code == 200 and x0_response.text.strip():
+                    video_url = x0_response.text.strip()
+                    print(f"[instagram] 0x0.st URL: {video_url}")
                 else:
-                    raise Exception(f"catbox.moe upload failed: {cb_response.status_code} {cb_response.text}")
+                    raise Exception(f"0x0.st upload failed: {x0_response.status_code} {x0_response.text}")
 
         print(f"[instagram] Step 4: Creating Instagram {media_type} container...")
         container_url = f"https://graph.facebook.com/v21.0/{ig_user_id}/media"
