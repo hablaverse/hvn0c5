@@ -15,9 +15,11 @@ def upload_to_instagram(video_path, caption, is_story=False):
 
     access_token = os.getenv('INSTAGRAM_ACCESS_TOKEN') or os.getenv('FACEBOOK_ACCESS_TOKEN')
     ig_user_id = os.getenv('INSTAGRAM_ACCOUNT_ID') or os.getenv('IG_USER_ID')
+    fb_page_id = os.getenv('FACEBOOK_PAGE_ID')
 
     def mask(s): return f"{s[:10]}...{s[-4:]}" if s and len(s) > 10 else ("PLACEHOLDER" if s == "***" else "MISSING")
     print(f"[instagram] IG User ID: {ig_user_id}")
+    print(f"[instagram] FB Page ID: {fb_page_id}")
     print(f"[instagram] Access Token: {mask(access_token)}")
 
     if not access_token:
@@ -42,32 +44,32 @@ def upload_to_instagram(video_path, caption, is_story=False):
         api_base = "https://graph.facebook.com/v21.0"
         file_size = video_path_obj.stat().st_size
 
-        print(f"[instagram] Step 1: Starting upload session...")
-        start_url = f"{api_base}/{ig_user_id}/media"
+        video_url = None
+
+        print(f"[instagram] Step 1: Uploading video to Facebook servers as video...")
+        page_id_for_upload = fb_page_id or ig_user_id
+
+        start_url = f"{api_base}/{page_id_for_upload}/videos"
         start_data = {
             'access_token': access_token,
-            'media_type': media_type,
             'upload_phase': 'start',
             'file_size': file_size
         }
-        if not is_story:
-            start_data['caption'] = caption_limited
-
         res_start = requests.post(start_url, data=start_data, timeout=30)
 
         if res_start.status_code != 200:
-            raise Exception(f"Start Phase Failed: {res_start.text}")
+            raise Exception(f"Video Upload Start Failed: {res_start.text}")
 
         start_json = res_start.json()
-        video_id = start_json.get('video_id')
+        fb_video_id = start_json.get('video_id')
         upload_url = start_json.get('upload_url')
 
-        if not video_id or not upload_url:
-            raise Exception(f"No video_id or upload_url. Response: {start_json}")
+        if not fb_video_id:
+            raise Exception(f"No video_id. Response: {start_json}")
 
-        print(f"[instagram] Upload session started: video_id={video_id}")
+        print(f"[instagram] Session started, fb_video_id={fb_video_id}")
 
-        print(f"[instagram] Step 2: Uploading video directly to Instagram...")
+        print(f"[instagram] Step 2: Transferring video file...")
         headers = {
             'Authorization': f'OAuth {access_token}',
             'offset': '0',
@@ -77,32 +79,79 @@ def upload_to_instagram(video_path, caption, is_story=False):
             res_transfer = requests.post(upload_url, headers=headers, data=f, timeout=600)
 
         if res_transfer.status_code != 200:
-            raise Exception(f"Transfer Phase Failed: {res_transfer.text}")
+            raise Exception(f"Transfer Failed: {res_transfer.text}")
 
-        print(f"[instagram] Video uploaded successfully")
+        print(f"[instagram] Video transferred to Facebook")
 
-        print(f"[instagram] Step 3: Finalizing container...")
-        finish_url = f"{api_base}/{ig_user_id}/media"
+        print(f"[instagram] Step 3: Finalizing video...")
+        finish_url = f"{api_base}/{page_id_for_upload}/videos"
         finish_data = {
             'access_token': access_token,
-            'media_type': media_type,
             'upload_phase': 'finish',
-            'video_id': video_id
+            'video_id': fb_video_id,
+            'published': 'false'
         }
-        if not is_story:
-            finish_data['caption'] = caption_limited
-            finish_data['share_to_feed'] = 'false'
-            finish_data['thumb_offset'] = '5000'
-
         res_finish = requests.post(finish_url, data=finish_data, timeout=60)
 
         if res_finish.status_code != 200:
-            raise Exception(f"Finish Phase Failed: {res_finish.text}")
+            raise Exception(f"Finish Failed: {res_finish.text}")
 
-        container_id = res_finish.json().get('id')
+        print(f"[instagram] Video finalized")
+
+        print(f"[instagram] Fetching video source URL...")
+        time.sleep(5)
+        video_resp = requests.get(
+            f"{api_base}/{fb_video_id}",
+            params={'fields': 'source', 'access_token': access_token},
+            timeout=30
+        )
+        if video_resp.status_code == 200:
+            video_data = video_resp.json()
+            video_url = video_data.get('source')
+            print(f"[instagram] Video response: {video_data}")
+
+        if not video_url:
+            print(f"[instagram] Trying tmpfiles.org as fallback...")
+            with open(video_path, 'rb') as f:
+                tmp_resp = requests.post(
+                    'https://tmpfiles.org/api/v1/upload',
+                    files={'file': ('video.mp4', f, 'video/mp4')},
+                    timeout=180
+                )
+            if tmp_resp.status_code == 200:
+                tmp_data = tmp_resp.json()
+                if tmp_data.get('status') == 'success':
+                    tmp_url = tmp_data.get('data', {}).get('url', '')
+                    video_url = tmp_url.replace('tmpfiles.org/', 'tmpfiles.org/dl/')
+                    print(f"[instagram] tmpfiles.org URL: {video_url}")
+                else:
+                    raise Exception(f"tmpfiles.org failed: {tmp_data}")
+            else:
+                raise Exception(f"tmpfiles.org failed: {tmp_resp.status_code}")
+
+        print(f"[instagram] Step 4: Creating Instagram {media_type} container...")
+        container_url = f"{api_base}/{ig_user_id}/media"
+        container_params = {
+            'media_type': media_type,
+            'video_url': video_url,
+            'access_token': access_token
+        }
+        if not is_story:
+            container_params['caption'] = caption_limited
+            container_params['share_to_feed'] = 'false'
+            container_params['thumb_offset'] = '5000'
+
+        container_response = requests.post(container_url, params=container_params, timeout=60)
+
+        if container_response.status_code != 200:
+            container_error = container_response.json() if container_response.text else {}
+            error_msg = container_error.get('error', {}).get('message', 'Unknown error')
+            raise Exception(f"Container Error: {error_msg}")
+
+        container_id = container_response.json().get('id')
         print(f"[instagram] Container created: {container_id}")
 
-        print(f"[instagram] Step 4: Waiting for video processing...")
+        print(f"[instagram] Step 5: Waiting for video processing...")
         max_wait = 180
         waited = 0
 
@@ -128,7 +177,7 @@ def upload_to_instagram(video_path, caption, is_story=False):
         if waited >= max_wait:
             print(f"[instagram] Processing timed out after {max_wait}s, attempting publish anyway...")
 
-        print(f"[instagram] Step 5: Publishing to Instagram...")
+        print(f"[instagram] Step 6: Publishing to Instagram...")
         time.sleep(2)
 
         publish_url = f"{api_base}/{ig_user_id}/media_publish"
@@ -150,7 +199,7 @@ def upload_to_instagram(video_path, caption, is_story=False):
         if not publish_response or publish_response.status_code != 200:
             error_data = publish_response.json() if publish_response and publish_response.text else {}
             error_msg = error_data.get('error', {}).get('message', 'Unknown error')
-            raise Exception(f"Instagram Publish Error: {error_msg}")
+            raise Exception(f"Publish Error: {error_msg}")
 
         media_id = publish_response.json().get('id')
         print(f"[instagram] SUCCESS! Video published to Instagram!")
