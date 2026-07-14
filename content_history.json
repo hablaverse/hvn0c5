@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-27T17:57:43.145904",
-      "category": "Health & Body",
-      "num_phrases": 5,
-      "phrases": [
-        "I have a headache, and my head feels heavy.",
-        "My stomach hurts, so I need water slowly.",
-        "I’m thirsty, can I drink some water now?",
-        "I’m tired, so I’m going to take a nap.",
-        "I have a fever, and I feel really hot."
-      ]
-    },
-    {
       "timestamp": "2026-04-27T21:04:26.961979",
       "category": "Sports & Fitness",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I study Spanish every day, even on busy nights.",
         "Let’s talk in Spanish for ten minutes, deal?"
       ]
+    },
+    {
+      "timestamp": "2026-07-14T03:49:19.547569",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "I have a headache, and the lights make it worse.",
+        "My back hurts, I need to sit down for a bit.",
+        "I have a cough, so I’ll take some medicine.",
+        "I’m dizzy, please stay with me for a moment.",
+        "I want to be healthy, so I’ll drink more water."
+      ]
     }
   ],
   "used_phrases": [
@@ -4104,6 +4104,11 @@
     "I understand, but I need a slower sentence.",
     "Where can I practice Spanish today, like right now?",
     "I study Spanish every day, even on busy nights.",
-    "Let’s talk in Spanish for ten minutes, deal?"
+    "Let’s talk in Spanish for ten minutes, deal?",
+    "I have a headache, and the lights make it worse.",
+    "My back hurts, I need to sit down for a bit.",
+    "I have a cough, so I’ll take some medicine.",
+    "I’m dizzy, please stay with me for a moment.",
+    "I want to be healthy, so I’ll drink more water."
   ]
 }
