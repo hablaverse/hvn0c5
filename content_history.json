@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-28T10:15:40.479168",
-      "category": "Travel Essentials",
-      "num_phrases": 5,
-      "phrases": [
-        "Where is the nearest pharmacy, please?",
-        "My bag is missing; can you help me?",
-        "Do you have free Wi-Fi here?",
-        "How much is this in dollars?",
-        "I don’t speak Spanish, please speak slowly."
-      ]
-    },
-    {
       "timestamp": "2026-04-28T16:09:27.104255",
       "category": "Money & Finance",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "This rug is super slippery, don’t walk without shoes.",
         "Can you fix that leak before it makes a mess?"
       ]
+    },
+    {
+      "timestamp": "2026-07-14T04:01:49.191437",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "I need cash, so I’ll withdraw money from the ATM.",
+        "Is there a fee for using the ATM here?",
+        "I want to check my bank balance online.",
+        "I spent too much today, so I’ll slow down.",
+        "Is this a good deal, or is it overpriced?"
+      ]
     }
   ],
   "used_phrases": [
@@ -4114,6 +4114,11 @@
     "My keys are missing, did I leave them on the table?",
     "The bathroom mirror fogs up fast after a shower.",
     "This rug is super slippery, don’t walk without shoes.",
-    "Can you fix that leak before it makes a mess?"
+    "Can you fix that leak before it makes a mess?",
+    "I need cash, so I’ll withdraw money from the ATM.",
+    "Is there a fee for using the ATM here?",
+    "I want to check my bank balance online.",
+    "I spent too much today, so I’ll slow down.",
+    "Is this a good deal, or is it overpriced?"
   ]
 }
