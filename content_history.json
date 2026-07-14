@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-29T10:08:15.365852",
-      "category": "Money & Finance",
-      "num_phrases": 5,
-      "phrases": [
-        "I want the best deal, babe, tell me the total.",
-        "Don’t waste money; let’s buy only what we need.",
-        "I’ll pay, you just say yes, my love.",
-        "Is this price for one or for two people?",
-        "I got a discount, and it feels like magic."
-      ]
-    },
-    {
       "timestamp": "2026-04-29T15:58:00.622532",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I need water now, my mouth feels dry.",
         "That stretch feels amazing, don’t skip it."
       ]
+    },
+    {
+      "timestamp": "2026-07-14T04:18:57.617304",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "I love this song, it makes me dance instantly.",
+        "Can you play that track again, please?",
+        "This movie is so good, I want to watch it again.",
+        "The actor is cute, I can’t stop smiling.",
+        "I’m obsessed with that band, their sound is perfect."
+      ]
     }
   ],
   "used_phrases": [
@@ -4129,6 +4129,11 @@
     "I’m out of breath, can we slow down for two minutes?",
     "Where’s the gym locker room, please?",
     "I need water now, my mouth feels dry.",
-    "That stretch feels amazing, don’t skip it."
+    "That stretch feels amazing, don’t skip it.",
+    "I love this song, it makes me dance instantly.",
+    "Can you play that track again, please?",
+    "This movie is so good, I want to watch it again.",
+    "The actor is cute, I can’t stop smiling.",
+    "I’m obsessed with that band, their sound is perfect."
   ]
 }
