@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-27T13:10:33.940192",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m nervous before meetings; I breathe slowly in Spanish.",
-        "I feel proud when I try, even if I fail.",
-        "I’m curious about everything, so ask me lots of questions.",
-        "I’m worried, but I’m trying to stay positive today.",
-        "I’m excited for tonight; the plans are so good."
-      ]
-    },
-    {
       "timestamp": "2026-04-27T17:57:43.145904",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "How much is this jacket, exactly?",
         "I’m looking for a charger for my phone."
       ]
+    },
+    {
+      "timestamp": "2026-07-14T03:44:25.895003",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you repeat that, please, I’m still learning Spanish.",
+        "I understand, but I need a slower sentence.",
+        "Where can I practice Spanish today, like right now?",
+        "I study Spanish every day, even on busy nights.",
+        "Let’s talk in Spanish for ten minutes, deal?"
+      ]
     }
   ],
   "used_phrases": [
@@ -4099,6 +4099,11 @@
     "What time do you get off work today?",
     "I don’t understand, so speak slowly, please.",
     "How much is this jacket, exactly?",
-    "I’m looking for a charger for my phone."
+    "I’m looking for a charger for my phone.",
+    "Can you repeat that, please, I’m still learning Spanish.",
+    "I understand, but I need a slower sentence.",
+    "Where can I practice Spanish today, like right now?",
+    "I study Spanish every day, even on busy nights.",
+    "Let’s talk in Spanish for ten minutes, deal?"
   ]
 }
