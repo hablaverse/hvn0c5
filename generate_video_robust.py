@@ -528,11 +528,13 @@ def create_video_from_images_and_audio(
             "ffmpeg", "-y",
             "-loop", "1",
             "-i", img_path,
-            "-vf", f"scale={VIDEO_WIDTH}:{VIDEO_HEIGHT}:force_original_aspect_ratio=decrease,pad={VIDEO_WIDTH}:{VIDEO_HEIGHT}:(ow-iw)/2:(oh-ih)/2,fps={FPS}",
+            "-vf", f"scale={VIDEO_WIDTH}:{VIDEO_HEIGHT}:force_original_aspect_ratio=decrease,pad={VIDEO_WIDTH}:{VIDEO_HEIGHT}:(ow-iw)/2:(oh-ih)/2,fps={FPS},format=yuv420p",
             "-t", str(duration),
             "-c:v", "libx264",
-            "-pix_fmt", "yuv420p",
+            "-profile:v", "main",
+            "-level:v", "4.0",
             "-preset", "medium",
+            "-movflags", "+faststart",
             str(temp_clip)
         ]
         subprocess.run(cmd, capture_output=True, check=True)
