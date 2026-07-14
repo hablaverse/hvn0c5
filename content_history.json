@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-26T21:57:57.635069",
-      "category": "Weather",
-      "num_phrases": 5,
-      "phrases": [
-        "Is it going to rain today, or not?",
-        "It’s hot today, and I can’t stand it.",
-        "The wind is strong, so hold my hat.",
-        "It’s cloudy, so I’m bringing sunglasses.",
-        "Wow, it’s snowing! Should we stay home?"
-      ]
-    },
-    {
       "timestamp": "2026-04-27T13:10:33.940192",
       "category": "Emotions & Feelings",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I want to save money, not buy random stuff.",
         "My phone bill is crazy, I need a cheaper plan."
       ]
+    },
+    {
+      "timestamp": "2026-07-14T03:20:50.399284",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m hungry, and I want tacos right now.",
+        "What time do you get off work today?",
+        "I don’t understand, so speak slowly, please.",
+        "How much is this jacket, exactly?",
+        "I’m looking for a charger for my phone."
+      ]
     }
   ],
   "used_phrases": [
@@ -4094,6 +4094,11 @@
     "I spent too much, and now my wallet is crying.",
     "Do you have change for a twenty, please?",
     "I want to save money, not buy random stuff.",
-    "My phone bill is crazy, I need a cheaper plan."
+    "My phone bill is crazy, I need a cheaper plan.",
+    "I’m hungry, and I want tacos right now.",
+    "What time do you get off work today?",
+    "I don’t understand, so speak slowly, please.",
+    "How much is this jacket, exactly?",
+    "I’m looking for a charger for my phone."
   ]
 }
