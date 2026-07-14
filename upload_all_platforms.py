@@ -220,11 +220,11 @@ def upload_to_all_platforms(video_path, metadata, category):
     results["platforms_attempted"].append("instagram")
 
     if INSTAGRAM_AVAILABLE:
-        ig_username = os.getenv("INSTAGRAM_USERNAME")
-        ig_password = os.getenv("INSTAGRAM_PASSWORD")
+        ig_token = os.getenv("INSTAGRAM_ACCESS_TOKEN")
+        ig_account_id = os.getenv("INSTAGRAM_ACCOUNT_ID")
 
-        if ig_username and ig_password:
-            print(f"   ✅ Credentials found for @{ig_username}")
+        if ig_token and ig_account_id:
+            print(f"   ✅ Credentials found")
             try:
                 upload_result = upload_to_instagram(
                     video_path=video_path,
