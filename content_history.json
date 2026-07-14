@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-28T21:08:40.737343",
-      "category": "Romantic Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "You make my day, like a warm sunrise.",
-        "I like you a lot, and it’s not a joke.",
-        "Can we kiss, right now? Please don’t say no.",
-        "You smell amazing, and I can’t stop smiling.",
-        "Let’s go on a date, even if it’s simple."
-      ]
-    },
-    {
       "timestamp": "2026-04-29T10:08:15.365852",
       "category": "Money & Finance",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Take the first street, then go straight again.",
         "Go past the school, and the store is on your right."
       ]
+    },
+    {
+      "timestamp": "2026-07-14T04:10:07.437185",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m sweating like crazy, but I love this workout.",
+        "I’m out of breath, can we slow down for two minutes?",
+        "Where’s the gym locker room, please?",
+        "I need water now, my mouth feels dry.",
+        "That stretch feels amazing, don’t skip it."
+      ]
     }
   ],
   "used_phrases": [
@@ -4124,6 +4124,11 @@
     "The restaurant is behind the museum, trust me.",
     "It’s in front of the bank, not far at all.",
     "Take the first street, then go straight again.",
-    "Go past the school, and the store is on your right."
+    "Go past the school, and the store is on your right.",
+    "I’m sweating like crazy, but I love this workout.",
+    "I’m out of breath, can we slow down for two minutes?",
+    "Where’s the gym locker room, please?",
+    "I need water now, my mouth feels dry.",
+    "That stretch feels amazing, don’t skip it."
   ]
 }
