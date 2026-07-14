@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-30T10:07:53.731939",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "The Wi-Fi password is on the fridge, not in the folder.",
-        "Please don’t slam the door, it wakes up everyone.",
-        "The light switch is on the wall, not on the ceiling.",
-        "Your keys are not in the drawer, they’re in the bowl.",
-        "The bathroom is near the kitchen, not at the end."
-      ]
-    },
-    {
       "timestamp": "2026-04-30T15:49:06.418426",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Help! I think I’m being robbed right now.",
         "I got into an accident. Where is the hospital?"
       ]
+    },
+    {
+      "timestamp": "2026-07-14T04:44:47.683097",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "My favorite outfit looks good on camera, too.",
+        "This shirt is comfy, so I wear it every day.",
+        "I need a new pair of shoes for long walks.",
+        "This jacket keeps me warm, even when it rains.",
+        "I got this ring at a street market, super cute."
+      ]
     }
   ],
   "used_phrases": [
@@ -4139,6 +4139,11 @@
     "Call an ambulance, please. It’s an emergency!",
     "I’m allergic to peanuts. Please do not serve them.",
     "Help! I think I’m being robbed right now.",
-    "I got into an accident. Where is the hospital?"
+    "I got into an accident. Where is the hospital?",
+    "My favorite outfit looks good on camera, too.",
+    "This shirt is comfy, so I wear it every day.",
+    "I need a new pair of shoes for long walks.",
+    "This jacket keeps me warm, even when it rains.",
+    "I got this ring at a street market, super cute."
   ]
 }
