@@ -105,7 +105,7 @@ def upload_to_instagram(video_path, caption, is_story=False):
                 'access_token': access_token,
                 'upload_phase': 'finish',
                 'video_id': video_id,
-                'video_state': 'DRAFT'
+                'video_state': 'PUBLISHED'
             }
             res_finish = requests.post(finish_url, data=finish_data, timeout=60)
 
@@ -121,12 +121,25 @@ def upload_to_instagram(video_path, caption, is_story=False):
                 timeout=30
             )
             if video_url_resp.status_code == 200:
-                video_url = video_url_resp.json().get('source')
-                print(f"[instagram] Got video source URL from Facebook CDN")
+                video_data = video_url_resp.json()
+                video_url = video_data.get('source')
+                print(f"[instagram] Facebook response: {video_data}")
 
             if not video_url:
-                video_url = f"https://graph.facebook.com/v21.0/{video_id}?access_token={access_token}"
-                print(f"[instagram] Using fallback video URL")
+                print(f"[instagram] Source URL not available, using catbox.moe instead")
+                print(f"[instagram] Uploading to catbox.moe for reliable hosting...")
+                with open(video_path, 'rb') as f:
+                    cb_response = requests.post(
+                        'https://catbox.moe/user/api.php',
+                        data={'reqtype': 'fileupload'},
+                        files={'fileToUpload': f},
+                        timeout=180
+                    )
+                if cb_response.status_code == 200 and cb_response.text.strip():
+                    video_url = cb_response.text.strip()
+                    print(f"[instagram] catbox.moe URL: {video_url}")
+                else:
+                    raise Exception(f"catbox.moe upload failed: {cb_response.status_code} {cb_response.text}")
 
         print(f"[instagram] Step 4: Creating Instagram {media_type} container...")
         container_url = f"https://graph.facebook.com/v21.0/{ig_user_id}/media"
