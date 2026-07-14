@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-27T21:04:26.961979",
-      "category": "Sports & Fitness",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m out of breath after this workout, but I love it!",
-        "Can you spot me on squats? I want to show off!",
-        "Push me harder, I can handle it, babe!",
-        "Let’s stretch together, and I’ll brag after!",
-        "I can’t wait to run with you again tonight!"
-      ]
-    },
-    {
       "timestamp": "2026-04-28T10:15:40.479168",
       "category": "Travel Essentials",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I’m dizzy, please stay with me for a moment.",
         "I want to be healthy, so I’ll drink more water."
       ]
+    },
+    {
+      "timestamp": "2026-07-14T03:53:44.598788",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "The living room is freezing, can we turn up heat?",
+        "My keys are missing, did I leave them on the table?",
+        "The bathroom mirror fogs up fast after a shower.",
+        "This rug is super slippery, don’t walk without shoes.",
+        "Can you fix that leak before it makes a mess?"
+      ]
     }
   ],
   "used_phrases": [
@@ -4109,6 +4109,11 @@
     "My back hurts, I need to sit down for a bit.",
     "I have a cough, so I’ll take some medicine.",
     "I’m dizzy, please stay with me for a moment.",
-    "I want to be healthy, so I’ll drink more water."
+    "I want to be healthy, so I’ll drink more water.",
+    "The living room is freezing, can we turn up heat?",
+    "My keys are missing, did I leave them on the table?",
+    "The bathroom mirror fogs up fast after a shower.",
+    "This rug is super slippery, don’t walk without shoes.",
+    "Can you fix that leak before it makes a mess?"
   ]
 }
