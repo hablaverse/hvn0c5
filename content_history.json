@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-01T20:54:14.677154",
-      "category": "Money & Finance",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m buying this only if it’s on sale.",
-        "Can you split the bill with me, please?",
-        "I’m checking my bank balance right now.",
-        "Does this price include taxes?",
-        "I need cash, not a card payment."
-      ]
-    },
-    {
       "timestamp": "2026-05-02T09:07:35.260793",
       "category": "Numbers & Time",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I need water, because I’m really thirsty.",
         "I’m bruised, so I think I need an ice pack."
       ]
+    },
+    {
+      "timestamp": "2026-07-15T15:27:03.680151",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel nervous before the exam.",
+        "I’m so happy right now, I can’t stop smiling.",
+        "I feel lonely when everyone leaves.",
+        "I’m tired, and my brain is on airplane mode.",
+        "I feel stressed because everything is too fast."
+      ]
     }
   ],
   "used_phrases": [
@@ -4164,6 +4164,11 @@
     "I’m allergic to pollen, so my eyes itch.",
     "My back hurts, and I can’t stand up straight.",
     "I need water, because I’m really thirsty.",
-    "I’m bruised, so I think I need an ice pack."
+    "I’m bruised, so I think I need an ice pack.",
+    "I feel nervous before the exam.",
+    "I’m so happy right now, I can’t stop smiling.",
+    "I feel lonely when everyone leaves.",
+    "I’m tired, and my brain is on airplane mode.",
+    "I feel stressed because everything is too fast."
   ]
 }
