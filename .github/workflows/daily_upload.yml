@@ -72,6 +72,7 @@ jobs:
           git add content_history.json
           if ! git diff --staged --quiet; then
             git commit -m "📊 Update content history - Run #${{ github.run_number }}"
+            git pull --rebase
             git push
             echo "✅ Content history committed - NO repeats across runs!"
           else
