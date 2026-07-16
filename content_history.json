@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-03T20:43:39.990820",
-      "category": "Colors & Descriptions",
-      "num_phrases": 5,
-      "phrases": [
-        "That shirt is bright red, and it looks amazing on you.",
-        "The sky is light blue today, and it feels calm.",
-        "My phone case is black, but it never gets dirty.",
-        "This banana is yellow, and it’s perfectly sweet.",
-        "Your hoodie is dark green, and it looks super cool."
-      ]
-    },
-    {
       "timestamp": "2026-05-04T10:14:34.825393",
       "category": "Numbers & Time",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I feel scared, but I’m going to try anyway.",
         "I feel sad, and I need a hug right now."
       ]
+    },
+    {
+      "timestamp": "2026-07-16T20:59:59.361295",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "Do you have an adapter for my phone charger?",
+        "Where is the nearest pharmacy to buy sunscreen?",
+        "Can I pay by card or do I need cash?",
+        "My suitcase is missing. Where is lost and found?",
+        "I’d like a taxi to the train station, please."
+      ]
     }
   ],
   "used_phrases": [
@@ -4179,6 +4179,11 @@
     "I’m excited to see you, and I can’t wait.",
     "I’m jealous because you got the best seat.",
     "I feel scared, but I’m going to try anyway.",
-    "I feel sad, and I need a hug right now."
+    "I feel sad, and I need a hug right now.",
+    "Do you have an adapter for my phone charger?",
+    "Where is the nearest pharmacy to buy sunscreen?",
+    "Can I pay by card or do I need cash?",
+    "My suitcase is missing. Where is lost and found?",
+    "I’d like a taxi to the train station, please."
   ]
 }
