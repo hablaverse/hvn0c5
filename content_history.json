@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-02T20:43:02.962202",
-      "category": "Music & Entertainment",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m obsessed with this song’s chorus, it’s stuck in my head.",
-        "This playlist has perfect songs for driving at night.",
-        "Can you turn it up? This beat is too good to ignore.",
-        "I love live concerts because the crowd sings with you.",
-        "That singer’s voice is unreal, it gives me chills."
-      ]
-    },
-    {
       "timestamp": "2026-05-03T20:43:39.990820",
       "category": "Colors & Descriptions",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Can we schedule the meeting for Friday?",
         "Please send me the meeting link."
       ]
+    },
+    {
+      "timestamp": "2026-07-16T15:39:00.734161",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel calm right now, like everything is okay.",
+        "I’m excited to see you, and I can’t wait.",
+        "I’m jealous because you got the best seat.",
+        "I feel scared, but I’m going to try anyway.",
+        "I feel sad, and I need a hug right now."
+      ]
     }
   ],
   "used_phrases": [
@@ -4174,6 +4174,11 @@
     "I’ll call you in ten minutes.",
     "We need to approve this budget today.",
     "Can we schedule the meeting for Friday?",
-    "Please send me the meeting link."
+    "Please send me the meeting link.",
+    "I feel calm right now, like everything is okay.",
+    "I’m excited to see you, and I can’t wait.",
+    "I’m jealous because you got the best seat.",
+    "I feel scared, but I’m going to try anyway.",
+    "I feel sad, and I need a hug right now."
   ]
 }
