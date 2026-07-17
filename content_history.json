@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-04T16:03:57.513346",
-      "category": "Education & Learning",
-      "num_phrases": 5,
-      "phrases": [
-        "I need help with this Spanish homework, please.",
-        "Can you speak slower? I’m learning Spanish.",
-        "I don’t understand, can you explain it again?",
-        "Where is the library? I need books.",
-        "Please write it down for me, quickly."
-      ]
-    },
-    {
       "timestamp": "2026-05-04T21:10:43.735128",
       "category": "Romantic Phrases",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I’m staying with my aunt tonight, no drama.",
         "I love my brother, even when we fight."
       ]
+    },
+    {
+      "timestamp": "2026-07-17T20:55:18.764965",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "My mom hugs me when I feel stressed.",
+        "Dad says good manners are important at home.",
+        "I text my brother, and we plan the weekend.",
+        "My sister and I share clothes, not drama.",
+        "Can you call your grandma and say good night?"
+      ]
     }
   ],
   "used_phrases": [
@@ -4189,6 +4189,11 @@
     "My sister always steals my snacks, not my secrets.",
     "Grandma remembers my birthday, even when I'm late.",
     "I’m staying with my aunt tonight, no drama.",
-    "I love my brother, even when we fight."
+    "I love my brother, even when we fight.",
+    "My mom hugs me when I feel stressed.",
+    "Dad says good manners are important at home.",
+    "I text my brother, and we plan the weekend.",
+    "My sister and I share clothes, not drama.",
+    "Can you call your grandma and say good night?"
   ]
 }
