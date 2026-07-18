@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-05T21:46:37.619232",
-      "category": "Colors & Descriptions",
-      "num_phrases": 5,
-      "phrases": [
-        "That red shirt looks amazing on you.",
-        "This blue backpack is my favorite.",
-        "I love green trees; they feel so fresh.",
-        "The yellow banana is ripe and so sweet.",
-        "Your black shoes look super classy."
-      ]
-    },
-    {
       "timestamp": "2026-05-06T10:20:14.090796",
       "category": "Emotions & Feelings",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "No thanks, I don’t eat seafood.",
         "Do you have tap water?"
       ]
+    },
+    {
+      "timestamp": "2026-07-18T20:47:14.204105",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "I need new running shoes for my next race.",
+        "Can we do a quick warm-up before we start?",
+        "I’m sweating like crazy after this workout!",
+        "How many reps do I need for this exercise?",
+        "I drink water between sets, not during pauses."
+      ]
     }
   ],
   "used_phrases": [
@@ -4204,6 +4204,11 @@
     "Is this dish vegetarian?",
     "I’m allergic to peanuts.",
     "No thanks, I don’t eat seafood.",
-    "Do you have tap water?"
+    "Do you have tap water?",
+    "I need new running shoes for my next race.",
+    "Can we do a quick warm-up before we start?",
+    "I’m sweating like crazy after this workout!",
+    "How many reps do I need for this exercise?",
+    "I drink water between sets, not during pauses."
   ]
 }
