@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-05T10:04:17.258966",
-      "category": "Sports & Fitness",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m out of breath after one lap, wow!",
-        "I’m sore everywhere, even my legs feel heavy.",
-        "I forgot my water bottle, so I’m drinking juice today.",
-        "Can we stretch first? It saves my back!",
-        "My coach says slow down, so I listen."
-      ]
-    },
-    {
       "timestamp": "2026-05-05T21:46:37.619232",
       "category": "Colors & Descriptions",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Is there bread, or only rice today?",
         "Just one coffee, please, not two."
       ]
+    },
+    {
+      "timestamp": "2026-07-18T14:53:17.703000",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "I want spicy food, not too hot.",
+        "Is this dish vegetarian?",
+        "I’m allergic to peanuts.",
+        "No thanks, I don’t eat seafood.",
+        "Do you have tap water?"
+      ]
     }
   ],
   "used_phrases": [
@@ -4199,6 +4199,11 @@
     "Can I get this without onions, please?",
     "Do you have water, or is it soda?",
     "Is there bread, or only rice today?",
-    "Just one coffee, please, not two."
+    "Just one coffee, please, not two.",
+    "I want spicy food, not too hot.",
+    "Is this dish vegetarian?",
+    "I’m allergic to peanuts.",
+    "No thanks, I don’t eat seafood.",
+    "Do you have tap water?"
   ]
 }
