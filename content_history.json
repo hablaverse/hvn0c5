@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-04T21:10:43.735128",
-      "category": "Romantic Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "I have a crush on you, and I mean it.",
-        "You make me smile, and that’s my favorite feeling.",
-        "I like your vibe, it feels warm and safe.",
-        "Can I hold your hand right now?",
-        "I missed you today, and it’s honestly embarrassing."
-      ]
-    },
-    {
       "timestamp": "2026-05-05T10:04:17.258966",
       "category": "Sports & Fitness",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "My sister and I share clothes, not drama.",
         "Can you call your grandma and say good night?"
       ]
+    },
+    {
+      "timestamp": "2026-07-18T09:25:47.205949",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "I can't eat dairy, it makes me sick.",
+        "Can I get this without onions, please?",
+        "Do you have water, or is it soda?",
+        "Is there bread, or only rice today?",
+        "Just one coffee, please, not two."
+      ]
     }
   ],
   "used_phrases": [
@@ -4194,6 +4194,11 @@
     "Dad says good manners are important at home.",
     "I text my brother, and we plan the weekend.",
     "My sister and I share clothes, not drama.",
-    "Can you call your grandma and say good night?"
+    "Can you call your grandma and say good night?",
+    "I can't eat dairy, it makes me sick.",
+    "Can I get this without onions, please?",
+    "Do you have water, or is it soda?",
+    "Is there bread, or only rice today?",
+    "Just one coffee, please, not two."
   ]
 }
