@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-06T16:03:36.045373",
-      "category": "Animals",
-      "num_phrases": 5,
-      "phrases": [
-        "I love cats, they are my little daily heroes.",
-        "Dogs are the happiest neighbors in my whole street.",
-        "I’m scared of spiders, but I don’t panic.",
-        "Bunnies are so cute; I want to hug them.",
-        "Birds wake me up, and I secretly love it."
-      ]
-    },
-    {
       "timestamp": "2026-05-06T21:12:52.692579",
       "category": "Emotions & Feelings",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "The snack is orange, and it tastes like sunshine.",
         "That skirt is red, and it makes me feel bold."
       ]
+    },
+    {
+      "timestamp": "2026-07-19T14:56:33.323711",
+      "category": "Romantic Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "You look amazing tonight, and I feel happy with you.",
+        "I love your smile; it makes my day better.",
+        "Let’s stay a little longer, please. I don’t want goodbye.",
+        "You smell so good. What perfume are you wearing?",
+        "I’m nervous, but you make me feel safe."
+      ]
     }
   ],
   "used_phrases": [
@@ -4214,6 +4214,11 @@
     "The wall is white, but it feels so clean.",
     "That jacket is black, and it matches everything.",
     "The snack is orange, and it tastes like sunshine.",
-    "That skirt is red, and it makes me feel bold."
+    "That skirt is red, and it makes me feel bold.",
+    "You look amazing tonight, and I feel happy with you.",
+    "I love your smile; it makes my day better.",
+    "Let’s stay a little longer, please. I don’t want goodbye.",
+    "You smell so good. What perfume are you wearing?",
+    "I’m nervous, but you make me feel safe."
   ]
 }
