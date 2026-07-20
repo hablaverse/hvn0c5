@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-07T21:06:36.732873",
-      "category": "Shopping",
-      "num_phrases": 5,
-      "phrases": [
-        "How much is this? I’m ready to buy.",
-        "Do you take cash, or only card?",
-        "Where is the checkout counter?",
-        "Does it come in another color?",
-        "I’ll take it. Do I get a receipt?"
-      ]
-    },
-    {
       "timestamp": "2026-05-08T09:22:44.500466",
       "category": "Romantic Phrases",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Your voice is so sexy, please sing more!",
         "This show is wild, I love it so much!"
       ]
+    },
+    {
+      "timestamp": "2026-07-20T21:12:37.947627",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "My mom is strict, but she loves me so much.",
+        "My dad is quiet, but he always helps.",
+        "I miss my sister; we text every day.",
+        "My brother borrows my stuff, then returns it fast.",
+        "We argue sometimes, but we always make up."
+      ]
     }
   ],
   "used_phrases": [
@@ -4234,6 +4234,11 @@
     "What time does the movie start, exactly?",
     "I’m in the front row, don’t distract me.",
     "Your voice is so sexy, please sing more!",
-    "This show is wild, I love it so much!"
+    "This show is wild, I love it so much!",
+    "My mom is strict, but she loves me so much.",
+    "My dad is quiet, but he always helps.",
+    "I miss my sister; we text every day.",
+    "My brother borrows my stuff, then returns it fast.",
+    "We argue sometimes, but we always make up."
   ]
 }
