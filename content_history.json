@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-08T15:23:25.524318",
-      "category": "Education & Learning",
-      "num_phrases": 5,
-      "phrases": [
-        "Can you speak slower, please? I’m learning.",
-        "What does this mean? I want the real translation.",
-        "Where is the bathroom? I’ll be right back.",
-        "I speak a little Spanish, but I’m improving fast.",
-        "Do you know any fun Spanish slang for beginners?"
-      ]
-    },
-    {
       "timestamp": "2026-05-08T21:01:32.684341",
       "category": "Animals",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Good evening! I hope your day is treating you well.",
         "Hi! What’s up? Tell me something fun right now."
       ]
+    },
+    {
+      "timestamp": "2026-07-21T15:44:03.443635",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "Help me, I feel sick right now, please!",
+        "Call 911 now, there is an accident here!",
+        "I need a doctor, my chest hurts a lot.",
+        "Fire! Something is burning, get everyone outside!",
+        "I think I’m going to faint, please sit me down."
+      ]
     }
   ],
   "used_phrases": [
@@ -4244,6 +4244,11 @@
     "Hey, how are you? I’m happy to see you.",
     "Good afternoon! Your vibe is even better today.",
     "Good evening! I hope your day is treating you well.",
-    "Hi! What’s up? Tell me something fun right now."
+    "Hi! What’s up? Tell me something fun right now.",
+    "Help me, I feel sick right now, please!",
+    "Call 911 now, there is an accident here!",
+    "I need a doctor, my chest hurts a lot.",
+    "Fire! Something is burning, get everyone outside!",
+    "I think I’m going to faint, please sit me down."
   ]
 }
