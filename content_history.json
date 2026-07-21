@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-08T09:22:44.500466",
-      "category": "Romantic Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "Can I kiss you, just one time, right now?",
-        "You look amazing tonight; I can’t stop staring.",
-        "I brought you flowers because you deserve the best.",
-        "I miss you; can we talk for a bit?",
-        "Let’s go on a date; I’ll pick the place."
-      ]
-    },
-    {
       "timestamp": "2026-05-08T15:23:25.524318",
       "category": "Education & Learning",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "My brother borrows my stuff, then returns it fast.",
         "We argue sometimes, but we always make up."
       ]
+    },
+    {
+      "timestamp": "2026-07-21T10:25:52.005177",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good morning! You look amazing today, seriously.",
+        "Hey, how are you? I’m happy to see you.",
+        "Good afternoon! Your vibe is even better today.",
+        "Good evening! I hope your day is treating you well.",
+        "Hi! What’s up? Tell me something fun right now."
+      ]
     }
   ],
   "used_phrases": [
@@ -4239,6 +4239,11 @@
     "My dad is quiet, but he always helps.",
     "I miss my sister; we text every day.",
     "My brother borrows my stuff, then returns it fast.",
-    "We argue sometimes, but we always make up."
+    "We argue sometimes, but we always make up.",
+    "Good morning! You look amazing today, seriously.",
+    "Hey, how are you? I’m happy to see you.",
+    "Good afternoon! Your vibe is even better today.",
+    "Good evening! I hope your day is treating you well.",
+    "Hi! What’s up? Tell me something fun right now."
   ]
 }
