@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-08T21:01:32.684341",
-      "category": "Animals",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m scared of spiders, even the small ones at home.",
-        "Cats always find me, even when I don’t want them.",
-        "Dogs are my favorite; they make travel feel friendly.",
-        "Don’t feed pigeons here; they get too bold fast.",
-        "I love horses; they look calm and strong in parks."
-      ]
-    },
-    {
       "timestamp": "2026-05-09T09:20:46.792081",
       "category": "Travel Essentials",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Fire! Something is burning, get everyone outside!",
         "I think I’m going to faint, please sit me down."
       ]
+    },
+    {
+      "timestamp": "2026-07-21T21:09:32.293391",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you say that again, please, slowly?",
+        "I don’t understand, but I want to learn.",
+        "I like it a lot, it feels easy.",
+        "Do you speak English a little, please?",
+        "I want water, not soda, please."
+      ]
     }
   ],
   "used_phrases": [
@@ -4249,6 +4249,11 @@
     "Call 911 now, there is an accident here!",
     "I need a doctor, my chest hurts a lot.",
     "Fire! Something is burning, get everyone outside!",
-    "I think I’m going to faint, please sit me down."
+    "I think I’m going to faint, please sit me down.",
+    "Can you say that again, please, slowly?",
+    "I don’t understand, but I want to learn.",
+    "I like it a lot, it feels easy.",
+    "Do you speak English a little, please?",
+    "I want water, not soda, please."
   ]
 }
