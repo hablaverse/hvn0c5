@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-09T14:52:17.772201",
-      "category": "Technology & Internet",
-      "num_phrases": 5,
-      "phrases": [
-        "My Wi-Fi password is wrong, can you help me reset?",
-        "Where is the power outlet? My phone is dying fast.",
-        "I can’t log in, my password keeps getting rejected.",
-        "Is there free Wi-Fi here? I need it right now.",
-        "I accidentally closed the tab. Can I open it again?"
-      ]
-    },
-    {
       "timestamp": "2026-05-09T20:44:05.659419",
       "category": "Work & Business",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I’m at number seven, come meet me here.",
         "I have three dollars, is that enough for you?"
       ]
+    },
+    {
+      "timestamp": "2026-07-22T15:43:13.736728",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "Go straight, and turn right at the big bookstore.",
+        "Turn left here, and you’ll see the bus stop.",
+        "The bathroom is behind the restaurant, not in front.",
+        "Walk down this street until the park, then stop.",
+        "Take the next right, and the hotel is on your left."
+      ]
     }
   ],
   "used_phrases": [
@@ -4259,6 +4259,11 @@
     "Give me one minute, I’ll be ready in ten.",
     "It’s five o’clock, and we’re going right now!",
     "I’m at number seven, come meet me here.",
-    "I have three dollars, is that enough for you?"
+    "I have three dollars, is that enough for you?",
+    "Go straight, and turn right at the big bookstore.",
+    "Turn left here, and you’ll see the bus stop.",
+    "The bathroom is behind the restaurant, not in front.",
+    "Walk down this street until the park, then stop.",
+    "Take the next right, and the hotel is on your left."
   ]
 }
