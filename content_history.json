@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-09T09:20:46.792081",
-      "category": "Travel Essentials",
-      "num_phrases": 5,
-      "phrases": [
-        "Where is the closest train station from here?",
-        "My phone is at one percent. Do you have Wi-Fi?",
-        "How do I get to the museum by bus?",
-        "Can you help me book a tour for tomorrow?",
-        "I’m looking for a pharmacy. Is it around here?"
-      ]
-    },
-    {
       "timestamp": "2026-05-09T14:52:17.772201",
       "category": "Technology & Internet",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Do you speak English a little, please?",
         "I want water, not soda, please."
       ]
+    },
+    {
+      "timestamp": "2026-07-22T10:25:25.956561",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "I have two tacos, and I’m sharing one with you.",
+        "Give me one minute, I’ll be ready in ten.",
+        "It’s five o’clock, and we’re going right now!",
+        "I’m at number seven, come meet me here.",
+        "I have three dollars, is that enough for you?"
+      ]
     }
   ],
   "used_phrases": [
@@ -4254,6 +4254,11 @@
     "I don’t understand, but I want to learn.",
     "I like it a lot, it feels easy.",
     "Do you speak English a little, please?",
-    "I want water, not soda, please."
+    "I want water, not soda, please.",
+    "I have two tacos, and I’m sharing one with you.",
+    "Give me one minute, I’ll be ready in ten.",
+    "It’s five o’clock, and we’re going right now!",
+    "I’m at number seven, come meet me here.",
+    "I have three dollars, is that enough for you?"
   ]
 }
