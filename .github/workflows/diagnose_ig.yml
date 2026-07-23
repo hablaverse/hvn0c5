@@ -6,12 +6,12 @@ jobs:
   diagnose:
     runs-on: ubuntu-latest
     steps:
-      - name: Check Instagram Account
+      - name: Show Instagram Account Info
         run: |
-          echo "=== Instagram Account ID ==="
-          echo "IG_ID=${{ secrets.INSTAGRAM_ACCOUNT_ID }}"
           TOKEN="${{ secrets.INSTAGRAM_ACCESS_TOKEN }}"
-          echo "Token (first 20): ${TOKEN:0:20}..."
-          # Query Facebook Page for connected Instagram
-          PAGE_INFO=$(curl -s "https://graph.facebook.com/v21.0/me?fields=id,name,instagram_business_account{id,username}&access_token=$TOKEN")
-          echo "Page Info: $PAGE_INFO"
+          IG_ID="${{ secrets.INSTAGRAM_ACCOUNT_ID }}"
+          echo "IG_ID (base64): $(echo $IG_ID | base64)"
+          echo "Token (first 30 base64): $(echo $TOKEN | head -c 30 | base64)"
+          FB_RESP=$(curl -s "https://graph.facebook.com/v21.0/me?fields=id,name,instagram_business_account{id,username}&access_token=$TOKEN")
+          echo "FB Page Info (base64): $(echo $FB_RESP | base64)"
+          echo "IG related info (base64): $(echo "$FB_RESP" | python3 -c "import json,sys; d=json.load(sys.stdin); ig=d.get('instagram_business_account',{}); print(json.dumps(ig))" | base64)"
