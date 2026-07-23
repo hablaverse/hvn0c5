@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-11T11:21:35.202347",
-      "category": "Health & Body",
-      "num_phrases": 5,
-      "phrases": [
-        "My throat hurts, so I’m drinking hot tea.",
-        "I have a headache, and the lights are too bright.",
-        "I’m feeling dizzy, so I’m sitting down now.",
-        "My back hurts, so I’m stretching gently.",
-        "I have a fever, so I’m resting at home."
-      ]
-    },
-    {
       "timestamp": "2026-05-11T16:34:15.745996",
       "category": "Numbers & Time",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "No way, you’re kidding, right?",
         "I’m running late, I need to bounce now."
       ]
+    },
+    {
+      "timestamp": "2026-07-23T12:18:21.888559",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "My head hurts, so I need to rest now.",
+        "My stomach feels sick, so I want something light.",
+        "I’m dizzy, so I need to sit down right now.",
+        "I feel nauseous, and I need fresh air.",
+        "I have a headache behind my eyes."
+      ]
     }
   ],
   "used_phrases": [
@@ -4284,6 +4284,11 @@
     "I’m broke, so let’s eat at home tonight.",
     "That’s a total lie, don’t mess with me.",
     "No way, you’re kidding, right?",
-    "I’m running late, I need to bounce now."
+    "I’m running late, I need to bounce now.",
+    "My head hurts, so I need to rest now.",
+    "My stomach feels sick, so I want something light.",
+    "I’m dizzy, so I need to sit down right now.",
+    "I feel nauseous, and I need fresh air.",
+    "I have a headache behind my eyes."
   ]
 }
