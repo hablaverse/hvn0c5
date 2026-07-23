@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-10T09:28:59.524250",
-      "category": "Music & Entertainment",
-      "num_phrases": 5,
-      "phrases": [
-        "This song is stuck in my head all day.",
-        "Where can I buy tickets for this concert?",
-        "What time does the show start tonight?",
-        "Is there an opening act before the main artist?",
-        "I love this artist, but I don’t know their lyrics."
-      ]
-    },
-    {
       "timestamp": "2026-05-10T14:53:51.016216",
       "category": "Romantic Phrases",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I feel angry, and I need to calm down.",
         "I’m scared of the dark."
       ]
+    },
+    {
+      "timestamp": "2026-07-23T08:42:06.359343",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m sweating a lot, can we drink some water now?",
+        "This gym is awesome, the machines are so easy to use.",
+        "I need to stretch my legs before running.",
+        "Where is the locker room? I’m ready to change.",
+        "I can’t breathe well, I need slower training."
+      ]
     }
   ],
   "used_phrases": [
@@ -4269,6 +4269,11 @@
     "I’m sad because my team lost.",
     "I’m nervous before my presentation.",
     "I feel angry, and I need to calm down.",
-    "I’m scared of the dark."
+    "I’m scared of the dark.",
+    "I’m sweating a lot, can we drink some water now?",
+    "This gym is awesome, the machines are so easy to use.",
+    "I need to stretch my legs before running.",
+    "Where is the locker room? I’m ready to change.",
+    "I can’t breathe well, I need slower training."
   ]
 }
