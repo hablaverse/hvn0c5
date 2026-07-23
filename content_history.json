@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-10T14:53:51.016216",
-      "category": "Romantic Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "I really like you, and I hope you feel it too.",
-        "You smell amazing; I keep thinking about you.",
-        "Can we go on a date this weekend? Please!",
-        "I want your attention, but I’m being polite.",
-        "I’m jealous, but in a cute way, I promise."
-      ]
-    },
-    {
       "timestamp": "2026-05-10T20:48:54.557260",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Where is the locker room? I’m ready to change.",
         "I can’t breathe well, I need slower training."
       ]
+    },
+    {
+      "timestamp": "2026-07-23T10:22:29.573075",
+      "category": "Colors & Descriptions",
+      "num_phrases": 5,
+      "phrases": [
+        "That red shirt looks awesome in this photo.",
+        "I love blue water, it feels so calm.",
+        "This black coffee tastes strong and powerful.",
+        "Green apples are my favorite crunchy snack.",
+        "That yellow bus made me smile instantly."
+      ]
     }
   ],
   "used_phrases": [
@@ -4274,6 +4274,11 @@
     "This gym is awesome, the machines are so easy to use.",
     "I need to stretch my legs before running.",
     "Where is the locker room? I’m ready to change.",
-    "I can’t breathe well, I need slower training."
+    "I can’t breathe well, I need slower training.",
+    "That red shirt looks awesome in this photo.",
+    "I love blue water, it feels so calm.",
+    "This black coffee tastes strong and powerful.",
+    "Green apples are my favorite crunchy snack.",
+    "That yellow bus made me smile instantly."
   ]
 }
