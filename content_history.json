@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-12T21:21:20.393414",
-      "category": "Animals",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m scared of dogs, even the friendly ones.",
-        "Cats love boxes, and mine always steals mine.",
-        "My neighbor’s parrot repeats everything like a tiny comedian.",
-        "I have a turtle, and it never hurries.",
-        "Horses are strong, but they scare me at first."
-      ]
-    },
-    {
       "timestamp": "2026-05-13T10:29:39.082138",
       "category": "Sports & Fitness",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Is this correct, or do I need to change?",
         "I will study ten minutes today, then I rest."
       ]
+    },
+    {
+      "timestamp": "2026-07-23T21:04:21.638814",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "That movie was awesome, it was super fun.",
+        "I’m so tired, I’m gonna dip early.",
+        "That’s my bad, I forgot the meeting time.",
+        "I don’t get it, explain it to me simply.",
+        "Come on, let’s go right now, no excuses."
+      ]
     }
   ],
   "used_phrases": [
@@ -4304,6 +4304,11 @@
     "What does this word mean?",
     "Let’s practice a short conversation right now.",
     "Is this correct, or do I need to change?",
-    "I will study ten minutes today, then I rest."
+    "I will study ten minutes today, then I rest.",
+    "That movie was awesome, it was super fun.",
+    "I’m so tired, I’m gonna dip early.",
+    "That’s my bad, I forgot the meeting time.",
+    "I don’t get it, explain it to me simply.",
+    "Come on, let’s go right now, no excuses."
   ]
 }
