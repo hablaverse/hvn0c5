@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-11T16:34:15.745996",
-      "category": "Numbers & Time",
-      "num_phrases": 5,
-      "phrases": [
-        "I have two dollars left, so please be quick.",
-        "Today is Monday, and I’m finally relaxed.",
-        "I work from nine to five, every weekday.",
-        "I need one more minute, then we leave.",
-        "It’s already three pm, so hurry up."
-      ]
-    },
-    {
       "timestamp": "2026-05-11T21:18:12.635505",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I feel nauseous, and I need fresh air.",
         "I have a headache behind my eyes."
       ]
+    },
+    {
+      "timestamp": "2026-07-23T13:30:59.573859",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the bathroom? I need to go now, please.",
+        "How much does this cost? I want to buy it.",
+        "Do you have water? I want something cold.",
+        "I’m hungry. What do you recommend for lunch?",
+        "I’m thirsty. Can I get a coffee to go?"
+      ]
     }
   ],
   "used_phrases": [
@@ -4289,6 +4289,11 @@
     "My stomach feels sick, so I want something light.",
     "I’m dizzy, so I need to sit down right now.",
     "I feel nauseous, and I need fresh air.",
-    "I have a headache behind my eyes."
+    "I have a headache behind my eyes.",
+    "Where is the bathroom? I need to go now, please.",
+    "How much does this cost? I want to buy it.",
+    "Do you have water? I want something cold.",
+    "I’m hungry. What do you recommend for lunch?",
+    "I’m thirsty. Can I get a coffee to go?"
   ]
 }
