@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-12T10:44:39.623125",
-      "category": "Colors & Descriptions",
-      "num_phrases": 5,
-      "phrases": [
-        "This red apple looks sweeter than it really is.",
-        "That blue shirt is my favorite because it pops.",
-        "Green tea tastes fresh, like the color itself.",
-        "Your yellow shoes make walking feel more fun.",
-        "I love black coffee; it feels strong and simple."
-      ]
-    },
-    {
       "timestamp": "2026-05-12T21:21:20.393414",
       "category": "Animals",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I’m sorry I’m late, traffic was crazy today.",
         "It’s delicious, but I can’t handle spicy food."
       ]
+    },
+    {
+      "timestamp": "2026-07-23T15:55:47.564998",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you write it down for me?",
+        "What does this word mean?",
+        "Let’s practice a short conversation right now.",
+        "Is this correct, or do I need to change?",
+        "I will study ten minutes today, then I rest."
+      ]
     }
   ],
   "used_phrases": [
@@ -4299,6 +4299,11 @@
     "Sorry, I’m lost, can you help me find this place?",
     "Can I pay with card, or is cash better?",
     "I’m sorry I’m late, traffic was crazy today.",
-    "It’s delicious, but I can’t handle spicy food."
+    "It’s delicious, but I can’t handle spicy food.",
+    "Can you write it down for me?",
+    "What does this word mean?",
+    "Let’s practice a short conversation right now.",
+    "Is this correct, or do I need to change?",
+    "I will study ten minutes today, then I rest."
   ]
 }
