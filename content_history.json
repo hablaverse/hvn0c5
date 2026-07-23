@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-11T21:18:12.635505",
-      "category": "Daily Greetings",
-      "num_phrases": 5,
-      "phrases": [
-        "Good morning! How are you today?",
-        "Hi! What’s up? Did you sleep well?",
-        "Hello! Nice to see you today.",
-        "Good afternoon! Are you busy right now?",
-        "Good night! Sleep well, see you tomorrow."
-      ]
-    },
-    {
       "timestamp": "2026-05-12T10:44:39.623125",
       "category": "Colors & Descriptions",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I’m hungry. What do you recommend for lunch?",
         "I’m thirsty. Can I get a coffee to go?"
       ]
+    },
+    {
+      "timestamp": "2026-07-23T13:36:49.968131",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "Where are you from, and what do you do for work?",
+        "Sorry, I’m lost, can you help me find this place?",
+        "Can I pay with card, or is cash better?",
+        "I’m sorry I’m late, traffic was crazy today.",
+        "It’s delicious, but I can’t handle spicy food."
+      ]
     }
   ],
   "used_phrases": [
@@ -4294,6 +4294,11 @@
     "How much does this cost? I want to buy it.",
     "Do you have water? I want something cold.",
     "I’m hungry. What do you recommend for lunch?",
-    "I’m thirsty. Can I get a coffee to go?"
+    "I’m thirsty. Can I get a coffee to go?",
+    "Where are you from, and what do you do for work?",
+    "Sorry, I’m lost, can you help me find this place?",
+    "Can I pay with card, or is cash better?",
+    "I’m sorry I’m late, traffic was crazy today.",
+    "It’s delicious, but I can’t handle spicy food."
   ]
 }
