@@ -1,17 +1,22 @@
-name: Diagnose Instagram Account
+name: Get Instagram Handle
 on:
   workflow_dispatch:
 
 jobs:
-  diagnose:
+  get_handle:
     runs-on: ubuntu-latest
     steps:
-      - name: Show Instagram Account Info
+      - name: Query Instagram Account
         run: |
           TOKEN="${{ secrets.INSTAGRAM_ACCESS_TOKEN }}"
           IG_ID="${{ secrets.INSTAGRAM_ACCOUNT_ID }}"
-          echo "IG_ID (base64): $(echo $IG_ID | base64)"
-          echo "Token (first 30 base64): $(echo $TOKEN | head -c 30 | base64)"
-          FB_RESP=$(curl -s "https://graph.facebook.com/v21.0/me?fields=id,name,instagram_business_account{id,username}&access_token=$TOKEN")
-          echo "FB Page Info (base64): $(echo $FB_RESP | base64)"
-          echo "IG related info (base64): $(echo "$FB_RESP" | python3 -c "import json,sys; d=json.load(sys.stdin); ig=d.get('instagram_business_account',{}); print(json.dumps(ig))" | base64)"
+          echo "=== Looking up Instagram ID: $(echo $IG_ID | base64) ==="
+          # Query the Instagram Business Account directly
+          IG_INFO=$(curl -s "https://graph.facebook.com/v21.0/$IG_ID?fields=id,username,name,followers_count,media_count&access_token=$TOKEN")
+          echo "IG_INFO (base64): $(echo $IG_INFO | base64)"
+          # Also try fetching connected page info
+          PAGE_INFO=$(curl -s "https://graph.facebook.com/v21.0/me?fields=id,name&access_token=$TOKEN")
+          echo "PAGE_INFO (base64): $(echo $PAGE_INFO | base64)"
+          # Try the connected_instagram_account field
+          CONNECTED=$(curl -s "https://graph.facebook.com/v21.0/me?fields=instagram_business_account&access_token=$TOKEN")
+          echo "CONNECTED (base64): $(echo $CONNECTED | base64)"
