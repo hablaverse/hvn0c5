@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-13T21:27:59.990939",
-      "category": "Common Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "Where is the bathroom? I really need it now.",
-        "How much is this? I want to buy it today.",
-        "I don’t understand. Can you say it again, please?",
-        "Is there Wi-Fi here? I need it for my phone.",
-        "I’m just looking, but thank you for your help."
-      ]
-    },
-    {
       "timestamp": "2026-05-14T10:15:49.040749",
       "category": "Hobbies & Activities",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Walk two minutes and you’ll reach the metro entrance.",
         "It’s behind the park, so look for the entrance door."
       ]
+    },
+    {
+      "timestamp": "2026-08-03T16:42:51.281759",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "I study Spanish with music because it’s faster for me.",
+        "Where is the bathroom in your Spanish class?",
+        "Today I learn five words, no more, no stress.",
+        "I like using flashcards when I feel bored.",
+        "I can’t roll my R yet, but I practice."
+      ]
     }
   ],
   "used_phrases": [
@@ -4319,6 +4319,11 @@
     "The bus stop is on the right side, not the left.",
     "Make a U-turn here, then follow the street signs.",
     "Walk two minutes and you’ll reach the metro entrance.",
-    "It’s behind the park, so look for the entrance door."
+    "It’s behind the park, so look for the entrance door.",
+    "I study Spanish with music because it’s faster for me.",
+    "Where is the bathroom in your Spanish class?",
+    "Today I learn five words, no more, no stress.",
+    "I like using flashcards when I feel bored.",
+    "I can’t roll my R yet, but I practice."
   ]
 }
