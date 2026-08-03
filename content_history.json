@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-14T16:11:32.487013",
-      "category": "Fashion & Appearance",
-      "num_phrases": 5,
-      "phrases": [
-        "This shirt fits me perfectly, no pulling or tugging.",
-        "These shoes are comfy, so I walk all day.",
-        "My jacket looks cool, even when the weather is weird.",
-        "I want a plain tee, not something too loud.",
-        "This color makes my face look brighter instantly."
-      ]
-    },
-    {
       "timestamp": "2026-05-14T21:11:02.218062",
       "category": "Colors & Descriptions",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I’m jealous when my friend gets all the compliments.",
         "I feel relieved because the test was easier than expected."
       ]
+    },
+    {
+      "timestamp": "2026-08-03T21:02:29.694477",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "Cats are cute, but they scratch my shoes.",
+        "Dogs are friendly, and my neighbor always smiles.",
+        "I don’t like snakes, they scare me at night.",
+        "Birds sing outside, and I wake up smiling.",
+        "My turtle is slow, but it never gives up."
+      ]
     }
   ],
   "used_phrases": [
@@ -4329,6 +4329,11 @@
     "I’m excited to meet your family this weekend.",
     "I’m angry, and I need a calm minute.",
     "I’m jealous when my friend gets all the compliments.",
-    "I feel relieved because the test was easier than expected."
+    "I feel relieved because the test was easier than expected.",
+    "Cats are cute, but they scratch my shoes.",
+    "Dogs are friendly, and my neighbor always smiles.",
+    "I don’t like snakes, they scare me at night.",
+    "Birds sing outside, and I wake up smiling.",
+    "My turtle is slow, but it never gives up."
   ]
 }
