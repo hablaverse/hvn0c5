@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-13T10:29:39.082138",
-      "category": "Sports & Fitness",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m out of breath, but I want one more lap.",
-        "My muscles are sore, so today is my recovery day.",
-        "No pain, no gain, but I’m keeping it safe today.",
-        "Can you spot me? I’m lifting, not teleporting.",
-        "I’m skipping sweets, because my stomach wants protein."
-      ]
-    },
-    {
       "timestamp": "2026-05-13T16:32:43.266157",
       "category": "Numbers & Time",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I don’t get it, explain it to me simply.",
         "Come on, let’s go right now, no excuses."
       ]
+    },
+    {
+      "timestamp": "2026-08-03T15:08:20.859655",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you slow down? I’m learning Spanish right now.",
+        "Say it again, please. I want to catch it.",
+        "I don’t understand. Can you explain with an example?",
+        "Let’s switch to English for one minute, please.",
+        "I’ll try. You correct me, please, not later."
+      ]
     }
   ],
   "used_phrases": [
@@ -4309,6 +4309,11 @@
     "I’m so tired, I’m gonna dip early.",
     "That’s my bad, I forgot the meeting time.",
     "I don’t get it, explain it to me simply.",
-    "Come on, let’s go right now, no excuses."
+    "Come on, let’s go right now, no excuses.",
+    "Can you slow down? I’m learning Spanish right now.",
+    "Say it again, please. I want to catch it.",
+    "I don’t understand. Can you explain with an example?",
+    "Let’s switch to English for one minute, please.",
+    "I’ll try. You correct me, please, not later."
   ]
 }
