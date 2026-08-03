@@ -39,7 +39,7 @@ except ImportError as e:
     print(f"[warning] Instagram upload module not available: {e}")
 
 try:
-    from upload.upload_facebook import upload_to_facebook
+    from upload.upload_facebook import upload_to_facebook, upload_to_facebook_story
     FACEBOOK_AVAILABLE = True
 except ImportError as e:
     FACEBOOK_AVAILABLE = False
@@ -247,6 +247,43 @@ def upload_to_all_platforms(video_path, metadata, category):
         results["uploads"]["instagram"] = {"status": "failed", "error": "Module not available"}
         results["platforms_failed"].append("instagram")
 
+    # ===== INSTAGRAM STORY =====
+    print(f"\n📸 INSTAGRAM STORY UPLOAD...")
+    results["platforms_attempted"].append("instagram_story")
+
+    if INSTAGRAM_AVAILABLE:
+        ig_token = os.getenv("INSTAGRAM_ACCESS_TOKEN")
+        ig_account_id = os.getenv("INSTAGRAM_ACCOUNT_ID")
+
+        if ig_token and ig_account_id:
+            print(f"   ✅ Credentials found")
+            try:
+                upload_result = upload_to_instagram(
+                    video_path=video_path,
+                    caption=platform_meta["instagram"]["caption"],
+                    is_story=True
+                )
+                if upload_result.get("status") == "success":
+                    results["uploads"]["instagram_story"] = {"status": "success", "result": upload_result}
+                    results["platforms_successful"].append("instagram_story")
+                    print(f"   ✅ Instagram Story upload successful")
+                else:
+                    results["uploads"]["instagram_story"] = {"status": "failed", "error": upload_result}
+                    results["platforms_failed"].append("instagram_story")
+                    print(f"   ❌ Instagram Story upload failed")
+            except Exception as e:
+                print(f"   ❌ Instagram Story upload failed: {e}")
+                results["uploads"]["instagram_story"] = {"status": "failed", "error": str(e)}
+                results["platforms_failed"].append("instagram_story")
+        else:
+            print(f"   ⚠️  No Instagram credentials (skipped)")
+            results["uploads"]["instagram_story"] = {"status": "skipped", "reason": "No credentials"}
+            results["platforms_skipped"].append("instagram_story")
+    else:
+        print(f"   ❌ Instagram module not available")
+        results["uploads"]["instagram_story"] = {"status": "failed", "error": "Module not available"}
+        results["platforms_failed"].append("instagram_story")
+
     # ===== FACEBOOK =====
     print(f"\n📘 FACEBOOK UPLOAD...")
     results["platforms_attempted"].append("facebook")
@@ -285,6 +322,34 @@ def upload_to_all_platforms(video_path, metadata, category):
         print(f"   ❌ Facebook module not available")
         results["uploads"]["facebook"] = {"status": "failed", "error": "Module not available"}
         results["platforms_failed"].append("facebook")
+
+    # ===== FACEBOOK STORY =====
+    print(f"\n📘 FACEBOOK STORY UPLOAD...")
+    results["platforms_attempted"].append("facebook_story")
+
+    if FACEBOOK_AVAILABLE:
+        fb_token = os.getenv("FACEBOOK_ACCESS_TOKEN")
+        fb_page_id = os.getenv("FACEBOOK_PAGE_ID")
+
+        if fb_token and fb_page_id:
+            print(f"   ✅ Credentials found")
+            try:
+                upload_result = upload_to_facebook_story(video_path=video_path)
+                results["uploads"]["facebook_story"] = {"status": "success", "result": upload_result}
+                results["platforms_successful"].append("facebook_story")
+                print(f"   ✅ Facebook Story upload successful")
+            except Exception as e:
+                print(f"   ❌ Facebook Story upload failed: {e}")
+                results["uploads"]["facebook_story"] = {"status": "failed", "error": str(e)}
+                results["platforms_failed"].append("facebook_story")
+        else:
+            print(f"   ⚠️  No Facebook credentials (skipped)")
+            results["uploads"]["facebook_story"] = {"status": "skipped", "reason": "No credentials"}
+            results["platforms_skipped"].append("facebook_story")
+    else:
+        print(f"   ❌ Facebook module not available")
+        results["uploads"]["facebook_story"] = {"status": "failed", "error": "Module not available"}
+        results["platforms_failed"].append("facebook_story")
 
     # ===== TWITTER/X =====
     print(f"\n🐦 TWITTER/X UPLOAD...")
