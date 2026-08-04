@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-15T10:25:45.550084",
-      "category": "Health & Body",
-      "num_phrases": 5,
-      "phrases": [
-        "I feel sick, so I’m staying home today.",
-        "I’m out of breath, and I need a break.",
-        "I’m thirsty, so please give me water.",
-        "My stomach hurts, and I need to rest.",
-        "I have a sore throat, so no spicy food today."
-      ]
-    },
-    {
       "timestamp": "2026-05-15T16:04:42.306474",
       "category": "Music & Entertainment",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "How much is this ticket, and where is the seat?",
         "I want water without ice, please, no soda."
       ]
+    },
+    {
+      "timestamp": "2026-08-04T17:00:16.689798",
+      "category": "Colors & Descriptions",
+      "num_phrases": 5,
+      "phrases": [
+        "That shirt is blue, not green, trust me.",
+        "This wall is white, and it looks so clean.",
+        "Your phone is black, but mine is gray.",
+        "Careful, the door is red, not yellow!",
+        "The coffee is brown, and it smells amazing."
+      ]
     }
   ],
   "used_phrases": [
@@ -4339,6 +4339,11 @@
     "I lost my passport, and I feel totally panicked.",
     "Can you call a taxi for me right now?",
     "How much is this ticket, and where is the seat?",
-    "I want water without ice, please, no soda."
+    "I want water without ice, please, no soda.",
+    "That shirt is blue, not green, trust me.",
+    "This wall is white, and it looks so clean.",
+    "Your phone is black, but mine is gray.",
+    "Careful, the door is red, not yellow!",
+    "The coffee is brown, and it smells amazing."
   ]
 }
