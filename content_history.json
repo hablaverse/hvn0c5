@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-15T16:04:42.306474",
-      "category": "Music & Entertainment",
-      "num_phrases": 5,
-      "phrases": [
-        "I hate loud concerts; my ears need peace, please.",
-        "Is this song on Spotify? I need it now.",
-        "That movie is too long; I’m bored already.",
-        "I love this remix; it makes the song cooler.",
-        "Can you turn it down? The volume hurts my head."
-      ]
-    },
-    {
       "timestamp": "2026-05-15T21:01:28.984952",
       "category": "Food & Dining",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Careful, the door is red, not yellow!",
         "The coffee is brown, and it smells amazing."
       ]
+    },
+    {
+      "timestamp": "2026-08-04T21:13:06.810181",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "I need water after my workout, please, not juice.",
+        "My legs are sore today, so I’m taking it easy.",
+        "I’m stretching now, because warming up helps a lot.",
+        "Can you show me how to use these gym machines?",
+        "I’m out of breath, so I need a quick pause."
+      ]
     }
   ],
   "used_phrases": [
@@ -4344,6 +4344,11 @@
     "This wall is white, and it looks so clean.",
     "Your phone is black, but mine is gray.",
     "Careful, the door is red, not yellow!",
-    "The coffee is brown, and it smells amazing."
+    "The coffee is brown, and it smells amazing.",
+    "I need water after my workout, please, not juice.",
+    "My legs are sore today, so I’m taking it easy.",
+    "I’m stretching now, because warming up helps a lot.",
+    "Can you show me how to use these gym machines?",
+    "I’m out of breath, so I need a quick pause."
   ]
 }
