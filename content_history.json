@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-14T21:11:02.218062",
-      "category": "Colors & Descriptions",
-      "num_phrases": 5,
-      "phrases": [
-        "This red sweater is my lucky charm, seriously.",
-        "That blue sky looks unreal today, like a filter.",
-        "My green plant looks happy, even if I forget water.",
-        "This black hoodie makes me feel mysterious and brave.",
-        "White bread is boring, but I still eat it."
-      ]
-    },
-    {
       "timestamp": "2026-05-15T10:25:45.550084",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Birds sing outside, and I wake up smiling.",
         "My turtle is slow, but it never gives up."
       ]
+    },
+    {
+      "timestamp": "2026-08-04T10:38:45.179918",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "I need a SIM card for my phone, please.",
+        "I lost my passport, and I feel totally panicked.",
+        "Can you call a taxi for me right now?",
+        "How much is this ticket, and where is the seat?",
+        "I want water without ice, please, no soda."
+      ]
     }
   ],
   "used_phrases": [
@@ -4334,6 +4334,11 @@
     "Dogs are friendly, and my neighbor always smiles.",
     "I don’t like snakes, they scare me at night.",
     "Birds sing outside, and I wake up smiling.",
-    "My turtle is slow, but it never gives up."
+    "My turtle is slow, but it never gives up.",
+    "I need a SIM card for my phone, please.",
+    "I lost my passport, and I feel totally panicked.",
+    "Can you call a taxi for me right now?",
+    "How much is this ticket, and where is the seat?",
+    "I want water without ice, please, no soda."
   ]
 }
