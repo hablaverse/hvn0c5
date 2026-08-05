@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-15T21:01:28.984952",
-      "category": "Food & Dining",
-      "num_phrases": 5,
-      "phrases": [
-        "Can I have water, please, not soda.",
-        "I’m allergic to nuts, so please be careful.",
-        "No cheese on my burger, please. Thanks!",
-        "This food is too salty. Can it be less?",
-        "I’ll have the chicken, not the fish."
-      ]
-    },
-    {
       "timestamp": "2026-05-16T09:41:19.120418",
       "category": "Numbers & Time",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Can you show me how to use these gym machines?",
         "I’m out of breath, so I need a quick pause."
       ]
+    },
+    {
+      "timestamp": "2026-08-05T10:34:16.870863",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m out of energy, so I need water fast.",
+        "Let’s warm up for five minutes, okay?",
+        "I love running, it makes me feel strong.",
+        "Can you spot me while I lift this?",
+        "My muscles burn, but it feels so good."
+      ]
     }
   ],
   "used_phrases": [
@@ -4349,6 +4349,11 @@
     "My legs are sore today, so I’m taking it easy.",
     "I’m stretching now, because warming up helps a lot.",
     "Can you show me how to use these gym machines?",
-    "I’m out of breath, so I need a quick pause."
+    "I’m out of breath, so I need a quick pause.",
+    "I’m out of energy, so I need water fast.",
+    "Let’s warm up for five minutes, okay?",
+    "I love running, it makes me feel strong.",
+    "Can you spot me while I lift this?",
+    "My muscles burn, but it feels so good."
   ]
 }
