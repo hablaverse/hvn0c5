@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-16T09:41:19.120418",
-      "category": "Numbers & Time",
-      "num_phrases": 5,
-      "phrases": [
-        "It’s seven o’clock, and I’m running late.",
-        "Meet me at 3 p.m. near the cafe.",
-        "I have class at two-thirty.",
-        "Today is Monday, and I feel unstoppable.",
-        "Tomorrow is Friday, so almost there!"
-      ]
-    },
-    {
       "timestamp": "2026-05-16T14:57:26.124113",
       "category": "Family & Relationships",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Can you spot me while I lift this?",
         "My muscles burn, but it feels so good."
       ]
+    },
+    {
+      "timestamp": "2026-08-05T16:01:36.486884",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "Can I get the menu, please, and not the scary one?",
+        "I’m starving, so I need fast food, please.",
+        "Do you have pizza, or is it just dreams here?",
+        "I’ll have the chicken, because I’m a simple person.",
+        "No spicy food for me, I want peace and mild sauce."
+      ]
     }
   ],
   "used_phrases": [
@@ -4354,6 +4354,11 @@
     "Let’s warm up for five minutes, okay?",
     "I love running, it makes me feel strong.",
     "Can you spot me while I lift this?",
-    "My muscles burn, but it feels so good."
+    "My muscles burn, but it feels so good.",
+    "Can I get the menu, please, and not the scary one?",
+    "I’m starving, so I need fast food, please.",
+    "Do you have pizza, or is it just dreams here?",
+    "I’ll have the chicken, because I’m a simple person.",
+    "No spicy food for me, I want peace and mild sauce."
   ]
 }
