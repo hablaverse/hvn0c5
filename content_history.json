@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-17T20:52:56.781084",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I feel stressed, but I can handle it.",
-        "I'm so happy today, everything feels lighter.",
-        "I'm nervous before interviews, but I breathe slowly.",
-        "I'm sad, and I just need a quiet chat.",
-        "I'm embarrassed, I tripped in front of everyone."
-      ]
-    },
-    {
       "timestamp": "2026-05-18T11:45:16.521305",
       "category": "Money & Finance",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I’m choking. I can’t breathe!",
         "I have a high fever. I feel very hot."
       ]
+    },
+    {
+      "timestamp": "2026-08-07T14:52:44.022119",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "I can’t find it. Where is it, please?",
+        "Please say it again slowly, I’m learning.",
+        "What does this mean? I need a simple answer.",
+        "I don’t understand. Can you explain it another way?",
+        "Do you speak English? Just a little, please."
+      ]
     }
   ],
   "used_phrases": [
@@ -4379,6 +4379,11 @@
     "Call 911 right now, please.",
     "I cut my finger. It won’t stop bleeding.",
     "I’m choking. I can’t breathe!",
-    "I have a high fever. I feel very hot."
+    "I have a high fever. I feel very hot.",
+    "I can’t find it. Where is it, please?",
+    "Please say it again slowly, I’m learning.",
+    "What does this mean? I need a simple answer.",
+    "I don’t understand. Can you explain it another way?",
+    "Do you speak English? Just a little, please."
   ]
 }
