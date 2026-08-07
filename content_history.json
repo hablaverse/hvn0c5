@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-17T14:57:31.354005",
-      "category": "Hobbies & Activities",
-      "num_phrases": 5,
-      "phrases": [
-        "I love cooking tacos, and everyone eats in five minutes.",
-        "I go jogging early, because coffee needs winners.",
-        "I play video games, but only after I do chores.",
-        "I paint every weekend, and my walls look happier.",
-        "I watch soccer, and I yell like a tiny referee."
-      ]
-    },
-    {
       "timestamp": "2026-05-17T20:52:56.781084",
       "category": "Emotions & Feelings",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Can we turn it up a little, please?",
         "Sorry, I can’t hear you over this song."
       ]
+    },
+    {
+      "timestamp": "2026-08-07T08:59:18.630909",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "Help! I think I have food poisoning.",
+        "Call 911 right now, please.",
+        "I cut my finger. It won’t stop bleeding.",
+        "I’m choking. I can’t breathe!",
+        "I have a high fever. I feel very hot."
+      ]
     }
   ],
   "used_phrases": [
@@ -4374,6 +4374,11 @@
     "Do you have the lyrics on your phone?",
     "That chorus goes hard, I love it so much.",
     "Can we turn it up a little, please?",
-    "Sorry, I can’t hear you over this song."
+    "Sorry, I can’t hear you over this song.",
+    "Help! I think I have food poisoning.",
+    "Call 911 right now, please.",
+    "I cut my finger. It won’t stop bleeding.",
+    "I’m choking. I can’t breathe!",
+    "I have a high fever. I feel very hot."
   ]
 }
