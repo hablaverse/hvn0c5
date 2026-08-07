@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-17T09:47:41.079093",
-      "category": "Romantic Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "You look amazing tonight, and I can’t stop smiling.",
-        "I miss you already, and it’s not even late.",
-        "Your laugh is my favorite sound, for real.",
-        "Let’s go on a cute date, just us two.",
-        "Hold my hand, I feel safe with you."
-      ]
-    },
-    {
       "timestamp": "2026-05-17T14:57:31.354005",
       "category": "Hobbies & Activities",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "Where’s the kitchen? I smell cookies, and I’m smiling.",
         "I love your couch, it looks so comfy."
       ]
+    },
+    {
+      "timestamp": "2026-08-07T00:52:50.135282",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "What song is this on, and who sings it?",
+        "Do you have the lyrics on your phone?",
+        "That chorus goes hard, I love it so much.",
+        "Can we turn it up a little, please?",
+        "Sorry, I can’t hear you over this song."
+      ]
     }
   ],
   "used_phrases": [
@@ -4369,6 +4369,11 @@
     "Your place is cozy, and I want to stay longer.",
     "Turn on the light, please, it’s dark in here.",
     "Where’s the kitchen? I smell cookies, and I’m smiling.",
-    "I love your couch, it looks so comfy."
+    "I love your couch, it looks so comfy.",
+    "What song is this on, and who sings it?",
+    "Do you have the lyrics on your phone?",
+    "That chorus goes hard, I love it so much.",
+    "Can we turn it up a little, please?",
+    "Sorry, I can’t hear you over this song."
   ]
 }
