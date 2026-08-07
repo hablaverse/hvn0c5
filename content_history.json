@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-18T11:45:16.521305",
-      "category": "Money & Finance",
-      "num_phrases": 5,
-      "phrases": [
-        "I forgot my wallet, so I paid with my phone.",
-        "That ATM charged me fees, and I was not amused.",
-        "I’m on a budget, so I skip fancy coffee.",
-        "I need to save money, not spend it on snacks.",
-        "I set a monthly limit, and I stick to it."
-      ]
-    },
-    {
       "timestamp": "2026-05-18T16:48:31.827102",
       "category": "Technology & Internet",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I don’t understand. Can you explain it another way?",
         "Do you speak English? Just a little, please."
       ]
+    },
+    {
+      "timestamp": "2026-08-07T20:40:41.531481",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "Is there hot water in the shower? I’m cold.",
+        "How much is the rent per month? I need a number.",
+        "I’m looking for a new place to live. Any ideas?",
+        "The Wi-Fi doesn’t work. Can you reset the router?",
+        "Don’t worry, I can fix it. Just give me a minute."
+      ]
     }
   ],
   "used_phrases": [
@@ -4384,6 +4384,11 @@
     "Please say it again slowly, I’m learning.",
     "What does this mean? I need a simple answer.",
     "I don’t understand. Can you explain it another way?",
-    "Do you speak English? Just a little, please."
+    "Do you speak English? Just a little, please.",
+    "Is there hot water in the shower? I’m cold.",
+    "How much is the rent per month? I need a number.",
+    "I’m looking for a new place to live. Any ideas?",
+    "The Wi-Fi doesn’t work. Can you reset the router?",
+    "Don’t worry, I can fix it. Just give me a minute."
   ]
 }
