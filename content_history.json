@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-18T16:48:31.827102",
-      "category": "Technology & Internet",
-      "num_phrases": 5,
-      "phrases": [
-        "Where is the Wi-Fi password on the router label?",
-        "My phone says I have no internet, but Wi-Fi is on.",
-        "Can you share the Wi-Fi password with me, please?",
-        "Does this website work in Spanish, or only English?",
-        "I need a SIM card, not just Wi-Fi for roaming."
-      ]
-    },
-    {
       "timestamp": "2026-05-18T21:13:44.068722",
       "category": "Money & Finance",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "The Wi-Fi doesn’t work. Can you reset the router?",
         "Don’t worry, I can fix it. Just give me a minute."
       ]
+    },
+    {
+      "timestamp": "2026-08-08T08:40:38.273302",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "Can I get the menu in English, please?",
+        "I’m allergic to peanuts. Do you use them here?",
+        "No spicy, please. I want mild food tonight.",
+        "I’ll try the house specialty. What do you recommend?",
+        "Do you have vegetarian options, like pasta or salad?"
+      ]
     }
   ],
   "used_phrases": [
@@ -4389,6 +4389,11 @@
     "How much is the rent per month? I need a number.",
     "I’m looking for a new place to live. Any ideas?",
     "The Wi-Fi doesn’t work. Can you reset the router?",
-    "Don’t worry, I can fix it. Just give me a minute."
+    "Don’t worry, I can fix it. Just give me a minute.",
+    "Can I get the menu in English, please?",
+    "I’m allergic to peanuts. Do you use them here?",
+    "No spicy, please. I want mild food tonight.",
+    "I’ll try the house specialty. What do you recommend?",
+    "Do you have vegetarian options, like pasta or salad?"
   ]
 }
