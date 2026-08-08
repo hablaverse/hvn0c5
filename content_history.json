@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-18T21:13:44.068722",
-      "category": "Money & Finance",
-      "num_phrases": 5,
-      "phrases": [
-        "I paid cash, so no credit card fees today.",
-        "How much is it per month, for the plan?",
-        "I think my bill is wrong; can you check it?",
-        "I want to cancel, because I don't use it.",
-        "Can I get a refund for this item?"
-      ]
-    },
-    {
       "timestamp": "2026-05-19T11:18:43.281469",
       "category": "Common Phrases",
       "num_phrases": 5,
@@ -2397,6 +2385,18 @@
         "I’ll try the house specialty. What do you recommend?",
         "Do you have vegetarian options, like pasta or salad?"
       ]
+    },
+    {
+      "timestamp": "2026-08-08T14:31:53.370914",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "It’s 7:15, not 7:45, sorry!",
+        "I need two tickets, please, not four.",
+        "My phone is at 3%, so charge it!",
+        "I’ll pay $20 today, not $10.",
+        "The bus comes at six, not at five."
+      ]
     }
   ],
   "used_phrases": [
@@ -4394,6 +4394,11 @@
     "I’m allergic to peanuts. Do you use them here?",
     "No spicy, please. I want mild food tonight.",
     "I’ll try the house specialty. What do you recommend?",
-    "Do you have vegetarian options, like pasta or salad?"
+    "Do you have vegetarian options, like pasta or salad?",
+    "It’s 7:15, not 7:45, sorry!",
+    "I need two tickets, please, not four.",
+    "My phone is at 3%, so charge it!",
+    "I’ll pay $20 today, not $10.",
+    "The bus comes at six, not at five."
   ]
 }
