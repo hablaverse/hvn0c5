@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-21T11:25:41.382379",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I feel nervous before every job interview.",
-        "I’m so excited to start this new class!",
-        "I feel sad when I miss my best friend.",
-        "I’m angry, but I’ll calm down in five minutes.",
-        "I feel scared in the dark hall at night."
-      ]
-    },
-    {
       "timestamp": "2026-05-21T16:40:17.691765",
       "category": "Money & Finance",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "There’s smoke in my apartment, we must leave now!",
         "I think I’m bitten by a bug, what should I do?"
       ]
+    },
+    {
+      "timestamp": "2026-08-10T20:42:22.643373",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "My phone is at 2%, can I charge it now?",
+        "I forgot my password again, can you help me reset it?",
+        "The app keeps crashing, I swear it hates me!",
+        "Can you send me a link, please? I lost it!",
+        "My Bluetooth won't connect, stop laughing and help!"
+      ]
     }
   ],
   "used_phrases": [
-    "This song is my jam.",
-    "What song is this?",
-    "Play my favorite song, please.",
-    "I know all the lyrics.",
-    "This movie made me laugh out loud.",
     "I like to play guitar every weekend.",
     "I paint watercolor in my free time.",
     "Let's go for a hike tomorrow morning.",
@@ -4399,6 +4394,11 @@
     "Call 911, because I feel dizzy and confused.",
     "I have a severe headache, please get me help.",
     "There’s smoke in my apartment, we must leave now!",
-    "I think I’m bitten by a bug, what should I do?"
+    "I think I’m bitten by a bug, what should I do?",
+    "My phone is at 2%, can I charge it now?",
+    "I forgot my password again, can you help me reset it?",
+    "The app keeps crashing, I swear it hates me!",
+    "Can you send me a link, please? I lost it!",
+    "My Bluetooth won't connect, stop laughing and help!"
   ]
 }
