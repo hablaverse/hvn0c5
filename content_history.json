@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-20T16:53:52.457689",
-      "category": "Numbers & Time",
-      "num_phrases": 5,
-      "phrases": [
-        "It's 7 a.m., so meet me at seven sharp.",
-        "I have class at 3 p.m., not at 3:30.",
-        "Wait, it's 11:59, so we need to hurry.",
-        "My phone is at 20%, so charge it now.",
-        "I’m hungry, so let’s eat at 6 o’clock."
-      ]
-    },
-    {
       "timestamp": "2026-05-20T21:54:44.355706",
       "category": "Family & Relationships",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "My phone says no service, where is the signal?",
         "This website is not loading, help me refresh it."
       ]
+    },
+    {
+      "timestamp": "2026-08-10T09:20:34.051562",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the train station, please? I’m lost.",
+        "How much is this ticket to downtown?",
+        "Can I get a window seat, please?",
+        "Is there a pharmacy near here? I need medicine.",
+        "I’m looking for the nearest ATM, please."
+      ]
     }
   ],
   "used_phrases": [
-    "I'll see you at seven tonight, bring your best smile.",
-    "Give me five minutes and I'll steal your heart.",
-    "I am twenty-five and I love dancing with you.",
-    "The movie starts at nine, save me a seat.",
-    "I'll call you in ten minutes if you want.",
     "I'm so happy right now.",
     "I have butterflies in my stomach.",
     "I'm proud of myself today.",
@@ -4399,6 +4394,11 @@
     "Where can I find the Wi‑Fi password on my router?",
     "Can I use your charger for ten minutes, please?",
     "My phone says no service, where is the signal?",
-    "This website is not loading, help me refresh it."
+    "This website is not loading, help me refresh it.",
+    "Where is the train station, please? I’m lost.",
+    "How much is this ticket to downtown?",
+    "Can I get a window seat, please?",
+    "Is there a pharmacy near here? I need medicine.",
+    "I’m looking for the nearest ATM, please."
   ]
 }
