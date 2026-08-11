@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-21T21:28:29.211574",
-      "category": "Technology & Internet",
-      "num_phrases": 5,
-      "phrases": [
-        "My phone says no service, so I need Wi-Fi.",
-        "Where is the charging cable? Mine is missing again.",
-        "I can't connect; the password is wrong, I think.",
-        "Can you take a screenshot for me, please?",
-        "I just updated my phone, and it looks brand new."
-      ]
-    },
-    {
       "timestamp": "2026-05-22T10:51:56.605022",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "The faucet is leaking, and my floor is becoming a pond.",
         "My sink smells bad, can we clean it today?"
       ]
+    },
+    {
+      "timestamp": "2026-08-11T14:57:23.617060",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "Stop here, please, and take this picture with me.",
+        "Turn left at the corner, and follow me!",
+        "Go straight, then you’ll see it right there.",
+        "Walk two blocks, and I’ll meet you outside.",
+        "Take the elevator, not the stairs, trust me."
+      ]
     }
   ],
   "used_phrases": [
-    "Help, I'm choking!",
-    "Call an ambulance, please!",
-    "I need a doctor right now.",
-    "Someone stole my bag, call the police!",
-    "I'm allergic to peanuts, my throat is closing.",
     "Good morning, beautiful.",
     "Hey handsome, how are you today?",
     "You look amazing today.",
@@ -4399,6 +4394,11 @@
     "I’m cold, can I turn on the heater, please?",
     "Please close the window, the mosquitoes are partying!",
     "The faucet is leaking, and my floor is becoming a pond.",
-    "My sink smells bad, can we clean it today?"
+    "My sink smells bad, can we clean it today?",
+    "Stop here, please, and take this picture with me.",
+    "Turn left at the corner, and follow me!",
+    "Go straight, then you’ll see it right there.",
+    "Walk two blocks, and I’ll meet you outside.",
+    "Take the elevator, not the stairs, trust me."
   ]
 }
