@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-21T16:40:17.691765",
-      "category": "Money & Finance",
-      "num_phrases": 5,
-      "phrases": [
-        "I don't have enough money, so can I pay later?",
-        "Don't worry, I'll pay by cash, not my card.",
-        "I think this is too expensive, can we find cheaper?",
-        "My card got declined, so I need another payment.",
-        "I forgot my PIN, so I can't buy anything."
-      ]
-    },
-    {
       "timestamp": "2026-05-21T21:28:29.211574",
       "category": "Technology & Internet",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Can you send me a link, please? I lost it!",
         "My Bluetooth won't connect, stop laughing and help!"
       ]
+    },
+    {
+      "timestamp": "2026-08-11T08:56:05.733340",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "The Wi-Fi is down again, I need it fixed now!",
+        "I’m cold, can I turn on the heater, please?",
+        "Please close the window, the mosquitoes are partying!",
+        "The faucet is leaking, and my floor is becoming a pond.",
+        "My sink smells bad, can we clean it today?"
+      ]
     }
   ],
   "used_phrases": [
-    "I like to play guitar every weekend.",
-    "I paint watercolor in my free time.",
-    "Let's go for a hike tomorrow morning.",
-    "I cook traditional food from my region.",
-    "I read thrillers before bed every night.",
     "Help, I'm choking!",
     "Call an ambulance, please!",
     "I need a doctor right now.",
@@ -4399,6 +4394,11 @@
     "I forgot my password again, can you help me reset it?",
     "The app keeps crashing, I swear it hates me!",
     "Can you send me a link, please? I lost it!",
-    "My Bluetooth won't connect, stop laughing and help!"
+    "My Bluetooth won't connect, stop laughing and help!",
+    "The Wi-Fi is down again, I need it fixed now!",
+    "I’m cold, can I turn on the heater, please?",
+    "Please close the window, the mosquitoes are partying!",
+    "The faucet is leaking, and my floor is becoming a pond.",
+    "My sink smells bad, can we clean it today?"
   ]
 }
