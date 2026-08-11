@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-22T10:51:56.605022",
-      "category": "Daily Greetings",
-      "num_phrases": 5,
-      "phrases": [
-        "Good morning! Coffee first, then we talk.",
-        "Hi there! How’s your day going so far?",
-        "Hey! What are you doing right now?",
-        "Nice to meet you! Let’s be friends.",
-        "How are you? I’m doing great, thanks!"
-      ]
-    },
-    {
       "timestamp": "2026-05-22T16:27:33.677083",
       "category": "Common Phrases",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Walk two blocks, and I’ll meet you outside.",
         "Take the elevator, not the stairs, trust me."
       ]
+    },
+    {
+      "timestamp": "2026-08-11T20:43:27.283899",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "My Wi-Fi password is hidden, I feel like a wizard.",
+        "I need to update my phone, it’s acting weird today.",
+        "This page won’t load, my internet is being dramatic.",
+        "Can you turn off notifications, I need peace today?",
+        "I clicked send, and now I regret everything, oops!"
+      ]
     }
   ],
   "used_phrases": [
-    "Good morning, beautiful.",
-    "Hey handsome, how are you today?",
-    "You look amazing today.",
-    "Long time no see, cutie.",
-    "Did you sleep well, beautiful?",
     "I need the report by Friday.",
     "I'll work from home tomorrow.",
     "Please sign here with your name.",
@@ -4399,6 +4394,11 @@
     "Turn left at the corner, and follow me!",
     "Go straight, then you’ll see it right there.",
     "Walk two blocks, and I’ll meet you outside.",
-    "Take the elevator, not the stairs, trust me."
+    "Take the elevator, not the stairs, trust me.",
+    "My Wi-Fi password is hidden, I feel like a wizard.",
+    "I need to update my phone, it’s acting weird today.",
+    "This page won’t load, my internet is being dramatic.",
+    "Can you turn off notifications, I need peace today?",
+    "I clicked send, and now I regret everything, oops!"
   ]
 }
