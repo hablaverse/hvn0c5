@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-22T21:10:11.766826",
-      "category": "Numbers & Time",
-      "num_phrases": 5,
-      "phrases": [
-        "It’s five o’clock, let’s go!",
-        "I have ten minutes, then I’m leaving.",
-        "The store opens at nine in the morning.",
-        "We’ll meet at seven p.m. tonight.",
-        "My class starts at six, not at seven."
-      ]
-    },
-    {
       "timestamp": "2026-05-23T09:53:49.945774",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I’m broke today, can we do something cheap?",
         "I’m down! Let’s go, what time are we meeting?"
       ]
+    },
+    {
+      "timestamp": "2026-08-12T14:57:07.783518",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "I need sunscreen, because the sun here is no joke.",
+        "Where is the nearest pharmacy? I need medicine, fast.",
+        "Can I pay with card? Cash makes me nervous.",
+        "Do you have water that is safe to drink?",
+        "I have a small suitcase. Where can I store it?"
+      ]
     }
   ],
   "used_phrases": [
-    "Send me your Wi-Fi password, and I will stay.",
-    "Text me a selfie, I want to see your smile.",
-    "Let's video call tonight, I miss your face.",
-    "Follow me back, I like your profile.",
-    "Your photos load so fast, you speed my heart.",
     "You have the nicest smile I've seen.",
     "Can I buy you a coffee right now?",
     "Your laugh makes my day so much better.",
@@ -4399,6 +4394,11 @@
     "No way, I can’t believe you said that!",
     "Don’t be late, please, I’m waiting here!",
     "I’m broke today, can we do something cheap?",
-    "I’m down! Let’s go, what time are we meeting?"
+    "I’m down! Let’s go, what time are we meeting?",
+    "I need sunscreen, because the sun here is no joke.",
+    "Where is the nearest pharmacy? I need medicine, fast.",
+    "Can I pay with card? Cash makes me nervous.",
+    "Do you have water that is safe to drink?",
+    "I have a small suitcase. Where can I store it?"
   ]
 }
