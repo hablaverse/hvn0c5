@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-23T09:53:49.945774",
-      "category": "Health & Body",
-      "num_phrases": 5,
-      "phrases": [
-        "I have a headache again, ugh, it's so annoying.",
-        "I’m thirsty; can I have some water, please?",
-        "I’m not sick, I just feel a little tired.",
-        "I have a fever, so I won’t go out today.",
-        "My stomach hurts; I think I ate something bad."
-      ]
-    },
-    {
       "timestamp": "2026-05-23T20:53:21.156752",
       "category": "Music & Entertainment",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Do you have water that is safe to drink?",
         "I have a small suitcase. Where can I store it?"
       ]
+    },
+    {
+      "timestamp": "2026-08-12T20:43:05.206461",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "It's raining hard, so bring your umbrella right now.",
+        "The wind is crazy today, and my hat is gone!",
+        "It's freezing outside, so wear a warm jacket.",
+        "The sun is strong today, even when it's cloudy.",
+        "Is there a storm coming? I hate sudden thunder."
+      ]
     }
   ],
   "used_phrases": [
-    "You have the nicest smile I've seen.",
-    "Can I buy you a coffee right now?",
-    "Your laugh makes my day so much better.",
-    "Stay a little longer, please.",
-    "You make my heart skip a beat.",
     "I have two tickets for the concert tonight.",
     "The train leaves at seven in the morning.",
     "My appointment is at three o'clock.",
@@ -4399,6 +4394,11 @@
     "Where is the nearest pharmacy? I need medicine, fast.",
     "Can I pay with card? Cash makes me nervous.",
     "Do you have water that is safe to drink?",
-    "I have a small suitcase. Where can I store it?"
+    "I have a small suitcase. Where can I store it?",
+    "It's raining hard, so bring your umbrella right now.",
+    "The wind is crazy today, and my hat is gone!",
+    "It's freezing outside, so wear a warm jacket.",
+    "The sun is strong today, even when it's cloudy.",
+    "Is there a storm coming? I hate sudden thunder."
   ]
 }
