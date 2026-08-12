@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-22T16:27:33.677083",
-      "category": "Common Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m hungry. What do you recommend at this place?",
-        "Sorry, I don’t understand. Can you say that again?",
-        "How much is this? I want to know the total price.",
-        "I’ll have water, please. No soda for me today.",
-        "Is there Wi-Fi here? I need to check something."
-      ]
-    },
-    {
       "timestamp": "2026-05-22T21:10:11.766826",
       "category": "Numbers & Time",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Can you turn off notifications, I need peace today?",
         "I clicked send, and now I regret everything, oops!"
       ]
+    },
+    {
+      "timestamp": "2026-08-12T09:11:10.896868",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "That’s awesome, you totally nailed it, bro!",
+        "No way, I can’t believe you said that!",
+        "Don’t be late, please, I’m waiting here!",
+        "I’m broke today, can we do something cheap?",
+        "I’m down! Let’s go, what time are we meeting?"
+      ]
     }
   ],
   "used_phrases": [
-    "I need the report by Friday.",
-    "I'll work from home tomorrow.",
-    "Please sign here with your name.",
-    "Can you join the video call now?",
-    "I have five years of experience in sales.",
     "Send me your Wi-Fi password, and I will stay.",
     "Text me a selfie, I want to see your smile.",
     "Let's video call tonight, I miss your face.",
@@ -4399,6 +4394,11 @@
     "I need to update my phone, it’s acting weird today.",
     "This page won’t load, my internet is being dramatic.",
     "Can you turn off notifications, I need peace today?",
-    "I clicked send, and now I regret everything, oops!"
+    "I clicked send, and now I regret everything, oops!",
+    "That’s awesome, you totally nailed it, bro!",
+    "No way, I can’t believe you said that!",
+    "Don’t be late, please, I’m waiting here!",
+    "I’m broke today, can we do something cheap?",
+    "I’m down! Let’s go, what time are we meeting?"
   ]
 }
