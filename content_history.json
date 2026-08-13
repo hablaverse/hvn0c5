@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-24T09:55:23.564255",
-      "category": "Hobbies & Activities",
-      "num_phrases": 5,
-      "phrases": [
-        "I love cooking; it’s my favorite hobby after work.",
-        "I’m always practicing Spanish; it’s my daily workout.",
-        "I go for a walk every night; it clears my head.",
-        "I’m addicted to puzzles; they calm me down fast.",
-        "Let’s play video games tonight; I’m in my zone."
-      ]
-    },
-    {
       "timestamp": "2026-05-24T15:05:23.655086",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "The receipt is my proof, so please keep it.",
         "Is there a discount if I buy two?"
       ]
+    },
+    {
+      "timestamp": "2026-08-13T20:42:01.738414",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "It’s ten minutes past two.",
+        "It’s five minutes to four.",
+        "I have class at seven o’clock.",
+        "We meet at eight tonight.",
+        "My phone number is three one seven."
+      ]
     }
   ],
   "used_phrases": [
-    "I feel happy today.",
-    "I am so proud of you.",
-    "I'm dying laughing.",
-    "I'm feeling a little nervous.",
-    "I'm so excited for tonight.",
     "My mother still writes me little notes.",
     "We celebrate my sister's birthday every year.",
     "My grandparents tell the best stories.",
@@ -4399,6 +4394,11 @@
     "Can I pay in cash, or do you take cards?",
     "I forgot my wallet, can I pay later?",
     "The receipt is my proof, so please keep it.",
-    "Is there a discount if I buy two?"
+    "Is there a discount if I buy two?",
+    "It’s ten minutes past two.",
+    "It’s five minutes to four.",
+    "I have class at seven o’clock.",
+    "We meet at eight tonight.",
+    "My phone number is three one seven."
   ]
 }
