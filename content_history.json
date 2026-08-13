@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-23T20:53:21.156752",
-      "category": "Music & Entertainment",
-      "num_phrases": 5,
-      "phrases": [
-        "I love this song, it’s stuck in my head!",
-        "This singer sounds amazing live, no joke!",
-        "Don’t spoil it, I want to watch this tonight.",
-        "I’m obsessed with that new series, help me!",
-        "Can you turn it up? I need more bass!"
-      ]
-    },
-    {
       "timestamp": "2026-05-24T09:55:23.564255",
       "category": "Hobbies & Activities",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "The sun is strong today, even when it's cloudy.",
         "Is there a storm coming? I hate sudden thunder."
       ]
+    },
+    {
+      "timestamp": "2026-08-13T09:11:51.989145",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "I spend less when I track every purchase.",
+        "Can I pay in cash, or do you take cards?",
+        "I forgot my wallet, can I pay later?",
+        "The receipt is my proof, so please keep it.",
+        "Is there a discount if I buy two?"
+      ]
     }
   ],
   "used_phrases": [
-    "I have two tickets for the concert tonight.",
-    "The train leaves at seven in the morning.",
-    "My appointment is at three o'clock.",
-    "Can I pay in three monthly payments?",
-    "The movie starts in ten minutes.",
     "I feel happy today.",
     "I am so proud of you.",
     "I'm dying laughing.",
@@ -4399,6 +4394,11 @@
     "The wind is crazy today, and my hat is gone!",
     "It's freezing outside, so wear a warm jacket.",
     "The sun is strong today, even when it's cloudy.",
-    "Is there a storm coming? I hate sudden thunder."
+    "Is there a storm coming? I hate sudden thunder.",
+    "I spend less when I track every purchase.",
+    "Can I pay in cash, or do you take cards?",
+    "I forgot my wallet, can I pay later?",
+    "The receipt is my proof, so please keep it.",
+    "Is there a discount if I buy two?"
   ]
 }
