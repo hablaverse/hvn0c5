@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-24T15:05:23.655086",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "The Wi-Fi password is on the fridge, trust me.",
-        "Where are the extra blankets? I’m freezing in here.",
-        "Don’t forget to turn off the lights when you leave.",
-        "The bathroom is on the left, past the kitchen.",
-        "I can smell smoke, so I’m checking the oven."
-      ]
-    },
-    {
       "timestamp": "2026-05-24T20:56:34.279776",
       "category": "Animals",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "We meet at eight tonight.",
         "My phone number is three one seven."
       ]
+    },
+    {
+      "timestamp": "2026-08-14T09:07:19.791554",
+      "category": "Hobbies & Activities",
+      "num_phrases": 5,
+      "phrases": [
+        "I love playing soccer after work, not just watching games.",
+        "I’m terrible at painting, but I still try every weekend.",
+        "I go to the gym, but I hate cardio so much.",
+        "I love cooking tacos, but I always make them too spicy.",
+        "I collect postcards, and yes, I write them by hand."
+      ]
     }
   ],
   "used_phrases": [
-    "My mother still writes me little notes.",
-    "We celebrate my sister's birthday every year.",
-    "My grandparents tell the best stories.",
-    "I call my dad every Sunday afternoon.",
-    "My cousin always brings homemade cookies.",
     "Call an ambulance now.",
     "I can't breathe.",
     "There is a fire in my building.",
@@ -4399,6 +4394,11 @@
     "It’s five minutes to four.",
     "I have class at seven o’clock.",
     "We meet at eight tonight.",
-    "My phone number is three one seven."
+    "My phone number is three one seven.",
+    "I love playing soccer after work, not just watching games.",
+    "I’m terrible at painting, but I still try every weekend.",
+    "I go to the gym, but I hate cardio so much.",
+    "I love cooking tacos, but I always make them too spicy.",
+    "I collect postcards, and yes, I write them by hand."
   ]
 }
