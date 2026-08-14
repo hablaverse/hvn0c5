@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-25T11:54:15.284398",
-      "category": "Emergency Situations",
-      "num_phrases": 5,
-      "phrases": [
-        "I think I’m having a heart problem right now, please help!",
-        "Call 911 now, I’m not feeling okay at all!",
-        "Stop the bleeding, please! I need a bandage, now!",
-        "I can’t breathe! Help me breathe, right now!",
-        "My child is choking, please help immediately!"
-      ]
-    },
-    {
       "timestamp": "2026-05-25T16:23:40.469750",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I can’t do push-ups today, so I do knees instead.",
         "I drink water like it’s my secret superpower."
       ]
+    },
+    {
+      "timestamp": "2026-08-14T20:31:06.646453",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "This shirt is too tight for me, honestly.",
+        "Your shoes look great, but the color is bold.",
+        "I think my hat is on wrong, not cool.",
+        "My jacket is wrinkled, so I need it ironed.",
+        "These jeans fit me, but they feel too long."
+      ]
     }
   ],
   "used_phrases": [
-    "What's up, are you free for coffee?",
-    "No way, that story is unbelievable.",
-    "I'm starving, let's grab something quick.",
-    "That party was lit last night.",
-    "I'm broke, I can't go out.",
     "My sister lives next door.",
     "We text each other every morning.",
     "My dad cooks the best pancakes.",
@@ -4399,6 +4394,11 @@
     "No pain, no gain, but I still take breaks!",
     "My coach says, breathe, and I finally stop panicking.",
     "I can’t do push-ups today, so I do knees instead.",
-    "I drink water like it’s my secret superpower."
+    "I drink water like it’s my secret superpower.",
+    "This shirt is too tight for me, honestly.",
+    "Your shoes look great, but the color is bold.",
+    "I think my hat is on wrong, not cool.",
+    "My jacket is wrinkled, so I need it ironed.",
+    "These jeans fit me, but they feel too long."
   ]
 }
