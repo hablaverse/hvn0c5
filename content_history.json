@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-24T20:56:34.279776",
-      "category": "Animals",
-      "num_phrases": 5,
-      "phrases": [
-        "Cats are cool, but I am allergic to cats.",
-        "I hate mosquitoes; they always bite me at night.",
-        "Dogs are friendly, and my neighbor has a friendly dog.",
-        "My favorite animal is a giraffe, so tall!",
-        "That horse is big, but it looks calm to me."
-      ]
-    },
-    {
       "timestamp": "2026-05-25T11:54:15.284398",
       "category": "Emergency Situations",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I love cooking tacos, but I always make them too spicy.",
         "I collect postcards, and yes, I write them by hand."
       ]
+    },
+    {
+      "timestamp": "2026-08-14T14:52:24.896435",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m sore, so I’ll stretch for ten minutes.",
+        "No pain, no gain, but I still take breaks!",
+        "My coach says, breathe, and I finally stop panicking.",
+        "I can’t do push-ups today, so I do knees instead.",
+        "I drink water like it’s my secret superpower."
+      ]
     }
   ],
   "used_phrases": [
-    "Call an ambulance now.",
-    "I can't breathe.",
-    "There is a fire in my building.",
-    "My child is missing.",
-    "Call the police now.",
     "What's up, are you free for coffee?",
     "No way, that story is unbelievable.",
     "I'm starving, let's grab something quick.",
@@ -4399,6 +4394,11 @@
     "I’m terrible at painting, but I still try every weekend.",
     "I go to the gym, but I hate cardio so much.",
     "I love cooking tacos, but I always make them too spicy.",
-    "I collect postcards, and yes, I write them by hand."
+    "I collect postcards, and yes, I write them by hand.",
+    "I’m sore, so I’ll stretch for ten minutes.",
+    "No pain, no gain, but I still take breaks!",
+    "My coach says, breathe, and I finally stop panicking.",
+    "I can’t do push-ups today, so I do knees instead.",
+    "I drink water like it’s my secret superpower."
   ]
 }
