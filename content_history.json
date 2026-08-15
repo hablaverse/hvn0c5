@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-25T21:06:46.287317",
-      "category": "Sports & Fitness",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m sore today, but I’ll stretch after my workout.",
-        "I forgot my water bottle, so I’m thirsty right now.",
-        "No, I don’t want to rest; let’s do one more set!",
-        "My legs are shaking, so I’m slowing down a bit.",
-        "Can you spot me for squats, please?"
-      ]
-    },
-    {
       "timestamp": "2026-05-26T21:46:39.710606",
       "category": "Hobbies & Activities",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Cross the street, and don’t run.",
         "Turn around, your keys are on the table."
       ]
+    },
+    {
+      "timestamp": "2026-08-15T14:22:14.382232",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "Turn right at the bank, and go straight.",
+        "Go straight, and the door is on your left.",
+        "Stop here, then wait for the bus.",
+        "Please keep walking until you see the big sign.",
+        "Get off at the next stop, please."
+      ]
     }
   ],
   "used_phrases": [
-    "I don't speak Spanish very well.",
-    "Can you help me, please?",
-    "Where is the bathroom?",
-    "I want a coffee, please.",
-    "How much does this cost?",
     "It's hot today.",
     "It's cold outside.",
     "It's raining hard.",
@@ -4399,6 +4394,11 @@
     "Take the second street on your left, please.",
     "Stop here for a second, then we continue.",
     "Cross the street, and don’t run.",
-    "Turn around, your keys are on the table."
+    "Turn around, your keys are on the table.",
+    "Turn right at the bank, and go straight.",
+    "Go straight, and the door is on your left.",
+    "Stop here, then wait for the bus.",
+    "Please keep walking until you see the big sign.",
+    "Get off at the next stop, please."
   ]
 }
