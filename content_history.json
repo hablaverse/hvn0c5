@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-26T21:46:39.710606",
-      "category": "Hobbies & Activities",
-      "num_phrases": 5,
-      "phrases": [
-        "I love cooking pasta, and the smell makes me happy.",
-        "I go jogging early, because mornings feel like a reset.",
-        "I practice guitar at night, and my fingers learn quietly.",
-        "I love painting walls, but only with bright colors.",
-        "I play soccer with friends, and we laugh a lot."
-      ]
-    },
-    {
       "timestamp": "2026-05-27T11:39:11.860319",
       "category": "Travel Essentials",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Please keep walking until you see the big sign.",
         "Get off at the next stop, please."
       ]
+    },
+    {
+      "timestamp": "2026-08-15T20:21:27.122256",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "That movie was awesome, I loved every minute.",
+        "I’m running late, I’ll meet you in five minutes.",
+        "That’s totally fine, no worries at all, okay?",
+        "I’m broke, can you spot me for coffee?",
+        "Let’s hang out tonight, just us and snacks."
+      ]
     }
   ],
   "used_phrases": [
-    "It's hot today.",
-    "It's cold outside.",
-    "It's raining hard.",
-    "I forgot my umbrella.",
-    "It's very humid today.",
     "Call an ambulance, I feel dizzy.",
     "My heart hurts, I need help now.",
     "There's a fire, get out with me.",
@@ -4399,6 +4394,11 @@
     "Go straight, and the door is on your left.",
     "Stop here, then wait for the bus.",
     "Please keep walking until you see the big sign.",
-    "Get off at the next stop, please."
+    "Get off at the next stop, please.",
+    "That movie was awesome, I loved every minute.",
+    "I’m running late, I’ll meet you in five minutes.",
+    "That’s totally fine, no worries at all, okay?",
+    "I’m broke, can you spot me for coffee?",
+    "Let’s hang out tonight, just us and snacks."
   ]
 }
