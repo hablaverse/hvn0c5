@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-27T21:56:24.785782",
-      "category": "Emergency Situations",
-      "num_phrases": 5,
-      "phrases": [
-        "I need help right now. Call the police, please.",
-        "Is anyone injured? Please call an ambulance now.",
-        "I can’t breathe. Please call 911 immediately.",
-        "My chest hurts. I think I’m having a heart problem.",
-        "I’m choking. Someone help me, please."
-      ]
-    },
-    {
       "timestamp": "2026-05-28T11:39:25.777293",
       "category": "Emergency Situations",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "My card got declined, can you try again?",
         "Do you have a cheaper option, like a smaller size?"
       ]
+    },
+    {
+      "timestamp": "2026-08-16T20:21:18.385971",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Hi, how’s it going today?",
+        "Nice to meet you! I’m Alex.",
+        "Hey, what’s up? Tell me!",
+        "Thank you! Have a great day.",
+        "See you later! Don’t forget me."
+      ]
     }
   ],
   "used_phrases": [
-    "Can I see the menu, please?",
-    "Do you have vegetarian options?",
-    "I am allergic to peanuts.",
-    "Can you bring the check, please?",
-    "This dish is too spicy for me.",
     "I have a headache.",
     "My stomach hurts.",
     "I need water.",
@@ -4399,6 +4394,11 @@
     "I’m on a budget, so this price worries me.",
     "I paid in cash, so no receipt this time.",
     "My card got declined, can you try again?",
-    "Do you have a cheaper option, like a smaller size?"
+    "Do you have a cheaper option, like a smaller size?",
+    "Hi, how’s it going today?",
+    "Nice to meet you! I’m Alex.",
+    "Hey, what’s up? Tell me!",
+    "Thank you! Have a great day.",
+    "See you later! Don’t forget me."
   ]
 }
