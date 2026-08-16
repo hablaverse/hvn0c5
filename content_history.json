@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-27T17:20:10.073234",
-      "category": "Health & Body",
-      "num_phrases": 5,
-      "phrases": [
-        "I have a headache, so I need quiet right now.",
-        "I’m tired, and I need to sleep early tonight.",
-        "I feel sick, so I’m not going out today.",
-        "I have a sore throat, and it hurts when I talk.",
-        "I’m hungry, and I need something healthy to eat."
-      ]
-    },
-    {
       "timestamp": "2026-05-27T21:56:24.785782",
       "category": "Emergency Situations",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I’m down to go, just tell me the time.",
         "That’s so cool, you’re a total pro!"
       ]
+    },
+    {
+      "timestamp": "2026-08-16T14:22:25.161901",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "How much is this, before taxes, please?",
+        "I’m on a budget, so this price worries me.",
+        "I paid in cash, so no receipt this time.",
+        "My card got declined, can you try again?",
+        "Do you have a cheaper option, like a smaller size?"
+      ]
     }
   ],
   "used_phrases": [
-    "Does this jacket fit me well?",
-    "Can I try this on, please?",
-    "Where is the fitting room?",
-    "Do you have this in a smaller size?",
-    "This dress matches my shoes perfectly.",
     "Can I see the menu, please?",
     "Do you have vegetarian options?",
     "I am allergic to peanuts.",
@@ -4399,6 +4394,11 @@
     "That plan sounds great, but I’m not sure.",
     "I don’t get it; can you explain it in simple words?",
     "I’m down to go, just tell me the time.",
-    "That’s so cool, you’re a total pro!"
+    "That’s so cool, you’re a total pro!",
+    "How much is this, before taxes, please?",
+    "I’m on a budget, so this price worries me.",
+    "I paid in cash, so no receipt this time.",
+    "My card got declined, can you try again?",
+    "Do you have a cheaper option, like a smaller size?"
   ]
 }
