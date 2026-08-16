@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-27T11:39:11.860319",
-      "category": "Travel Essentials",
-      "num_phrases": 5,
-      "phrases": [
-        "Can you help me find the bus stop near here?",
-        "Where is the nearest pharmacy for this medicine?",
-        "I need a ticket to the airport, please.",
-        "Is this water safe to drink, or is it risky?",
-        "Do you accept credit cards, or only cash here?"
-      ]
-    },
-    {
       "timestamp": "2026-05-27T17:20:10.073234",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I’m broke, can you spot me for coffee?",
         "Let’s hang out tonight, just us and snacks."
       ]
+    },
+    {
+      "timestamp": "2026-08-16T08:29:14.159343",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m starving; let’s grab tacos right now.",
+        "That plan sounds great, but I’m not sure.",
+        "I don’t get it; can you explain it in simple words?",
+        "I’m down to go, just tell me the time.",
+        "That’s so cool, you’re a total pro!"
+      ]
     }
   ],
   "used_phrases": [
-    "Call an ambulance, I feel dizzy.",
-    "My heart hurts, I need help now.",
-    "There's a fire, get out with me.",
-    "I think I broke my arm kissing you.",
-    "Call the police, someone stole my purse.",
     "Does this jacket fit me well?",
     "Can I try this on, please?",
     "Where is the fitting room?",
@@ -4399,6 +4394,11 @@
     "I’m running late, I’ll meet you in five minutes.",
     "That’s totally fine, no worries at all, okay?",
     "I’m broke, can you spot me for coffee?",
-    "Let’s hang out tonight, just us and snacks."
+    "Let’s hang out tonight, just us and snacks.",
+    "I’m starving; let’s grab tacos right now.",
+    "That plan sounds great, but I’m not sure.",
+    "I don’t get it; can you explain it in simple words?",
+    "I’m down to go, just tell me the time.",
+    "That’s so cool, you’re a total pro!"
   ]
 }
