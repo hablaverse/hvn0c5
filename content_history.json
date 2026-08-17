@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-28T17:35:22.445131",
-      "category": "Work & Business",
-      "num_phrases": 5,
-      "phrases": [
-        "I just emailed the invoice to you, okay?",
-        "I’ll handle the meeting notes and send them.",
-        "Can you give me a quick update on progress?",
-        "Please confirm the deadline by Friday.",
-        "I need this approved before we ship it."
-      ]
-    },
-    {
       "timestamp": "2026-05-28T21:55:52.343375",
       "category": "Slang & Informal",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Is this spicy? I can’t handle too much heat.",
         "What do you recommend here? I want something local."
       ]
+    },
+    {
+      "timestamp": "2026-08-17T14:26:51.617906",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "That’s hilarious, I’m laughing so hard right now.",
+        "Wait, that’s wild! I can’t believe you said that.",
+        "No way, that can’t be true!",
+        "I’m super tired; I just want to chill now.",
+        "Don’t worry, I’ve got it. I’ll handle it."
+      ]
     }
   ],
   "used_phrases": [
-    "You have the most beautiful smile.",
-    "Can I buy you a coffee?",
-    "You look stunning tonight.",
-    "I like the way you laugh.",
-    "Tell me your favorite song.",
     "Where is the nearest taxi stand?",
     "I need a charger for my phone.",
     "Do you accept credit cards?",
@@ -4399,6 +4394,11 @@
     "I would like a coffee, please, no sugar.",
     "I’m meeting my friend, what time does it start?",
     "Is this spicy? I can’t handle too much heat.",
-    "What do you recommend here? I want something local."
+    "What do you recommend here? I want something local.",
+    "That’s hilarious, I’m laughing so hard right now.",
+    "Wait, that’s wild! I can’t believe you said that.",
+    "No way, that can’t be true!",
+    "I’m super tired; I just want to chill now.",
+    "Don’t worry, I’ve got it. I’ll handle it."
   ]
 }
