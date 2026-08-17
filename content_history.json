@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-28T21:55:52.343375",
-      "category": "Slang & Informal",
-      "num_phrases": 5,
-      "phrases": [
-        "That dress is cute, and you look amazing tonight.",
-        "This playlist is fire, turn it up right now.",
-        "No worries, we’ll figure it out together.",
-        "I’m down for tacos later, let’s make plans.",
-        "Stop teasing me, you know I like you."
-      ]
-    },
-    {
       "timestamp": "2026-05-29T11:31:04.774203",
       "category": "Work & Business",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I’m super tired; I just want to chill now.",
         "Don’t worry, I’ve got it. I’ll handle it."
       ]
+    },
+    {
+      "timestamp": "2026-08-17T20:26:21.618962",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "I love cats, they make my day better.",
+        "Dogs are great, but I’m afraid of big ones.",
+        "I’m allergic to cats, so no cuddles today.",
+        "I have a pet turtle, and it’s very quiet.",
+        "That bird is so loud, it wakes me up!"
+      ]
     }
   ],
   "used_phrases": [
-    "Where is the nearest taxi stand?",
-    "I need a charger for my phone.",
-    "Do you accept credit cards?",
-    "I can't find my passport.",
-    "Is there free Wi-Fi here?",
     "Can I pay with a card?",
     "I need to withdraw cash.",
     "The price is negotiable.",
@@ -4399,6 +4394,11 @@
     "Wait, that’s wild! I can’t believe you said that.",
     "No way, that can’t be true!",
     "I’m super tired; I just want to chill now.",
-    "Don’t worry, I’ve got it. I’ll handle it."
+    "Don’t worry, I’ve got it. I’ll handle it.",
+    "I love cats, they make my day better.",
+    "Dogs are great, but I’m afraid of big ones.",
+    "I’m allergic to cats, so no cuddles today.",
+    "I have a pet turtle, and it’s very quiet.",
+    "That bird is so loud, it wakes me up!"
   ]
 }
