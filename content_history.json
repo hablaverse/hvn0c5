@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-29T21:53:10.425379",
-      "category": "Music & Entertainment",
-      "num_phrases": 5,
-      "phrases": [
-        "I love live music, it makes me feel alive.",
-        "This song is a total earworm, I can’t stop.",
-        "Are we going to the concert tonight or tomorrow?",
-        "That DJ is amazing, the beat is perfect.",
-        "The movie soundtrack is so good, I bought it."
-      ]
-    },
-    {
       "timestamp": "2026-05-30T10:02:08.855459",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I paint for fun; my mess becomes art every time.",
         "I play video games, but only with friends."
       ]
+    },
+    {
+      "timestamp": "2026-08-18T20:23:24.123862",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "It’s raining hard, so bring your umbrella.",
+        "The wind is crazy; my hat won’t stay on.",
+        "It’s snowing again, stay home if you can.",
+        "There’s thunder, so I’m staying indoors.",
+        "It’s cloudy now, but the weather can change fast."
+      ]
     }
   ],
   "used_phrases": [
-    "I'll send the report today.",
-    "Can we reschedule the meeting?",
-    "I need a minute to think.",
-    "Sorry, I missed the deadline.",
-    "Let's take this offline, please.",
     "Race me to the park after warm-up.",
     "I will spot you at the gym, promise.",
     "Your sweat smells like victory and coffee.",
@@ -4399,6 +4394,11 @@
     "I go to the gym after work, no excuses.",
     "I cook pasta at home, and it tastes like comfort.",
     "I paint for fun; my mess becomes art every time.",
-    "I play video games, but only with friends."
+    "I play video games, but only with friends.",
+    "It’s raining hard, so bring your umbrella.",
+    "The wind is crazy; my hat won’t stay on.",
+    "It’s snowing again, stay home if you can.",
+    "There’s thunder, so I’m staying indoors.",
+    "It’s cloudy now, but the weather can change fast."
   ]
 }
