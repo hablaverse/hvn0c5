@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-29T11:31:04.774203",
-      "category": "Work & Business",
-      "num_phrases": 5,
-      "phrases": [
-        "Can you send the invoice today, please?",
-        "I’ll review the document and get back to you.",
-        "Let’s jump on a quick call this afternoon.",
-        "Who’s responsible for the client follow-up?",
-        "I’m running late, but I’ll be there soon."
-      ]
-    },
-    {
       "timestamp": "2026-05-29T17:34:30.911909",
       "category": "Numbers & Time",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I have a pet turtle, and it’s very quiet.",
         "That bird is so loud, it wakes me up!"
       ]
+    },
+    {
+      "timestamp": "2026-08-18T08:36:45.098087",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "I don’t understand this word; can you say it again slowly?",
+        "Can you write it, please? I learn better that way.",
+        "What does this mean? I keep seeing it everywhere.",
+        "I’m practicing my Spanish. Please speak a little slower.",
+        "Do you have any tips for beginners?"
+      ]
     }
   ],
   "used_phrases": [
-    "Can I pay with a card?",
-    "I need to withdraw cash.",
-    "The price is negotiable.",
-    "I prefer to split the bill.",
-    "I lost my credit card.",
     "I feel so happy right now.",
     "I'm a little nervous about this.",
     "I'm freaking out a bit.",
@@ -4399,6 +4394,11 @@
     "Dogs are great, but I’m afraid of big ones.",
     "I’m allergic to cats, so no cuddles today.",
     "I have a pet turtle, and it’s very quiet.",
-    "That bird is so loud, it wakes me up!"
+    "That bird is so loud, it wakes me up!",
+    "I don’t understand this word; can you say it again slowly?",
+    "Can you write it, please? I learn better that way.",
+    "What does this mean? I keep seeing it everywhere.",
+    "I’m practicing my Spanish. Please speak a little slower.",
+    "Do you have any tips for beginners?"
   ]
 }
