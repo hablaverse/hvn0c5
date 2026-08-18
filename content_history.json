@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-29T17:34:30.911909",
-      "category": "Numbers & Time",
-      "num_phrases": 5,
-      "phrases": [
-        "I’ll be there in ten minutes, not one more.",
-        "I have one coffee, then I’m done.",
-        "My password is number seven, seriously.",
-        "Call me at six o’clock, please.",
-        "I’m meeting you at 3 p.m. today."
-      ]
-    },
-    {
       "timestamp": "2026-05-29T21:53:10.425379",
       "category": "Music & Entertainment",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I’m practicing my Spanish. Please speak a little slower.",
         "Do you have any tips for beginners?"
       ]
+    },
+    {
+      "timestamp": "2026-08-18T14:33:41.025553",
+      "category": "Hobbies & Activities",
+      "num_phrases": 5,
+      "phrases": [
+        "I love hiking; I feel free on mountain trails.",
+        "I go to the gym after work, no excuses.",
+        "I cook pasta at home, and it tastes like comfort.",
+        "I paint for fun; my mess becomes art every time.",
+        "I play video games, but only with friends."
+      ]
     }
   ],
   "used_phrases": [
-    "I feel so happy right now.",
-    "I'm a little nervous about this.",
-    "I'm freaking out a bit.",
-    "That scares me a little.",
-    "I miss you so much.",
     "I'll send the report today.",
     "Can we reschedule the meeting?",
     "I need a minute to think.",
@@ -4399,6 +4394,11 @@
     "Can you write it, please? I learn better that way.",
     "What does this mean? I keep seeing it everywhere.",
     "I’m practicing my Spanish. Please speak a little slower.",
-    "Do you have any tips for beginners?"
+    "Do you have any tips for beginners?",
+    "I love hiking; I feel free on mountain trails.",
+    "I go to the gym after work, no excuses.",
+    "I cook pasta at home, and it tastes like comfort.",
+    "I paint for fun; my mess becomes art every time.",
+    "I play video games, but only with friends."
   ]
 }
