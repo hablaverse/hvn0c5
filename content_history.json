@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-30T20:58:05.522927",
-      "category": "Numbers & Time",
-      "num_phrases": 5,
-      "phrases": [
-        "My bus arrives at 8 o'clock, don’t be late.",
-        "I’m free at two, and yes, you can call me.",
-        "It’s 5 minutes from now, let’s hurry, okay?",
-        "I have three minutes, then I have to go.",
-        "Your place is on the third street, trust me."
-      ]
-    },
-    {
       "timestamp": "2026-05-31T10:17:10.608325",
       "category": "Weather",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I’m happy you’re here; it makes my day better.",
         "I feel stressed, so I need a quick break now."
       ]
+    },
+    {
+      "timestamp": "2026-08-19T20:31:13.047534",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you send me the link again, please?",
+        "My Wi-Fi is slow, can we restart it?",
+        "Where’s the password? I forgot it again.",
+        "I got a new phone, how do I sync photos?",
+        "Are you using mobile data, or Wi-Fi?"
+      ]
     }
   ],
   "used_phrases": [
-    "My cat steals my socks every morning.",
-    "My dog knows many tricks.",
-    "I'm allergic to cats, but I still hug them.",
-    "That parrot repeats my secrets.",
-    "A squirrel stole my sandwich yesterday.",
     "I need five minutes.",
     "It's three o'clock already.",
     "I'll be there in ten minutes.",
@@ -4399,6 +4394,11 @@
     "I’m so excited today; everything feels brand new!",
     "I’m sad right now, so please be gentle with me.",
     "I’m happy you’re here; it makes my day better.",
-    "I feel stressed, so I need a quick break now."
+    "I feel stressed, so I need a quick break now.",
+    "Can you send me the link again, please?",
+    "My Wi-Fi is slow, can we restart it?",
+    "Where’s the password? I forgot it again.",
+    "I got a new phone, how do I sync photos?",
+    "Are you using mobile data, or Wi-Fi?"
   ]
 }
