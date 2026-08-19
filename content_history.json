@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-30T15:07:30.253262",
-      "category": "Travel Essentials",
-      "num_phrases": 5,
-      "phrases": [
-        "Do you have a map of the city?",
-        "How much is a ticket to the airport?",
-        "I need water without ice, please.",
-        "Where can I buy a SIM card?",
-        "Can you write that down for me, please?"
-      ]
-    },
-    {
       "timestamp": "2026-05-30T20:58:05.522927",
       "category": "Numbers & Time",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "It’s freezing outside, so wear a warm jacket, please.",
         "Is it windy or just my hair being dramatic?"
       ]
+    },
+    {
+      "timestamp": "2026-08-19T14:33:28.134341",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel nervous before exams, but I breathe and continue.",
+        "I’m so excited today; everything feels brand new!",
+        "I’m sad right now, so please be gentle with me.",
+        "I’m happy you’re here; it makes my day better.",
+        "I feel stressed, so I need a quick break now."
+      ]
     }
   ],
   "used_phrases": [
-    "This shirt is bright blue and eye-catching.",
-    "My favorite jacket is black and classic.",
-    "The cafe walls are warm beige and cozy.",
-    "Her hair is deep brown with honey highlights.",
-    "Their new car is shiny metallic silver.",
     "My cat steals my socks every morning.",
     "My dog knows many tricks.",
     "I'm allergic to cats, but I still hug them.",
@@ -4399,6 +4394,11 @@
     "The sky looks angry, maybe there will be storms.",
     "The weather is hot; I need cold water right now.",
     "It’s freezing outside, so wear a warm jacket, please.",
-    "Is it windy or just my hair being dramatic?"
+    "Is it windy or just my hair being dramatic?",
+    "I feel nervous before exams, but I breathe and continue.",
+    "I’m so excited today; everything feels brand new!",
+    "I’m sad right now, so please be gentle with me.",
+    "I’m happy you’re here; it makes my day better.",
+    "I feel stressed, so I need a quick break now."
   ]
 }
