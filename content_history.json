@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-30T10:02:08.855459",
-      "category": "Health & Body",
-      "num_phrases": 5,
-      "phrases": [
-        "I have a headache, can you help me find a pharmacy?",
-        "I feel dizzy, I need to sit down for a minute.",
-        "I’m allergic to peanuts, so no snacks for me.",
-        "I have a fever, can I buy some medicine today?",
-        "I hurt my ankle, where is the nearest clinic?"
-      ]
-    },
-    {
       "timestamp": "2026-05-30T15:07:30.253262",
       "category": "Travel Essentials",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "There’s thunder, so I’m staying indoors.",
         "It’s cloudy now, but the weather can change fast."
       ]
+    },
+    {
+      "timestamp": "2026-08-19T08:39:33.947525",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "Is it raining today? I hate getting wet.",
+        "The sky looks angry, maybe there will be storms.",
+        "The weather is hot; I need cold water right now.",
+        "It’s freezing outside, so wear a warm jacket, please.",
+        "Is it windy or just my hair being dramatic?"
+      ]
     }
   ],
   "used_phrases": [
-    "Race me to the park after warm-up.",
-    "I will spot you at the gym, promise.",
-    "Your sweat smells like victory and coffee.",
-    "Teach me your favorite yoga pose tonight.",
-    "Play doubles with me and hold my hand.",
     "This shirt is bright blue and eye-catching.",
     "My favorite jacket is black and classic.",
     "The cafe walls are warm beige and cozy.",
@@ -4399,6 +4394,11 @@
     "The wind is crazy; my hat won’t stay on.",
     "It’s snowing again, stay home if you can.",
     "There’s thunder, so I’m staying indoors.",
-    "It’s cloudy now, but the weather can change fast."
+    "It’s cloudy now, but the weather can change fast.",
+    "Is it raining today? I hate getting wet.",
+    "The sky looks angry, maybe there will be storms.",
+    "The weather is hot; I need cold water right now.",
+    "It’s freezing outside, so wear a warm jacket, please.",
+    "Is it windy or just my hair being dramatic?"
   ]
 }
