@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-31T15:19:09.806470",
-      "category": "Money & Finance",
-      "num_phrases": 5,
-      "phrases": [
-        "I spent too much money today; I need a cheaper plan.",
-        "Can I pay with card, or do you only take cash?",
-        "Where is the ATM nearby? I need cash fast.",
-        "Don’t buy it; it’s too expensive for me today.",
-        "I got change back, but was it the right amount?"
-      ]
-    },
-    {
       "timestamp": "2026-05-31T21:00:35.585421",
       "category": "Numbers & Time",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "What do you recommend for first-timers?",
         "I’ll pay with card, not cash."
       ]
+    },
+    {
+      "timestamp": "2026-08-20T14:36:04.611770",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "Turn left at the big bank, and follow the street.",
+        "Go straight for two blocks, then stop at the light.",
+        "Take the second right, and you’ll find the museum.",
+        "Please park over there, not in front of the door.",
+        "Walk past the pharmacy, and the café is on your left."
+      ]
     }
   ],
   "used_phrases": [
-    "How much is this scarf?",
-    "Can you give me a discount?",
-    "I'm just looking, thank you.",
-    "Can I have a bag, please?",
-    "Does this come in a smaller size?",
     "Can you show me on the map?",
     "Turn left at the big bakery.",
     "Go straight two blocks and stop.",
@@ -4399,6 +4394,11 @@
     "Do you have spicy food?",
     "No onions, please. I can’t stand them.",
     "What do you recommend for first-timers?",
-    "I’ll pay with card, not cash."
+    "I’ll pay with card, not cash.",
+    "Turn left at the big bank, and follow the street.",
+    "Go straight for two blocks, then stop at the light.",
+    "Take the second right, and you’ll find the museum.",
+    "Please park over there, not in front of the door.",
+    "Walk past the pharmacy, and the café is on your left."
   ]
 }
