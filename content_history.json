@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-31T21:00:35.585421",
-      "category": "Numbers & Time",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m meeting you at seven, not eight, okay?",
-        "My flight leaves at six fifty-five.",
-        "I’ll call you in ten minutes, trust me.",
-        "It’s one o’clock, and I’m starving!",
-        "Do you have a table for two tonight?"
-      ]
-    },
-    {
       "timestamp": "2026-06-01T13:38:06.254492",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Please park over there, not in front of the door.",
         "Walk past the pharmacy, and the café is on your left."
       ]
+    },
+    {
+      "timestamp": "2026-08-20T20:27:31.790963",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "How do I get to the subway station from here?",
+        "Go straight, and the pharmacy will be on the corner.",
+        "Take the bus to downtown, please.",
+        "Is there a parking lot near here?",
+        "Cross the street, and you’ll see the coffee shop."
+      ]
     }
   ],
   "used_phrases": [
-    "Can you show me on the map?",
-    "Turn left at the big bakery.",
-    "Go straight two blocks and stop.",
-    "Is it far from here?",
-    "I am lost, can you help me?",
     "My meeting starts at nine.",
     "I work from nine to five.",
     "The bus arrives in five minutes.",
@@ -4399,6 +4394,11 @@
     "Go straight for two blocks, then stop at the light.",
     "Take the second right, and you’ll find the museum.",
     "Please park over there, not in front of the door.",
-    "Walk past the pharmacy, and the café is on your left."
+    "Walk past the pharmacy, and the café is on your left.",
+    "How do I get to the subway station from here?",
+    "Go straight, and the pharmacy will be on the corner.",
+    "Take the bus to downtown, please.",
+    "Is there a parking lot near here?",
+    "Cross the street, and you’ll see the coffee shop."
   ]
 }
