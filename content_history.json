@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-01T22:34:25.089416",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "I need more towels, because this shower is a mess.",
-        "The fridge is empty, so I’m craving something big.",
-        "Don’t slam the windows, the neighbors hate loud sounds.",
-        "Where’s the trash bin? I have a snack wrapper.",
-        "My Wi-Fi drops here, so I need better signal indoors."
-      ]
-    },
-    {
       "timestamp": "2026-06-02T12:05:08.717556",
       "category": "Money & Finance",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Hi! How are you today? I hope your day is easy.",
         "Nice to meet you! Your Spanish sounds cool already."
       ]
+    },
+    {
+      "timestamp": "2026-08-21T20:24:56.901357",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "I have a headache, but I feel okay.",
+        "My stomach hurts, I need water, please.",
+        "I’m sick, I don’t want to go out today.",
+        "I’m not hungry right now, thanks.",
+        "I’m thirsty, can I have some juice?"
+      ]
     }
   ],
   "used_phrases": [
-    "I'm really happy today.",
-    "I'm a little nervous right now.",
-    "I'm excited for the concert tonight.",
-    "I'm sad about the news.",
-    "I'm relieved the test is over.",
     "I only speak a little Spanish.",
     "I need water, please.",
     "I don't understand, can you repeat?",
@@ -4399,6 +4394,11 @@
     "Good afternoon! I’m learning Spanish, and I’m feeling brave today.",
     "Good evening! Let’s practice Spanish, even if we make mistakes.",
     "Hi! How are you today? I hope your day is easy.",
-    "Nice to meet you! Your Spanish sounds cool already."
+    "Nice to meet you! Your Spanish sounds cool already.",
+    "I have a headache, but I feel okay.",
+    "My stomach hurts, I need water, please.",
+    "I’m sick, I don’t want to go out today.",
+    "I’m not hungry right now, thanks.",
+    "I’m thirsty, can I have some juice?"
   ]
 }
