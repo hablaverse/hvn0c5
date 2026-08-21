@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-01T19:21:20.812371",
-      "category": "Education & Learning",
-      "num_phrases": 5,
-      "phrases": [
-        "I understand, but I need it slower, please.",
-        "Can you say that again in simpler words?",
-        "What does this word mean in everyday Spanish?",
-        "I’m learning Spanish, so please talk to me kindly.",
-        "Where do I buy a SIM card for my phone?"
-      ]
-    },
-    {
       "timestamp": "2026-06-01T22:34:25.089416",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I love horses, they look like running dreams.",
         "My goldfish only swims, but it’s so calming."
       ]
+    },
+    {
+      "timestamp": "2026-08-21T14:34:50.512429",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good morning, Spanish friends, today is going to be great!",
+        "Good afternoon! I’m learning Spanish, and I’m feeling brave today.",
+        "Good evening! Let’s practice Spanish, even if we make mistakes.",
+        "Hi! How are you today? I hope your day is easy.",
+        "Nice to meet you! Your Spanish sounds cool already."
+      ]
     }
   ],
   "used_phrases": [
-    "I love painting on rainy afternoons.",
-    "I play guitar when I'm nervous.",
-    "I run five kilometers every morning.",
-    "I grow herbs on my balcony.",
-    "Let's play chess this afternoon.",
     "I'm really happy today.",
     "I'm a little nervous right now.",
     "I'm excited for the concert tonight.",
@@ -4399,6 +4394,11 @@
     "I’m scared of spiders, they move like tiny monsters.",
     "Dogs make me happy, they always want to play.",
     "I love horses, they look like running dreams.",
-    "My goldfish only swims, but it’s so calming."
+    "My goldfish only swims, but it’s so calming.",
+    "Good morning, Spanish friends, today is going to be great!",
+    "Good afternoon! I’m learning Spanish, and I’m feeling brave today.",
+    "Good evening! Let’s practice Spanish, even if we make mistakes.",
+    "Hi! How are you today? I hope your day is easy.",
+    "Nice to meet you! Your Spanish sounds cool already."
   ]
 }
