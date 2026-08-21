@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-01T13:38:06.254492",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m looking for a new couch, not another weird chair.",
-        "Where is the light switch, because the room is dark?",
-        "Please don’t slam the door; my walls are dramatic.",
-        "This floor is slippery, so watch your step, okay?",
-        "My roommate keeps losing the keys, again and again."
-      ]
-    },
-    {
       "timestamp": "2026-06-01T19:21:20.812371",
       "category": "Education & Learning",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Is there a parking lot near here?",
         "Cross the street, and you’ll see the coffee shop."
       ]
+    },
+    {
+      "timestamp": "2026-08-21T08:40:17.772035",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "Cats are my favorite animals, I love their faces.",
+        "I’m scared of spiders, they move like tiny monsters.",
+        "Dogs make me happy, they always want to play.",
+        "I love horses, they look like running dreams.",
+        "My goldfish only swims, but it’s so calming."
+      ]
     }
   ],
   "used_phrases": [
-    "My meeting starts at nine.",
-    "I work from nine to five.",
-    "The bus arrives in five minutes.",
-    "The train leaves at midnight.",
-    "The bill is fifteen euros.",
     "I love painting on rainy afternoons.",
     "I play guitar when I'm nervous.",
     "I run five kilometers every morning.",
@@ -4399,6 +4394,11 @@
     "Go straight, and the pharmacy will be on the corner.",
     "Take the bus to downtown, please.",
     "Is there a parking lot near here?",
-    "Cross the street, and you’ll see the coffee shop."
+    "Cross the street, and you’ll see the coffee shop.",
+    "Cats are my favorite animals, I love their faces.",
+    "I’m scared of spiders, they move like tiny monsters.",
+    "Dogs make me happy, they always want to play.",
+    "I love horses, they look like running dreams.",
+    "My goldfish only swims, but it’s so calming."
   ]
 }
