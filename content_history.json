@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-02T18:05:44.945581",
-      "category": "Directions",
-      "num_phrases": 5,
-      "phrases": [
-        "Turn left at the bakery, and go straight for two blocks.",
-        "Go to the pharmacy, then ask for medicine for a cough.",
-        "Walk past the park, and you’ll see the museum on your right.",
-        "Take the elevator to floor three, please, not the stairs.",
-        "The bathroom is behind you, so look back and go in."
-      ]
-    },
-    {
       "timestamp": "2026-06-02T22:24:17.217771",
       "category": "Work & Business",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Do you have vegetarian options? I want something tasty.",
         "Is tap water okay, or should I get bottled water?"
       ]
+    },
+    {
+      "timestamp": "2026-08-22T14:20:52.122355",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "I need help, I got lost in this neighborhood.",
+        "I’m running late, I’ll be there in ten minutes.",
+        "I’ll pay, you don’t have to worry.",
+        "Do you have this in a smaller size?",
+        "No problem, we can do it another day."
+      ]
     }
   ],
   "used_phrases": [
-    "Can you share the Wi-Fi password?",
-    "My connection is very slow today.",
-    "Is there a charger I can use?",
-    "I need to charge my phone.",
-    "My phone has low battery.",
     "Can we pay separately, please?",
     "Is this seat taken?",
     "I need a taxi now.",
@@ -4399,6 +4394,11 @@
     "Can I see the menu, please? I’m hungry and curious.",
     "I’ll have the chicken with rice, please. No spicy sauce.",
     "Do you have vegetarian options? I want something tasty.",
-    "Is tap water okay, or should I get bottled water?"
+    "Is tap water okay, or should I get bottled water?",
+    "I need help, I got lost in this neighborhood.",
+    "I’m running late, I’ll be there in ten minutes.",
+    "I’ll pay, you don’t have to worry.",
+    "Do you have this in a smaller size?",
+    "No problem, we can do it another day."
   ]
 }
