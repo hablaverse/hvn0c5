@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-02T12:05:08.717556",
-      "category": "Money & Finance",
-      "num_phrases": 5,
-      "phrases": [
-        "I just spent all my cash, and now I’m broke.",
-        "Can you split the bill, please? I forgot my card.",
-        "I need cash for the bus, not excuses.",
-        "This price is crazy; I’m going to wait for sales.",
-        "I’m budgeting this month, and my cravings are shocked."
-      ]
-    },
-    {
       "timestamp": "2026-06-02T18:05:44.945581",
       "category": "Directions",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I’m not hungry right now, thanks.",
         "I’m thirsty, can I have some juice?"
       ]
+    },
+    {
+      "timestamp": "2026-08-22T08:29:14.228114",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "I want a table for two, near the window, please.",
+        "Can I see the menu, please? I’m hungry and curious.",
+        "I’ll have the chicken with rice, please. No spicy sauce.",
+        "Do you have vegetarian options? I want something tasty.",
+        "Is tap water okay, or should I get bottled water?"
+      ]
     }
   ],
   "used_phrases": [
-    "I only speak a little Spanish.",
-    "I need water, please.",
-    "I don't understand, can you repeat?",
-    "That was delicious, thank you.",
-    "You are so cool.",
     "Can you share the Wi-Fi password?",
     "My connection is very slow today.",
     "Is there a charger I can use?",
@@ -4399,6 +4394,11 @@
     "My stomach hurts, I need water, please.",
     "I’m sick, I don’t want to go out today.",
     "I’m not hungry right now, thanks.",
-    "I’m thirsty, can I have some juice?"
+    "I’m thirsty, can I have some juice?",
+    "I want a table for two, near the window, please.",
+    "Can I see the menu, please? I’m hungry and curious.",
+    "I’ll have the chicken with rice, please. No spicy sauce.",
+    "Do you have vegetarian options? I want something tasty.",
+    "Is tap water okay, or should I get bottled water?"
   ]
 }
