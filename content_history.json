@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-03T18:24:25.629265",
-      "category": "Directions",
-      "num_phrases": 5,
-      "phrases": [
-        "Go straight until you see the big church, please.",
-        "Turn right at the pharmacy, then go one block.",
-        "Turn left after the bridge, and follow the signs.",
-        "Is it near here, or do I need to walk?",
-        "Can you point to the bus stop, please?"
-      ]
-    },
-    {
       "timestamp": "2026-06-03T22:29:06.616833",
       "category": "Slang & Informal",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I have a cough, and it’s getting worse.",
         "I feel fine, but I’m tired today."
       ]
+    },
+    {
+      "timestamp": "2026-08-23T14:23:01.368000",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "I love this jacket, but it’s too hot for today.",
+        "My jeans have a hole, so I need them fixed.",
+        "This color looks weird on me, so I won’t buy it.",
+        "I’m wearing too much perfume; it’s bothering me.",
+        "Can you help me find a hat that fits?"
+      ]
     }
   ],
   "used_phrases": [
-    "Do you have a menu in English?",
-    "I have a food allergy to peanuts.",
-    "Can I get this to go, please?",
-    "Is this dish very spicy?",
-    "I recommend the seafood paella.",
     "Turn up the music, please.",
     "Do you like this band?",
     "She is my favorite singer.",
@@ -4399,6 +4394,11 @@
     "I’m cold, can I close the window, please?",
     "I have a fever, but I’m okay right now.",
     "I have a cough, and it’s getting worse.",
-    "I feel fine, but I’m tired today."
+    "I feel fine, but I’m tired today.",
+    "I love this jacket, but it’s too hot for today.",
+    "My jeans have a hole, so I need them fixed.",
+    "This color looks weird on me, so I won’t buy it.",
+    "I’m wearing too much perfume; it’s bothering me.",
+    "Can you help me find a hat that fits?"
   ]
 }
