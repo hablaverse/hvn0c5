@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-03T22:29:06.616833",
-      "category": "Slang & Informal",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m starving; can we get tacos, please?",
-        "That’s cool, but I’m not paying that price.",
-        "Hold up, I need to check my wallet.",
-        "No way! You got it for free?",
-        "That sounds fake; are you serious?"
-      ]
-    },
-    {
       "timestamp": "2026-06-04T11:16:17.234247",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I’m wearing too much perfume; it’s bothering me.",
         "Can you help me find a hat that fits?"
       ]
+    },
+    {
+      "timestamp": "2026-08-23T20:21:46.272798",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m so happy you came with me today!",
+        "I’m nervous before my interview, so please be kind.",
+        "I feel sad because my team lost today.",
+        "I’m angry about the late bus again.",
+        "I’m worried you forgot my message."
+      ]
     }
   ],
   "used_phrases": [
-    "Turn up the music, please.",
-    "Do you like this band?",
-    "She is my favorite singer.",
-    "I want two tickets for tonight.",
-    "Is there a live show nearby?",
     "Can I have the bill, please?",
     "I lost my passport today.",
     "I need a SIM card, please.",
@@ -4399,6 +4394,11 @@
     "My jeans have a hole, so I need them fixed.",
     "This color looks weird on me, so I won’t buy it.",
     "I’m wearing too much perfume; it’s bothering me.",
-    "Can you help me find a hat that fits?"
+    "Can you help me find a hat that fits?",
+    "I’m so happy you came with me today!",
+    "I’m nervous before my interview, so please be kind.",
+    "I feel sad because my team lost today.",
+    "I’m angry about the late bus again.",
+    "I’m worried you forgot my message."
   ]
 }
