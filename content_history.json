@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-04T11:16:17.234247",
-      "category": "Daily Greetings",
-      "num_phrases": 5,
-      "phrases": [
-        "Good morning! Did you sleep well last night?",
-        "Hi! How’s it going today, friend?",
-        "Hey, what’s up? I’m in a great mood!",
-        "Good evening! Did you eat already?",
-        "Cheers! Today is better than yesterday, right?"
-      ]
-    },
-    {
       "timestamp": "2026-06-04T16:55:44.635717",
       "category": "Slang & Informal",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I’m angry about the late bus again.",
         "I’m worried you forgot my message."
       ]
+    },
+    {
+      "timestamp": "2026-08-24T08:47:16.727259",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel stressed when there’s too much noise.",
+        "I’m relaxed now, because the day is finally done.",
+        "I’m scared of spiders, even small ones.",
+        "I’m jealous when you get all the attention.",
+        "I feel proud when I help someone."
+      ]
     }
   ],
   "used_phrases": [
-    "Can I have the bill, please?",
-    "I lost my passport today.",
-    "I need a SIM card, please.",
-    "My phone battery is almost dead.",
-    "Is there a pharmacy nearby?",
     "This is my family from home.",
     "My sister lives in Madrid.",
     "We are a loud and happy family.",
@@ -4399,6 +4394,11 @@
     "I’m nervous before my interview, so please be kind.",
     "I feel sad because my team lost today.",
     "I’m angry about the late bus again.",
-    "I’m worried you forgot my message."
+    "I’m worried you forgot my message.",
+    "I feel stressed when there’s too much noise.",
+    "I’m relaxed now, because the day is finally done.",
+    "I’m scared of spiders, even small ones.",
+    "I’m jealous when you get all the attention.",
+    "I feel proud when I help someone."
   ]
 }
