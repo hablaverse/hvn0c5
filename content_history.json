@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-04T16:55:44.635717",
-      "category": "Slang & Informal",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m so hungry; let’s grab something quick after class.",
-        "That’s awesome, bro! You speak Spanish way better than me.",
-        "Don’t worry, we’ll figure it out together, for real.",
-        "I’m broke today, so I’ll just look and walk.",
-        "That restaurant was crazy good, I’m going back tomorrow."
-      ]
-    },
-    {
       "timestamp": "2026-06-04T21:42:35.375794",
       "category": "Work & Business",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I’m jealous when you get all the attention.",
         "I feel proud when I help someone."
       ]
+    },
+    {
+      "timestamp": "2026-08-24T14:41:24.422428",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "Stop here for a second, then walk to the corner.",
+        "Take the second street on the right.",
+        "Go past the park, and you will see the cinema.",
+        "Don’t turn right here; keep going straight.",
+        "The bathroom is inside, not outside."
+      ]
     }
   ],
   "used_phrases": [
-    "This is my family from home.",
-    "My sister lives in Madrid.",
-    "We are a loud and happy family.",
-    "Call your parents, they will worry.",
-    "I miss my dad every day.",
     "Call the police, please.",
     "I need an ambulance right now.",
     "I am choking, help please!",
@@ -4399,6 +4394,11 @@
     "I’m relaxed now, because the day is finally done.",
     "I’m scared of spiders, even small ones.",
     "I’m jealous when you get all the attention.",
-    "I feel proud when I help someone."
+    "I feel proud when I help someone.",
+    "Stop here for a second, then walk to the corner.",
+    "Take the second street on the right.",
+    "Go past the park, and you will see the cinema.",
+    "Don’t turn right here; keep going straight.",
+    "The bathroom is inside, not outside."
   ]
 }
