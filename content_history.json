@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-04T21:42:35.375794",
-      "category": "Work & Business",
-      "num_phrases": 5,
-      "phrases": [
-        "I need this quote today, please. I’m ready to sign.",
-        "Can you send the invoice to my email, right now?",
-        "I’ll call you after the meeting. Don’t disappear, okay?",
-        "Your presentation was amazing. I want those results, too.",
-        "Let’s schedule a quick call. I’m free in ten minutes."
-      ]
-    },
-    {
       "timestamp": "2026-06-05T11:30:01.430799",
       "category": "Common Phrases",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Don’t turn right here; keep going straight.",
         "The bathroom is inside, not outside."
       ]
+    },
+    {
+      "timestamp": "2026-08-24T20:30:05.246714",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you pass me the keys, please?",
+        "The stove is off, so it’s safe now.",
+        "Where is the laundry basket?",
+        "Don’t close that door, it sticks.",
+        "The Wi-Fi is weak in my room."
+      ]
     }
   ],
   "used_phrases": [
-    "Call the police, please.",
-    "I need an ambulance right now.",
-    "I am choking, help please!",
-    "I was robbed at the market.",
-    "My leg is broken, I need help.",
     "How do I get to the train station?",
     "Go straight until the church.",
     "It's around the corner.",
@@ -4399,6 +4394,11 @@
     "Take the second street on the right.",
     "Go past the park, and you will see the cinema.",
     "Don’t turn right here; keep going straight.",
-    "The bathroom is inside, not outside."
+    "The bathroom is inside, not outside.",
+    "Can you pass me the keys, please?",
+    "The stove is off, so it’s safe now.",
+    "Where is the laundry basket?",
+    "Don’t close that door, it sticks.",
+    "The Wi-Fi is weak in my room."
   ]
 }
