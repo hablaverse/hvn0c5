@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-05T16:31:05.855538",
-      "category": "Daily Greetings",
-      "num_phrases": 5,
-      "phrases": [
-        "Good morning! I’m ready for today, are you?",
-        "Hi, my friend! How are you today, really?",
-        "Hello! Tell me, how’s your day going so far?",
-        "Good afternoon! I hope your day is going well.",
-        "Hey! What did you do today? Give me the highlights."
-      ]
-    },
-    {
       "timestamp": "2026-06-05T21:27:23.637436",
       "category": "Hobbies & Activities",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "My dad calls me every night, and I love it.",
         "Please don’t fight with your partner in front of kids."
       ]
+    },
+    {
+      "timestamp": "2026-08-25T14:44:41.997729",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel happy when you text me first.",
+        "I’m sad because the movie ended too fast.",
+        "I’m nervous before meeting new people.",
+        "I’m embarrassed when I drop my phone.",
+        "I feel calm when I walk without music."
+      ]
     }
   ],
   "used_phrases": [
-    "This is my cousin Ana.",
-    "My grandparents live next to me.",
-    "I am meeting my parents tonight.",
-    "My brother just had a baby.",
-    "She is my sister and my best friend.",
     "Do you accept credit cards here?",
     "Where is the fitting room, please?",
     "I want one kilogram of apples.",
@@ -4399,6 +4394,11 @@
     "Can we meet for coffee with my sister?",
     "My brother is the funniest person in my family.",
     "My dad calls me every night, and I love it.",
-    "Please don’t fight with your partner in front of kids."
+    "Please don’t fight with your partner in front of kids.",
+    "I feel happy when you text me first.",
+    "I’m sad because the movie ended too fast.",
+    "I’m nervous before meeting new people.",
+    "I’m embarrassed when I drop my phone.",
+    "I feel calm when I walk without music."
   ]
 }
