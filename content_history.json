@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-05T21:27:23.637436",
-      "category": "Hobbies & Activities",
-      "num_phrases": 5,
-      "phrases": [
-        "I love hiking on weekends; it clears my mind fast.",
-        "I’m learning guitar, and my favorite song is easy.",
-        "I cook tacos at home because it feels like fun therapy.",
-        "I go to the gym, but I only love the warm-up.",
-        "I paint small pictures, and strangers always ask about them."
-      ]
-    },
-    {
       "timestamp": "2026-06-06T10:04:38.042379",
       "category": "Common Phrases",
       "num_phrases": 5,
@@ -2397,13 +2385,20 @@
         "I’m embarrassed when I drop my phone.",
         "I feel calm when I walk without music."
       ]
+    },
+    {
+      "timestamp": "2026-08-25T20:28:18.420347",
+      "category": "Education & Learning",
+      "num_phrases": 4,
+      "phrases": [
+        "I understand, but I need to practice.",
+        "Is it formal or casual?",
+        "I’m going to study for twenty minutes.",
+        "Can you correct my Spanish?"
+      ]
     }
   ],
   "used_phrases": [
-    "Do you accept credit cards here?",
-    "Where is the fitting room, please?",
-    "I want one kilogram of apples.",
-    "Is this on sale today?",
     "Can I pay with my phone?",
     "Can I pay with cash?",
     "Let's split the bill evenly.",
@@ -4399,6 +4394,10 @@
     "I’m sad because the movie ended too fast.",
     "I’m nervous before meeting new people.",
     "I’m embarrassed when I drop my phone.",
-    "I feel calm when I walk without music."
+    "I feel calm when I walk without music.",
+    "I understand, but I need to practice.",
+    "Is it formal or casual?",
+    "I’m going to study for twenty minutes.",
+    "Can you correct my Spanish?"
   ]
 }
