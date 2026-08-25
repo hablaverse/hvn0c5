@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-05T11:30:01.430799",
-      "category": "Common Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "Do you speak English, please, or a little?",
-        "I’m lost. Is there a bus to the center?",
-        "Can I pay by card? I don’t have cash.",
-        "I like this a lot. Do you have it in small?",
-        "What’s your name? I want to say it correctly."
-      ]
-    },
-    {
       "timestamp": "2026-06-05T16:31:05.855538",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Don’t close that door, it sticks.",
         "The Wi-Fi is weak in my room."
       ]
+    },
+    {
+      "timestamp": "2026-08-25T08:41:57.346105",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "I love spending time with your mom and dad.",
+        "Can we meet for coffee with my sister?",
+        "My brother is the funniest person in my family.",
+        "My dad calls me every night, and I love it.",
+        "Please don’t fight with your partner in front of kids."
+      ]
     }
   ],
   "used_phrases": [
-    "How do I get to the train station?",
-    "Go straight until the church.",
-    "It's around the corner.",
-    "Cross the bridge and you'll see it.",
-    "Follow the signs to the beach.",
     "This is my cousin Ana.",
     "My grandparents live next to me.",
     "I am meeting my parents tonight.",
@@ -4399,6 +4394,11 @@
     "The stove is off, so it’s safe now.",
     "Where is the laundry basket?",
     "Don’t close that door, it sticks.",
-    "The Wi-Fi is weak in my room."
+    "The Wi-Fi is weak in my room.",
+    "I love spending time with your mom and dad.",
+    "Can we meet for coffee with my sister?",
+    "My brother is the funniest person in my family.",
+    "My dad calls me every night, and I love it.",
+    "Please don’t fight with your partner in front of kids."
   ]
 }
