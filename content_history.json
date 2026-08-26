@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-06T10:04:38.042379",
-      "category": "Common Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m hungry. Where is the best food around here?",
-        "What time does it open?",
-        "I’m thirsty. Do you have water?",
-        "What do you recommend?",
-        "Sorry, I’m late. The bus was delayed."
-      ]
-    },
-    {
       "timestamp": "2026-06-06T15:16:30.200324",
       "category": "Food & Dining",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’m going to study for twenty minutes.",
         "Can you correct my Spanish?"
       ]
+    },
+    {
+      "timestamp": "2026-08-26T08:44:05.126658",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "Call 911 now! I think it’s an emergency.",
+        "I’m bleeding a lot. Please help me stop it.",
+        "My chest hurts. I can’t breathe well.",
+        "I swallowed something! Call help, please.",
+        "I’m choking! Somebody help me right now!"
+      ]
     }
   ],
   "used_phrases": [
-    "Can I pay with my phone?",
-    "Can I pay with cash?",
-    "Let's split the bill evenly.",
-    "I need to withdraw cash now.",
-    "Where is the nearest ATM?",
     "I want to open a bank account.",
     "Your dog stole my heart.",
     "Your cat is jealous of my kisses.",
@@ -4398,6 +4393,11 @@
     "I understand, but I need to practice.",
     "Is it formal or casual?",
     "I’m going to study for twenty minutes.",
-    "Can you correct my Spanish?"
+    "Can you correct my Spanish?",
+    "Call 911 now! I think it’s an emergency.",
+    "I’m bleeding a lot. Please help me stop it.",
+    "My chest hurts. I can’t breathe well.",
+    "I swallowed something! Call help, please.",
+    "I’m choking! Somebody help me right now!"
   ]
 }
