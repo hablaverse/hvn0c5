@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-07T10:30:42.012573",
-      "category": "Common Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "Excuse me, where is the nearest bus stop?",
-        "How much is this? I want a quick price.",
-        "What does this mean? I want to understand signs.",
-        "I’m looking for the bathroom. Where is it?",
-        "Thank you! You’re super helpful."
-      ]
-    },
-    {
       "timestamp": "2026-06-07T15:24:50.881092",
       "category": "Romantic Phrases",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Can we pay separately? I’ll cover my part.",
         "I’ll have water, not soda, please."
       ]
+    },
+    {
+      "timestamp": "2026-08-28T19:55:58.609298",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "That’s awesome, man, Spanish is so fun!",
+        "No way! You speak Spanish that well?",
+        "I’m down to chat in Spanish right now.",
+        "Hold on, I need to understand that again.",
+        "I totally forgot. Where did we meet again?"
+      ]
     }
   ],
   "used_phrases": [
-    "I need a receipt, please.",
-    "That parrot repeats my secrets loudly.",
-    "I found a lost puppy in the park.",
-    "The horse loves carrots and gentle pats.",
-    "My neighbor has a noisy rooster at dawn.",
     "These butterflies remind me of childhood summers.",
     "I'm allergic to cats, sadly.",
     "I love your outfit, you look amazing!",
@@ -4398,6 +4393,11 @@
     "Is there anything without nuts? I have a nut allergy.",
     "No spice for me, please. I want it mild.",
     "Can we pay separately? I’ll cover my part.",
-    "I’ll have water, not soda, please."
+    "I’ll have water, not soda, please.",
+    "That’s awesome, man, Spanish is so fun!",
+    "No way! You speak Spanish that well?",
+    "I’m down to chat in Spanish right now.",
+    "Hold on, I need to understand that again.",
+    "I totally forgot. Where did we meet again?"
   ]
 }
