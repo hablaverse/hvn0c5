@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-07T15:24:50.881092",
-      "category": "Romantic Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "I like you, but I’m shy to say it.",
-        "You look amazing, and it makes me smile.",
-        "I can’t stop thinking about you tonight.",
-        "Let’s meet after work; I really want to see you.",
-        "Don’t worry, I’ll walk you home safely."
-      ]
-    },
-    {
       "timestamp": "2026-06-07T21:13:50.027566",
       "category": "Romantic Phrases",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Hold on, I need to understand that again.",
         "I totally forgot. Where did we meet again?"
       ]
+    },
+    {
+      "timestamp": "2026-08-29T02:44:27.767901",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "Can I have the check, please? I’m ready to go.",
+        "This soup is perfect. Can I get another bowl?",
+        "No thanks, I’m allergic to shellfish, not just fish.",
+        "What’s the house specialty? I want to try it.",
+        "Is this spicy? I don’t want it too hot."
+      ]
     }
   ],
   "used_phrases": [
-    "These butterflies remind me of childhood summers.",
-    "I'm allergic to cats, sadly.",
-    "I love your outfit, you look amazing!",
-    "I don't understand, please speak slowly.",
-    "Can you take a picture of us?",
     "I need coffee before I speak Spanish.",
     "No way, that's incredible!",
     "I'm starving, let's grab some tacos!",
@@ -4398,6 +4393,11 @@
     "No way! You speak Spanish that well?",
     "I’m down to chat in Spanish right now.",
     "Hold on, I need to understand that again.",
-    "I totally forgot. Where did we meet again?"
+    "I totally forgot. Where did we meet again?",
+    "Can I have the check, please? I’m ready to go.",
+    "This soup is perfect. Can I get another bowl?",
+    "No thanks, I’m allergic to shellfish, not just fish.",
+    "What’s the house specialty? I want to try it.",
+    "Is this spicy? I don’t want it too hot."
   ]
 }
