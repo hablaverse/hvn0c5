@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-07T21:13:50.027566",
-      "category": "Romantic Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "You make my day feel calm and safe.",
-        "I love your smile; it’s my favorite thing.",
-        "Call me when you’re free, even for five minutes.",
-        "I miss you, and I don’t know why so much.",
-        "You look cute tonight; I want to hug you."
-      ]
-    },
-    {
       "timestamp": "2026-06-08T12:29:11.005090",
       "category": "Family & Relationships",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "What’s the house specialty? I want to try it.",
         "Is this spicy? I don’t want it too hot."
       ]
+    },
+    {
+      "timestamp": "2026-08-29T13:39:17.295420",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you give me a hug, please?",
+        "I love you, but I need space right now.",
+        "Give me your phone password, not your location.",
+        "Where is your mom today, is she home?",
+        "My sister is always late, but she means well."
+      ]
     }
   ],
   "used_phrases": [
-    "I need coffee before I speak Spanish.",
-    "No way, that's incredible!",
-    "I'm starving, let's grab some tacos!",
-    "Chill out, I'm just joking.",
-    "You've got great style, seriously.",
     "I'm broke, let's do something cheap.",
     "Call an ambulance now, please.",
     "There is a fire, get out now!",
@@ -4398,6 +4393,11 @@
     "This soup is perfect. Can I get another bowl?",
     "No thanks, I’m allergic to shellfish, not just fish.",
     "What’s the house specialty? I want to try it.",
-    "Is this spicy? I don’t want it too hot."
+    "Is this spicy? I don’t want it too hot.",
+    "Can you give me a hug, please?",
+    "I love you, but I need space right now.",
+    "Give me your phone password, not your location.",
+    "Where is your mom today, is she home?",
+    "My sister is always late, but she means well."
   ]
 }
