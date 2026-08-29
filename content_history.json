@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-08T12:29:11.005090",
-      "category": "Family & Relationships",
-      "num_phrases": 5,
-      "phrases": [
-        "My dad cracks jokes, and everyone laughs.",
-        "I’m close with my sister, and we tell everything.",
-        "We argue a little, but we always make up quickly.",
-        "Please don’t borrow my charger without asking.",
-        "I’m not mad; I just need quiet for ten minutes."
-      ]
-    },
-    {
       "timestamp": "2026-06-08T17:23:35.579542",
       "category": "Hobbies & Activities",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Where is your mom today, is she home?",
         "My sister is always late, but she means well."
       ]
+    },
+    {
+      "timestamp": "2026-08-29T17:31:37.456290",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "My mom taught me how to cook on Sundays.",
+        "My dad always says, “Call me when you’re free.”",
+        "I text my brother first, even if he teases me.",
+        "My sister and I share snacks like it’s a tradition.",
+        "I’m close to my cousins; we all laugh together."
+      ]
     }
   ],
   "used_phrases": [
-    "I'm broke, let's do something cheap.",
-    "Call an ambulance now, please.",
-    "There is a fire, get out now!",
-    "My child is missing, please help me!",
-    "I fell and I cannot move.",
     "I am allergic to peanuts, I need help.",
     "I have a meeting with the client at three.",
     "Can you send the report by email, please?",
@@ -4398,6 +4393,11 @@
     "I love you, but I need space right now.",
     "Give me your phone password, not your location.",
     "Where is your mom today, is she home?",
-    "My sister is always late, but she means well."
+    "My sister is always late, but she means well.",
+    "My mom taught me how to cook on Sundays.",
+    "My dad always says, “Call me when you’re free.”",
+    "I text my brother first, even if he teases me.",
+    "My sister and I share snacks like it’s a tradition.",
+    "I’m close to my cousins; we all laugh together."
   ]
 }
