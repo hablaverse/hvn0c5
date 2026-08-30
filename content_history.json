@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-09T21:48:50.032733",
-      "category": "Health & Body",
-      "num_phrases": 5,
-      "phrases": [
-        "I have a stomachache, and I can’t stop going.",
-        "I think I’m getting a cold, my throat feels bad.",
-        "My back hurts, so don’t ask me to lift that.",
-        "I need an ice pack for my ankle, please.",
-        "I’m okay, but I’m dizzy, so I’ll sit down."
-      ]
-    },
-    {
       "timestamp": "2026-06-10T11:39:50.074092",
       "category": "Fashion & Appearance",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "It might snow later, so bring a jacket.",
         "There’s a storm coming, so stay inside."
       ]
+    },
+    {
+      "timestamp": "2026-08-30T22:26:22.125241",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "Turn left at the corner, then go straight.",
+        "The subway is near here, so walk two minutes.",
+        "Go past the park, and you’ll see the store.",
+        "Cross the street, then turn right at the light.",
+        "Where is the train station? Please tell me."
+      ]
     }
   ],
   "used_phrases": [
-    "The post office is next to the green pharmacy.",
-    "This dish is my favorite, I order it every time.",
-    "No puedo comer mariscos, soy alérgico.",
-    "Do you have any vegetarian options today?",
-    "The flavors are amazing in this small bite.",
     "Check, please, we are ready to pay.",
     "Is breakfast included with my room?",
     "Can you call me a taxi?",
@@ -4398,6 +4393,11 @@
     "It’s windy outside, so my hat keeps flying.",
     "I hate when it’s cold; I want a warm coffee.",
     "It might snow later, so bring a jacket.",
-    "There’s a storm coming, so stay inside."
+    "There’s a storm coming, so stay inside.",
+    "Turn left at the corner, then go straight.",
+    "The subway is near here, so walk two minutes.",
+    "Go past the park, and you’ll see the store.",
+    "Cross the street, then turn right at the light.",
+    "Where is the train station? Please tell me."
   ]
 }
