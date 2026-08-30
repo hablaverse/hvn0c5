@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-09T16:32:36.124752",
-      "category": "Sports & Fitness",
-      "num_phrases": 5,
-      "phrases": [
-        "I need a good workout today, like right now.",
-        "I’m sore, so I’m going to stretch gently.",
-        "I can’t breathe, so I need water.",
-        "Can you show me the correct form for squats?",
-        "I warmed up, now it’s time to go hard."
-      ]
-    },
-    {
       "timestamp": "2026-06-09T21:48:50.032733",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Excuse me! Where is the bathroom?",
         "Nice to meet you! What do you like to do?"
       ]
+    },
+    {
+      "timestamp": "2026-08-30T17:57:05.085473",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "It’s raining, so I need an umbrella today.",
+        "It’s windy outside, so my hat keeps flying.",
+        "I hate when it’s cold; I want a warm coffee.",
+        "It might snow later, so bring a jacket.",
+        "There’s a storm coming, so stay inside."
+      ]
     }
   ],
   "used_phrases": [
-    "Can I withdraw cash here?",
-    "Can you show me the way to the bus stop?",
-    "Is it far on foot or should I take a taxi?",
-    "Turn left at the bakery, you can't miss it.",
-    "Walk straight two blocks and then turn right.",
     "The post office is next to the green pharmacy.",
     "This dish is my favorite, I order it every time.",
     "No puedo comer mariscos, soy alérgico.",
@@ -4398,6 +4393,11 @@
     "Good evening! Let’s relax for a bit.",
     "Take care! Text me when you can.",
     "Excuse me! Where is the bathroom?",
-    "Nice to meet you! What do you like to do?"
+    "Nice to meet you! What do you like to do?",
+    "It’s raining, so I need an umbrella today.",
+    "It’s windy outside, so my hat keeps flying.",
+    "I hate when it’s cold; I want a warm coffee.",
+    "It might snow later, so bring a jacket.",
+    "There’s a storm coming, so stay inside."
   ]
 }
