@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-09T11:16:02.960964",
-      "category": "Shopping",
-      "num_phrases": 5,
-      "phrases": [
-        "Is there a sale today, like a special discount?",
-        "Can I try it on right now, please?",
-        "Where is the fitting room? I don’t see it.",
-        "I’ll take it. How much is it total?",
-        "Can I get a receipt, please? For my records."
-      ]
-    },
-    {
       "timestamp": "2026-06-09T16:32:36.124752",
       "category": "Sports & Fitness",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Can you turn it up? This is my jam!",
         "I bought tickets, and now I’m super excited!"
       ]
+    },
+    {
+      "timestamp": "2026-08-30T13:35:48.805392",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Hey there! Are you ready for today?",
+        "Good evening! Let’s relax for a bit.",
+        "Take care! Text me when you can.",
+        "Excuse me! Where is the bathroom?",
+        "Nice to meet you! What do you like to do?"
+      ]
     }
   ],
   "used_phrases": [
-    "Can we reschedule the call to next week?",
-    "Can I split the bill?",
-    "Keep the change.",
-    "I paid with my card.",
-    "Are there fees for this?",
     "Can I withdraw cash here?",
     "Can you show me the way to the bus stop?",
     "Is it far on foot or should I take a taxi?",
@@ -4398,6 +4393,11 @@
     "This song makes me want to dance right now.",
     "The singer’s voice is so strong and clear.",
     "Can you turn it up? This is my jam!",
-    "I bought tickets, and now I’m super excited!"
+    "I bought tickets, and now I’m super excited!",
+    "Hey there! Are you ready for today?",
+    "Good evening! Let’s relax for a bit.",
+    "Take care! Text me when you can.",
+    "Excuse me! Where is the bathroom?",
+    "Nice to meet you! What do you like to do?"
   ]
 }
