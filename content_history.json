@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-10T17:00:15.155680",
-      "category": "Education & Learning",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m going to practice today, even for five minutes.",
-        "I need help. Where is the grammar explanation?",
-        "Can we do a short conversation practice right now?",
-        "What does this phrase mean in real life?",
-        "I want to learn useful phrases, not rules only."
-      ]
-    },
-    {
       "timestamp": "2026-06-10T22:03:38.577083",
       "category": "Emergency Situations",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "This color is flattering on me, I swear!",
         "Your hair looks so soft and shiny; teach me!"
       ]
+    },
+    {
+      "timestamp": "2026-08-31T23:39:20.663669",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good morning! Do you have coffee today?",
+        "Good afternoon! How’s your day going?",
+        "Hi! What’s up today?",
+        "Hey! Did you eat already?",
+        "Thanks! You’re the best today."
+      ]
     }
   ],
   "used_phrases": [
-    "I'm embarrassed, not pregnant.",
-    "Can you speak slowly, please?",
-    "I don't understand that word.",
-    "Do you accept cash or card?",
-    "I want to practice my Spanish with you.",
     "Come in, the apartment is cozier with you here.",
     "Can I make you coffee while we chat?",
     "The couch is perfect for two and a movie.",
@@ -4398,6 +4393,11 @@
     "Your shoes are amazing; where did you get them?",
     "I need a new outfit for tonight; any ideas?",
     "This color is flattering on me, I swear!",
-    "Your hair looks so soft and shiny; teach me!"
+    "Your hair looks so soft and shiny; teach me!",
+    "Good morning! Do you have coffee today?",
+    "Good afternoon! How’s your day going?",
+    "Hi! What’s up today?",
+    "Hey! Did you eat already?",
+    "Thanks! You’re the best today."
   ]
 }
