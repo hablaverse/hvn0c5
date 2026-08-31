@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-10T11:39:50.074092",
-      "category": "Fashion & Appearance",
-      "num_phrases": 5,
-      "phrases": [
-        "Your shirt looks amazing, where did you buy it?",
-        "I love this color, it matches my shoes perfectly.",
-        "Where can I find a good jacket for fall?",
-        "The fabric feels soft, and it looks super stylish.",
-        "I need a smaller size, this one feels too big."
-      ]
-    },
-    {
       "timestamp": "2026-06-10T17:00:15.155680",
       "category": "Education & Learning",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Cross the street, then turn right at the light.",
         "Where is the train station? Please tell me."
       ]
+    },
+    {
+      "timestamp": "2026-08-31T15:53:15.654149",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "This jacket fits me perfectly, and it looks so cool!",
+        "Your shoes are amazing; where did you get them?",
+        "I need a new outfit for tonight; any ideas?",
+        "This color is flattering on me, I swear!",
+        "Your hair looks so soft and shiny; teach me!"
+      ]
     }
   ],
   "used_phrases": [
-    "Check, please, we are ready to pay.",
-    "Is breakfast included with my room?",
-    "Can you call me a taxi?",
-    "My luggage did not arrive.",
-    "How much is one night?",
     "I'm embarrassed, not pregnant.",
     "Can you speak slowly, please?",
     "I don't understand that word.",
@@ -4398,6 +4393,11 @@
     "The subway is near here, so walk two minutes.",
     "Go past the park, and you’ll see the store.",
     "Cross the street, then turn right at the light.",
-    "Where is the train station? Please tell me."
+    "Where is the train station? Please tell me.",
+    "This jacket fits me perfectly, and it looks so cool!",
+    "Your shoes are amazing; where did you get them?",
+    "I need a new outfit for tonight; any ideas?",
+    "This color is flattering on me, I swear!",
+    "Your hair looks so soft and shiny; teach me!"
   ]
 }
