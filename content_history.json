@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-11T12:10:51.704957",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "The lights are off, can you turn them on?",
-        "My Wi-Fi is slow, can you restart the router?",
-        "Is there a kitchen towel, or should I grab one?",
-        "Don’t slam the door, it scares my cat!",
-        "The bathroom mirror is foggy, how do I clean it?"
-      ]
-    },
-    {
       "timestamp": "2026-06-11T17:37:50.609776",
       "category": "Common Phrases",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Do you have free water in the dining area?",
         "My phone is at 2%, and I need charging."
       ]
+    },
+    {
+      "timestamp": "2026-09-01T22:24:59.540423",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m out of breath; I need water right now.",
+        "I pulled a muscle; can we stop training?",
+        "No excuses—just ten push-ups, right now.",
+        "I’m sore today, but tomorrow I’ll feel better.",
+        "I want to run longer, but I need steady pace."
+      ]
     }
   ],
   "used_phrases": [
-    "He's like a brother to me.",
-    "We are getting married next summer.",
-    "My grandmother tells the best stories.",
-    "I live with my parents now.",
-    "She is dating a really great guy.",
     "I feel a little nervous about today.",
     "I feel so calm and relaxed now.",
     "I'm a little jealous of your success.",
@@ -4398,6 +4393,11 @@
     "Can you write my address in Spanish, please?",
     "I’m looking for a pharmacy near the hotel.",
     "Do you have free water in the dining area?",
-    "My phone is at 2%, and I need charging."
+    "My phone is at 2%, and I need charging.",
+    "I’m out of breath; I need water right now.",
+    "I pulled a muscle; can we stop training?",
+    "No excuses—just ten push-ups, right now.",
+    "I’m sore today, but tomorrow I’ll feel better.",
+    "I want to run longer, but I need steady pace."
   ]
 }
