@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-12T11:44:09.602806",
-      "category": "Directions",
-      "num_phrases": 5,
-      "phrases": [
-        "Go straight for two blocks, then stop.",
-        "Come in, the door is open.",
-        "Please speak slowly, I’m learning Spanish.",
-        "Don’t worry, I understand a little.",
-        "Show me this on your phone, please."
-      ]
-    },
-    {
       "timestamp": "2026-06-12T16:47:04.352094",
       "category": "Technology & Internet",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "This hat makes me look cooler, right?",
         "Do you know where I can buy this dress?"
       ]
+    },
+    {
+      "timestamp": "2026-09-02T12:36:01.224486",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "Is this spicy? I love a little heat.",
+        "Please bring me water, no ice, I hate it.",
+        "Can I have extra cheese? I’m obsessed with it.",
+        "I’ll take the chicken plate, and it better be big.",
+        "I don’t eat seafood, so please no shrimp for me."
+      ]
     }
   ],
   "used_phrases": [
-    "Your eyes are green like summer.",
-    "That lipstick looks perfect in red.",
-    "Your shirt makes your blue eyes pop.",
-    "The sunset turned the sky golden tonight.",
-    "Your laugh is bright like sunshine.",
     "Hi, you brighten my day.",
     "Hello, I missed your smile.",
     "Good afternoon, can I walk with you?",
@@ -4398,6 +4393,11 @@
     "My jeans are comfy, but the waistband feels weird today.",
     "I want a different color; this one feels boring.",
     "This hat makes me look cooler, right?",
-    "Do you know where I can buy this dress?"
+    "Do you know where I can buy this dress?",
+    "Is this spicy? I love a little heat.",
+    "Please bring me water, no ice, I hate it.",
+    "Can I have extra cheese? I’m obsessed with it.",
+    "I’ll take the chicken plate, and it better be big.",
+    "I don’t eat seafood, so please no shrimp for me."
   ]
 }
