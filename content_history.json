@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-12T16:47:04.352094",
-      "category": "Technology & Internet",
-      "num_phrases": 5,
-      "phrases": [
-        "I can’t log in, my password is wrong again.",
-        "My phone is at 2%, so plug it in, please.",
-        "Turn off Bluetooth, it keeps reconnecting to everything.",
-        "Did my message send, or is it stuck?",
-        "I clicked the link, now I need to go back."
-      ]
-    },
-    {
       "timestamp": "2026-06-12T21:44:48.138399",
       "category": "Hobbies & Activities",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’ll take the chicken plate, and it better be big.",
         "I don’t eat seafood, so please no shrimp for me."
       ]
+    },
+    {
+      "timestamp": "2026-09-02T17:43:14.731785",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "How do I get to the nearest subway station?",
+        "Is this the way to the museum? Tell me quickly.",
+        "Is there a bus stop near this street?",
+        "Which train goes to the airport, please?",
+        "How much is it from here to the beach?"
+      ]
     }
   ],
   "used_phrases": [
-    "Hi, you brighten my day.",
-    "Hello, I missed your smile.",
-    "Good afternoon, can I walk with you?",
-    "Hey stranger, where were you?",
-    "Good night, dream about me.",
     "You have the best smile ever.",
     "I really like you a lot.",
     "Do you want to dance with me?",
@@ -4398,6 +4393,11 @@
     "Please bring me water, no ice, I hate it.",
     "Can I have extra cheese? I’m obsessed with it.",
     "I’ll take the chicken plate, and it better be big.",
-    "I don’t eat seafood, so please no shrimp for me."
+    "I don’t eat seafood, so please no shrimp for me.",
+    "How do I get to the nearest subway station?",
+    "Is this the way to the museum? Tell me quickly.",
+    "Is there a bus stop near this street?",
+    "Which train goes to the airport, please?",
+    "How much is it from here to the beach?"
   ]
 }
