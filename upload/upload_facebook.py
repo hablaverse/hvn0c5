@@ -90,6 +90,9 @@ def upload_to_facebook(video_path, description, title="Slapstick Loops"):
     Returns dict with upload status and details.
     """
     
+    website = "https://hablaverse.netlify.app"
+    fb_description = f"{description}\n\n🌐 Learn more at our website: {website}"
+    
     print("\n" + "=" * 60)
     print("📘 FACEBOOK UPLOAD STARTING")
     print("=" * 60)
@@ -175,7 +178,7 @@ def upload_to_facebook(video_path, description, title="Slapstick Loops"):
             'access_token': access_token,
             'upload_phase': 'finish',
             'video_id': video_id,
-            'description': description,
+            'description': fb_description,
             'video_state': 'PUBLISHED'
         }
         res_finish = requests.post(finish_url, data=finish_data, timeout=60)

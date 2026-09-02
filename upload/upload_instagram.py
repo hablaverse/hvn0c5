@@ -6,6 +6,8 @@ With Auto Payload Compression (<12MB) & Smart Container Processing Polling.
 import os, sys, time, json, requests, pathlib, subprocess
 
 def upload_to_instagram(video_path, caption="", is_story=False):
+    website = "https://hablaverse.netlify.app"
+    ig_caption = f"{caption}\n\n🌐 Learn more at our website: {website}" if caption else f"🌐 Learn more at our website: {website}"
     media_type = 'STORIES' if is_story else 'REELS'
     print("\n" + "=" * 60)
     print(f"INSTAGRAM {media_type} UPLOAD (Direct Resumable v21.0 + Auto-Compress)")
@@ -77,7 +79,7 @@ def upload_to_instagram(video_path, caption="", is_story=False):
         c_params = {
             'media_type': 'STORIES' if is_story else 'REELS',
             'upload_type': 'resumable',
-            'caption': caption[:2200] if caption else '',
+            'caption': ig_caption[:2200] if ig_caption else '',
             'access_token': access_token
         }
         if not is_story:
