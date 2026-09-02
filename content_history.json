@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-11T17:37:50.609776",
-      "category": "Common Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m running late, can we meet in ten minutes?",
-        "What’s the Wi-Fi password? Mine doesn’t work.",
-        "I’ll take this one, it looks perfect for me.",
-        "Is there a restroom here, like right now?",
-        "How much is it? I’m on a budget today."
-      ]
-    },
-    {
       "timestamp": "2026-06-12T11:44:09.602806",
       "category": "Directions",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’m sore today, but tomorrow I’ll feel better.",
         "I want to run longer, but I need steady pace."
       ]
+    },
+    {
+      "timestamp": "2026-09-02T05:50:25.217609",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "Is this shirt too tight, or am I imagining it?",
+        "My jeans are comfy, but the waistband feels weird today.",
+        "I want a different color; this one feels boring.",
+        "This hat makes me look cooler, right?",
+        "Do you know where I can buy this dress?"
+      ]
     }
   ],
   "used_phrases": [
-    "I feel a little nervous about today.",
-    "I feel so calm and relaxed now.",
-    "I'm a little jealous of your success.",
-    "I feel lonely tonight.",
-    "I'm excited for our trip tomorrow.",
     "Your eyes are green like summer.",
     "That lipstick looks perfect in red.",
     "Your shirt makes your blue eyes pop.",
@@ -4398,6 +4393,11 @@
     "I pulled a muscle; can we stop training?",
     "No excuses—just ten push-ups, right now.",
     "I’m sore today, but tomorrow I’ll feel better.",
-    "I want to run longer, but I need steady pace."
+    "I want to run longer, but I need steady pace.",
+    "Is this shirt too tight, or am I imagining it?",
+    "My jeans are comfy, but the waistband feels weird today.",
+    "I want a different color; this one feels boring.",
+    "This hat makes me look cooler, right?",
+    "Do you know where I can buy this dress?"
   ]
 }
