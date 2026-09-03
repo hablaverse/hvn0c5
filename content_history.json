@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-13T15:43:45.894590",
-      "category": "Education & Learning",
-      "num_phrases": 5,
-      "phrases": [
-        "Where is the bathroom, please? I’m dying of curiosity.",
-        "How do you say this? Teach me, I love challenges.",
-        "I want to order tacos, not boring food, please.",
-        "I’m looking for a place to study tonight with you.",
-        "Can you help me? I promise I’ll try fast."
-      ]
-    },
-    {
       "timestamp": "2026-06-13T21:16:58.146620",
       "category": "Weather",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "The Wi‑Fi is weak; please bring the router closer.",
         "Don’t slam the door, my ears are right here."
       ]
+    },
+    {
+      "timestamp": "2026-09-03T17:33:28.253153",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "How much is this? Show me the total, please.",
+        "Do you accept contactless payments, please?",
+        "I need to check my bank balance right now.",
+        "I’m watching my budget, no extras today.",
+        "Do you give refunds if I don’t like it?"
+      ]
     }
   ],
   "used_phrases": [
-    "Your text made me smile all day.",
-    "Stop being so cute, it's unfair.",
-    "Are you single or do you have a partner?",
-    "You owe me a kiss for that smile.",
-    "Good morning, did you sleep well?",
     "Hey, how's your day going so far?",
     "Long time no see, you look great!",
     "Nice to meet you, I'm really happy.",
@@ -4398,6 +4393,11 @@
     "Please turn off the lights; they waste so much power.",
     "This shower is cold, can you warm it up?",
     "The Wi‑Fi is weak; please bring the router closer.",
-    "Don’t slam the door, my ears are right here."
+    "Don’t slam the door, my ears are right here.",
+    "How much is this? Show me the total, please.",
+    "Do you accept contactless payments, please?",
+    "I need to check my bank balance right now.",
+    "I’m watching my budget, no extras today.",
+    "Do you give refunds if I don’t like it?"
   ]
 }
