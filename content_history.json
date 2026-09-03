@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-13T10:29:22.297116",
-      "category": "Weather",
-      "num_phrases": 5,
-      "phrases": [
-        "It's raining again, so I brought my umbrella.",
-        "It's windy, and my hat keeps flying away.",
-        "I can't go out, it's too cold for me.",
-        "It's hot, and I want a cold drink now.",
-        "Is it going to rain later today?"
-      ]
-    },
-    {
       "timestamp": "2026-06-13T15:43:45.894590",
       "category": "Education & Learning",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Do you have it in black, or is it only white?",
         "I want it, but I need it gift-ready."
       ]
+    },
+    {
+      "timestamp": "2026-09-03T12:38:29.423801",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "The coffee table is too far, move it closer.",
+        "Please turn off the lights; they waste so much power.",
+        "This shower is cold, can you warm it up?",
+        "The Wi‑Fi is weak; please bring the router closer.",
+        "Don’t slam the door, my ears are right here."
+      ]
     }
   ],
   "used_phrases": [
-    "I need a taxi to the airport.",
-    "I lost my passport.",
-    "Where can I exchange money?",
-    "My bag was stolen.",
-    "You look trouble in the best way.",
     "Your text made me smile all day.",
     "Stop being so cute, it's unfair.",
     "Are you single or do you have a partner?",
@@ -4398,6 +4393,11 @@
     "Can I try it on in the fitting room?",
     "Where is the bathroom, please? I’m in a hurry.",
     "Do you have it in black, or is it only white?",
-    "I want it, but I need it gift-ready."
+    "I want it, but I need it gift-ready.",
+    "The coffee table is too far, move it closer.",
+    "Please turn off the lights; they waste so much power.",
+    "This shower is cold, can you warm it up?",
+    "The Wi‑Fi is weak; please bring the router closer.",
+    "Don’t slam the door, my ears are right here."
   ]
 }
