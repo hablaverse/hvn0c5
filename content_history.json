@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-13T21:16:58.146620",
-      "category": "Weather",
-      "num_phrases": 5,
-      "phrases": [
-        "It's sunny today, so let's go for a walk.",
-        "It's cloudy, so bring a jacket just in case.",
-        "It might rain, so I’ll take an umbrella.",
-        "The wind is strong, and my hair is going crazy.",
-        "It’s freezing, so I’m staying inside today."
-      ]
-    },
-    {
       "timestamp": "2026-06-14T10:49:35.569465",
       "category": "Romantic Phrases",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’m watching my budget, no extras today.",
         "Do you give refunds if I don’t like it?"
       ]
+    },
+    {
+      "timestamp": "2026-09-03T22:20:25.977798",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "Do you have an example sentence for this?",
+        "I want to practice Spanish, not English.",
+        "Is this correct? I want to speak well.",
+        "Where can I learn Spanish online?",
+        "I need this translated into Spanish, please."
+      ]
     }
   ],
   "used_phrases": [
-    "Hey, how's your day going so far?",
-    "Long time no see, you look great!",
-    "Nice to meet you, I'm really happy.",
-    "Good evening, how was your day?",
-    "What's the plan for tonight?",
     "I'm starving, get me the biggest taco.",
     "No worries, I will handle it.",
     "Seriously? Tell me the whole story.",
@@ -4398,6 +4393,11 @@
     "Do you accept contactless payments, please?",
     "I need to check my bank balance right now.",
     "I’m watching my budget, no extras today.",
-    "Do you give refunds if I don’t like it?"
+    "Do you give refunds if I don’t like it?",
+    "Do you have an example sentence for this?",
+    "I want to practice Spanish, not English.",
+    "Is this correct? I want to speak well.",
+    "Where can I learn Spanish online?",
+    "I need this translated into Spanish, please."
   ]
 }
