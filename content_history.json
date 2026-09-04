@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-14T10:49:35.569465",
-      "category": "Romantic Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "You look amazing tonight, and I love your smile.",
-        "Can I kiss you, just for a moment?",
-        "I think about you when I’m not with you.",
-        "I want to hold your hand right now.",
-        "You make me smile, even when I’m stressed."
-      ]
-    },
-    {
       "timestamp": "2026-06-14T15:49:39.673539",
       "category": "Sports & Fitness",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Where can I learn Spanish online?",
         "I need this translated into Spanish, please."
       ]
+    },
+    {
+      "timestamp": "2026-09-04T06:57:15.184234",
+      "category": "Hobbies & Activities",
+      "num_phrases": 5,
+      "phrases": [
+        "I go running every morning, even when it’s raining.",
+        "I paint landscapes, and my friends hang them on the wall.",
+        "I love cooking pasta, and I never burn it anymore.",
+        "I play soccer on weekends, and I’m always cheering.",
+        "I read mystery books, and I stay up late."
+      ]
     }
   ],
   "used_phrases": [
-    "I'm starving, get me the biggest taco.",
-    "No worries, I will handle it.",
-    "Seriously? Tell me the whole story.",
-    "I'm in for that rooftop bar.",
-    "It's raining cats and dogs today.",
     "I'm melting, it's so hot.",
     "The sun is showing off again.",
     "I need an umbrella, not opinions.",
@@ -4398,6 +4393,11 @@
     "I want to practice Spanish, not English.",
     "Is this correct? I want to speak well.",
     "Where can I learn Spanish online?",
-    "I need this translated into Spanish, please."
+    "I need this translated into Spanish, please.",
+    "I go running every morning, even when it’s raining.",
+    "I paint landscapes, and my friends hang them on the wall.",
+    "I love cooking pasta, and I never burn it anymore.",
+    "I play soccer on weekends, and I’m always cheering.",
+    "I read mystery books, and I stay up late."
   ]
 }
