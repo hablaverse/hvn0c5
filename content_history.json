@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-14T15:49:39.673539",
-      "category": "Sports & Fitness",
-      "num_phrases": 5,
-      "phrases": [
-        "I need new sneakers because mine are falling apart.",
-        "My legs feel heavy after the gym class.",
-        "I always stretch first, or I feel sore later.",
-        "This workout is harder than I expected today.",
-        "Can I drink water between sets, please?"
-      ]
-    },
-    {
       "timestamp": "2026-06-14T21:13:41.205950",
       "category": "Music & Entertainment",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I play soccer on weekends, and I’m always cheering.",
         "I read mystery books, and I stay up late."
       ]
+    },
+    {
+      "timestamp": "2026-09-04T12:32:39.142339",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "The concert was amazing, and the crowd was crazy.",
+        "I love this movie, but I need tissues, seriously.",
+        "What song is playing right now in this place?",
+        "This playlist is perfect for cleaning the apartment.",
+        "Can I buy tickets for tomorrow’s show, please?"
+      ]
     }
   ],
   "used_phrases": [
-    "I'm melting, it's so hot.",
-    "The sun is showing off again.",
-    "I need an umbrella, not opinions.",
-    "The weather is playing tricks on us.",
-    "Can I meet your family this weekend?",
     "Call your abuela, she misses your voice.",
     "You are like family to me.",
     "My parents support my big dreams.",
@@ -4398,6 +4393,11 @@
     "I paint landscapes, and my friends hang them on the wall.",
     "I love cooking pasta, and I never burn it anymore.",
     "I play soccer on weekends, and I’m always cheering.",
-    "I read mystery books, and I stay up late."
+    "I read mystery books, and I stay up late.",
+    "The concert was amazing, and the crowd was crazy.",
+    "I love this movie, but I need tissues, seriously.",
+    "What song is playing right now in this place?",
+    "This playlist is perfect for cleaning the apartment.",
+    "Can I buy tickets for tomorrow’s show, please?"
   ]
 }
