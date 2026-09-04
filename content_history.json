@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-14T21:13:41.205950",
-      "category": "Music & Entertainment",
-      "num_phrases": 5,
-      "phrases": [
-        "Do you like this song, or is it just noise?",
-        "I love the singer’s voice, it sounds so real.",
-        "What’s the name of the band in this video?",
-        "Turn it up, this beat is getting me moving!",
-        "I’m obsessed with that movie, I’ve watched it twice."
-      ]
-    },
-    {
       "timestamp": "2026-06-15T13:56:23.653295",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "This playlist is perfect for cleaning the apartment.",
         "Can I buy tickets for tomorrow’s show, please?"
       ]
+    },
+    {
+      "timestamp": "2026-09-04T17:23:54.832670",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m hungry, but I don’t know what to eat.",
+        "I’m thirsty! Can I get a cold drink, please?",
+        "I’m lost, and my phone battery is at zero.",
+        "I don’t speak Spanish yet, so be patient with me.",
+        "Sorry, I’m late. The bus just left without me!"
+      ]
     }
   ],
   "used_phrases": [
-    "Call your abuela, she misses your voice.",
-    "You are like family to me.",
-    "My parents support my big dreams.",
-    "We need to talk about our future.",
-    "I love your outfit today.",
     "Where did you buy those shoes?",
     "That jacket makes you look confident.",
     "I prefer vintage over fast fashion.",
@@ -4398,6 +4393,11 @@
     "I love this movie, but I need tissues, seriously.",
     "What song is playing right now in this place?",
     "This playlist is perfect for cleaning the apartment.",
-    "Can I buy tickets for tomorrow’s show, please?"
+    "Can I buy tickets for tomorrow’s show, please?",
+    "I’m hungry, but I don’t know what to eat.",
+    "I’m thirsty! Can I get a cold drink, please?",
+    "I’m lost, and my phone battery is at zero.",
+    "I don’t speak Spanish yet, so be patient with me.",
+    "Sorry, I’m late. The bus just left without me!"
   ]
 }
