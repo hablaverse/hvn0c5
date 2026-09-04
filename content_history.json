@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-15T13:56:23.653295",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "I need batteries for the remote, not new furniture.",
-        "My smoke alarm is beeping again, and I’m panicking.",
-        "Where do you keep the keys when you’re home?",
-        "I don’t want candles; I want real light today.",
-        "The bed feels lumpy, so I need a new mattress."
-      ]
-    },
-    {
       "timestamp": "2026-06-15T18:27:11.802598",
       "category": "Education & Learning",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I don’t speak Spanish yet, so be patient with me.",
         "Sorry, I’m late. The bus just left without me!"
       ]
+    },
+    {
+      "timestamp": "2026-09-04T22:10:06.743419",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "My Wi-Fi says it’s connected, but nothing loads.",
+        "My password is correct, so why does it reject me?",
+        "I clicked it, and now my screen is frozen!",
+        "The video won't play; it just keeps buffering.",
+        "I turned off Wi-Fi, but my phone still uses it."
+      ]
     }
   ],
   "used_phrases": [
-    "Where did you buy those shoes?",
-    "That jacket makes you look confident.",
-    "I prefer vintage over fast fashion.",
-    "These colors show your real personality.",
-    "I will send the file now.",
     "I finished the report this morning.",
     "Please share the spreadsheet with me.",
     "I disagree, but I respect your idea.",
@@ -4398,6 +4393,11 @@
     "I’m thirsty! Can I get a cold drink, please?",
     "I’m lost, and my phone battery is at zero.",
     "I don’t speak Spanish yet, so be patient with me.",
-    "Sorry, I’m late. The bus just left without me!"
+    "Sorry, I’m late. The bus just left without me!",
+    "My Wi-Fi says it’s connected, but nothing loads.",
+    "My password is correct, so why does it reject me?",
+    "I clicked it, and now my screen is frozen!",
+    "The video won't play; it just keeps buffering.",
+    "I turned off Wi-Fi, but my phone still uses it."
   ]
 }
