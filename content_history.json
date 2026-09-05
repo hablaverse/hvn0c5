@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-15T18:27:11.802598",
-      "category": "Education & Learning",
-      "num_phrases": 5,
-      "phrases": [
-        "Can you repeat that, please? I missed it.",
-        "I know a little Spanish, but I need practice.",
-        "How do I say “thank you” in Spanish?",
-        "I don’t understand. Can we try again?",
-        "Is it “ser” or “estar”? I get confused!"
-      ]
-    },
-    {
       "timestamp": "2026-06-15T22:20:14.355264",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "The video won't play; it just keeps buffering.",
         "I turned off Wi-Fi, but my phone still uses it."
       ]
+    },
+    {
+      "timestamp": "2026-09-05T11:40:52.037643",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "I just bought tickets, and my heart is racing.",
+        "Who is the singer, because his voice is perfect.",
+        "That movie ending was wild and I can't stop thinking.",
+        "The actor looks familiar, like I’ve seen him before.",
+        "I need subtitles, because I miss too many words."
+      ]
     }
   ],
   "used_phrases": [
-    "I finished the report this morning.",
-    "Please share the spreadsheet with me.",
-    "I disagree, but I respect your idea.",
-    "Can you explain that one more time?",
-    "Send me your Wi-Fi password, I'm worth the connection.",
     "Can we video call tonight?",
     "DM me that link, I want to see it.",
     "Like my photo, and I'll like yours back.",
@@ -4398,6 +4393,11 @@
     "My password is correct, so why does it reject me?",
     "I clicked it, and now my screen is frozen!",
     "The video won't play; it just keeps buffering.",
-    "I turned off Wi-Fi, but my phone still uses it."
+    "I turned off Wi-Fi, but my phone still uses it.",
+    "I just bought tickets, and my heart is racing.",
+    "Who is the singer, because his voice is perfect.",
+    "That movie ending was wild and I can't stop thinking.",
+    "The actor looks familiar, like I’ve seen him before.",
+    "I need subtitles, because I miss too many words."
   ]
 }
