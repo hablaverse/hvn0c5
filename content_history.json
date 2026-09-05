@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-15T22:20:14.355264",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "My house is freezing, can I turn on the heat?",
-        "The couch smells weird, did you clean it recently?",
-        "I spilled coffee on the floor, please bring a mop.",
-        "Where is the trash can, I need to throw this away.",
-        "Please turn off the lights; it’s bright in here."
-      ]
-    },
-    {
       "timestamp": "2026-06-16T12:54:08.282762",
       "category": "Romantic Phrases",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "The actor looks familiar, like I’ve seen him before.",
         "I need subtitles, because I miss too many words."
       ]
+    },
+    {
+      "timestamp": "2026-09-05T16:34:42.140841",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the kitchen? I want a quick snack.",
+        "Can I use your microwave? It’s for my dinner.",
+        "The fridge is empty, so I need groceries today.",
+        "Please turn off the lights. The room is too bright.",
+        "How do I use the shower? It’s confusing."
+      ]
     }
   ],
   "used_phrases": [
-    "Can we video call tonight?",
-    "DM me that link, I want to see it.",
-    "Like my photo, and I'll like yours back.",
-    "My phone battery died, rescue me.",
-    "Can I borrow your vacuum for an hour?",
     "The light switch is next to the door.",
     "My keys are on the coffee table.",
     "Could you water the plants today, please?",
@@ -4398,6 +4393,11 @@
     "Who is the singer, because his voice is perfect.",
     "That movie ending was wild and I can't stop thinking.",
     "The actor looks familiar, like I’ve seen him before.",
-    "I need subtitles, because I miss too many words."
+    "I need subtitles, because I miss too many words.",
+    "Where is the kitchen? I want a quick snack.",
+    "Can I use your microwave? It’s for my dinner.",
+    "The fridge is empty, so I need groceries today.",
+    "Please turn off the lights. The room is too bright.",
+    "How do I use the shower? It’s confusing."
   ]
 }
