@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-16T12:54:08.282762",
-      "category": "Romantic Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "You make me smile so fast, it’s unfair.",
-        "I like your vibe, and I want more tonight.",
-        "Don’t worry, I’ll text you after this.",
-        "Hold my hand, I promise I’m not shy.",
-        "Let’s be honest, you look too good today."
-      ]
-    },
-    {
       "timestamp": "2026-06-16T18:28:23.886298",
       "category": "Technology & Internet",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Please turn off the lights. The room is too bright.",
         "How do I use the shower? It’s confusing."
       ]
+    },
+    {
+      "timestamp": "2026-09-05T21:56:51.184372",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "My phone is on airplane mode, and it won't connect.",
+        "This app keeps crashing, so I need another option.",
+        "I forgot my password again, and now I'm locked out.",
+        "My video says loading, but it never finishes.",
+        "I turned on dark mode, and my eyes feel better."
+      ]
     }
   ],
   "used_phrases": [
-    "The light switch is next to the door.",
-    "My keys are on the coffee table.",
-    "Could you water the plants today, please?",
-    "The oven is hot, use an oven mitt.",
-    "Can you explain this problem to me slowly?",
     "I have a question about the homework assignment.",
     "Can I borrow a pencil for the test, please?",
     "I didn't understand the lesson this morning.",
@@ -4398,6 +4393,11 @@
     "Can I use your microwave? It’s for my dinner.",
     "The fridge is empty, so I need groceries today.",
     "Please turn off the lights. The room is too bright.",
-    "How do I use the shower? It’s confusing."
+    "How do I use the shower? It’s confusing.",
+    "My phone is on airplane mode, and it won't connect.",
+    "This app keeps crashing, so I need another option.",
+    "I forgot my password again, and now I'm locked out.",
+    "My video says loading, but it never finishes.",
+    "I turned on dark mode, and my eyes feel better."
   ]
 }
