@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-17T12:17:13.117592",
-      "category": "Food & Dining",
-      "num_phrases": 5,
-      "phrases": [
-        "Is this spicy, or is it mild?",
-        "What do you recommend for a first time?",
-        "I’m allergic to peanuts, just so you know.",
-        "Can I get water, no ice, please?",
-        "How much is this, and is service included?"
-      ]
-    },
-    {
       "timestamp": "2026-06-17T17:01:57.780498",
       "category": "Family & Relationships",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Is it going to storm? I hate loud thunder.",
         "The sun is out. Let’s go for a walk!"
       ]
+    },
+    {
+      "timestamp": "2026-09-06T21:58:34.893239",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m 25 years old, so call me in the evening.",
+        "My bus leaves at 7:30, don’t be late!",
+        "It’s 3 o’clock right now, I’m on my way.",
+        "I have two tickets, so we can enter together.",
+        "Give me 5 minutes, I’ll be ready fast."
+      ]
     }
   ],
   "used_phrases": [
-    "Your eyes are the perfect deep blue I chase.",
-    "I love your warm brown sweater on a cold day.",
-    "Your smile is bright like golden sunlight.",
-    "That black jacket makes you mysterious and hot.",
-    "Do you accept contactless payment?",
     "Can I get a receipt?",
     "I'll transfer the money now.",
     "What's the exchange rate today?",
@@ -4398,6 +4393,11 @@
     "Wow, the weather is hot today. I can’t stand it.",
     "It’s cloudy, so I hope it doesn’t rain.",
     "Is it going to storm? I hate loud thunder.",
-    "The sun is out. Let’s go for a walk!"
+    "The sun is out. Let’s go for a walk!",
+    "I’m 25 years old, so call me in the evening.",
+    "My bus leaves at 7:30, don’t be late!",
+    "It’s 3 o’clock right now, I’m on my way.",
+    "I have two tickets, so we can enter together.",
+    "Give me 5 minutes, I’ll be ready fast."
   ]
 }
