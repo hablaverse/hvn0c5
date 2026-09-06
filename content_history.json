@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-16T22:12:51.976457",
-      "category": "Slang & Informal",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m down to grab tacos after class, let’s go.",
-        "That’s awesome, I love it, no cap.",
-        "Don’t worry, it’s all good, we’re fine.",
-        "This place is packed, it’s crazy right now.",
-        "I’m hungry, I need food, like now."
-      ]
-    },
-    {
       "timestamp": "2026-06-17T12:17:13.117592",
       "category": "Food & Dining",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I got spam messages, so I blocked that number.",
         "Please update your phone, or apps won’t work."
       ]
+    },
+    {
+      "timestamp": "2026-09-06T16:44:33.193943",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "It’s going to rain today, so bring an umbrella, please.",
+        "Wow, the weather is hot today. I can’t stand it.",
+        "It’s cloudy, so I hope it doesn’t rain.",
+        "Is it going to storm? I hate loud thunder.",
+        "The sun is out. Let’s go for a walk!"
+      ]
     }
   ],
   "used_phrases": [
-    "I have an allergy to pollen.",
-    "My stomach hurts after spicy food.",
-    "I feel dizzy right now.",
-    "I need a bandage for this small cut.",
-    "That red dress looks amazing on you tonight.",
     "Your eyes are the perfect deep blue I chase.",
     "I love your warm brown sweater on a cold day.",
     "Your smile is bright like golden sunlight.",
@@ -4398,6 +4393,11 @@
     "The website is down, so I try another link.",
     "Turn on data, because Wi-Fi is weak here.",
     "I got spam messages, so I blocked that number.",
-    "Please update your phone, or apps won’t work."
+    "Please update your phone, or apps won’t work.",
+    "It’s going to rain today, so bring an umbrella, please.",
+    "Wow, the weather is hot today. I can’t stand it.",
+    "It’s cloudy, so I hope it doesn’t rain.",
+    "Is it going to storm? I hate loud thunder.",
+    "The sun is out. Let’s go for a walk!"
   ]
 }
