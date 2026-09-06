@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-16T18:28:23.886298",
-      "category": "Technology & Internet",
-      "num_phrases": 5,
-      "phrases": [
-        "My phone is at ten percent, can we find Wi-Fi?",
-        "The video won’t load, is your internet slow too?",
-        "Please turn on airplane mode, it will help my signal.",
-        "Where is the charging cable, my battery is dying!",
-        "I sent it, but it says message not delivered."
-      ]
-    },
-    {
       "timestamp": "2026-06-16T22:12:51.976457",
       "category": "Slang & Informal",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "My video says loading, but it never finishes.",
         "I turned on dark mode, and my eyes feel better."
       ]
+    },
+    {
+      "timestamp": "2026-09-06T11:59:22.582971",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "I need to change my Wi-Fi password, not the name.",
+        "The website is down, so I try another link.",
+        "Turn on data, because Wi-Fi is weak here.",
+        "I got spam messages, so I blocked that number.",
+        "Please update your phone, or apps won’t work."
+      ]
     }
   ],
   "used_phrases": [
-    "I have a question about the homework assignment.",
-    "Can I borrow a pencil for the test, please?",
-    "I didn't understand the lesson this morning.",
-    "Can we study together after school today?",
-    "I need to see a doctor today.",
     "I have an allergy to pollen.",
     "My stomach hurts after spicy food.",
     "I feel dizzy right now.",
@@ -4398,6 +4393,11 @@
     "This app keeps crashing, so I need another option.",
     "I forgot my password again, and now I'm locked out.",
     "My video says loading, but it never finishes.",
-    "I turned on dark mode, and my eyes feel better."
+    "I turned on dark mode, and my eyes feel better.",
+    "I need to change my Wi-Fi password, not the name.",
+    "The website is down, so I try another link.",
+    "Turn on data, because Wi-Fi is weak here.",
+    "I got spam messages, so I blocked that number.",
+    "Please update your phone, or apps won’t work."
   ]
 }
