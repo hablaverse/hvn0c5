@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-17T17:01:57.780498",
-      "category": "Family & Relationships",
-      "num_phrases": 5,
-      "phrases": [
-        "My mom calls me all the time, and I love it.",
-        "My dad says I can do it, and I believe him.",
-        "My sister always steals my hoodie, and I don’t mind.",
-        "Are we meeting my family today, or later?",
-        "My boyfriend helps me, and it melts my heart."
-      ]
-    },
-    {
       "timestamp": "2026-06-17T22:01:29.846060",
       "category": "Education & Learning",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I have two tickets, so we can enter together.",
         "Give me 5 minutes, I’ll be ready fast."
       ]
+    },
+    {
+      "timestamp": "2026-09-07T14:00:51.399913",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "I want water, not soda.",
+        "How spicy is this? I can handle mild.",
+        "No cheese, please. I really can’t eat it.",
+        "What’s popular here? I want the best dish.",
+        "I’m vegetarian. Do you have veggie options?"
+      ]
     }
   ],
   "used_phrases": [
-    "Can I get a receipt?",
-    "I'll transfer the money now.",
-    "What's the exchange rate today?",
-    "This price already includes tax.",
-    "This jacket is bright red.",
     "Her eyes are deep blue.",
     "My phone case is neon green.",
     "The coffee is dark brown.",
@@ -4398,6 +4393,11 @@
     "My bus leaves at 7:30, don’t be late!",
     "It’s 3 o’clock right now, I’m on my way.",
     "I have two tickets, so we can enter together.",
-    "Give me 5 minutes, I’ll be ready fast."
+    "Give me 5 minutes, I’ll be ready fast.",
+    "I want water, not soda.",
+    "How spicy is this? I can handle mild.",
+    "No cheese, please. I really can’t eat it.",
+    "What’s popular here? I want the best dish.",
+    "I’m vegetarian. Do you have veggie options?"
   ]
 }
