@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-17T22:01:29.846060",
-      "category": "Education & Learning",
-      "num_phrases": 5,
-      "phrases": [
-        "I practice Spanish every day, even five minutes.",
-        "I don’t understand, can you repeat that?",
-        "I learn faster with short videos and subtitles.",
-        "Today I’ll learn three new Spanish words.",
-        "I speak slowly, so you can understand me."
-      ]
-    },
-    {
       "timestamp": "2026-06-18T11:51:31.092412",
       "category": "Emergency Situations",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "What’s popular here? I want the best dish.",
         "I’m vegetarian. Do you have veggie options?"
       ]
+    },
+    {
+      "timestamp": "2026-09-07T18:42:41.717850",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "My stomach hurts after spicy tacos, I need a break.",
+        "I’m allergic to peanuts, so I avoid any snacks.",
+        "I feel dizzy, can we sit down for a minute?",
+        "I have a headache, and light is making it worse.",
+        "I need water, not sweet drinks, please."
+      ]
     }
   ],
   "used_phrases": [
-    "Her eyes are deep blue.",
-    "My phone case is neon green.",
-    "The coffee is dark brown.",
-    "She wears a pale pink scarf.",
-    "Play that song again, please.",
     "Who is singing this song?",
     "This playlist puts me in a good mood.",
     "Do you know who this artist is?",
@@ -4398,6 +4393,11 @@
     "How spicy is this? I can handle mild.",
     "No cheese, please. I really can’t eat it.",
     "What’s popular here? I want the best dish.",
-    "I’m vegetarian. Do you have veggie options?"
+    "I’m vegetarian. Do you have veggie options?",
+    "My stomach hurts after spicy tacos, I need a break.",
+    "I’m allergic to peanuts, so I avoid any snacks.",
+    "I feel dizzy, can we sit down for a minute?",
+    "I have a headache, and light is making it worse.",
+    "I need water, not sweet drinks, please."
   ]
 }
