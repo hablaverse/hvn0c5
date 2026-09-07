@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-18T11:51:31.092412",
-      "category": "Emergency Situations",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m lost, I need to find my way.",
-        "I’m bleeding, please help me right away.",
-        "Is anyone hurt? Please call for help!",
-        "I can’t breathe, I need air!",
-        "Don’t touch me, I might be injured."
-      ]
-    },
-    {
       "timestamp": "2026-06-18T17:07:14.383871",
       "category": "Emotions & Feelings",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I have a headache, and light is making it worse.",
         "I need water, not sweet drinks, please."
       ]
+    },
+    {
+      "timestamp": "2026-09-07T22:32:26.576649",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Hello! How are you doing today, really?",
+        "Hey, what’s up? I’m happy to see you!",
+        "Good evening! Did you have a great day?",
+        "Nice to meet you! Where are you from?",
+        "Thank you! You’re really kind today."
+      ]
     }
   ],
   "used_phrases": [
-    "Who is singing this song?",
-    "This playlist puts me in a good mood.",
-    "Do you know who this artist is?",
-    "Turn the volume down a little.",
-    "It's raining a lot today.",
     "I'm melting in this summer heat.",
     "The sun feels amazing right now.",
     "I forgot my umbrella again.",
@@ -4398,6 +4393,11 @@
     "I’m allergic to peanuts, so I avoid any snacks.",
     "I feel dizzy, can we sit down for a minute?",
     "I have a headache, and light is making it worse.",
-    "I need water, not sweet drinks, please."
+    "I need water, not sweet drinks, please.",
+    "Hello! How are you doing today, really?",
+    "Hey, what’s up? I’m happy to see you!",
+    "Good evening! Did you have a great day?",
+    "Nice to meet you! Where are you from?",
+    "Thank you! You’re really kind today."
   ]
 }
