@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-18T22:10:43.537762",
-      "category": "Romantic Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "I like you a lot, and I wanted to say it.",
-        "Can I steal you for coffee after dinner?",
-        "Let’s cancel plans and stay together tonight.",
-        "I miss you, even when we just said hi.",
-        "Hold my hand, please. I love your touch."
-      ]
-    },
-    {
       "timestamp": "2026-06-19T12:06:50.732073",
       "category": "Directions",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "We need this ready by Friday. Can we do it?",
         "The budget is tight, so we must cut costs."
       ]
+    },
+    {
+      "timestamp": "2026-09-08T17:46:47.796155",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m nervous, but I’ll try anyway.",
+        "I feel proud when I do it by myself.",
+        "I’m excited to start, even if it’s scary.",
+        "I’m scared of heights, so I avoid balconies.",
+        "I’m calm now, so let’s talk."
+      ]
     }
   ],
   "used_phrases": [
-    "My flight was canceled.",
-    "Do you speak English?",
-    "Can I try this on?",
-    "I'll take this, please.",
-    "Can I return this if it does not fit?",
     "Do you have a loyalty card?",
     "I have a test tomorrow.",
     "Can you explain this word?",
@@ -4398,6 +4393,11 @@
     "Thanks for your help. I really appreciate it.",
     "Could you repeat that, please? I missed one part.",
     "We need this ready by Friday. Can we do it?",
-    "The budget is tight, so we must cut costs."
+    "The budget is tight, so we must cut costs.",
+    "I’m nervous, but I’ll try anyway.",
+    "I feel proud when I do it by myself.",
+    "I’m excited to start, even if it’s scary.",
+    "I’m scared of heights, so I avoid balconies.",
+    "I’m calm now, so let’s talk."
   ]
 }
