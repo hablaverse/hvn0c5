@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-18T17:07:14.383871",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I feel nervous before big meetings.",
-        "I’m super happy you texted me first.",
-        "I’m annoyed because my phone keeps buzzing.",
-        "I feel calm when I walk alone at night.",
-        "I’m tired, but I still want to hang out."
-      ]
-    },
-    {
       "timestamp": "2026-06-18T22:10:43.537762",
       "category": "Romantic Phrases",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Nice to meet you! Where are you from?",
         "Thank you! You’re really kind today."
       ]
+    },
+    {
+      "timestamp": "2026-09-08T12:39:52.675133",
+      "category": "Work & Business",
+      "num_phrases": 5,
+      "phrases": [
+        "I can’t access the system right now. What should I do?",
+        "Thanks for your help. I really appreciate it.",
+        "Could you repeat that, please? I missed one part.",
+        "We need this ready by Friday. Can we do it?",
+        "The budget is tight, so we must cut costs."
+      ]
     }
   ],
   "used_phrases": [
-    "I'm melting in this summer heat.",
-    "The sun feels amazing right now.",
-    "I forgot my umbrella again.",
-    "It looks like it will snow.",
-    "Is there a train to Madrid?",
     "My flight was canceled.",
     "Do you speak English?",
     "Can I try this on?",
@@ -4398,6 +4393,11 @@
     "Hey, what’s up? I’m happy to see you!",
     "Good evening! Did you have a great day?",
     "Nice to meet you! Where are you from?",
-    "Thank you! You’re really kind today."
+    "Thank you! You’re really kind today.",
+    "I can’t access the system right now. What should I do?",
+    "Thanks for your help. I really appreciate it.",
+    "Could you repeat that, please? I missed one part.",
+    "We need this ready by Friday. Can we do it?",
+    "The budget is tight, so we must cut costs."
   ]
 }
