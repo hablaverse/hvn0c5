@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-19T16:32:45.763336",
-      "category": "Fashion & Appearance",
-      "num_phrases": 5,
-      "phrases": [
-        "This jacket looks great on me, seriously.",
-        "I need new shoes because my old ones hurt.",
-        "Do you like my shirt color? I chose it myself.",
-        "My hair is messy, so I need a quick fix.",
-        "These sunglasses make me look cooler, instantly."
-      ]
-    },
-    {
       "timestamp": "2026-06-19T21:11:54.322641",
       "category": "Colors & Descriptions",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I feel sad today, but I’ll be okay.",
         "I’m jealous, I want that too!"
       ]
+    },
+    {
+      "timestamp": "2026-09-09T12:46:04.414908",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "My stomach feels upset, and I feel like throwing up.",
+        "I’m not hungry, but I’ll drink some tea.",
+        "I think I’m getting sick, so I’ll rest.",
+        "I have a toothache, and I need a dentist!",
+        "My back hurts, so I’m not standing up yet."
+      ]
     }
   ],
   "used_phrases": [
-    "I need help with pronunciation.",
-    "What's up, friend?",
-    "I'm freaking out, this is amazing!",
-    "You're killing it, seriously.",
-    "No way, I can't believe it.",
     "You're such a legend.",
     "I need a doctor immediately.",
     "My leg is broken.",
@@ -4398,6 +4393,11 @@
     "I’m tired, I need to rest for a bit.",
     "I’m happy you came, it means a lot.",
     "I feel sad today, but I’ll be okay.",
-    "I’m jealous, I want that too!"
+    "I’m jealous, I want that too!",
+    "My stomach feels upset, and I feel like throwing up.",
+    "I’m not hungry, but I’ll drink some tea.",
+    "I think I’m getting sick, so I’ll rest.",
+    "I have a toothache, and I need a dentist!",
+    "My back hurts, so I’m not standing up yet."
   ]
 }
