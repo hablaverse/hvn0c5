@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-19T21:11:54.322641",
-      "category": "Colors & Descriptions",
-      "num_phrases": 5,
-      "phrases": [
-        "I love red, it looks so powerful.",
-        "My phone is blue, and it matches everything.",
-        "Green feels fresh, like new leaves after rain.",
-        "That yellow shirt makes me happy instantly.",
-        "Black is classic, and it never goes out."
-      ]
-    },
-    {
       "timestamp": "2026-06-20T10:33:17.996653",
       "category": "Emotions & Feelings",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I have a toothache, and I need a dentist!",
         "My back hurts, so I’m not standing up yet."
       ]
+    },
+    {
+      "timestamp": "2026-09-09T22:18:28.315003",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m late, so I’ll meet you at seven.",
+        "It’s one o’clock, so we should start now.",
+        "I have two tickets, and I want to share one.",
+        "Give me three minutes, and I’ll be ready.",
+        "Today is the 5th, so bring your calendar!"
+      ]
     }
   ],
   "used_phrases": [
-    "You're such a legend.",
-    "I need a doctor immediately.",
-    "My leg is broken.",
-    "I am choking, help!",
-    "I fainted, I need help.",
     "I am bleeding a lot.",
     "I lost my wallet yesterday.",
     "I am saving for a trip to Spain.",
@@ -4398,6 +4393,11 @@
     "I’m not hungry, but I’ll drink some tea.",
     "I think I’m getting sick, so I’ll rest.",
     "I have a toothache, and I need a dentist!",
-    "My back hurts, so I’m not standing up yet."
+    "My back hurts, so I’m not standing up yet.",
+    "I’m late, so I’ll meet you at seven.",
+    "It’s one o’clock, so we should start now.",
+    "I have two tickets, and I want to share one.",
+    "Give me three minutes, and I’ll be ready.",
+    "Today is the 5th, so bring your calendar!"
   ]
 }
