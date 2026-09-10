@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-20T15:46:10.561842",
-      "category": "Money & Finance",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m broke right now, but I’ll figure it out today.",
-        "I don’t have cash, do you take card?",
-        "That price is too high; I’ll think about it.",
-        "I need a budget, or I’ll spend everything.",
-        "I saved money by cooking at home this week."
-      ]
-    },
-    {
       "timestamp": "2026-06-20T21:19:09.909303",
       "category": "Travel Essentials",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "One coffee, no sugar, please.",
         "What time does the bus leave?"
       ]
+    },
+    {
+      "timestamp": "2026-09-10T17:30:53.263028",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "It’s hot today, so I’m staying inside.",
+        "I hate rain, it ruins my plans.",
+        "The wind is crazy today, my hair is wild!",
+        "There’s fog here, I can’t see far.",
+        "The sky looks clear, maybe we can go out."
+      ]
     }
   ],
   "used_phrases": [
-    "Where is the light switch?",
-    "Turn off the lights, please.",
-    "The door is stuck.",
-    "I live on the third floor.",
-    "Make yourself at home.",
     "Is there a discount today?",
     "Where are the fitting rooms?",
     "Can you wrap this as a gift?",
@@ -4398,6 +4393,11 @@
     "Is there free Wi-Fi in this area?",
     "Can I pay by card, please?",
     "One coffee, no sugar, please.",
-    "What time does the bus leave?"
+    "What time does the bus leave?",
+    "It’s hot today, so I’m staying inside.",
+    "I hate rain, it ruins my plans.",
+    "The wind is crazy today, my hair is wild!",
+    "There’s fog here, I can’t see far.",
+    "The sky looks clear, maybe we can go out."
   ]
 }
