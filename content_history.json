@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-20T10:33:17.996653",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I feel nervous before big meetings, but I can do it.",
-        "I’m so happy you replied to my message.",
-        "I’m tired, so I need a quiet night at home.",
-        "I feel stressed when my phone keeps buzzing nonstop.",
-        "I’m scared of the dark, so I keep a light on."
-      ]
-    },
-    {
       "timestamp": "2026-06-20T15:46:10.561842",
       "category": "Money & Finance",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Give me three minutes, and I’ll be ready.",
         "Today is the 5th, so bring your calendar!"
       ]
+    },
+    {
+      "timestamp": "2026-09-10T12:44:17.902891",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "I need a charger, and I’m desperate.",
+        "Is there free Wi-Fi in this area?",
+        "Can I pay by card, please?",
+        "One coffee, no sugar, please.",
+        "What time does the bus leave?"
+      ]
     }
   ],
   "used_phrases": [
-    "I am bleeding a lot.",
-    "I lost my wallet yesterday.",
-    "I am saving for a trip to Spain.",
-    "My bank blocked my card.",
-    "How much do I owe you?",
     "Where is the light switch?",
     "Turn off the lights, please.",
     "The door is stuck.",
@@ -4398,6 +4393,11 @@
     "It’s one o’clock, so we should start now.",
     "I have two tickets, and I want to share one.",
     "Give me three minutes, and I’ll be ready.",
-    "Today is the 5th, so bring your calendar!"
+    "Today is the 5th, so bring your calendar!",
+    "I need a charger, and I’m desperate.",
+    "Is there free Wi-Fi in this area?",
+    "Can I pay by card, please?",
+    "One coffee, no sugar, please.",
+    "What time does the bus leave?"
   ]
 }
