@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-20T21:19:09.909303",
-      "category": "Travel Essentials",
-      "num_phrases": 5,
-      "phrases": [
-        "Where is the nearest ATM? I need cash now.",
-        "Where is the bus stop for the city center?",
-        "I have a reservation for two people at seven.",
-        "Can I get water without gas, please?",
-        "Is Wi-Fi free here? I need it for maps."
-      ]
-    },
-    {
       "timestamp": "2026-06-21T11:16:38.376945",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "There’s fog here, I can’t see far.",
         "The sky looks clear, maybe we can go out."
       ]
+    },
+    {
+      "timestamp": "2026-09-10T22:17:47.888304",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "I love this song, it gives me energy right now.",
+        "That singer sounds amazing live, no joke.",
+        "This movie is so funny, I laugh the whole time.",
+        "I’m obsessed with the soundtrack, I play it daily.",
+        "The DJ mixed it perfectly, the crowd went wild!"
+      ]
     }
   ],
   "used_phrases": [
-    "Is there a discount today?",
-    "Where are the fitting rooms?",
-    "Can you wrap this as a gift?",
-    "Do you have this in red?",
-    "I only want the small size.",
     "The sink is clogged again.",
     "Can you turn down the music?",
     "I forgot to lock the front door.",
@@ -4398,6 +4393,11 @@
     "I hate rain, it ruins my plans.",
     "The wind is crazy today, my hair is wild!",
     "There’s fog here, I can’t see far.",
-    "The sky looks clear, maybe we can go out."
+    "The sky looks clear, maybe we can go out.",
+    "I love this song, it gives me energy right now.",
+    "That singer sounds amazing live, no joke.",
+    "This movie is so funny, I laugh the whole time.",
+    "I’m obsessed with the soundtrack, I play it daily.",
+    "The DJ mixed it perfectly, the crowd went wild!"
   ]
 }
