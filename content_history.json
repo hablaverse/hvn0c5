@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-21T15:52:03.007209",
-      "category": "Education & Learning",
-      "num_phrases": 5,
-      "phrases": [
-        "Spanish has two ways to say 'you'!",
-        "Can you repeat that slowly, please? My Spanish is new!",
-        "I don’t understand, but I’m trying my best!",
-        "I like it, but it’s a little too spicy for me.",
-        "The bathroom is near the front, not the back."
-      ]
-    },
-    {
       "timestamp": "2026-06-22T13:35:32.550409",
       "category": "Money & Finance",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "There is thunder, so turn off the TV.",
         "Is it going to rain tomorrow? I need plans."
       ]
+    },
+    {
+      "timestamp": "2026-09-11T22:17:34.252212",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m scared of spiders, they freak me out!",
+        "Dogs are awesome, they’re my loyal best friends.",
+        "Birds are loud, but I secretly love their songs.",
+        "I hate snakes, they look way too creepy to me.",
+        "Whales are huge, and I still think they’re sweet."
+      ]
     }
   ],
   "used_phrases": [
-    "Your voice makes me smile every time.",
-    "Dance with me to this song tonight.",
-    "Share your playlist with me, please.",
-    "You have perfect taste in music, seriously.",
-    "Sing for me one more song, please.",
     "I'm so proud of you.",
     "I'm a little sad today.",
     "That surprised me a lot.",
@@ -4398,6 +4393,11 @@
     "It’s really cold, so wear a warm jacket.",
     "The air feels humid, and I’m sweating already.",
     "There is thunder, so turn off the TV.",
-    "Is it going to rain tomorrow? I need plans."
+    "Is it going to rain tomorrow? I need plans.",
+    "I’m scared of spiders, they freak me out!",
+    "Dogs are awesome, they’re my loyal best friends.",
+    "Birds are loud, but I secretly love their songs.",
+    "I hate snakes, they look way too creepy to me.",
+    "Whales are huge, and I still think they’re sweet."
   ]
 }
