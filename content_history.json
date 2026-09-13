@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-22T22:03:09.430102",
-      "category": "Work & Business",
-      "num_phrases": 5,
-      "phrases": [
-        "Can we move this meeting to tomorrow, please?",
-        "I will send the invoice today, not later.",
-        "I’m not sure yet, but I’ll confirm by noon.",
-        "We need a budget, not just ideas.",
-        "Let’s keep it simple and decide today."
-      ]
-    },
-    {
       "timestamp": "2026-06-23T11:16:56.999615",
       "category": "Travel Essentials",
       "num_phrases": 3,
@@ -2396,14 +2384,21 @@
         "I can’t log in, my password doesn’t work.",
         "The website is loading, please wait a second."
       ]
+    },
+    {
+      "timestamp": "2026-09-13T17:18:33.972290",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "I study Spanish every day, and I still mess up.",
+        "Can you speak slower, please? My brain needs time.",
+        "I know this word, but I forget it right away.",
+        "I’m learning Spanish, so I’ll make mistakes on purpose.",
+        "Teacher, explain it again, and I promise I listen."
+      ]
     }
   ],
   "used_phrases": [
-    "Can you gift wrap this?",
-    "I'll pay in cash today.",
-    "Can you hold this for me?",
-    "Can you call a taxi, please?",
-    "I need a glass of water, please.",
     "Please show me the vegetarian options.",
     "Can I keep my luggage here?",
     "How many reps are left?",
@@ -4398,6 +4393,11 @@
     "I need to reset my router, it’s acting weird.",
     "What’s the password for your Wi-Fi network?",
     "I can’t log in, my password doesn’t work.",
-    "The website is loading, please wait a second."
+    "The website is loading, please wait a second.",
+    "I study Spanish every day, and I still mess up.",
+    "Can you speak slower, please? My brain needs time.",
+    "I know this word, but I forget it right away.",
+    "I’m learning Spanish, so I’ll make mistakes on purpose.",
+    "Teacher, explain it again, and I promise I listen."
   ]
 }
