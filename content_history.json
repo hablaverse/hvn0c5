@@ -1,16 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-23T11:16:56.999615",
-      "category": "Travel Essentials",
-      "num_phrases": 3,
-      "phrases": [
-        "Can I pay by card, please, not cash?",
-        "Is breakfast included in the price?",
-        "What time is check-out, exactly?"
-      ]
-    },
-    {
       "timestamp": "2026-06-23T16:27:38.814652",
       "category": "Fashion & Appearance",
       "num_phrases": 5,
@@ -2396,14 +2386,21 @@
         "I’m learning Spanish, so I’ll make mistakes on purpose.",
         "Teacher, explain it again, and I promise I listen."
       ]
+    },
+    {
+      "timestamp": "2026-09-13T22:09:16.502209",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m looking for the kitchen. Can you show me?",
+        "The living room is beautiful, I love it here.",
+        "Where do I put my shoes at the door?",
+        "My room is cold. Can we turn on the heat?",
+        "The Wi-Fi is slow. Do you have a password?"
+      ]
     }
   ],
   "used_phrases": [
-    "Please show me the vegetarian options.",
-    "Can I keep my luggage here?",
-    "How many reps are left?",
-    "Give me five more, please.",
-    "I prefer morning workouts.",
     "Let's stretch before we run.",
     "My knee hurts a little.",
     "It's three o'clock.",
@@ -4398,6 +4395,11 @@
     "Can you speak slower, please? My brain needs time.",
     "I know this word, but I forget it right away.",
     "I’m learning Spanish, so I’ll make mistakes on purpose.",
-    "Teacher, explain it again, and I promise I listen."
+    "Teacher, explain it again, and I promise I listen.",
+    "I’m looking for the kitchen. Can you show me?",
+    "The living room is beautiful, I love it here.",
+    "Where do I put my shoes at the door?",
+    "My room is cold. Can we turn on the heat?",
+    "The Wi-Fi is slow. Do you have a password?"
   ]
 }
