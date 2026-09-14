@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-23T21:43:59.015891",
-      "category": "Numbers & Time",
-      "num_phrases": 5,
-      "phrases": [
-        "I have two tickets for tonight’s show.",
-        "My phone number is seven-eight-nine-four.",
-        "I’m late by five minutes, sorry!",
-        "It’s three o’clock, and I need to go.",
-        "I wake up at six every morning."
-      ]
-    },
-    {
       "timestamp": "2026-06-24T10:50:41.685310",
       "category": "Travel Essentials",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "Stop the bleeding! Press here with a clean cloth.",
         "I think I broke my arm. Don’t move me, please."
       ]
+    },
+    {
+      "timestamp": "2026-09-14T22:59:13.298723",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "Do you have any water? I feel thirsty right now.",
+        "I’m hungry. Let’s eat something fast, please.",
+        "I’m sorry, I didn’t understand you. Can you repeat?",
+        "That’s delicious! I’m going to order the same thing.",
+        "I don’t understand. Can you say it in simple Spanish?"
+      ]
     }
   ],
   "used_phrases": [
-    "We're running five minutes late.",
-    "It's half past seven.",
-    "My sister is my best friend and partner in crime.",
-    "You're like family to me, seriously and forever.",
-    "My grandmother's food heals any bad day, no joke.",
     "Introduce my boyfriend at dinner; he brings tacos, always.",
     "Call your mother, she worries even about small things.",
     "It's sunny and perfect for a picnic today.",
@@ -4400,6 +4395,11 @@
     "I swallowed something. Please call poison control.",
     "I burned my hand. Put it under cool water!",
     "Stop the bleeding! Press here with a clean cloth.",
-    "I think I broke my arm. Don’t move me, please."
+    "I think I broke my arm. Don’t move me, please.",
+    "Do you have any water? I feel thirsty right now.",
+    "I’m hungry. Let’s eat something fast, please.",
+    "I’m sorry, I didn’t understand you. Can you repeat?",
+    "That’s delicious! I’m going to order the same thing.",
+    "I don’t understand. Can you say it in simple Spanish?"
   ]
 }
