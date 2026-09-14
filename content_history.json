@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-23T16:27:38.814652",
-      "category": "Fashion & Appearance",
-      "num_phrases": 5,
-      "phrases": [
-        "This shirt is too big for me.",
-        "My shoes feel tight, so I need new ones.",
-        "Do you have this in black, not white?",
-        "I love your jacket, it looks super cool.",
-        "This dress is perfect for tonight."
-      ]
-    },
-    {
       "timestamp": "2026-06-23T21:43:59.015891",
       "category": "Numbers & Time",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "My room is cold. Can we turn on the heat?",
         "The Wi-Fi is slow. Do you have a password?"
       ]
+    },
+    {
+      "timestamp": "2026-09-14T14:46:35.005617",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "Call 911 right now; I feel dizzy and weak.",
+        "I swallowed something. Please call poison control.",
+        "I burned my hand. Put it under cool water!",
+        "Stop the bleeding! Press here with a clean cloth.",
+        "I think I broke my arm. Don’t move me, please."
+      ]
     }
   ],
   "used_phrases": [
-    "Let's stretch before we run.",
-    "My knee hurts a little.",
-    "It's three o'clock.",
-    "What time is the bus?",
-    "The meeting starts at two fifteen.",
     "We're running five minutes late.",
     "It's half past seven.",
     "My sister is my best friend and partner in crime.",
@@ -4400,6 +4395,11 @@
     "The living room is beautiful, I love it here.",
     "Where do I put my shoes at the door?",
     "My room is cold. Can we turn on the heat?",
-    "The Wi-Fi is slow. Do you have a password?"
+    "The Wi-Fi is slow. Do you have a password?",
+    "Call 911 right now; I feel dizzy and weak.",
+    "I swallowed something. Please call poison control.",
+    "I burned my hand. Put it under cool water!",
+    "Stop the bleeding! Press here with a clean cloth.",
+    "I think I broke my arm. Don’t move me, please."
   ]
 }
