@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-24T10:50:41.685310",
-      "category": "Travel Essentials",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m thirsty, can I get water, please?",
-        "Can I drink tap water here?",
-        "Where is the bathroom, please? I really need it.",
-        "Do you have Wi-Fi that actually works here?",
-        "How much is this, and is it negotiable?"
-      ]
-    },
-    {
       "timestamp": "2026-06-24T16:23:32.434324",
       "category": "Emotions & Feelings",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "That’s delicious! I’m going to order the same thing.",
         "I don’t understand. Can you say it in simple Spanish?"
       ]
+    },
+    {
+      "timestamp": "2026-09-15T13:10:49.365156",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "Cats hate water, but my cat loves it!",
+        "Dogs hear tiny sounds, so they watch everything.",
+        "I taught my parrot one word, and now he copies me!",
+        "Rabbits are fast, and they can hide in seconds.",
+        "Turtles move slow, but they never stop."
+      ]
     }
   ],
   "used_phrases": [
-    "Introduce my boyfriend at dinner; he brings tacos, always.",
-    "Call your mother, she worries even about small things.",
-    "It's sunny and perfect for a picnic today.",
-    "It's going to rain in an hour, grab an umbrella.",
-    "The wind is strong; hold onto your hat.",
     "The temperature dropped suddenly, wear a jacket.",
     "It's cloudy but still nice to walk.",
     "I don't understand this math problem.",
@@ -4400,6 +4395,11 @@
     "I’m hungry. Let’s eat something fast, please.",
     "I’m sorry, I didn’t understand you. Can you repeat?",
     "That’s delicious! I’m going to order the same thing.",
-    "I don’t understand. Can you say it in simple Spanish?"
+    "I don’t understand. Can you say it in simple Spanish?",
+    "Cats hate water, but my cat loves it!",
+    "Dogs hear tiny sounds, so they watch everything.",
+    "I taught my parrot one word, and now he copies me!",
+    "Rabbits are fast, and they can hide in seconds.",
+    "Turtles move slow, but they never stop."
   ]
 }
