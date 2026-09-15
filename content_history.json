@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-24T16:23:32.434324",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I feel nervous before interviews, but I stay calm.",
-        "I’m excited for the trip, and I can’t wait!",
-        "I feel relaxed here, like everything is easy.",
-        "I’m a little sad today, but I’ll be okay.",
-        "I’m really angry, so I need a quiet minute."
-      ]
-    },
-    {
       "timestamp": "2026-06-24T21:22:50.707184",
       "category": "Directions",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "Rabbits are fast, and they can hide in seconds.",
         "Turtles move slow, but they never stop."
       ]
+    },
+    {
+      "timestamp": "2026-09-15T17:57:27.890585",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "I don’t get it, speak slower, please.",
+        "What does this mean in English?",
+        "How much is this? I’m not sure.",
+        "I’m lost. Can you show me on this map?",
+        "Thanks! That was super helpful."
+      ]
     }
   ],
   "used_phrases": [
-    "The temperature dropped suddenly, wear a jacket.",
-    "It's cloudy but still nice to walk.",
-    "I don't understand this math problem.",
-    "Please speak slower, I am learning Spanish.",
-    "How do you say this word in Spanish?",
     "Can I borrow your notes from today?",
     "I need more time for the assignment.",
     "Can I join your team?",
@@ -4400,6 +4395,11 @@
     "Dogs hear tiny sounds, so they watch everything.",
     "I taught my parrot one word, and now he copies me!",
     "Rabbits are fast, and they can hide in seconds.",
-    "Turtles move slow, but they never stop."
+    "Turtles move slow, but they never stop.",
+    "I don’t get it, speak slower, please.",
+    "What does this mean in English?",
+    "How much is this? I’m not sure.",
+    "I’m lost. Can you show me on this map?",
+    "Thanks! That was super helpful."
   ]
 }
