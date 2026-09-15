@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-24T21:22:50.707184",
-      "category": "Directions",
-      "num_phrases": 5,
-      "phrases": [
-        "Go straight, then turn left at the big park.",
-        "Is there a pharmacy near here, please?",
-        "The bus stop is behind the supermarket.",
-        "Walk two blocks, and you will see it.",
-        "Turn right at the traffic light, please."
-      ]
-    },
-    {
       "timestamp": "2026-06-25T10:42:03.670143",
       "category": "Technology & Internet",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "I’m lost. Can you show me on this map?",
         "Thanks! That was super helpful."
       ]
+    },
+    {
+      "timestamp": "2026-09-15T22:44:30.206064",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "Dude, that coffee is super strong, I love it!",
+        "I’m down to meet your friends tonight, no problem!",
+        "Hold on, I’ll grab cash real quick, okay?",
+        "That place is packed; let’s try another street!",
+        "I’m skint right now, can we do something free?"
+      ]
     }
   ],
   "used_phrases": [
-    "Can I borrow your notes from today?",
-    "I need more time for the assignment.",
-    "Can I join your team?",
-    "I need a water break.",
-    "I'm stretching before the run.",
     "Give me one more set, please.",
     "I hurt my leg muscle.",
     "The taxi stop is around the corner.",
@@ -4400,6 +4395,11 @@
     "What does this mean in English?",
     "How much is this? I’m not sure.",
     "I’m lost. Can you show me on this map?",
-    "Thanks! That was super helpful."
+    "Thanks! That was super helpful.",
+    "Dude, that coffee is super strong, I love it!",
+    "I’m down to meet your friends tonight, no problem!",
+    "Hold on, I’ll grab cash real quick, okay?",
+    "That place is packed; let’s try another street!",
+    "I’m skint right now, can we do something free?"
   ]
 }
