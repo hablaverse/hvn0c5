@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-25T10:42:03.670143",
-      "category": "Technology & Internet",
-      "num_phrases": 5,
-      "phrases": [
-        "My password is wrong, so the app won’t open.",
-        "Please turn on Wi-Fi, because my signal is terrible.",
-        "I can’t log in, even though I know my email.",
-        "Wait, I accidentally shared my photo with everyone.",
-        "The website is slow, so I’m switching to another."
-      ]
-    },
-    {
       "timestamp": "2026-06-25T16:24:24.592352",
       "category": "Romantic Phrases",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "That place is packed; let’s try another street!",
         "I’m skint right now, can we do something free?"
       ]
+    },
+    {
+      "timestamp": "2026-09-16T13:11:23.350961",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "My shirt is too small, I need a bigger size.",
+        "This jacket looks cool, but it feels too tight.",
+        "My shoes are killing me, they hurt my feet.",
+        "Can you take off this tag, please? It itches.",
+        "I want this color, not the other one, please."
+      ]
     }
   ],
   "used_phrases": [
-    "Give me one more set, please.",
-    "I hurt my leg muscle.",
-    "The taxi stop is around the corner.",
-    "Watch out, the street ends here.",
-    "Take the elevator, not the stairs.",
     "Follow me, I know a shortcut.",
     "My mother cooks the best meals in town.",
     "I called my dad and we laughed for hours.",
@@ -4400,6 +4395,11 @@
     "I’m down to meet your friends tonight, no problem!",
     "Hold on, I’ll grab cash real quick, okay?",
     "That place is packed; let’s try another street!",
-    "I’m skint right now, can we do something free?"
+    "I’m skint right now, can we do something free?",
+    "My shirt is too small, I need a bigger size.",
+    "This jacket looks cool, but it feels too tight.",
+    "My shoes are killing me, they hurt my feet.",
+    "Can you take off this tag, please? It itches.",
+    "I want this color, not the other one, please."
   ]
 }
