@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-25T16:24:24.592352",
-      "category": "Romantic Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "I really like you, and I mean it.",
-        "Can I hold your hand, please?",
-        "Your laugh is my favorite sound in the world.",
-        "I miss you already, even if you just left.",
-        "Stay with me a little longer, okay?"
-      ]
-    },
-    {
       "timestamp": "2026-06-25T21:43:13.962944",
       "category": "Slang & Informal",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "Can you take off this tag, please? It itches.",
         "I want this color, not the other one, please."
       ]
+    },
+    {
+      "timestamp": "2026-09-16T18:00:44.298076",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "I paid cash, but I need a receipt, please.",
+        "Don’t pay by card; ask for cash back first.",
+        "I’m over budget; I’ll skip dessert tonight.",
+        "That price is too high; I can’t afford it.",
+        "I bought it on sale, not full price."
+      ]
     }
   ],
   "used_phrases": [
-    "Follow me, I know a shortcut.",
-    "My mother cooks the best meals in town.",
-    "I called my dad and we laughed for hours.",
-    "My cousin lives with three funny cats.",
-    "We celebrate birthdays with big homemade cakes.",
     "Your sister has a contagious laugh, I love it.",
     "I love your shoes!",
     "Does this fit me?",
@@ -4400,6 +4395,11 @@
     "This jacket looks cool, but it feels too tight.",
     "My shoes are killing me, they hurt my feet.",
     "Can you take off this tag, please? It itches.",
-    "I want this color, not the other one, please."
+    "I want this color, not the other one, please.",
+    "I paid cash, but I need a receipt, please.",
+    "Don’t pay by card; ask for cash back first.",
+    "I’m over budget; I’ll skip dessert tonight.",
+    "That price is too high; I can’t afford it.",
+    "I bought it on sale, not full price."
   ]
 }
