@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-27T10:09:04.982033",
-      "category": "Romantic Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "You look amazing tonight, and I’m totally serious.",
-        "I can’t stop smiling since you texted me.",
-        "I think about you when I’m walking home.",
-        "My heart goes fast when you say my name.",
-        "I’m not good at flirting, but you make it easy."
-      ]
-    },
-    {
       "timestamp": "2026-06-27T15:16:30.636121",
       "category": "Technology & Internet",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "I’m thirsty, can I have cold water please?",
         "I’m a little sick, I feel weak today."
       ]
+    },
+    {
+      "timestamp": "2026-09-17T22:42:14.911954",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good morning! Today starts with a big smile.",
+        "Hi, how are you? I’m asking because you look amazing!",
+        "Hello! Nice to meet you, and yes, I’m nervous.",
+        "Good afternoon! Are you having a great day?",
+        "Good evening! Let’s talk, because I love your energy."
+      ]
     }
   ],
   "used_phrases": [
-    "Have you eaten yet?",
-    "Nice to meet you, I heard great things.",
-    "Can you help me with this, please?",
-    "I am running late, save me a seat.",
-    "Am I going the right way to the beach?",
     "Is there a shortcut to the plaza?",
     "Stay on this street for two blocks.",
     "Walk straight until you see the church.",
@@ -4400,6 +4395,11 @@
     "I have a headache, and it won’t go away.",
     "My back hurts after sitting all day.",
     "I’m thirsty, can I have cold water please?",
-    "I’m a little sick, I feel weak today."
+    "I’m a little sick, I feel weak today.",
+    "Good morning! Today starts with a big smile.",
+    "Hi, how are you? I’m asking because you look amazing!",
+    "Hello! Nice to meet you, and yes, I’m nervous.",
+    "Good afternoon! Are you having a great day?",
+    "Good evening! Let’s talk, because I love your energy."
   ]
 }
