@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-26T10:51:58.941941",
-      "category": "Animals",
-      "num_phrases": 5,
-      "phrases": [
-        "Dogs are my best friends, always.",
-        "I love cats, but they are picky.",
-        "My parrot talks all day, nonstop.",
-        "I’m afraid of snakes, even small ones.",
-        "Turtles are slow, but they look tough."
-      ]
-    },
-    {
       "timestamp": "2026-06-26T21:20:06.119215",
       "category": "Food & Dining",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "Can you bring the menu, please?",
         "Can I get it without onions?"
       ]
+    },
+    {
+      "timestamp": "2026-09-17T13:05:18.457444",
+      "category": "Colors & Descriptions",
+      "num_phrases": 5,
+      "phrases": [
+        "Your pen is blue, like my favorite denim jacket.",
+        "This apple is red, and it smells so sweet!",
+        "The sky is green today, I can’t believe it!",
+        "My T-shirt is black, and it hides stains well.",
+        "That wall is white, and it makes the room brighter."
+      ]
     }
   ],
   "used_phrases": [
-    "I need a bigger size, please.",
-    "Do you speak English here?",
-    "Keep my luggage safe, please.",
-    "The flight was delayed again.",
-    "Can I have the Wi-Fi password?",
     "I love this flavor.",
     "Could I have extra napkins, please?",
     "The coffee is too hot.",
@@ -4400,6 +4395,11 @@
     "I’m not hungry, just water for now, please.",
     "No thanks, I don’t want any sauce.",
     "Can you bring the menu, please?",
-    "Can I get it without onions?"
+    "Can I get it without onions?",
+    "Your pen is blue, like my favorite denim jacket.",
+    "This apple is red, and it smells so sweet!",
+    "The sky is green today, I can’t believe it!",
+    "My T-shirt is black, and it hides stains well.",
+    "That wall is white, and it makes the room brighter."
   ]
 }
