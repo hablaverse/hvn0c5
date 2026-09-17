@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-26T21:20:06.119215",
-      "category": "Food & Dining",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m hungry, can I get a menu, please?",
-        "Do you have tacos with chicken?",
-        "One water, no ice, please. I hate melted ice!",
-        "No spicy food, please. My mouth is already burning!",
-        "I’m allergic to peanuts, so no peanut sauce."
-      ]
-    },
-    {
       "timestamp": "2026-06-27T10:09:04.982033",
       "category": "Romantic Phrases",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "My T-shirt is black, and it hides stains well.",
         "That wall is white, and it makes the room brighter."
       ]
+    },
+    {
+      "timestamp": "2026-09-17T17:58:17.111876",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "I burned my tongue on hot pizza, it hurts!",
+        "I have a headache, and it won’t go away.",
+        "My back hurts after sitting all day.",
+        "I’m thirsty, can I have cold water please?",
+        "I’m a little sick, I feel weak today."
+      ]
     }
   ],
   "used_phrases": [
-    "I love this flavor.",
-    "Could I have extra napkins, please?",
-    "The coffee is too hot.",
-    "I want a glass of water.",
-    "Good morning, how did you sleep?",
     "Have you eaten yet?",
     "Nice to meet you, I heard great things.",
     "Can you help me with this, please?",
@@ -4400,6 +4395,11 @@
     "This apple is red, and it smells so sweet!",
     "The sky is green today, I can’t believe it!",
     "My T-shirt is black, and it hides stains well.",
-    "That wall is white, and it makes the room brighter."
+    "That wall is white, and it makes the room brighter.",
+    "I burned my tongue on hot pizza, it hurts!",
+    "I have a headache, and it won’t go away.",
+    "My back hurts after sitting all day.",
+    "I’m thirsty, can I have cold water please?",
+    "I’m a little sick, I feel weak today."
   ]
 }
