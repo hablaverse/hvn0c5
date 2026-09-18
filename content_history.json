@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-27T15:16:30.636121",
-      "category": "Technology & Internet",
-      "num_phrases": 5,
-      "phrases": [
-        "My Wi-Fi is acting weird again, and I hate it.",
-        "Can you share the password, please? I’m stuck.",
-        "My phone is at one percent, please help!",
-        "I clicked the wrong link, and now I’m lost.",
-        "This app keeps freezing, so I’m deleting it."
-      ]
-    },
-    {
       "timestamp": "2026-06-27T21:04:20.969580",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "Good afternoon! Are you having a great day?",
         "Good evening! Let’s talk, because I love your energy."
       ]
+    },
+    {
+      "timestamp": "2026-09-18T12:45:32.123823",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "The weather is hot, and my ice cream is melting.",
+        "Is it windy outside, or is it just me?",
+        "It’s cloudy, and the sky looks ready to cry.",
+        "How cold is it today? My hands are freezing.",
+        "There’s thunder, so stay inside for a minute."
+      ]
     }
   ],
   "used_phrases": [
-    "Is there a shortcut to the plaza?",
-    "Stay on this street for two blocks.",
-    "Walk straight until you see the church.",
-    "Can you explain this math problem?",
-    "My favorite subject is history.",
     "I need help with this essay.",
     "Do you want to study together?",
     "I learned something new today.",
@@ -4400,6 +4395,11 @@
     "Hi, how are you? I’m asking because you look amazing!",
     "Hello! Nice to meet you, and yes, I’m nervous.",
     "Good afternoon! Are you having a great day?",
-    "Good evening! Let’s talk, because I love your energy."
+    "Good evening! Let’s talk, because I love your energy.",
+    "The weather is hot, and my ice cream is melting.",
+    "Is it windy outside, or is it just me?",
+    "It’s cloudy, and the sky looks ready to cry.",
+    "How cold is it today? My hands are freezing.",
+    "There’s thunder, so stay inside for a minute."
   ]
 }
