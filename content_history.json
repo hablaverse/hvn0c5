@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-27T21:04:20.969580",
-      "category": "Health & Body",
-      "num_phrases": 5,
-      "phrases": [
-        "I have a headache, so please keep the noise down.",
-        "I’m thirsty, and this water tastes like lemon, wow!",
-        "I’m feeling tired, but coffee helps me a lot.",
-        "I have a fever, so I’m going to rest in bed.",
-        "My back hurts, and I shouldn’t lift that heavy box."
-      ]
-    },
-    {
       "timestamp": "2026-06-28T10:28:51.471465",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "How cold is it today? My hands are freezing.",
         "There’s thunder, so stay inside for a minute."
       ]
+    },
+    {
+      "timestamp": "2026-09-18T17:31:28.035425",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "My cat hates baths, so I avoid them.",
+        "I love dogs, because they follow me everywhere.",
+        "That bird is singing like it owns the street.",
+        "I’m afraid of snakes, they look too real.",
+        "My fish is quiet, but it loves my tank light."
+      ]
     }
   ],
   "used_phrases": [
-    "I need help with this essay.",
-    "Do you want to study together?",
-    "I learned something new today.",
-    "Your outfit makes the whole street stop.",
-    "That hat looks amazing on you, honestly.",
     "I can't stop staring at your shoes.",
     "That color brings out your eyes perfectly.",
     "Your jacket is stealing my attention right now.",
@@ -4400,6 +4395,11 @@
     "Is it windy outside, or is it just me?",
     "It’s cloudy, and the sky looks ready to cry.",
     "How cold is it today? My hands are freezing.",
-    "There’s thunder, so stay inside for a minute."
+    "There’s thunder, so stay inside for a minute.",
+    "My cat hates baths, so I avoid them.",
+    "I love dogs, because they follow me everywhere.",
+    "That bird is singing like it owns the street.",
+    "I’m afraid of snakes, they look too real.",
+    "My fish is quiet, but it loves my tank light."
   ]
 }
