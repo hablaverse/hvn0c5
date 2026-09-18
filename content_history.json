@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-28T10:28:51.471465",
-      "category": "Health & Body",
-      "num_phrases": 5,
-      "phrases": [
-        "I have a stomachache, and I need to sit down.",
-        "My nose is running like crazy today, wow.",
-        "I think I’m getting a cold, so I’ll take it easy.",
-        "I need water and rest, not another workout challenge.",
-        "I’m out of breath after stairs, can we take it slow?"
-      ]
-    },
-    {
       "timestamp": "2026-06-28T15:18:23.925459",
       "category": "Food & Dining",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "I’m afraid of snakes, they look too real.",
         "My fish is quiet, but it loves my tank light."
       ]
+    },
+    {
+      "timestamp": "2026-09-18T22:20:26.211472",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "Is the menu in English?",
+        "I’ll take the chicken, with rice, please.",
+        "Do you have vegetarian options?",
+        "Can I pay with card here?",
+        "Can I have the bill, please?"
+      ]
     }
   ],
   "used_phrases": [
-    "I can't stop staring at your shoes.",
-    "That color brings out your eyes perfectly.",
-    "Your jacket is stealing my attention right now.",
-    "Good morning, sleepyhead!",
-    "Hey, long time no see!",
     "Good night, sleep tight!",
     "Good afternoon, how are you?",
     "What's up, troublemaker?",
@@ -4400,6 +4395,11 @@
     "I love dogs, because they follow me everywhere.",
     "That bird is singing like it owns the street.",
     "I’m afraid of snakes, they look too real.",
-    "My fish is quiet, but it loves my tank light."
+    "My fish is quiet, but it loves my tank light.",
+    "Is the menu in English?",
+    "I’ll take the chicken, with rice, please.",
+    "Do you have vegetarian options?",
+    "Can I pay with card here?",
+    "Can I have the bill, please?"
   ]
 }
