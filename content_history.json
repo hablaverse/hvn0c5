@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-28T15:18:23.925459",
-      "category": "Food & Dining",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m allergic to peanuts, so no sauces with them.",
-        "This coffee is too bitter for me, wow.",
-        "Do you have vegetarian options? I’m hungry right now.",
-        "I’ll try it, but I’m scared of spicy food.",
-        "Please make it less salty; I taste the ocean."
-      ]
-    },
-    {
       "timestamp": "2026-06-28T21:01:32.256811",
       "category": "Music & Entertainment",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "Can I pay with card here?",
         "Can I have the bill, please?"
       ]
+    },
+    {
+      "timestamp": "2026-09-19T12:18:50.649589",
+      "category": "Shopping",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the grocery store in this mall?",
+        "Can I try this on, please?",
+        "How much does this cost, exactly?",
+        "Do you accept cash or card?",
+        "Where are the bathrooms?"
+      ]
     }
   ],
   "used_phrases": [
-    "Good night, sleep tight!",
-    "Good afternoon, how are you?",
-    "What's up, troublemaker?",
-    "Where did you put the keys?",
-    "The kitchen smells like garlic tonight.",
     "I left the lights on again.",
     "Can we open the windows, please?",
     "This couch is surprisingly comfortable.",
@@ -4400,6 +4395,11 @@
     "I’ll take the chicken, with rice, please.",
     "Do you have vegetarian options?",
     "Can I pay with card here?",
-    "Can I have the bill, please?"
+    "Can I have the bill, please?",
+    "Where is the grocery store in this mall?",
+    "Can I try this on, please?",
+    "How much does this cost, exactly?",
+    "Do you accept cash or card?",
+    "Where are the bathrooms?"
   ]
 }
