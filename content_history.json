@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-29T12:34:40.672404",
-      "category": "Sports & Fitness",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m starting a workout today, are you coming with me?",
-        "Where is the gym locker room? I need to change.",
-        "I’ll do warm-up first, then we hit the machines.",
-        "How many sets do you want to do today?",
-        "Give me one good tip before we start."
-      ]
-    },
-    {
       "timestamp": "2026-06-29T16:53:32.204050",
       "category": "Hobbies & Activities",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "No way! That’s exactly what happened to me yesterday.",
         "My phone is dead, so call me on WhatsApp."
       ]
+    },
+    {
+      "timestamp": "2026-09-19T22:08:50.086527",
+      "category": "Shopping",
+      "num_phrases": 5,
+      "phrases": [
+        "I’ll take two, please. Can I get a discount?",
+        "Where can I find the sale section?",
+        "Is this made in Spain or somewhere else?",
+        "Is there a return policy if it doesn’t fit?",
+        "Does it come in blue too?"
+      ]
     }
   ],
   "used_phrases": [
-    "I need this by Friday.",
-    "Can you review this document, please?",
-    "Let's brainstorm new ideas together.",
-    "I asked for decaf, not regular.",
-    "This bill is wrong.",
     "Can you make it less spicy?",
     "I ordered a vegetarian dish, this has meat.",
     "A glass of water, please, no ice.",
@@ -4400,6 +4395,11 @@
     "I’m craving tacos right now, like seriously, right now.",
     "I’m totally broke today, so I’ll skip the shopping.",
     "No way! That’s exactly what happened to me yesterday.",
-    "My phone is dead, so call me on WhatsApp."
+    "My phone is dead, so call me on WhatsApp.",
+    "I’ll take two, please. Can I get a discount?",
+    "Where can I find the sale section?",
+    "Is this made in Spain or somewhere else?",
+    "Is there a return policy if it doesn’t fit?",
+    "Does it come in blue too?"
   ]
 }
