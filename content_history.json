@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-29T16:53:32.204050",
-      "category": "Hobbies & Activities",
-      "num_phrases": 5,
-      "phrases": [
-        "I love cooking tacos, and I always share extra sauce.",
-        "Every weekend, I go to the park to walk my dog.",
-        "I play guitar at night, and my neighbors survive somehow.",
-        "I’m learning Spanish through memes, and it’s actually fun.",
-        "I journal at night, because my thoughts get loud."
-      ]
-    },
-    {
       "timestamp": "2026-06-30T10:57:48.927698",
       "category": "Animals",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "Is there a return policy if it doesn’t fit?",
         "Does it come in blue too?"
       ]
+    },
+    {
+      "timestamp": "2026-09-20T12:53:48.000606",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "This song feels like a hug, tell me the title.",
+        "Your playlist is fire, where do you find these songs?",
+        "I’m obsessed with this artist, what’s your favorite track?",
+        "That singer is so good, I want to sing like that.",
+        "Is the concert tonight, or did it get moved?"
+      ]
     }
   ],
   "used_phrases": [
-    "Can you make it less spicy?",
-    "I ordered a vegetarian dish, this has meat.",
-    "A glass of water, please, no ice.",
-    "Can I try this on for you?",
-    "Is this on sale or just for looks?",
     "I'll take it if you give me a discount.",
     "Do you accept credit cards or only cash?",
     "Can you hold this until I come back?",
@@ -4400,6 +4395,11 @@
     "Where can I find the sale section?",
     "Is this made in Spain or somewhere else?",
     "Is there a return policy if it doesn’t fit?",
-    "Does it come in blue too?"
+    "Does it come in blue too?",
+    "This song feels like a hug, tell me the title.",
+    "Your playlist is fire, where do you find these songs?",
+    "I’m obsessed with this artist, what’s your favorite track?",
+    "That singer is so good, I want to sing like that.",
+    "Is the concert tonight, or did it get moved?"
   ]
 }
