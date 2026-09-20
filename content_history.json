@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-30T10:57:48.927698",
-      "category": "Animals",
-      "num_phrases": 5,
-      "phrases": [
-        "Cats make me sneeze, so I avoid them.",
-        "Dogs are my favorite, they always look happy.",
-        "I’m afraid of snakes, please keep them far.",
-        "My parrot copies everything I say, it’s hilarious.",
-        "I love horses, they feel calm and strong."
-      ]
-    },
-    {
       "timestamp": "2026-06-30T16:24:20.183055",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "That singer is so good, I want to sing like that.",
         "Is the concert tonight, or did it get moved?"
       ]
+    },
+    {
+      "timestamp": "2026-09-20T17:19:32.206012",
+      "category": "Colors & Descriptions",
+      "num_phrases": 5,
+      "phrases": [
+        "This red dress is so sexy, wow, I love it.",
+        "Your blue eyes look unreal, I can’t stop staring.",
+        "That green jacket looks cool, like you picked it.",
+        "This black shirt makes you look powerful, honestly.",
+        "That white vibe is clean and cute, I’m obsessed."
+      ]
     }
   ],
   "used_phrases": [
-    "I'll take it if you give me a discount.",
-    "Do you accept credit cards or only cash?",
-    "Can you hold this until I come back?",
-    "How much is this shirt, and is it on sale?",
-    "Do you have this brand, not the cheap one?",
     "I need it for tomorrow, not next week.",
     "Does this come with a warranty?",
     "Can you show me where the fitting rooms are?",
@@ -4400,6 +4395,11 @@
     "Your playlist is fire, where do you find these songs?",
     "I’m obsessed with this artist, what’s your favorite track?",
     "That singer is so good, I want to sing like that.",
-    "Is the concert tonight, or did it get moved?"
+    "Is the concert tonight, or did it get moved?",
+    "This red dress is so sexy, wow, I love it.",
+    "Your blue eyes look unreal, I can’t stop staring.",
+    "That green jacket looks cool, like you picked it.",
+    "This black shirt makes you look powerful, honestly.",
+    "That white vibe is clean and cute, I’m obsessed."
   ]
 }
