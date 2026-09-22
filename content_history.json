@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-01T16:27:37.189054",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "Can you turn off the lights before you leave?",
-        "Where is the living room TV remote, please?",
-        "I lost my keys, so I’m calling for help now.",
-        "The water is hot, so wash your hands quickly.",
-        "Please stop the leak under the sink right now."
-      ]
-    },
-    {
       "timestamp": "2026-07-01T21:28:54.462714",
       "category": "Fashion & Appearance",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "We have two options, which one should we choose?",
         "Can we schedule a quick call today?"
       ]
+    },
+    {
+      "timestamp": "2026-09-22T13:09:27.930386",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "I’ll have the chicken, please, and a side of salad.",
+        "This is delicious. I want to eat it again.",
+        "I’m not hungry, but I want something sweet.",
+        "No spicy, please. I can’t handle hot food.",
+        "Can we split the bill? Let’s make it easy."
+      ]
     }
   ],
   "used_phrases": [
-    "Dad always gives great advice, even when I’m stubborn.",
-    "My brother is fun, but he’s a little crazy sometimes.",
-    "I’m closer to my best friend than to my cousins.",
-    "That song makes my heart jump, like a movie moment.",
-    "I love this artist, but I hate those loud ads.",
     "Turn it down, please. The chorus is too loud!",
     "Do you know the lyrics? I sing along every time.",
     "That remix is wild, it turns the whole vibe around.",
@@ -4400,6 +4395,11 @@
     "Can you email it to me right now, please?",
     "I need this by Friday, is that possible?",
     "We have two options, which one should we choose?",
-    "Can we schedule a quick call today?"
+    "Can we schedule a quick call today?",
+    "I’ll have the chicken, please, and a side of salad.",
+    "This is delicious. I want to eat it again.",
+    "I’m not hungry, but I want something sweet.",
+    "No spicy, please. I can’t handle hot food.",
+    "Can we split the bill? Let’s make it easy."
   ]
 }
