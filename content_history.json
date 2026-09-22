@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-02T10:40:28.751323",
-      "category": "Animals",
-      "num_phrases": 5,
-      "phrases": [
-        "Dogs are so cute, but they bark too much sometimes.",
-        "I love birds, especially when they sing in the morning.",
-        "That horse looks calm, not scared at all.",
-        "My roommate hates snakes, so we never keep one.",
-        "I’m scared of spiders, so please don’t show me."
-      ]
-    },
-    {
       "timestamp": "2026-07-02T16:06:01.325870",
       "category": "Common Phrases",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "Does it come with a receipt? I need proof.",
         "Can I pay by card here? Don’t make it complicated."
       ]
+    },
+    {
+      "timestamp": "2026-09-22T22:46:12.588394",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel nervous before big meetings, so I breathe slowly.",
+        "I’m really happy you came. This made my day!",
+        "I’m sad today. Can we talk for a minute?",
+        "I’m stressed. I need a short break right now.",
+        "I feel excited about the weekend. Let’s make plans!"
+      ]
     }
   ],
   "used_phrases": [
-    "I think I broke my arm. It hurts a lot!",
-    "There is a fire. Get out now, please!",
-    "Stop! Someone is stealing my phone!",
-    "My throat hurts, and I need some water right now.",
-    "I have a headache, so I’m going to rest.",
     "I feel nauseous, please don’t talk too fast.",
     "I’m allergic to pollen, and spring is tough.",
     "My stomach hurts, and I need the bathroom soon.",
@@ -4400,6 +4395,11 @@
     "Is there a discount today? I love a good deal.",
     "I’ll take it. Please wrap it for me.",
     "Does it come with a receipt? I need proof.",
-    "Can I pay by card here? Don’t make it complicated."
+    "Can I pay by card here? Don’t make it complicated.",
+    "I feel nervous before big meetings, so I breathe slowly.",
+    "I’m really happy you came. This made my day!",
+    "I’m sad today. Can we talk for a minute?",
+    "I’m stressed. I need a short break right now.",
+    "I feel excited about the weekend. Let’s make plans!"
   ]
 }
