@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-01T21:28:54.462714",
-      "category": "Fashion & Appearance",
-      "num_phrases": 5,
-      "phrases": [
-        "My shoes are killing me, I need new ones!",
-        "This color looks amazing on me, seriously!",
-        "Do you like my outfit, or is it too much?",
-        "This shirt is too big; I need a smaller size.",
-        "I’m always forgetting accessories, so I add earrings."
-      ]
-    },
-    {
       "timestamp": "2026-07-02T10:40:28.751323",
       "category": "Animals",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "No spicy, please. I can’t handle hot food.",
         "Can we split the bill? Let’s make it easy."
       ]
+    },
+    {
+      "timestamp": "2026-09-22T17:58:45.550860",
+      "category": "Shopping",
+      "num_phrases": 5,
+      "phrases": [
+        "How much is this shirt? I need a quick price.",
+        "Is there a discount today? I love a good deal.",
+        "I’ll take it. Please wrap it for me.",
+        "Does it come with a receipt? I need proof.",
+        "Can I pay by card here? Don’t make it complicated."
+      ]
     }
   ],
   "used_phrases": [
-    "Turn it down, please. The chorus is too loud!",
-    "Do you know the lyrics? I sing along every time.",
-    "That remix is wild, it turns the whole vibe around.",
-    "Help! Call 911 right now, I feel very sick!",
-    "I cut my finger. Please call an ambulance.",
     "I think I broke my arm. It hurts a lot!",
     "There is a fire. Get out now, please!",
     "Stop! Someone is stealing my phone!",
@@ -4400,6 +4395,11 @@
     "This is delicious. I want to eat it again.",
     "I’m not hungry, but I want something sweet.",
     "No spicy, please. I can’t handle hot food.",
-    "Can we split the bill? Let’s make it easy."
+    "Can we split the bill? Let’s make it easy.",
+    "How much is this shirt? I need a quick price.",
+    "Is there a discount today? I love a good deal.",
+    "I’ll take it. Please wrap it for me.",
+    "Does it come with a receipt? I need proof.",
+    "Can I pay by card here? Don’t make it complicated."
   ]
 }
