@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-02T21:07:18.249695",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "I need batteries for the remote control, please.",
-        "Can you bring me a towel from the bathroom?",
-        "I think the fridge is making a weird noise again.",
-        "The stove is off, so it is safe to touch.",
-        "Please put the dishes in the dishwasher, not the sink."
-      ]
-    },
-    {
       "timestamp": "2026-07-03T10:36:00.736195",
       "category": "Weather",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "I have a cut, and I need a bandage, please.",
         "I’m tired, so I need sleep tonight, not late plans."
       ]
+    },
+    {
+      "timestamp": "2026-09-23T18:17:05.418484",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m so in love with this song right now.",
+        "I’m jealous, but I’m trying to be cool.",
+        "I feel confident when you’re around me.",
+        "I’m proud of you, you did it!",
+        "I’m annoyed, but I don’t want a fight."
+      ]
     }
   ],
   "used_phrases": [
-    "Clouds are everywhere, and I hate this gloomy vibe.",
-    "It’s windy outside, and my hair is attacking me!",
-    "It’s freezing! I need a hoodie right now.",
-    "My mom always says I can do it.",
-    "Dad texts, and I answer right away.",
     "My sister borrows my stuff and returns it.",
     "Can I call my brother before dinner?",
     "I’m bringing cookies for the whole family.",
@@ -4400,6 +4395,11 @@
     "I have a cold, and I feel tired all day.",
     "I’m itchy, so I need something to calm my skin.",
     "I have a cut, and I need a bandage, please.",
-    "I’m tired, so I need sleep tonight, not late plans."
+    "I’m tired, so I need sleep tonight, not late plans.",
+    "I’m so in love with this song right now.",
+    "I’m jealous, but I’m trying to be cool.",
+    "I feel confident when you’re around me.",
+    "I’m proud of you, you did it!",
+    "I’m annoyed, but I don’t want a fight."
   ]
 }
