@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-02T16:06:01.325870",
-      "category": "Common Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m hungry, can we grab tacos right now?",
-        "Do you have Wi-Fi here? Please tell me.",
-        "I don’t understand, can you speak more slowly?",
-        "I’ll take it. Thanks, you’re super helpful.",
-        "Let’s meet later. What time works for you?"
-      ]
-    },
-    {
       "timestamp": "2026-07-02T21:07:18.249695",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "I’m stressed. I need a short break right now.",
         "I feel excited about the weekend. Let’s make plans!"
       ]
+    },
+    {
+      "timestamp": "2026-09-23T13:24:22.098846",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "My stomach hurts, so I’m not eating anything today.",
+        "I have a cold, and I feel tired all day.",
+        "I’m itchy, so I need something to calm my skin.",
+        "I have a cut, and I need a bandage, please.",
+        "I’m tired, so I need sleep tonight, not late plans."
+      ]
     }
   ],
   "used_phrases": [
-    "I feel nauseous, please don’t talk too fast.",
-    "I’m allergic to pollen, and spring is tough.",
-    "My stomach hurts, and I need the bathroom soon.",
-    "It’s raining again, so I’m staying home today.",
-    "The sun is hot, and my face is sweating!",
     "Clouds are everywhere, and I hate this gloomy vibe.",
     "It’s windy outside, and my hair is attacking me!",
     "It’s freezing! I need a hoodie right now.",
@@ -4400,6 +4395,11 @@
     "I’m really happy you came. This made my day!",
     "I’m sad today. Can we talk for a minute?",
     "I’m stressed. I need a short break right now.",
-    "I feel excited about the weekend. Let’s make plans!"
+    "I feel excited about the weekend. Let’s make plans!",
+    "My stomach hurts, so I’m not eating anything today.",
+    "I have a cold, and I feel tired all day.",
+    "I’m itchy, so I need something to calm my skin.",
+    "I have a cut, and I need a bandage, please.",
+    "I’m tired, so I need sleep tonight, not late plans."
   ]
 }
