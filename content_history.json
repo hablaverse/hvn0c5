@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-03T21:06:36.743560",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I feel nervous before exams, but I’m okay.",
-        "I feel happy when I walk in the morning.",
-        "I’m sad today, so be patient with me.",
-        "I feel angry when people cut in line.",
-        "I’m worried about the flight, but we’ll be fine."
-      ]
-    },
-    {
       "timestamp": "2026-07-04T10:10:26.860469",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "I need two tickets for tonight, please.",
         "My password has four digits, just remember that."
       ]
+    },
+    {
+      "timestamp": "2026-09-24T13:16:07.557624",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the kitchen? I need water, please.",
+        "The bathroom is upstairs, so follow me.",
+        "I love your cozy living room. It feels calm.",
+        "This bed is comfortable. I could sleep all day.",
+        "Can you turn off the light? It’s too bright."
+      ]
     }
   ],
   "used_phrases": [
-    "Hey, good afternoon! Let’s talk for a minute.",
-    "Good evening! I’m not tired yet, surprisingly.",
-    "Nice to see you! Did you really come today?",
-    "This song is stuck in my head, help me!",
-    "That singer sounds amazing live, you have to go!",
     "What’s the name of this track? I love it!",
     "Wait, pause the video. I want to hear that part.",
     "The movie is hilarious, I’m laughing nonstop.",
@@ -4400,6 +4395,11 @@
     "I’m free at three p.m. Are you?",
     "My bus leaves at six, not seven.",
     "I need two tickets for tonight, please.",
-    "My password has four digits, just remember that."
+    "My password has four digits, just remember that.",
+    "Where is the kitchen? I need water, please.",
+    "The bathroom is upstairs, so follow me.",
+    "I love your cozy living room. It feels calm.",
+    "This bed is comfortable. I could sleep all day.",
+    "Can you turn off the light? It’s too bright."
   ]
 }
