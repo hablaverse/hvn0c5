@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-05T10:13:05.271367",
-      "category": "Emergency Situations",
-      "num_phrases": 5,
-      "phrases": [
-        "Help! I think my friend is choking right now.",
-        "Call 911 now! I have chest pain.",
-        "I need an ambulance. Please, help me.",
-        "Stop the bleeding! Put pressure on the cut.",
-        "I might be having an allergic reaction. Help!"
-      ]
-    },
-    {
       "timestamp": "2026-07-05T15:13:15.251544",
       "category": "Colors & Descriptions",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "I can’t log in because my password keeps failing.",
         "Wait, my app is stuck loading. This is taking forever!"
       ]
+    },
+    {
+      "timestamp": "2026-09-25T23:07:34.494435",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the thermostat? My room feels freezing.",
+        "I need towels, please. The shower is too wet.",
+        "Do you have extra keys? I lost mine.",
+        "My sink is clogged. Can you help right now?",
+        "Where is the laundry basket? I have dirty clothes."
+      ]
     }
   ],
   "used_phrases": [
-    "I need a belt because my pants are too loose.",
-    "I want a haircut today, not tomorrow, please.",
-    "Can you recommend a good deodorant for sensitive skin?",
-    "Help! I think I’m having a medical emergency right now!",
-    "I can’t breathe; please call an ambulance!",
     "My chest hurts; I need help immediately, please!",
     "Call 911 now; there’s a serious accident!",
     "I’ve cut my finger badly; please get a first-aid kit!",
@@ -4400,6 +4395,11 @@
     "My phone says I have no signal, but I’m right here.",
     "Can you share your Wi-Fi? My data is finished.",
     "I can’t log in because my password keeps failing.",
-    "Wait, my app is stuck loading. This is taking forever!"
+    "Wait, my app is stuck loading. This is taking forever!",
+    "Where is the thermostat? My room feels freezing.",
+    "I need towels, please. The shower is too wet.",
+    "Do you have extra keys? I lost mine.",
+    "My sink is clogged. Can you help right now?",
+    "Where is the laundry basket? I have dirty clothes."
   ]
 }
