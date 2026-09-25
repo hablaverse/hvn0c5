@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-04T15:06:17.423618",
-      "category": "Shopping",
-      "num_phrases": 5,
-      "phrases": [
-        "Does this come in black or white?",
-        "Where is the checkout line, so I can pay?",
-        "I’ll take two if the price is right.",
-        "Can you show me the return policy, please?",
-        "This is perfect, but is it comfortable?"
-      ]
-    },
-    {
       "timestamp": "2026-07-04T20:58:15.398274",
       "category": "Travel Essentials",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "I’ll be back in ten minutes, promise!",
         "Today is Friday, and I can finally breathe."
       ]
+    },
+    {
+      "timestamp": "2026-09-25T13:17:33.562168",
+      "category": "Hobbies & Activities",
+      "num_phrases": 5,
+      "phrases": [
+        "I love practicing guitar after work, it calms me down.",
+        "I go for a run in the park every weekend.",
+        "I’m into cooking tacos, and my friends always love them.",
+        "I paint on weekends, even if my drawings look funny.",
+        "I like reading mystery books at night before sleeping."
+      ]
     }
   ],
   "used_phrases": [
-    "I’m so happy you replied. That made my day!",
-    "I feel sad because my plan fell apart today.",
-    "I’m angry, but I’m trying to stay calm.",
-    "It’s raining, so I take my umbrella.",
-    "Is it windy today, or am I imagining it?",
     "The sun is strong today, so wear sunscreen.",
     "It’s too hot; I can’t stay outside long.",
     "Oh no, it’s snowing and my shoes are wet!",
@@ -4400,6 +4395,11 @@
     "I’m running late, so I leave at 7:15.",
     "What time is it? I need to catch my ride.",
     "I’ll be back in ten minutes, promise!",
-    "Today is Friday, and I can finally breathe."
+    "Today is Friday, and I can finally breathe.",
+    "I love practicing guitar after work, it calms me down.",
+    "I go for a run in the park every weekend.",
+    "I’m into cooking tacos, and my friends always love them.",
+    "I paint on weekends, even if my drawings look funny.",
+    "I like reading mystery books at night before sleeping."
   ]
 }
