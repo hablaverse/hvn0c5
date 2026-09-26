@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-05T15:13:15.251544",
-      "category": "Colors & Descriptions",
-      "num_phrases": 5,
-      "phrases": [
-        "This blue shirt looks great on you.",
-        "The red apples look so fresh today.",
-        "That green dress is my favorite color right now.",
-        "The black shoes are stylish and easy to match.",
-        "This white coffee cup is super clean."
-      ]
-    },
-    {
       "timestamp": "2026-07-05T21:00:20.042490",
       "category": "Shopping",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "My sink is clogged. Can you help right now?",
         "Where is the laundry basket? I have dirty clothes."
       ]
+    },
+    {
+      "timestamp": "2026-09-26T12:42:05.349858",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m sweating already, so I need water.",
+        "I feel sore today, but that’s okay.",
+        "I’m working on my stamina, not just speed.",
+        "Don’t worry, I’ll catch up slowly.",
+        "I forgot my gym shoes, so I’m stuck."
+      ]
     }
   ],
   "used_phrases": [
-    "My chest hurts; I need help immediately, please!",
-    "Call 911 now; there’s a serious accident!",
-    "I’ve cut my finger badly; please get a first-aid kit!",
-    "Good afternoon! What are you doing now?",
-    "Good night! Sleep well, okay?",
     "What’s up? Tell me the news!",
     "Nice to meet you! What’s your name?",
     "See you later! Don’t disappear, please!",
@@ -4400,6 +4395,11 @@
     "I need towels, please. The shower is too wet.",
     "Do you have extra keys? I lost mine.",
     "My sink is clogged. Can you help right now?",
-    "Where is the laundry basket? I have dirty clothes."
+    "Where is the laundry basket? I have dirty clothes.",
+    "I’m sweating already, so I need water.",
+    "I feel sore today, but that’s okay.",
+    "I’m working on my stamina, not just speed.",
+    "Don’t worry, I’ll catch up slowly.",
+    "I forgot my gym shoes, so I’m stuck."
   ]
 }
