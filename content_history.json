@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-06T21:29:47.672558",
-      "category": "Hobbies & Activities",
-      "num_phrases": 5,
-      "phrases": [
-        "I love cooking pasta on Sundays with my playlist.",
-        "I go hiking early, because the views feel unreal.",
-        "I’m learning guitar, and my neighbors keep smiling.",
-        "I love drawing, and I always doodle while waiting.",
-        "I’m into soccer, and I watch every weekend match."
-      ]
-    },
-    {
       "timestamp": "2026-07-07T10:56:28.321020",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "I swallowed water and I can’t stop coughing.",
         "I can’t breathe well. Please get me air."
       ]
+    },
+    {
+      "timestamp": "2026-09-27T22:51:31.896598",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "I spent too much last night, so I’m cutting costs today.",
+        "How much is this? I need the price, please.",
+        "Do you have a discount? I’m shopping on a budget.",
+        "I’m checking my bank app because I might overspend.",
+        "I set a savings goal, and I’m sticking to it."
+      ]
     }
   ],
   "used_phrases": [
-    "My dog brings my shoes, and I can’t stay mad.",
-    "Don’t feed the birds, or they will follow you.",
-    "I want a goldfish, but I keep forgetting food.",
-    "This red shirt looks amazing; I feel unstoppable today!",
-    "My blue phone case looks cool, but it collects fingerprints!",
     "That green smoothie is tasty, and I swear it fixes my day!",
     "This black coffee is strong, like my motivation this morning!",
     "Yellow socks make me happy, even when life feels messy!",
@@ -4400,6 +4395,11 @@
     "I have chest pain. Please call a doctor now.",
     "I burned my hand. It hurts a lot.",
     "I swallowed water and I can’t stop coughing.",
-    "I can’t breathe well. Please get me air."
+    "I can’t breathe well. Please get me air.",
+    "I spent too much last night, so I’m cutting costs today.",
+    "How much is this? I need the price, please.",
+    "Do you have a discount? I’m shopping on a budget.",
+    "I’m checking my bank app because I might overspend.",
+    "I set a savings goal, and I’m sticking to it."
   ]
 }
