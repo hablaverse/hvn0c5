@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-07T10:56:28.321020",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "I need a plunger, my sink is totally clogged.",
-        "Where is the light switch for the hallway?",
-        "Can I borrow your broom for two minutes?",
-        "My neighbor keeps moving the furniture late at night.",
-        "I can’t find my keys, I checked everywhere!"
-      ]
-    },
-    {
       "timestamp": "2026-07-07T16:31:18.628182",
       "category": "Money & Finance",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "I’m checking my bank app because I might overspend.",
         "I set a savings goal, and I’m sticking to it."
       ]
+    },
+    {
+      "timestamp": "2026-09-28T16:30:04.816633",
+      "category": "Shopping",
+      "num_phrases": 5,
+      "phrases": [
+        "How much is this? I’m feeling fancy today.",
+        "I’ll take it. Can I pay with my card?",
+        "Does this come in black? I love that color.",
+        "Where are the shoes? I’m hunting my new pair.",
+        "I want this, but it’s too expensive for me."
+      ]
     }
   ],
   "used_phrases": [
-    "That green smoothie is tasty, and I swear it fixes my day!",
-    "This black coffee is strong, like my motivation this morning!",
-    "Yellow socks make me happy, even when life feels messy!",
-    "I love dogs, but I’m scared of loud barks.",
-    "I’m allergic to cats, so I stay away.",
     "My favorite animal is an elephant, super calm.",
     "Don’t touch that snake; it bites when scared.",
     "My cat only wants snacks and warm naps.",
@@ -4400,6 +4395,11 @@
     "How much is this? I need the price, please.",
     "Do you have a discount? I’m shopping on a budget.",
     "I’m checking my bank app because I might overspend.",
-    "I set a savings goal, and I’m sticking to it."
+    "I set a savings goal, and I’m sticking to it.",
+    "How much is this? I’m feeling fancy today.",
+    "I’ll take it. Can I pay with my card?",
+    "Does this come in black? I love that color.",
+    "Where are the shoes? I’m hunting my new pair.",
+    "I want this, but it’s too expensive for me."
   ]
 }
