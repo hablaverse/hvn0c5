@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-14T03:44:25.895003",
-      "category": "Education & Learning",
-      "num_phrases": 5,
-      "phrases": [
-        "Can you repeat that, please, I’m still learning Spanish.",
-        "I understand, but I need a slower sentence.",
-        "Where can I practice Spanish today, like right now?",
-        "I study Spanish every day, even on busy nights.",
-        "Let’s talk in Spanish for ten minutes, deal?"
-      ]
-    },
-    {
       "timestamp": "2026-07-14T03:49:19.547569",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "Where’s the Bluetooth button? I’m trying to connect.",
         "I can’t load this page, it keeps spinning."
       ]
+    },
+    {
+      "timestamp": "2026-09-29T23:28:18.888039",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good morning! Today I’m ready to learn Spanish.",
+        "Hello! How are you today? I hope you’re great.",
+        "Hey! What’s up? Tell me one good thing today.",
+        "Good afternoon! Let’s keep it chill and talk.",
+        "Good evening! I’m happy to see you today."
+      ]
     }
   ],
   "used_phrases": [
-    "The wind is strong, so hold my hat.",
-    "It’s cloudy, so I’m bringing sunglasses.",
-    "Wow, it’s snowing! Should we stay home?",
-    "I’m nervous before meetings; I breathe slowly in Spanish.",
-    "I feel proud when I try, even if I fail.",
     "I’m curious about everything, so ask me lots of questions.",
     "I’m worried, but I’m trying to stay positive today.",
     "I’m excited for tonight; the plans are so good.",
@@ -4400,6 +4395,11 @@
     "Can you share your password? I’m stuck on my phone.",
     "Don’t skip the update, it fixes everything.",
     "Where’s the Bluetooth button? I’m trying to connect.",
-    "I can’t load this page, it keeps spinning."
+    "I can’t load this page, it keeps spinning.",
+    "Good morning! Today I’m ready to learn Spanish.",
+    "Hello! How are you today? I hope you’re great.",
+    "Hey! What’s up? Tell me one good thing today.",
+    "Good afternoon! Let’s keep it chill and talk.",
+    "Good evening! I’m happy to see you today."
   ]
 }
