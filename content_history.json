@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-07T16:31:18.628182",
-      "category": "Money & Finance",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m broke, can you spot me five dollars until Friday?",
-        "I spent too much, and now my wallet is crying.",
-        "Do you have change for a twenty, please?",
-        "I want to save money, not buy random stuff.",
-        "My phone bill is crazy, I need a cheaper plan."
-      ]
-    },
-    {
       "timestamp": "2026-07-14T03:20:50.399284",
       "category": "Common Phrases",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "Where are the shoes? I’m hunting my new pair.",
         "I want this, but it’s too expensive for me."
       ]
+    },
+    {
+      "timestamp": "2026-09-29T00:13:40.786615",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "I love dogs, they make my day so happy.",
+        "Cats are my vibe, they’re so cute.",
+        "That horse is so beautiful, I want to pet it.",
+        "Birds sing outside, and it feels like magic.",
+        "I want a fish tank, it looks calm and cool."
+      ]
     }
   ],
   "used_phrases": [
-    "My favorite animal is an elephant, super calm.",
-    "Don’t touch that snake; it bites when scared.",
-    "My cat only wants snacks and warm naps.",
-    "Can we talk for a minute, please?",
-    "I miss you, and I want to see you soon.",
     "Are you mad at me? I’m really not sure.",
     "I’ll call you after dinner, I promise.",
     "My mom says hello, and she asks about you.",
@@ -4400,6 +4395,11 @@
     "I’ll take it. Can I pay with my card?",
     "Does this come in black? I love that color.",
     "Where are the shoes? I’m hunting my new pair.",
-    "I want this, but it’s too expensive for me."
+    "I want this, but it’s too expensive for me.",
+    "I love dogs, they make my day so happy.",
+    "Cats are my vibe, they’re so cute.",
+    "That horse is so beautiful, I want to pet it.",
+    "Birds sing outside, and it feels like magic.",
+    "I want a fish tank, it looks calm and cool."
   ]
 }
