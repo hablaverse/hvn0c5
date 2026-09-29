@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-14T03:20:50.399284",
-      "category": "Common Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m hungry, and I want tacos right now.",
-        "What time do you get off work today?",
-        "I don’t understand, so speak slowly, please.",
-        "How much is this jacket, exactly?",
-        "I’m looking for a charger for my phone."
-      ]
-    },
-    {
       "timestamp": "2026-07-14T03:44:25.895003",
       "category": "Education & Learning",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "Birds sing outside, and it feels like magic.",
         "I want a fish tank, it looks calm and cool."
       ]
+    },
+    {
+      "timestamp": "2026-09-29T14:39:28.903896",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "My Wi-Fi is down, and I need it back fast.",
+        "Can you share your password? I’m stuck on my phone.",
+        "Don’t skip the update, it fixes everything.",
+        "Where’s the Bluetooth button? I’m trying to connect.",
+        "I can’t load this page, it keeps spinning."
+      ]
     }
   ],
   "used_phrases": [
-    "Are you mad at me? I’m really not sure.",
-    "I’ll call you after dinner, I promise.",
-    "My mom says hello, and she asks about you.",
-    "Is it going to rain today, or not?",
-    "It’s hot today, and I can’t stand it.",
     "The wind is strong, so hold my hat.",
     "It’s cloudy, so I’m bringing sunglasses.",
     "Wow, it’s snowing! Should we stay home?",
@@ -4400,6 +4395,11 @@
     "Cats are my vibe, they’re so cute.",
     "That horse is so beautiful, I want to pet it.",
     "Birds sing outside, and it feels like magic.",
-    "I want a fish tank, it looks calm and cool."
+    "I want a fish tank, it looks calm and cool.",
+    "My Wi-Fi is down, and I need it back fast.",
+    "Can you share your password? I’m stuck on my phone.",
+    "Don’t skip the update, it fixes everything.",
+    "Where’s the Bluetooth button? I’m trying to connect.",
+    "I can’t load this page, it keeps spinning."
   ]
 }
