@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-14T03:49:19.547569",
-      "category": "Health & Body",
-      "num_phrases": 5,
-      "phrases": [
-        "I have a headache, and the lights make it worse.",
-        "My back hurts, I need to sit down for a bit.",
-        "I have a cough, so I’ll take some medicine.",
-        "I’m dizzy, please stay with me for a moment.",
-        "I want to be healthy, so I’ll drink more water."
-      ]
-    },
-    {
       "timestamp": "2026-07-14T03:53:44.598788",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "Good afternoon! Let’s keep it chill and talk.",
         "Good evening! I’m happy to see you today."
       ]
+    },
+    {
+      "timestamp": "2026-09-30T14:43:08.052500",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m not hungry, but I’m thirsty right now.",
+        "Can I get water, please? Not sparkling, please.",
+        "Is this spicy? I love mild food.",
+        "No problem, I can share a plate with you.",
+        "What do you recommend for first-time visitors here?"
+      ]
     }
   ],
   "used_phrases": [
-    "I’m curious about everything, so ask me lots of questions.",
-    "I’m worried, but I’m trying to stay positive today.",
-    "I’m excited for tonight; the plans are so good.",
-    "I have a headache, and my head feels heavy.",
-    "My stomach hurts, so I need water slowly.",
     "I’m thirsty, can I drink some water now?",
     "I’m tired, so I’m going to take a nap.",
     "I have a fever, and I feel really hot.",
@@ -4400,6 +4395,11 @@
     "Hello! How are you today? I hope you’re great.",
     "Hey! What’s up? Tell me one good thing today.",
     "Good afternoon! Let’s keep it chill and talk.",
-    "Good evening! I’m happy to see you today."
+    "Good evening! I’m happy to see you today.",
+    "I’m not hungry, but I’m thirsty right now.",
+    "Can I get water, please? Not sparkling, please.",
+    "Is this spicy? I love mild food.",
+    "No problem, I can share a plate with you.",
+    "What do you recommend for first-time visitors here?"
   ]
 }
