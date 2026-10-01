@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-14T04:06:24.010436",
-      "category": "Directions",
-      "num_phrases": 5,
-      "phrases": [
-        "Turn left here, please. It’s right next to the park.",
-        "The restaurant is behind the museum, trust me.",
-        "It’s in front of the bank, not far at all.",
-        "Take the first street, then go straight again.",
-        "Go past the school, and the store is on your right."
-      ]
-    },
-    {
       "timestamp": "2026-07-14T04:10:07.437185",
       "category": "Sports & Fitness",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "Today I learned one new Spanish sentence.",
         "Is this the menu for today?"
       ]
+    },
+    {
+      "timestamp": "2026-10-01T23:42:49.552472",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "I like this jacket because it looks stylish.",
+        "Do you sell shoes in my size, please?",
+        "These jeans are too tight, so I need another size.",
+        "I want a simple dress for dinner tonight.",
+        "My socks keep slipping, so I need thicker ones."
+      ]
     }
   ],
   "used_phrases": [
-    "Do you have free Wi-Fi here?",
-    "How much is this in dollars?",
-    "I don’t speak Spanish, please speak slowly.",
-    "I budget for tacos and still save money each month.",
-    "I need cash, because my card sometimes fails.",
     "I paid for lunch; you can pay me back later.",
     "I’m saving money, so I won’t buy that today.",
     "Don’t spend it all; keep some for emergencies.",
@@ -4400,6 +4395,11 @@
     "How do you say this word in Spanish?",
     "I’m busy right now, but I’ll text you soon.",
     "Today I learned one new Spanish sentence.",
-    "Is this the menu for today?"
+    "Is this the menu for today?",
+    "I like this jacket because it looks stylish.",
+    "Do you sell shoes in my size, please?",
+    "These jeans are too tight, so I need another size.",
+    "I want a simple dress for dinner tonight.",
+    "My socks keep slipping, so I need thicker ones."
   ]
 }
