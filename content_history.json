@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-14T04:18:57.617304",
-      "category": "Music & Entertainment",
-      "num_phrases": 5,
-      "phrases": [
-        "I love this song, it makes me dance instantly.",
-        "Can you play that track again, please?",
-        "This movie is so good, I want to watch it again.",
-        "The actor is cute, I can’t stop smiling.",
-        "I’m obsessed with that band, their sound is perfect."
-      ]
-    },
-    {
       "timestamp": "2026-07-14T04:26:34.081196",
       "category": "Emergency Situations",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "Let’s go on a date tonight, please say yes.",
         "Are you free later? I want to see you."
       ]
+    },
+    {
+      "timestamp": "2026-10-02T23:35:06.239034",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m so excited for pizza night, it’s my favorite plan.",
+        "I’m proud I finished my chores, and I feel powerful.",
+        "I’m tired, so I need a quiet break right now.",
+        "I feel sad when it rains, like the clouds know me.",
+        "I’m relieved you’re here, because I hate waiting."
+      ]
     }
   ],
   "used_phrases": [
-    "Can we kiss, right now? Please don’t say no.",
-    "You smell amazing, and I can’t stop smiling.",
-    "Let’s go on a date, even if it’s simple.",
-    "I want the best deal, babe, tell me the total.",
-    "Don’t waste money; let’s buy only what we need.",
     "I’ll pay, you just say yes, my love.",
     "Is this price for one or for two people?",
     "I got a discount, and it feels like magic.",
@@ -4400,6 +4395,11 @@
     "I can’t stop thinking about you, even right now.",
     "Can I have a hug right now? I really miss you.",
     "Let’s go on a date tonight, please say yes.",
-    "Are you free later? I want to see you."
+    "Are you free later? I want to see you.",
+    "I’m so excited for pizza night, it’s my favorite plan.",
+    "I’m proud I finished my chores, and I feel powerful.",
+    "I’m tired, so I need a quiet break right now.",
+    "I feel sad when it rains, like the clouds know me.",
+    "I’m relieved you’re here, because I hate waiting."
   ]
 }
