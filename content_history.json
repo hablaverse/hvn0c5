@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-14T04:10:07.437185",
-      "category": "Sports & Fitness",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m sweating like crazy, but I love this workout.",
-        "I’m out of breath, can we slow down for two minutes?",
-        "Where’s the gym locker room, please?",
-        "I need water now, my mouth feels dry.",
-        "That stretch feels amazing, don’t skip it."
-      ]
-    },
-    {
       "timestamp": "2026-07-14T04:18:57.617304",
       "category": "Music & Entertainment",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "I want a simple dress for dinner tonight.",
         "My socks keep slipping, so I need thicker ones."
       ]
+    },
+    {
+      "timestamp": "2026-10-02T14:29:49.828739",
+      "category": "Romantic Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "Your smile makes my day, and I want more.",
+        "I can’t stop thinking about you, even right now.",
+        "Can I have a hug right now? I really miss you.",
+        "Let’s go on a date tonight, please say yes.",
+        "Are you free later? I want to see you."
+      ]
     }
   ],
   "used_phrases": [
-    "I paid for lunch; you can pay me back later.",
-    "I’m saving money, so I won’t buy that today.",
-    "Don’t spend it all; keep some for emergencies.",
-    "You make my day, like a warm sunrise.",
-    "I like you a lot, and it’s not a joke.",
     "Can we kiss, right now? Please don’t say no.",
     "You smell amazing, and I can’t stop smiling.",
     "Let’s go on a date, even if it’s simple.",
@@ -4400,6 +4395,11 @@
     "Do you sell shoes in my size, please?",
     "These jeans are too tight, so I need another size.",
     "I want a simple dress for dinner tonight.",
-    "My socks keep slipping, so I need thicker ones."
+    "My socks keep slipping, so I need thicker ones.",
+    "Your smile makes my day, and I want more.",
+    "I can’t stop thinking about you, even right now.",
+    "Can I have a hug right now? I really miss you.",
+    "Let’s go on a date tonight, please say yes.",
+    "Are you free later? I want to see you."
   ]
 }
