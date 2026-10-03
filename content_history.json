@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-14T04:26:34.081196",
-      "category": "Emergency Situations",
-      "num_phrases": 5,
-      "phrases": [
-        "I lost my wallet. Can you help me?",
-        "Call an ambulance, please. It’s an emergency!",
-        "I’m allergic to peanuts. Please do not serve them.",
-        "Help! I think I’m being robbed right now.",
-        "I got into an accident. Where is the hospital?"
-      ]
-    },
-    {
       "timestamp": "2026-07-14T04:44:47.683097",
       "category": "Fashion & Appearance",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "I feel sad when it rains, like the clouds know me.",
         "I’m relieved you’re here, because I hate waiting."
       ]
+    },
+    {
+      "timestamp": "2026-10-03T13:04:40.617514",
+      "category": "Colors & Descriptions",
+      "num_phrases": 5,
+      "phrases": [
+        "That’s a bright red stop sign; don’t cross.",
+        "I love blue jeans; they match everything.",
+        "This room is white and clean, like a hotel.",
+        "The sky is gray today, so bring a jacket.",
+        "My coffee is black; I don’t add sugar."
+      ]
     }
   ],
   "used_phrases": [
-    "I’ll pay, you just say yes, my love.",
-    "Is this price for one or for two people?",
-    "I got a discount, and it feels like magic.",
-    "Good morning! You’re the first thing on my mind.",
-    "Hey, what’s up? I hope your day is gentle.",
     "Good afternoon! I like your energy, for real.",
     "Good evening! Let’s have fun tonight, just us.",
     "Hi! I missed you. Now I’m smiling again.",
@@ -4400,6 +4395,11 @@
     "I’m proud I finished my chores, and I feel powerful.",
     "I’m tired, so I need a quiet break right now.",
     "I feel sad when it rains, like the clouds know me.",
-    "I’m relieved you’re here, because I hate waiting."
+    "I’m relieved you’re here, because I hate waiting.",
+    "That’s a bright red stop sign; don’t cross.",
+    "I love blue jeans; they match everything.",
+    "This room is white and clean, like a hotel.",
+    "The sky is gray today, so bring a jacket.",
+    "My coffee is black; I don’t add sugar."
   ]
 }
