@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-14T04:44:47.683097",
-      "category": "Fashion & Appearance",
-      "num_phrases": 5,
-      "phrases": [
-        "My favorite outfit looks good on camera, too.",
-        "This shirt is comfy, so I wear it every day.",
-        "I need a new pair of shoes for long walks.",
-        "This jacket keeps me warm, even when it rains.",
-        "I got this ring at a street market, super cute."
-      ]
-    },
-    {
       "timestamp": "2026-07-14T09:58:34.281551",
       "category": "Shopping",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "The sky is gray today, so bring a jacket.",
         "My coffee is black; I don’t add sugar."
       ]
+    },
+    {
+      "timestamp": "2026-10-03T17:49:06.118961",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "The sun is shining, and it’s so warm today.",
+        "There are dark clouds, and a storm might come.",
+        "The air is humid, so my hair gets frizzy.",
+        "The sky is clear, so it will be a great day.",
+        "It’s snowing, so stay inside if you can."
+      ]
     }
   ],
   "used_phrases": [
-    "Good afternoon! I like your energy, for real.",
-    "Good evening! Let’s have fun tonight, just us.",
-    "Hi! I missed you. Now I’m smiling again.",
-    "The Wi-Fi password is on the fridge, not in the folder.",
-    "Please don’t slam the door, it wakes up everyone.",
     "The light switch is on the wall, not on the ceiling.",
     "Your keys are not in the drawer, they’re in the bowl.",
     "The bathroom is near the kitchen, not at the end.",
@@ -4400,6 +4395,11 @@
     "I love blue jeans; they match everything.",
     "This room is white and clean, like a hotel.",
     "The sky is gray today, so bring a jacket.",
-    "My coffee is black; I don’t add sugar."
+    "My coffee is black; I don’t add sugar.",
+    "The sun is shining, and it’s so warm today.",
+    "There are dark clouds, and a storm might come.",
+    "The air is humid, so my hair gets frizzy.",
+    "The sky is clear, so it will be a great day.",
+    "It’s snowing, so stay inside if you can."
   ]
 }
