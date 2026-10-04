@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-14T15:24:02.616724",
-      "category": "Education & Learning",
-      "num_phrases": 5,
-      "phrases": [
-        "I want to practice Spanish with you, slowly please.",
-        "Do you speak English, or should I try Spanish?",
-        "I don’t understand, but I can read a little.",
-        "Repeat that slower, and I will try again.",
-        "Is tap water safe to drink here?"
-      ]
-    },
-    {
       "timestamp": "2026-07-14T21:00:16.004464",
       "category": "Education & Learning",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "I want that yellow bag, it looks so fun!",
         "Your black jacket makes you look bold and cool."
       ]
+    },
+    {
+      "timestamp": "2026-10-04T13:43:48.180246",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you repeat that slowly, please? I’m learning.",
+        "Is there an easy word for this?",
+        "I’m studying today, so no English for me.",
+        "I forgot the word, but I remember the idea.",
+        "My favorite lesson is learning from mistakes."
+      ]
     }
   ],
   "used_phrases": [
-    "I’m cold, so please close the window.",
-    "I have a fever, so I’m staying home today.",
-    "I feel dizzy, so I need to sit down.",
-    "My phone won’t connect to Wi-Fi, help me now.",
-    "I forgot my password, can you reset it?",
     "Why is my internet so slow today?",
     "The video keeps buffering, it’s so annoying.",
     "Tell me the link, I don’t see it.",
@@ -4400,6 +4395,11 @@
     "Your green eyes are so pretty, I can’t focus.",
     "This blue shirt is super chill, like your vibe.",
     "I want that yellow bag, it looks so fun!",
-    "Your black jacket makes you look bold and cool."
+    "Your black jacket makes you look bold and cool.",
+    "Can you repeat that slowly, please? I’m learning.",
+    "Is there an easy word for this?",
+    "I’m studying today, so no English for me.",
+    "I forgot the word, but I remember the idea.",
+    "My favorite lesson is learning from mistakes."
   ]
 }
