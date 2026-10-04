@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-14T21:00:16.004464",
-      "category": "Education & Learning",
-      "num_phrases": 5,
-      "phrases": [
-        "I study Spanish for ten minutes every day after work.",
-        "Please repeat that. I want to learn it correctly.",
-        "I remember it better when I say it out loud.",
-        "I’m practicing “ser” and “estar” with my examples.",
-        "I make mistakes, but I keep going every day."
-      ]
-    },
-    {
       "timestamp": "2026-07-15T10:03:13.279972",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2398,14 +2386,21 @@
         "I forgot the word, but I remember the idea.",
         "My favorite lesson is learning from mistakes."
       ]
+    },
+    {
+      "timestamp": "2026-10-04T17:59:59.444740",
+      "category": "Romantic Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "I like you more than coffee, and that’s huge.",
+        "When you smile, my whole day feels better.",
+        "I’m not good at plans, but I’m great with you.",
+        "You make ordinary days feel special.",
+        "You’re my favorite notification, even without my phone."
+      ]
     }
   ],
   "used_phrases": [
-    "Why is my internet so slow today?",
-    "The video keeps buffering, it’s so annoying.",
-    "Tell me the link, I don’t see it.",
-    "I’m nervous, but I can do this.",
-    "I feel stressed, so I need a short break.",
     "I’m sad, and I need a hug.",
     "I’m relieved you’re okay.",
     "I’m angry, and I need space right now.",
@@ -4400,6 +4395,11 @@
     "Is there an easy word for this?",
     "I’m studying today, so no English for me.",
     "I forgot the word, but I remember the idea.",
-    "My favorite lesson is learning from mistakes."
+    "My favorite lesson is learning from mistakes.",
+    "I like you more than coffee, and that’s huge.",
+    "When you smile, my whole day feels better.",
+    "I’m not good at plans, but I’m great with you.",
+    "You make ordinary days feel special.",
+    "You’re my favorite notification, even without my phone."
   ]
 }
