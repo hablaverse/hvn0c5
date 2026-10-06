@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-16T15:39:00.734161",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I feel calm right now, like everything is okay.",
-        "I’m excited to see you, and I can’t wait.",
-        "I’m jealous because you got the best seat.",
-        "I feel scared, but I’m going to try anyway.",
-        "I feel sad, and I need a hug right now."
-      ]
-    },
-    {
       "timestamp": "2026-07-16T20:59:59.361295",
       "category": "Travel Essentials",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I have two tickets, not one and not three.",
         "I need just one thing: the address, please."
       ]
+    },
+    {
+      "timestamp": "2026-10-06T23:36:14.012687",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "Help! I think I lost my wallet!",
+        "Call 911! There’s been an accident!",
+        "I feel dizzy. I need help right now!",
+        "My phone is dead. Can I borrow yours?",
+        "I can’t breathe. Please call an ambulance!"
+      ]
     }
   ],
   "used_phrases": [
-    "What time is it? I’m late, but don’t panic.",
-    "I’m number one on the list, so let’s go!",
-    "My favorite is number seven, it feels lucky.",
-    "Give me two minutes, I’ll be right there.",
-    "I’m obsessed with this song’s chorus, it’s stuck in my head.",
     "This playlist has perfect songs for driving at night.",
     "Can you turn it up? This beat is too good to ignore.",
     "I love live concerts because the crowd sings with you.",
@@ -4399,6 +4394,11 @@
     "It starts at three fifteen, not three thirty.",
     "I’m ready at six sharp, not five fifty-nine.",
     "I have two tickets, not one and not three.",
-    "I need just one thing: the address, please."
+    "I need just one thing: the address, please.",
+    "Help! I think I lost my wallet!",
+    "Call 911! There’s been an accident!",
+    "I feel dizzy. I need help right now!",
+    "My phone is dead. Can I borrow yours?",
+    "I can’t breathe. Please call an ambulance!"
   ]
 }
