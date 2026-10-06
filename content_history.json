@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-15T21:00:38.659910",
-      "category": "Work & Business",
-      "num_phrases": 5,
-      "phrases": [
-        "What’s the deadline for this report?",
-        "I’ll call you in ten minutes.",
-        "We need to approve this budget today.",
-        "Can we schedule the meeting for Friday?",
-        "Please send me the meeting link."
-      ]
-    },
-    {
       "timestamp": "2026-07-16T15:39:00.734161",
       "category": "Emotions & Feelings",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I’ll warm up first, then I go all in.",
         "I forgot my towel, so I’m using my shirt."
       ]
+    },
+    {
+      "timestamp": "2026-10-06T14:47:17.109574",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m on time at seven, not ten.",
+        "It starts at three fifteen, not three thirty.",
+        "I’m ready at six sharp, not five fifty-nine.",
+        "I have two tickets, not one and not three.",
+        "I need just one thing: the address, please."
+      ]
     }
   ],
   "used_phrases": [
-    "Can you split the bill with me, please?",
-    "I’m checking my bank balance right now.",
-    "Does this price include taxes?",
-    "I need cash, not a card payment.",
-    "It’s 3 pm, and I’m ready for coffee.",
     "What time is it? I’m late, but don’t panic.",
     "I’m number one on the list, so let’s go!",
     "My favorite is number seven, it feels lucky.",
@@ -4399,6 +4394,11 @@
     "Where’s the gym water bottle refill station?",
     "I can’t do that move yet, but I’m trying!",
     "I’ll warm up first, then I go all in.",
-    "I forgot my towel, so I’m using my shirt."
+    "I forgot my towel, so I’m using my shirt.",
+    "I’m on time at seven, not ten.",
+    "It starts at three fifteen, not three thirty.",
+    "I’m ready at six sharp, not five fifty-nine.",
+    "I have two tickets, not one and not three.",
+    "I need just one thing: the address, please."
   ]
 }
