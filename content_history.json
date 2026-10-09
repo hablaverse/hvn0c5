@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-18T09:25:47.205949",
-      "category": "Food & Dining",
-      "num_phrases": 5,
-      "phrases": [
-        "I can't eat dairy, it makes me sick.",
-        "Can I get this without onions, please?",
-        "Do you have water, or is it soda?",
-        "Is there bread, or only rice today?",
-        "Just one coffee, please, not two."
-      ]
-    },
-    {
       "timestamp": "2026-07-18T14:53:17.703000",
       "category": "Food & Dining",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I’m not wearing that dress, it’s too shiny.",
         "Where can I buy this hat? It’s perfect."
       ]
+    },
+    {
+      "timestamp": "2026-10-09T15:00:52.466823",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "The bathroom is on the right, right after the kitchen.",
+        "I’m freezing; can we turn the heat up?",
+        "I need more towels, these are totally wet.",
+        "Where do you keep the cleaning spray and gloves?",
+        "Turn off the lights; we don’t need them on."
+      ]
     }
   ],
   "used_phrases": [
-    "Can you speak slower? I’m learning Spanish.",
-    "I don’t understand, can you explain it again?",
-    "Where is the library? I need books.",
-    "Please write it down for me, quickly.",
-    "I have a crush on you, and I mean it.",
     "You make me smile, and that’s my favorite feeling.",
     "I like your vibe, it feels warm and safe.",
     "Can I hold your hand right now?",
@@ -4399,6 +4394,11 @@
     "I want a simple look for work today.",
     "My shoes hurt, so I need softer ones.",
     "I’m not wearing that dress, it’s too shiny.",
-    "Where can I buy this hat? It’s perfect."
+    "Where can I buy this hat? It’s perfect.",
+    "The bathroom is on the right, right after the kitchen.",
+    "I’m freezing; can we turn the heat up?",
+    "I need more towels, these are totally wet.",
+    "Where do you keep the cleaning spray and gloves?",
+    "Turn off the lights; we don’t need them on."
   ]
 }
