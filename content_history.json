@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-18T14:53:17.703000",
-      "category": "Food & Dining",
-      "num_phrases": 5,
-      "phrases": [
-        "I want spicy food, not too hot.",
-        "Is this dish vegetarian?",
-        "I’m allergic to peanuts.",
-        "No thanks, I don’t eat seafood.",
-        "Do you have tap water?"
-      ]
-    },
-    {
       "timestamp": "2026-07-18T20:47:14.204105",
       "category": "Sports & Fitness",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Where do you keep the cleaning spray and gloves?",
         "Turn off the lights; we don’t need them on."
       ]
+    },
+    {
+      "timestamp": "2026-10-09T23:51:23.858275",
+      "category": "Colors & Descriptions",
+      "num_phrases": 5,
+      "phrases": [
+        "The sky is blue, and it looks unreal today.",
+        "This red sweater is so bold, I feel brave wearing it.",
+        "My coffee looks brown, but it tastes surprisingly sweet.",
+        "Your eyes look green, like a calm forest.",
+        "That yellow sign is bright, so I can’t miss it."
+      ]
     }
   ],
   "used_phrases": [
-    "You make me smile, and that’s my favorite feeling.",
-    "I like your vibe, it feels warm and safe.",
-    "Can I hold your hand right now?",
-    "I missed you today, and it’s honestly embarrassing.",
-    "I’m out of breath after one lap, wow!",
     "I’m sore everywhere, even my legs feel heavy.",
     "I forgot my water bottle, so I’m drinking juice today.",
     "Can we stretch first? It saves my back!",
@@ -4399,6 +4394,11 @@
     "I’m freezing; can we turn the heat up?",
     "I need more towels, these are totally wet.",
     "Where do you keep the cleaning spray and gloves?",
-    "Turn off the lights; we don’t need them on."
+    "Turn off the lights; we don’t need them on.",
+    "The sky is blue, and it looks unreal today.",
+    "This red sweater is so bold, I feel brave wearing it.",
+    "My coffee looks brown, but it tastes surprisingly sweet.",
+    "Your eyes look green, like a calm forest.",
+    "That yellow sign is bright, so I can’t miss it."
   ]
 }
