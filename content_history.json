@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-17T20:55:18.764965",
-      "category": "Family & Relationships",
-      "num_phrases": 5,
-      "phrases": [
-        "My mom hugs me when I feel stressed.",
-        "Dad says good manners are important at home.",
-        "I text my brother, and we plan the weekend.",
-        "My sister and I share clothes, not drama.",
-        "Can you call your grandma and say good night?"
-      ]
-    },
-    {
       "timestamp": "2026-07-18T09:25:47.205949",
       "category": "Food & Dining",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Let’s chill at home tonight, no big plans.",
         "I’m super tired, I need to sleep now."
       ]
+    },
+    {
+      "timestamp": "2026-10-09T00:09:52.957250",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "Do you like my new jacket? I feel cool.",
+        "I want a simple look for work today.",
+        "My shoes hurt, so I need softer ones.",
+        "I’m not wearing that dress, it’s too shiny.",
+        "Where can I buy this hat? It’s perfect."
+      ]
     }
   ],
   "used_phrases": [
-    "It’s ten minutes past two, hurry up!",
-    "I’m meeting you at seven o’clock, not later.",
-    "Call me at six, I’ll be free then.",
-    "My number is five, so please listen carefully.",
-    "I need help with this Spanish homework, please.",
     "Can you speak slower? I’m learning Spanish.",
     "I don’t understand, can you explain it again?",
     "Where is the library? I need books.",
@@ -4399,6 +4394,11 @@
     "I’m not buying it, that story sounds fake to me.",
     "What’s up? I’m free now, want to grab tacos?",
     "Let’s chill at home tonight, no big plans.",
-    "I’m super tired, I need to sleep now."
+    "I’m super tired, I need to sleep now.",
+    "Do you like my new jacket? I feel cool.",
+    "I want a simple look for work today.",
+    "My shoes hurt, so I need softer ones.",
+    "I’m not wearing that dress, it’s too shiny.",
+    "Where can I buy this hat? It’s perfect."
   ]
 }
