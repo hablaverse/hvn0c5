@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-18T20:47:14.204105",
-      "category": "Sports & Fitness",
-      "num_phrases": 5,
-      "phrases": [
-        "I need new running shoes for my next race.",
-        "Can we do a quick warm-up before we start?",
-        "I’m sweating like crazy after this workout!",
-        "How many reps do I need for this exercise?",
-        "I drink water between sets, not during pauses."
-      ]
-    },
-    {
       "timestamp": "2026-07-19T09:53:18.356837",
       "category": "Colors & Descriptions",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Your eyes look green, like a calm forest.",
         "That yellow sign is bright, so I can’t miss it."
       ]
+    },
+    {
+      "timestamp": "2026-10-10T23:16:56.861265",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you send me the Wi-Fi password right now?",
+        "What’s the best app to order food fast?",
+        "My video won’t play, is there a problem?",
+        "Don’t click that link, it looks suspicious to me.",
+        "Turn off Bluetooth, my battery is draining fast."
+      ]
     }
   ],
   "used_phrases": [
-    "I’m sore everywhere, even my legs feel heavy.",
-    "I forgot my water bottle, so I’m drinking juice today.",
-    "Can we stretch first? It saves my back!",
-    "My coach says slow down, so I listen.",
-    "That red shirt looks amazing on you.",
     "This blue backpack is my favorite.",
     "I love green trees; they feel so fresh.",
     "The yellow banana is ripe and so sweet.",
@@ -4399,6 +4394,11 @@
     "This red sweater is so bold, I feel brave wearing it.",
     "My coffee looks brown, but it tastes surprisingly sweet.",
     "Your eyes look green, like a calm forest.",
-    "That yellow sign is bright, so I can’t miss it."
+    "That yellow sign is bright, so I can’t miss it.",
+    "Can you send me the Wi-Fi password right now?",
+    "What’s the best app to order food fast?",
+    "My video won’t play, is there a problem?",
+    "Don’t click that link, it looks suspicious to me.",
+    "Turn off Bluetooth, my battery is draining fast."
   ]
 }
