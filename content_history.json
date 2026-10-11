@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-19T09:53:18.356837",
-      "category": "Colors & Descriptions",
-      "num_phrases": 5,
-      "phrases": [
-        "This shirt is blue, and it looks super fresh.",
-        "The wall is white, but it feels so clean.",
-        "That jacket is black, and it matches everything.",
-        "The snack is orange, and it tastes like sunshine.",
-        "That skirt is red, and it makes me feel bold."
-      ]
-    },
-    {
       "timestamp": "2026-07-19T14:56:33.323711",
       "category": "Romantic Phrases",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Don’t click that link, it looks suspicious to me.",
         "Turn off Bluetooth, my battery is draining fast."
       ]
+    },
+    {
+      "timestamp": "2026-10-11T14:41:41.150796",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "Excuse me, where is the nearest ATM to my hotel?",
+        "Do you have bottled water without gas?",
+        "Is there a free walking tour this afternoon?",
+        "How much is a day ticket for the metro?",
+        "I’m lost, but I can show you my map."
+      ]
     }
   ],
   "used_phrases": [
-    "This blue backpack is my favorite.",
-    "I love green trees; they feel so fresh.",
-    "The yellow banana is ripe and so sweet.",
-    "Your black shoes look super classy.",
-    "I feel nervous before speeches, but I keep going anyway.",
     "I’m excited for tacos tonight, my mood is perfect!",
     "I’m bored in lines, so I start people-watching.",
     "I’m tired, but I’m okay. One more walk!",
@@ -4399,6 +4394,11 @@
     "What’s the best app to order food fast?",
     "My video won’t play, is there a problem?",
     "Don’t click that link, it looks suspicious to me.",
-    "Turn off Bluetooth, my battery is draining fast."
+    "Turn off Bluetooth, my battery is draining fast.",
+    "Excuse me, where is the nearest ATM to my hotel?",
+    "Do you have bottled water without gas?",
+    "Is there a free walking tour this afternoon?",
+    "How much is a day ticket for the metro?",
+    "I’m lost, but I can show you my map."
   ]
 }
