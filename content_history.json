@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-19T14:56:33.323711",
-      "category": "Romantic Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "You look amazing tonight, and I feel happy with you.",
-        "I love your smile; it makes my day better.",
-        "Let’s stay a little longer, please. I don’t want goodbye.",
-        "You smell so good. What perfume are you wearing?",
-        "I’m nervous, but you make me feel safe."
-      ]
-    },
-    {
       "timestamp": "2026-07-19T20:48:18.606506",
       "category": "Animals",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "How much is a day ticket for the metro?",
         "I’m lost, but I can show you my map."
       ]
+    },
+    {
+      "timestamp": "2026-10-11T23:28:51.445645",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "The weather is cloudy, but it might not rain.",
+        "The wind is strong, and my hat won’t stay put.",
+        "It’s really hot today, so drink water, please.",
+        "I think it’s going to snow tonight, not tomorrow.",
+        "There’s fog in the morning, and drivers go slow."
+      ]
     }
   ],
   "used_phrases": [
-    "I’m excited for tacos tonight, my mood is perfect!",
-    "I’m bored in lines, so I start people-watching.",
-    "I’m tired, but I’m okay. One more walk!",
-    "I’m relieved the rain stopped. Now I can breathe!",
-    "I love cats, they are my little daily heroes.",
     "Dogs are the happiest neighbors in my whole street.",
     "I’m scared of spiders, but I don’t panic.",
     "Bunnies are so cute; I want to hug them.",
@@ -4399,6 +4394,11 @@
     "Do you have bottled water without gas?",
     "Is there a free walking tour this afternoon?",
     "How much is a day ticket for the metro?",
-    "I’m lost, but I can show you my map."
+    "I’m lost, but I can show you my map.",
+    "The weather is cloudy, but it might not rain.",
+    "The wind is strong, and my hat won’t stay put.",
+    "It’s really hot today, so drink water, please.",
+    "I think it’s going to snow tonight, not tomorrow.",
+    "There’s fog in the morning, and drivers go slow."
   ]
 }
