@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-19T20:48:18.606506",
-      "category": "Animals",
-      "num_phrases": 5,
-      "phrases": [
-        "I saw a cute dog in the park today.",
-        "Cats are calm, but my cat is super curious.",
-        "This bird sings all morning, and it’s so relaxing.",
-        "Do you have a fish tank at home?",
-        "My neighbor has a horse, and it sounds huge."
-      ]
-    },
-    {
       "timestamp": "2026-07-20T10:52:14.735443",
       "category": "Shopping",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I think it’s going to snow tonight, not tomorrow.",
         "There’s fog in the morning, and drivers go slow."
       ]
+    },
+    {
+      "timestamp": "2026-10-13T15:37:36.339261",
+      "category": "Food & Dining",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m vegetarian, so no meat, please.",
+        "Do you have milk for my coffee?",
+        "No salt, please. I want it less salty.",
+        "What do you recommend? I want something delicious.",
+        "Is tap water okay, or do you have bottled?"
+      ]
     }
   ],
   "used_phrases": [
-    "Dogs are the happiest neighbors in my whole street.",
-    "I’m scared of spiders, but I don’t panic.",
-    "Bunnies are so cute; I want to hug them.",
-    "Birds wake me up, and I secretly love it.",
-    "I feel jealous when my friend gets all the attention.",
     "I’m proud of you for trying, not just for winning.",
     "I feel annoyed when people talk during movies.",
     "I’m embarrassed because I dropped my keys.",
@@ -4399,6 +4394,11 @@
     "The wind is strong, and my hat won’t stay put.",
     "It’s really hot today, so drink water, please.",
     "I think it’s going to snow tonight, not tomorrow.",
-    "There’s fog in the morning, and drivers go slow."
+    "There’s fog in the morning, and drivers go slow.",
+    "I’m vegetarian, so no meat, please.",
+    "Do you have milk for my coffee?",
+    "No salt, please. I want it less salty.",
+    "What do you recommend? I want something delicious.",
+    "Is tap water okay, or do you have bottled?"
   ]
 }
