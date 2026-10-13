@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-20T10:52:14.735443",
-      "category": "Shopping",
-      "num_phrases": 5,
-      "phrases": [
-        "Do you have it in size small?",
-        "Where is the cashier? I’m ready to pay!",
-        "Do you take cards? My wallet is safe.",
-        "I’ll take two, if they are on sale.",
-        "I’ll just look, thanks. Don’t rush me!"
-      ]
-    },
-    {
       "timestamp": "2026-07-20T15:52:10.774937",
       "category": "Music & Entertainment",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "What do you recommend? I want something delicious.",
         "Is tap water okay, or do you have bottled?"
       ]
+    },
+    {
+      "timestamp": "2026-10-13T23:41:57.216887",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "It’s raining hard, so I’ll stay inside today.",
+        "The sky looks clear, so maybe it won’t rain.",
+        "It’s windy, and my umbrella keeps flipping.",
+        "I love sunny days, they make me feel great.",
+        "It feels cold, so I’ll put on a jacket."
+      ]
     }
   ],
   "used_phrases": [
-    "I’m proud of you for trying, not just for winning.",
-    "I feel annoyed when people talk during movies.",
-    "I’m embarrassed because I dropped my keys.",
-    "I feel calm now that everything is under control.",
-    "What song is this? I need the title now!",
     "Is this live, or is it just a recording?",
     "That movie was wild; I laughed and screamed!",
     "Can you turn it up? I can’t hear the beat!",
@@ -4399,6 +4394,11 @@
     "Do you have milk for my coffee?",
     "No salt, please. I want it less salty.",
     "What do you recommend? I want something delicious.",
-    "Is tap water okay, or do you have bottled?"
+    "Is tap water okay, or do you have bottled?",
+    "It’s raining hard, so I’ll stay inside today.",
+    "The sky looks clear, so maybe it won’t rain.",
+    "It’s windy, and my umbrella keeps flipping.",
+    "I love sunny days, they make me feel great.",
+    "It feels cold, so I’ll put on a jacket."
   ]
 }
