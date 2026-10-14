@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-20T15:52:10.774937",
-      "category": "Music & Entertainment",
-      "num_phrases": 5,
-      "phrases": [
-        "Where is the bathroom, and where is the stage?",
-        "What time does the movie start, exactly?",
-        "I’m in the front row, don’t distract me.",
-        "Your voice is so sexy, please sing more!",
-        "This show is wild, I love it so much!"
-      ]
-    },
-    {
       "timestamp": "2026-07-20T21:12:37.947627",
       "category": "Family & Relationships",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I love sunny days, they make me feel great.",
         "It feels cold, so I’ll put on a jacket."
       ]
+    },
+    {
+      "timestamp": "2026-10-14T13:32:19.782013",
+      "category": "Shopping",
+      "num_phrases": 5,
+      "phrases": [
+        "Hi, how much is this shirt in your store?",
+        "Do you have this in size nine?",
+        "Where is the fitting room?",
+        "What’s the return policy if I don’t like it?",
+        "Does this come with a warranty?"
+      ]
     }
   ],
   "used_phrases": [
-    "Is this live, or is it just a recording?",
-    "That movie was wild; I laughed and screamed!",
-    "Can you turn it up? I can’t hear the beat!",
-    "Wait, play the chorus again. That part is everything!",
-    "Help! I need a doctor right now, please.",
     "Call 911! Someone is hurt badly here!",
     "I’m lost. Can you help me find my way?",
     "Stop! Don’t touch that. It’s dangerous!",
@@ -4399,6 +4394,11 @@
     "The sky looks clear, so maybe it won’t rain.",
     "It’s windy, and my umbrella keeps flipping.",
     "I love sunny days, they make me feel great.",
-    "It feels cold, so I’ll put on a jacket."
+    "It feels cold, so I’ll put on a jacket.",
+    "Hi, how much is this shirt in your store?",
+    "Do you have this in size nine?",
+    "Where is the fitting room?",
+    "What’s the return policy if I don’t like it?",
+    "Does this come with a warranty?"
   ]
 }
