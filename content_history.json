@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-21T10:25:52.005177",
-      "category": "Daily Greetings",
-      "num_phrases": 5,
-      "phrases": [
-        "Good morning! You look amazing today, seriously.",
-        "Hey, how are you? I’m happy to see you.",
-        "Good afternoon! Your vibe is even better today.",
-        "Good evening! I hope your day is treating you well.",
-        "Hi! What’s up? Tell me something fun right now."
-      ]
-    },
-    {
       "timestamp": "2026-07-21T15:44:03.443635",
       "category": "Emergency Situations",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Can you show me a bigger size in that dress?",
         "My pants are too long, and I need them shorter."
       ]
+    },
+    {
+      "timestamp": "2026-10-14T23:00:34.001462",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "My stomach hurts, so I can’t eat right now.",
+        "I’m thirsty, can I get water without gas?",
+        "I have a cold, and I feel really tired.",
+        "I need a bandage, my finger is bleeding.",
+        "Where is the pharmacy near here?"
+      ]
     }
   ],
   "used_phrases": [
-    "Do you take cash, or only card?",
-    "Where is the checkout counter?",
-    "Does it come in another color?",
-    "I’ll take it. Do I get a receipt?",
-    "Can I kiss you, just one time, right now?",
     "You look amazing tonight; I can’t stop staring.",
     "I brought you flowers because you deserve the best.",
     "I miss you; can we talk for a bit?",
@@ -4399,6 +4394,11 @@
     "These shoes are beautiful, but they hurt my feet.",
     "I’m looking for a jacket that’s not too heavy.",
     "Can you show me a bigger size in that dress?",
-    "My pants are too long, and I need them shorter."
+    "My pants are too long, and I need them shorter.",
+    "My stomach hurts, so I can’t eat right now.",
+    "I’m thirsty, can I get water without gas?",
+    "I have a cold, and I feel really tired.",
+    "I need a bandage, my finger is bleeding.",
+    "Where is the pharmacy near here?"
   ]
 }
