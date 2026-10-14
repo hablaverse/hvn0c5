@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-20T21:12:37.947627",
-      "category": "Family & Relationships",
-      "num_phrases": 5,
-      "phrases": [
-        "My mom is strict, but she loves me so much.",
-        "My dad is quiet, but he always helps.",
-        "I miss my sister; we text every day.",
-        "My brother borrows my stuff, then returns it fast.",
-        "We argue sometimes, but we always make up."
-      ]
-    },
-    {
       "timestamp": "2026-07-21T10:25:52.005177",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "What’s the return policy if I don’t like it?",
         "Does this come with a warranty?"
       ]
+    },
+    {
+      "timestamp": "2026-10-14T18:19:35.387268",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "This shirt is too tight on my shoulders.",
+        "These shoes are beautiful, but they hurt my feet.",
+        "I’m looking for a jacket that’s not too heavy.",
+        "Can you show me a bigger size in that dress?",
+        "My pants are too long, and I need them shorter."
+      ]
     }
   ],
   "used_phrases": [
-    "Call 911! Someone is hurt badly here!",
-    "I’m lost. Can you help me find my way?",
-    "Stop! Don’t touch that. It’s dangerous!",
-    "I swallowed something. I need help immediately!",
-    "How much is this? I’m ready to buy.",
     "Do you take cash, or only card?",
     "Where is the checkout counter?",
     "Does it come in another color?",
@@ -4399,6 +4394,11 @@
     "Do you have this in size nine?",
     "Where is the fitting room?",
     "What’s the return policy if I don’t like it?",
-    "Does this come with a warranty?"
+    "Does this come with a warranty?",
+    "This shirt is too tight on my shoulders.",
+    "These shoes are beautiful, but they hurt my feet.",
+    "I’m looking for a jacket that’s not too heavy.",
+    "Can you show me a bigger size in that dress?",
+    "My pants are too long, and I need them shorter."
   ]
 }
