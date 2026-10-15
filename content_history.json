@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-21T21:09:32.293391",
-      "category": "Education & Learning",
-      "num_phrases": 5,
-      "phrases": [
-        "Can you say that again, please, slowly?",
-        "I don’t understand, but I want to learn.",
-        "I like it a lot, it feels easy.",
-        "Do you speak English a little, please?",
-        "I want water, not soda, please."
-      ]
-    },
-    {
       "timestamp": "2026-07-22T10:25:25.956561",
       "category": "Numbers & Time",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I’m broke today, can you spot me?",
         "That’s my favorite, I’ll take it, no problem."
       ]
+    },
+    {
+      "timestamp": "2026-10-15T18:01:53.375705",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "I love cats, they are super cute.",
+        "Dogs are my favorite, they feel like family.",
+        "That bird is so loud, I can’t focus!",
+        "I hate snakes, they give me chills.",
+        "I want to see dolphins at the beach!"
+      ]
     }
   ],
   "used_phrases": [
-    "What does this mean? I want the real translation.",
-    "Where is the bathroom? I’ll be right back.",
-    "I speak a little Spanish, but I’m improving fast.",
-    "Do you know any fun Spanish slang for beginners?",
-    "I’m scared of spiders, even the small ones at home.",
     "Cats always find me, even when I don’t want them.",
     "Dogs are my favorite; they make travel feel friendly.",
     "Don’t feed pigeons here; they get too bold fast.",
@@ -4399,6 +4394,11 @@
     "Don’t worry, I’ll figure it out.",
     "Stop messing around, tell me the truth!",
     "I’m broke today, can you spot me?",
-    "That’s my favorite, I’ll take it, no problem."
+    "That’s my favorite, I’ll take it, no problem.",
+    "I love cats, they are super cute.",
+    "Dogs are my favorite, they feel like family.",
+    "That bird is so loud, I can’t focus!",
+    "I hate snakes, they give me chills.",
+    "I want to see dolphins at the beach!"
   ]
 }
