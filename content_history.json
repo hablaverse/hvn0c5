@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-22T21:12:31.020839",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I feel happy today, like really happy.",
-        "I’m sad because my team lost.",
-        "I’m nervous before my presentation.",
-        "I feel angry, and I need to calm down.",
-        "I’m scared of the dark."
-      ]
-    },
-    {
       "timestamp": "2026-07-23T08:42:06.359343",
       "category": "Sports & Fitness",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Please close the window, it’s getting cold.",
         "The couch smells bad, what should we do?"
       ]
+    },
+    {
+      "timestamp": "2026-10-16T17:50:13.594285",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m paying in cash, can I get a receipt?",
+        "Is there a cheaper option, or is this the best price?",
+        "I need to transfer money, how fast is it?",
+        "I’m checking my balance because I think I overspent.",
+        "Can you split the bill, please, for four people?"
+      ]
     }
   ],
   "used_phrases": [
-    "My Wi-Fi password is wrong, can you help me reset?",
-    "Where is the power outlet? My phone is dying fast.",
-    "I can’t log in, my password keeps getting rejected.",
-    "Is there free Wi-Fi here? I need it right now.",
-    "I accidentally closed the tab. Can I open it again?",
     "I’m here for the meeting, not for small talk.",
     "Let’s schedule the call for tomorrow morning.",
     "Can you email me the invoice, please?",
@@ -4398,6 +4393,11 @@
     "Can you turn on the living room lights?",
     "I can’t find the keys anywhere, help!",
     "Please close the window, it’s getting cold.",
-    "The couch smells bad, what should we do?"
+    "The couch smells bad, what should we do?",
+    "I’m paying in cash, can I get a receipt?",
+    "Is there a cheaper option, or is this the best price?",
+    "I need to transfer money, how fast is it?",
+    "I’m checking my balance because I think I overspent.",
+    "Can you split the bill, please, for four people?"
   ]
 }
