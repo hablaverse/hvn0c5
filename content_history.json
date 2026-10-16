@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-22T15:43:13.736728",
-      "category": "Directions",
-      "num_phrases": 5,
-      "phrases": [
-        "Go straight, and turn right at the big bookstore.",
-        "Turn left here, and you’ll see the bus stop.",
-        "The bathroom is behind the restaurant, not in front.",
-        "Walk down this street until the park, then stop.",
-        "Take the next right, and the hotel is on your left."
-      ]
-    },
-    {
       "timestamp": "2026-07-22T21:12:31.020839",
       "category": "Emotions & Feelings",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Can you wrap it as a gift, please?",
         "Does this come with batteries, or do I buy them?"
       ]
+    },
+    {
+      "timestamp": "2026-10-16T13:02:59.702778",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "Where’s the bathroom in this house?",
+        "Can you turn on the living room lights?",
+        "I can’t find the keys anywhere, help!",
+        "Please close the window, it’s getting cold.",
+        "The couch smells bad, what should we do?"
+      ]
     }
   ],
   "used_phrases": [
-    "Where is the closest train station from here?",
-    "My phone is at one percent. Do you have Wi-Fi?",
-    "How do I get to the museum by bus?",
-    "Can you help me book a tour for tomorrow?",
-    "I’m looking for a pharmacy. Is it around here?",
     "My Wi-Fi password is wrong, can you help me reset?",
     "Where is the power outlet? My phone is dying fast.",
     "I can’t log in, my password keeps getting rejected.",
@@ -4398,6 +4393,11 @@
     "I’ll take it, but please give me a discount.",
     "I need a medium, not a large, please.",
     "Can you wrap it as a gift, please?",
-    "Does this come with batteries, or do I buy them?"
+    "Does this come with batteries, or do I buy them?",
+    "Where’s the bathroom in this house?",
+    "Can you turn on the living room lights?",
+    "I can’t find the keys anywhere, help!",
+    "Please close the window, it’s getting cold.",
+    "The couch smells bad, what should we do?"
   ]
 }
