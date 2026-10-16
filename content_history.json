@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-23T08:42:06.359343",
-      "category": "Sports & Fitness",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m sweating a lot, can we drink some water now?",
-        "This gym is awesome, the machines are so easy to use.",
-        "I need to stretch my legs before running.",
-        "Where is the locker room? I’m ready to change.",
-        "I can’t breathe well, I need slower training."
-      ]
-    },
-    {
       "timestamp": "2026-07-23T10:22:29.573075",
       "category": "Colors & Descriptions",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’m checking my balance because I think I overspent.",
         "Can you split the bill, please, for four people?"
       ]
+    },
+    {
+      "timestamp": "2026-10-16T22:34:51.950148",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "Where do I plug in my phone here?",
+        "This house is so bright, I love it!",
+        "The Wi-Fi is weak, can you fix it?",
+        "My apartment is too noisy at night.",
+        "Do you have extra towels in the bathroom?"
+      ]
     }
   ],
   "used_phrases": [
-    "I’m here for the meeting, not for small talk.",
-    "Let’s schedule the call for tomorrow morning.",
-    "Can you email me the invoice, please?",
-    "I’ll review it today and send feedback fast.",
-    "We need a quote by Friday, no later.",
     "This song is stuck in my head all day.",
     "Where can I buy tickets for this concert?",
     "What time does the show start tonight?",
@@ -4398,6 +4393,11 @@
     "Is there a cheaper option, or is this the best price?",
     "I need to transfer money, how fast is it?",
     "I’m checking my balance because I think I overspent.",
-    "Can you split the bill, please, for four people?"
+    "Can you split the bill, please, for four people?",
+    "Where do I plug in my phone here?",
+    "This house is so bright, I love it!",
+    "The Wi-Fi is weak, can you fix it?",
+    "My apartment is too noisy at night.",
+    "Do you have extra towels in the bathroom?"
   ]
 }
