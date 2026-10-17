@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-23T10:35:59.649434",
-      "category": "Slang & Informal",
-      "num_phrases": 5,
-      "phrases": [
-        "Dude, this food is insanely good.",
-        "I’m broke, so let’s eat at home tonight.",
-        "That’s a total lie, don’t mess with me.",
-        "No way, you’re kidding, right?",
-        "I’m running late, I need to bounce now."
-      ]
-    },
-    {
       "timestamp": "2026-07-23T12:18:21.888559",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Why is it so cold? My hands are freezing.",
         "There’s a strong wind outside, stay close to buildings."
       ]
+    },
+    {
+      "timestamp": "2026-10-17T16:52:18.116984",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Hi! I just woke up and I need a hug.",
+        "Good afternoon! I’m ready to talk and laugh.",
+        "Good evening! Did you eat already, or not yet?",
+        "Hi there! I’m here, and I brought good vibes.",
+        "Nice to meet you! I’m glad you came today."
+      ]
     }
   ],
   "used_phrases": [
-    "I really like you, and I hope you feel it too.",
-    "You smell amazing; I keep thinking about you.",
-    "Can we go on a date this weekend? Please!",
-    "I want your attention, but I’m being polite.",
-    "I’m jealous, but in a cute way, I promise.",
     "I’m sick, but I feel better after coffee and soup.",
     "My stomach hurts, so I’ll skip spicy food today.",
     "I need to use the bathroom right now, please.",
@@ -4398,6 +4393,11 @@
     "The forecast says storms, so bring an umbrella.",
     "It’s really hot today, I need water.",
     "Why is it so cold? My hands are freezing.",
-    "There’s a strong wind outside, stay close to buildings."
+    "There’s a strong wind outside, stay close to buildings.",
+    "Hi! I just woke up and I need a hug.",
+    "Good afternoon! I’m ready to talk and laugh.",
+    "Good evening! Did you eat already, or not yet?",
+    "Hi there! I’m here, and I brought good vibes.",
+    "Nice to meet you! I’m glad you came today."
   ]
 }
