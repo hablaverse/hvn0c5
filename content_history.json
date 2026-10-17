@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-23T12:18:21.888559",
-      "category": "Health & Body",
-      "num_phrases": 5,
-      "phrases": [
-        "My head hurts, so I need to rest now.",
-        "My stomach feels sick, so I want something light.",
-        "I’m dizzy, so I need to sit down right now.",
-        "I feel nauseous, and I need fresh air.",
-        "I have a headache behind my eyes."
-      ]
-    },
-    {
       "timestamp": "2026-07-23T13:30:59.573859",
       "category": "Common Phrases",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Hi there! I’m here, and I brought good vibes.",
         "Nice to meet you! I’m glad you came today."
       ]
+    },
+    {
+      "timestamp": "2026-10-17T21:59:21.942795",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m thirsty, where can I get water?",
+        "I have a headache, can I take something?",
+        "My stomach hurts, I think I ate too much.",
+        "I have a cold, I feel weak today.",
+        "I’m allergic to peanuts, please no snacks."
+      ]
     }
   ],
   "used_phrases": [
-    "I’m sick, but I feel better after coffee and soup.",
-    "My stomach hurts, so I’ll skip spicy food today.",
-    "I need to use the bathroom right now, please.",
-    "I’m allergic to cats, and that’s my worst day.",
-    "I hurt my knee playing soccer, so it’s swollen.",
     "My throat hurts, so I’m drinking hot tea.",
     "I have a headache, and the lights are too bright.",
     "I’m feeling dizzy, so I’m sitting down now.",
@@ -4398,6 +4393,11 @@
     "Good afternoon! I’m ready to talk and laugh.",
     "Good evening! Did you eat already, or not yet?",
     "Hi there! I’m here, and I brought good vibes.",
-    "Nice to meet you! I’m glad you came today."
+    "Nice to meet you! I’m glad you came today.",
+    "I’m thirsty, where can I get water?",
+    "I have a headache, can I take something?",
+    "My stomach hurts, I think I ate too much.",
+    "I have a cold, I feel weak today.",
+    "I’m allergic to peanuts, please no snacks."
   ]
 }
