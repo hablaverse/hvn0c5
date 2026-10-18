@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-23T13:36:49.968131",
-      "category": "Common Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "Where are you from, and what do you do for work?",
-        "Sorry, I’m lost, can you help me find this place?",
-        "Can I pay with card, or is cash better?",
-        "I’m sorry I’m late, traffic was crazy today.",
-        "It’s delicious, but I can’t handle spicy food."
-      ]
-    },
-    {
       "timestamp": "2026-07-23T15:55:47.564998",
       "category": "Education & Learning",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I cook pasta on weekends, and my friends love it.",
         "I’m learning to swim, and I’m proud of progress."
       ]
+    },
+    {
+      "timestamp": "2026-10-18T17:05:58.577050",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "I learn Spanish with songs, and my brain sings back!",
+        "Can you say that again slower, please? I got this!",
+        "I write new words, because my memory is stubborn today!",
+        "I love flashcards; they judge me, but I keep going!",
+        "I study ten minutes, then I celebrate like it’s huge!"
+      ]
     }
   ],
   "used_phrases": [
-    "I have two dollars left, so please be quick.",
-    "Today is Monday, and I’m finally relaxed.",
-    "I work from nine to five, every weekday.",
-    "I need one more minute, then we leave.",
-    "It’s already three pm, so hurry up.",
     "Good morning! How are you today?",
     "Hi! What’s up? Did you sleep well?",
     "Hello! Nice to see you today.",
@@ -4398,6 +4393,11 @@
     "I go jogging in the park, and I feel amazing.",
     "I practice guitar songs at home, even when it’s quiet.",
     "I cook pasta on weekends, and my friends love it.",
-    "I’m learning to swim, and I’m proud of progress."
+    "I’m learning to swim, and I’m proud of progress.",
+    "I learn Spanish with songs, and my brain sings back!",
+    "Can you say that again slower, please? I got this!",
+    "I write new words, because my memory is stubborn today!",
+    "I love flashcards; they judge me, but I keep going!",
+    "I study ten minutes, then I celebrate like it’s huge!"
   ]
 }
