@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-23T15:55:47.564998",
-      "category": "Education & Learning",
-      "num_phrases": 5,
-      "phrases": [
-        "Can you write it down for me?",
-        "What does this word mean?",
-        "Let’s practice a short conversation right now.",
-        "Is this correct, or do I need to change?",
-        "I will study ten minutes today, then I rest."
-      ]
-    },
-    {
       "timestamp": "2026-07-23T21:04:21.638814",
       "category": "Slang & Informal",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I love flashcards; they judge me, but I keep going!",
         "I study ten minutes, then I celebrate like it’s huge!"
       ]
+    },
+    {
+      "timestamp": "2026-10-18T22:15:01.049548",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "Do you have a map in English?",
+        "Is Wi-Fi free here, or do I pay?",
+        "Can I check in now, please?",
+        "My room key doesn’t work, what should I do?",
+        "Where can I leave my luggage for a few hours?"
+      ]
     }
   ],
   "used_phrases": [
-    "Good morning! How are you today?",
-    "Hi! What’s up? Did you sleep well?",
-    "Hello! Nice to see you today.",
-    "Good afternoon! Are you busy right now?",
-    "Good night! Sleep well, see you tomorrow.",
     "This red apple looks sweeter than it really is.",
     "That blue shirt is my favorite because it pops.",
     "Green tea tastes fresh, like the color itself.",
@@ -4398,6 +4393,11 @@
     "Can you say that again slower, please? I got this!",
     "I write new words, because my memory is stubborn today!",
     "I love flashcards; they judge me, but I keep going!",
-    "I study ten minutes, then I celebrate like it’s huge!"
+    "I study ten minutes, then I celebrate like it’s huge!",
+    "Do you have a map in English?",
+    "Is Wi-Fi free here, or do I pay?",
+    "Can I check in now, please?",
+    "My room key doesn’t work, what should I do?",
+    "Where can I leave my luggage for a few hours?"
   ]
 }
