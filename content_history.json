@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-03T15:08:20.859655",
-      "category": "Education & Learning",
-      "num_phrases": 5,
-      "phrases": [
-        "Can you slow down? I’m learning Spanish right now.",
-        "Say it again, please. I want to catch it.",
-        "I don’t understand. Can you explain with an example?",
-        "Let’s switch to English for one minute, please.",
-        "I’ll try. You correct me, please, not later."
-      ]
-    },
-    {
       "timestamp": "2026-08-03T16:25:36.348972",
       "category": "Directions",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’ll have this, please. Don’t judge my order!",
         "How much is it? I promise I’m not bargaining."
       ]
+    },
+    {
+      "timestamp": "2026-10-19T23:20:49.519027",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good morning! How are you today?",
+        "Hi! Nice to meet you, I’m Sam.",
+        "Good afternoon! What’s your day like?",
+        "Good evening! Let’s chat for a minute.",
+        "Hey there! How’s everything going?"
+      ]
     }
   ],
   "used_phrases": [
-    "I’m scared of dogs, even the friendly ones.",
-    "Cats love boxes, and mine always steals mine.",
-    "My neighbor’s parrot repeats everything like a tiny comedian.",
-    "I have a turtle, and it never hurries.",
-    "Horses are strong, but they scare me at first.",
     "I’m out of breath, but I want one more lap.",
     "My muscles are sore, so today is my recovery day.",
     "No pain, no gain, but I’m keeping it safe today.",
@@ -4398,6 +4393,11 @@
     "Where is the bathroom? I really have to go!",
     "I don’t understand, but I’ll smile and try anyway.",
     "I’ll have this, please. Don’t judge my order!",
-    "How much is it? I promise I’m not bargaining."
+    "How much is it? I promise I’m not bargaining.",
+    "Good morning! How are you today?",
+    "Hi! Nice to meet you, I’m Sam.",
+    "Good afternoon! What’s your day like?",
+    "Good evening! Let’s chat for a minute.",
+    "Hey there! How’s everything going?"
   ]
 }
