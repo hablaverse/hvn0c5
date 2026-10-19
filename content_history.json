@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-23T21:04:21.638814",
-      "category": "Slang & Informal",
-      "num_phrases": 5,
-      "phrases": [
-        "That movie was awesome, it was super fun.",
-        "I’m so tired, I’m gonna dip early.",
-        "That’s my bad, I forgot the meeting time.",
-        "I don’t get it, explain it to me simply.",
-        "Come on, let’s go right now, no excuses."
-      ]
-    },
-    {
       "timestamp": "2026-08-03T15:08:20.859655",
       "category": "Education & Learning",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "My room key doesn’t work, what should I do?",
         "Where can I leave my luggage for a few hours?"
       ]
+    },
+    {
+      "timestamp": "2026-10-19T15:18:56.432082",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m looking for coffee, and I need it now.",
+        "Where is the bathroom? I really have to go!",
+        "I don’t understand, but I’ll smile and try anyway.",
+        "I’ll have this, please. Don’t judge my order!",
+        "How much is it? I promise I’m not bargaining."
+      ]
     }
   ],
   "used_phrases": [
-    "This red apple looks sweeter than it really is.",
-    "That blue shirt is my favorite because it pops.",
-    "Green tea tastes fresh, like the color itself.",
-    "Your yellow shoes make walking feel more fun.",
-    "I love black coffee; it feels strong and simple.",
     "I’m scared of dogs, even the friendly ones.",
     "Cats love boxes, and mine always steals mine.",
     "My neighbor’s parrot repeats everything like a tiny comedian.",
@@ -4398,6 +4393,11 @@
     "Is Wi-Fi free here, or do I pay?",
     "Can I check in now, please?",
     "My room key doesn’t work, what should I do?",
-    "Where can I leave my luggage for a few hours?"
+    "Where can I leave my luggage for a few hours?",
+    "I’m looking for coffee, and I need it now.",
+    "Where is the bathroom? I really have to go!",
+    "I don’t understand, but I’ll smile and try anyway.",
+    "I’ll have this, please. Don’t judge my order!",
+    "How much is it? I promise I’m not bargaining."
   ]
 }
