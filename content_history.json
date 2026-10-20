@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-03T17:25:03.435506",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I feel happy when I hear salsa music at night.",
-        "I’m excited to meet your family this weekend.",
-        "I’m angry, and I need a calm minute.",
-        "I’m jealous when my friend gets all the compliments.",
-        "I feel relieved because the test was easier than expected."
-      ]
-    },
-    {
       "timestamp": "2026-08-03T21:02:29.694477",
       "category": "Animals",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I have a cold, and sneezing is my whole personality.",
         "I’m hungry, but I’m also picky today, sorry!"
       ]
+    },
+    {
+      "timestamp": "2026-10-20T22:57:32.718354",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "That song is stuck in my head all day.",
+        "This playlist makes my commute feel way faster.",
+        "I love this singer, their voice is unreal.",
+        "That chorus is addictive, I replay it nonstop.",
+        "Can we turn it up a little for this track?"
+      ]
     }
   ],
   "used_phrases": [
-    "Where is the bathroom? I really need it now.",
-    "How much is this? I want to buy it today.",
-    "I don’t understand. Can you say it again, please?",
-    "Is there Wi-Fi here? I need it for my phone.",
-    "I’m just looking, but thank you for your help.",
     "I love cooking tacos, and I always brag a little.",
     "I’m learning guitar, but my cat judges every chord.",
     "I go running early, because mornings feel like free therapy.",
@@ -4398,6 +4393,11 @@
     "I’m thirsty, and my mouth feels like sand.",
     "My stomach hurts, so I’m taking it easy today.",
     "I have a cold, and sneezing is my whole personality.",
-    "I’m hungry, but I’m also picky today, sorry!"
+    "I’m hungry, but I’m also picky today, sorry!",
+    "That song is stuck in my head all day.",
+    "This playlist makes my commute feel way faster.",
+    "I love this singer, their voice is unreal.",
+    "That chorus is addictive, I replay it nonstop.",
+    "Can we turn it up a little for this track?"
   ]
 }
