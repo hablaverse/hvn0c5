@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-04T17:00:16.689798",
-      "category": "Colors & Descriptions",
-      "num_phrases": 5,
-      "phrases": [
-        "That shirt is blue, not green, trust me.",
-        "This wall is white, and it looks so clean.",
-        "Your phone is black, but mine is gray.",
-        "Careful, the door is red, not yellow!",
-        "The coffee is brown, and it smells amazing."
-      ]
-    },
-    {
       "timestamp": "2026-08-04T21:13:06.810181",
       "category": "Sports & Fitness",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "This coffee is strong, my brain is waking up!",
         "No way, you did that? I’m seriously impressed!"
       ]
+    },
+    {
+      "timestamp": "2026-10-21T23:02:46.004552",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "Turn right at the big supermarket, please.",
+        "Take the first street on the left.",
+        "Keep going until you see the bank.",
+        "The bathroom is on your right, trust me.",
+        "Don’t go that way, it’s closed today."
+      ]
     }
   ],
   "used_phrases": [
-    "This red sweater is my lucky charm, seriously.",
-    "That blue sky looks unreal today, like a filter.",
-    "My green plant looks happy, even if I forget water.",
-    "This black hoodie makes me feel mysterious and brave.",
-    "White bread is boring, but I still eat it.",
     "I feel sick, so I’m staying home today.",
     "I’m out of breath, and I need a break.",
     "I’m thirsty, so please give me water.",
@@ -4398,6 +4393,11 @@
     "Hold on, I just got your message, thank you!",
     "I’m broke today, so I’m staying home.",
     "This coffee is strong, my brain is waking up!",
-    "No way, you did that? I’m seriously impressed!"
+    "No way, you did that? I’m seriously impressed!",
+    "Turn right at the big supermarket, please.",
+    "Take the first street on the left.",
+    "Keep going until you see the bank.",
+    "The bathroom is on your right, trust me.",
+    "Don’t go that way, it’s closed today."
   ]
 }
