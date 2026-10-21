@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-04T10:38:45.179918",
-      "category": "Travel Essentials",
-      "num_phrases": 5,
-      "phrases": [
-        "I need a SIM card for my phone, please.",
-        "I lost my passport, and I feel totally panicked.",
-        "Can you call a taxi for me right now?",
-        "How much is this ticket, and where is the seat?",
-        "I want water without ice, please, no soda."
-      ]
-    },
-    {
       "timestamp": "2026-08-04T17:00:16.689798",
       "category": "Colors & Descriptions",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "My coffee is brown, and it smells like comfort.",
         "That scarf is blue, and it looks super calm."
       ]
+    },
+    {
+      "timestamp": "2026-10-21T18:25:07.600036",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "Bro, this is amazing, I can't believe it.",
+        "Hold on, I just got your message, thank you!",
+        "I’m broke today, so I’m staying home.",
+        "This coffee is strong, my brain is waking up!",
+        "No way, you did that? I’m seriously impressed!"
+      ]
     }
   ],
   "used_phrases": [
-    "This shirt fits me perfectly, no pulling or tugging.",
-    "These shoes are comfy, so I walk all day.",
-    "My jacket looks cool, even when the weather is weird.",
-    "I want a plain tee, not something too loud.",
-    "This color makes my face look brighter instantly.",
     "This red sweater is my lucky charm, seriously.",
     "That blue sky looks unreal today, like a filter.",
     "My green plant looks happy, even if I forget water.",
@@ -4398,6 +4393,11 @@
     "This shirt is white, and it matches everything.",
     "My sneakers are red, and everyone notices them.",
     "My coffee is brown, and it smells like comfort.",
-    "That scarf is blue, and it looks super calm."
+    "That scarf is blue, and it looks super calm.",
+    "Bro, this is amazing, I can't believe it.",
+    "Hold on, I just got your message, thank you!",
+    "I’m broke today, so I’m staying home.",
+    "This coffee is strong, my brain is waking up!",
+    "No way, you did that? I’m seriously impressed!"
   ]
 }
