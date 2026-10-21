@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-03T21:02:29.694477",
-      "category": "Animals",
-      "num_phrases": 5,
-      "phrases": [
-        "Cats are cute, but they scratch my shoes.",
-        "Dogs are friendly, and my neighbor always smiles.",
-        "I don’t like snakes, they scare me at night.",
-        "Birds sing outside, and I wake up smiling.",
-        "My turtle is slow, but it never gives up."
-      ]
-    },
-    {
       "timestamp": "2026-08-04T10:38:45.179918",
       "category": "Travel Essentials",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "That chorus is addictive, I replay it nonstop.",
         "Can we turn it up a little for this track?"
       ]
+    },
+    {
+      "timestamp": "2026-10-21T13:29:02.313851",
+      "category": "Colors & Descriptions",
+      "num_phrases": 5,
+      "phrases": [
+        "My phone case is black, like pure night.",
+        "This shirt is white, and it matches everything.",
+        "My sneakers are red, and everyone notices them.",
+        "My coffee is brown, and it smells like comfort.",
+        "That scarf is blue, and it looks super calm."
+      ]
     }
   ],
   "used_phrases": [
-    "I love cooking tacos, and I always brag a little.",
-    "I’m learning guitar, but my cat judges every chord.",
-    "I go running early, because mornings feel like free therapy.",
-    "I watch football, and I shout like a cheering robot.",
-    "I paint on weekends, and my room looks like a circus.",
     "This shirt fits me perfectly, no pulling or tugging.",
     "These shoes are comfy, so I walk all day.",
     "My jacket looks cool, even when the weather is weird.",
@@ -4398,6 +4393,11 @@
     "This playlist makes my commute feel way faster.",
     "I love this singer, their voice is unreal.",
     "That chorus is addictive, I replay it nonstop.",
-    "Can we turn it up a little for this track?"
+    "Can we turn it up a little for this track?",
+    "My phone case is black, like pure night.",
+    "This shirt is white, and it matches everything.",
+    "My sneakers are red, and everyone notices them.",
+    "My coffee is brown, and it smells like comfort.",
+    "That scarf is blue, and it looks super calm."
   ]
 }
