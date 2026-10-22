@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-04T21:13:06.810181",
-      "category": "Sports & Fitness",
-      "num_phrases": 5,
-      "phrases": [
-        "I need water after my workout, please, not juice.",
-        "My legs are sore today, so I’m taking it easy.",
-        "I’m stretching now, because warming up helps a lot.",
-        "Can you show me how to use these gym machines?",
-        "I’m out of breath, so I need a quick pause."
-      ]
-    },
-    {
       "timestamp": "2026-08-05T10:34:16.870863",
       "category": "Sports & Fitness",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "The bathroom is on your right, trust me.",
         "Don’t go that way, it’s closed today."
       ]
+    },
+    {
+      "timestamp": "2026-10-22T13:30:27.824579",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "My Wi-Fi password is hiding from me right now.",
+        "The website says it’s down, and I believe it.",
+        "I forgot my password, so I need a reset link.",
+        "I’m out of data, so please send short videos.",
+        "This app won’t load, so I’ll restart my phone."
+      ]
     }
   ],
   "used_phrases": [
-    "I feel sick, so I’m staying home today.",
-    "I’m out of breath, and I need a break.",
-    "I’m thirsty, so please give me water.",
-    "My stomach hurts, and I need to rest.",
-    "I have a sore throat, so no spicy food today.",
     "I hate loud concerts; my ears need peace, please.",
     "Is this song on Spotify? I need it now.",
     "That movie is too long; I’m bored already.",
@@ -4398,6 +4393,11 @@
     "Take the first street on the left.",
     "Keep going until you see the bank.",
     "The bathroom is on your right, trust me.",
-    "Don’t go that way, it’s closed today."
+    "Don’t go that way, it’s closed today.",
+    "My Wi-Fi password is hiding from me right now.",
+    "The website says it’s down, and I believe it.",
+    "I forgot my password, so I need a reset link.",
+    "I’m out of data, so please send short videos.",
+    "This app won’t load, so I’ll restart my phone."
   ]
 }
