@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-05T10:34:16.870863",
-      "category": "Sports & Fitness",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m out of energy, so I need water fast.",
-        "Let’s warm up for five minutes, okay?",
-        "I love running, it makes me feel strong.",
-        "Can you spot me while I lift this?",
-        "My muscles burn, but it feels so good."
-      ]
-    },
-    {
       "timestamp": "2026-08-05T16:01:36.486884",
       "category": "Food & Dining",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’m out of data, so please send short videos.",
         "This app won’t load, so I’ll restart my phone."
       ]
+    },
+    {
+      "timestamp": "2026-10-22T18:20:12.292199",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the spare key in case of emergencies?",
+        "Could you turn on the light, please? It’s dark here.",
+        "The heater is broken; can we check the thermostat?",
+        "Do you have an extra blanket for the night?",
+        "Please don’t slam the door; it wakes everyone up."
+      ]
     }
   ],
   "used_phrases": [
-    "I hate loud concerts; my ears need peace, please.",
-    "Is this song on Spotify? I need it now.",
-    "That movie is too long; I’m bored already.",
-    "I love this remix; it makes the song cooler.",
-    "Can you turn it down? The volume hurts my head.",
     "Can I have water, please, not soda.",
     "I’m allergic to nuts, so please be careful.",
     "No cheese on my burger, please. Thanks!",
@@ -4398,6 +4393,11 @@
     "The website says it’s down, and I believe it.",
     "I forgot my password, so I need a reset link.",
     "I’m out of data, so please send short videos.",
-    "This app won’t load, so I’ll restart my phone."
+    "This app won’t load, so I’ll restart my phone.",
+    "Where is the spare key in case of emergencies?",
+    "Could you turn on the light, please? It’s dark here.",
+    "The heater is broken; can we check the thermostat?",
+    "Do you have an extra blanket for the night?",
+    "Please don’t slam the door; it wakes everyone up."
   ]
 }
