@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-06T10:39:06.817683",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "Can I borrow your umbrella, please, I’m running late.",
-        "Your place is cozy, and I want to stay longer.",
-        "Turn on the light, please, it’s dark in here.",
-        "Where’s the kitchen? I smell cookies, and I’m smiling.",
-        "I love your couch, it looks so comfy."
-      ]
-    },
-    {
       "timestamp": "2026-08-07T00:52:50.135282",
       "category": "Music & Entertainment",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "My nose is bleeding. Please, help me sit up.",
         "I have chest pain. Call emergency services, please."
       ]
+    },
+    {
+      "timestamp": "2026-10-23T18:06:58.939193",
+      "category": "Sports & Fitness",
+      "num_phrases": 5,
+      "phrases": [
+        "I need warm-up stretches before I start running.",
+        "How much water should I drink during my workout?",
+        "I’m out of breath, so I’m slowing down.",
+        "I pulled a muscle, so today is rest day.",
+        "What’s the fastest way to get strong?"
+      ]
     }
   ],
   "used_phrases": [
-    "Can you call your mom when you finish, please?",
-    "I love my sister, even when she annoys me.",
-    "We argue, but we always make up fast.",
-    "My dad is strict, but he means well.",
-    "I respect my grandparents because they taught me a lot.",
     "This shirt feels too tight, so I need a bigger size.",
     "Do you have this in black or navy, please?",
     "My shoes are hurting my feet, so I need new ones.",
@@ -4398,6 +4393,11 @@
     "Call an ambulance right now, please. I need help urgently.",
     "Stop! There’s a fire. Get everyone out now!",
     "My nose is bleeding. Please, help me sit up.",
-    "I have chest pain. Call emergency services, please."
+    "I have chest pain. Call emergency services, please.",
+    "I need warm-up stretches before I start running.",
+    "How much water should I drink during my workout?",
+    "I’m out of breath, so I’m slowing down.",
+    "I pulled a muscle, so today is rest day.",
+    "What’s the fastest way to get strong?"
   ]
 }
