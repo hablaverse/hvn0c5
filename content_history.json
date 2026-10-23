@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-07T00:52:50.135282",
-      "category": "Music & Entertainment",
-      "num_phrases": 5,
-      "phrases": [
-        "What song is this on, and who sings it?",
-        "Do you have the lyrics on your phone?",
-        "That chorus goes hard, I love it so much.",
-        "Can we turn it up a little, please?",
-        "Sorry, I can’t hear you over this song."
-      ]
-    },
-    {
       "timestamp": "2026-08-07T08:59:18.630909",
       "category": "Emergency Situations",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I pulled a muscle, so today is rest day.",
         "What’s the fastest way to get strong?"
       ]
+    },
+    {
+      "timestamp": "2026-10-23T22:56:01.602297",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "My outfit looks great, and I feel confident today.",
+        "This jacket fits me perfectly, so I’ll wear it.",
+        "I need new shoes because my sneakers stink.",
+        "I’m always getting wrinkles, so I use moisturizer.",
+        "This shirt is too tight, so I can’t move."
+      ]
     }
   ],
   "used_phrases": [
-    "This shirt feels too tight, so I need a bigger size.",
-    "Do you have this in black or navy, please?",
-    "My shoes are hurting my feet, so I need new ones.",
-    "I want a simple hairstyle that takes five minutes.",
-    "Can you recommend a moisturizer for dry skin?",
     "You look amazing tonight, and I can’t stop smiling.",
     "I miss you already, and it’s not even late.",
     "Your laugh is my favorite sound, for real.",
@@ -4398,6 +4393,11 @@
     "How much water should I drink during my workout?",
     "I’m out of breath, so I’m slowing down.",
     "I pulled a muscle, so today is rest day.",
-    "What’s the fastest way to get strong?"
+    "What’s the fastest way to get strong?",
+    "My outfit looks great, and I feel confident today.",
+    "This jacket fits me perfectly, so I’ll wear it.",
+    "I need new shoes because my sneakers stink.",
+    "I’m always getting wrinkles, so I use moisturizer.",
+    "This shirt is too tight, so I can’t move."
   ]
 }
