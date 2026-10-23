@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-05T21:08:09.498983",
-      "category": "Health & Body",
-      "num_phrases": 5,
-      "phrases": [
-        "I feel cold, so give me a warm jacket, please.",
-        "I’m thirsty, and I need water without gas.",
-        "I think I ate something bad, and my stomach hurts.",
-        "I need rest today, because I’m tired all day.",
-        "My back hurts, so I need a gentle massage."
-      ]
-    },
-    {
       "timestamp": "2026-08-06T10:39:06.817683",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "How much is a taxi to the city center, today?",
         "Can I have two coffees to go, please?"
       ]
+    },
+    {
+      "timestamp": "2026-10-23T13:06:46.438979",
+      "category": "Emergency Situations",
+      "num_phrases": 5,
+      "phrases": [
+        "Help! I think I swallowed something and I’m choking.",
+        "Call an ambulance right now, please. I need help urgently.",
+        "Stop! There’s a fire. Get everyone out now!",
+        "My nose is bleeding. Please, help me sit up.",
+        "I have chest pain. Call emergency services, please."
+      ]
     }
   ],
   "used_phrases": [
-    "It’s seven o’clock, and I’m running late.",
-    "Meet me at 3 p.m. near the cafe.",
-    "I have class at two-thirty.",
-    "Today is Monday, and I feel unstoppable.",
-    "Tomorrow is Friday, so almost there!",
     "Can you call your mom when you finish, please?",
     "I love my sister, even when she annoys me.",
     "We argue, but we always make up fast.",
@@ -4398,6 +4393,11 @@
     "Do you have a charger I can borrow for an hour?",
     "Please tell me the best way to the airport.",
     "How much is a taxi to the city center, today?",
-    "Can I have two coffees to go, please?"
+    "Can I have two coffees to go, please?",
+    "Help! I think I swallowed something and I’m choking.",
+    "Call an ambulance right now, please. I need help urgently.",
+    "Stop! There’s a fire. Get everyone out now!",
+    "My nose is bleeding. Please, help me sit up.",
+    "I have chest pain. Call emergency services, please."
   ]
 }
