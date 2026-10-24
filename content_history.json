@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-07T08:59:18.630909",
-      "category": "Emergency Situations",
-      "num_phrases": 5,
-      "phrases": [
-        "Help! I think I have food poisoning.",
-        "Call 911 right now, please.",
-        "I cut my finger. It won’t stop bleeding.",
-        "I’m choking. I can’t breathe!",
-        "I have a high fever. I feel very hot."
-      ]
-    },
-    {
       "timestamp": "2026-08-07T14:52:44.022119",
       "category": "Education & Learning",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’m always getting wrinkles, so I use moisturizer.",
         "This shirt is too tight, so I can’t move."
       ]
+    },
+    {
+      "timestamp": "2026-10-24T12:28:47.747621",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "I love birds, but I hate their messy feathers.",
+        "I want fish, but my tank always smells bad.",
+        "Don’t touch snakes, they bite when scared.",
+        "Rabbits are sweet, but they run away fast.",
+        "Raccoons are smart, but they steal my snacks."
+      ]
     }
   ],
   "used_phrases": [
-    "You look amazing tonight, and I can’t stop smiling.",
-    "I miss you already, and it’s not even late.",
-    "Your laugh is my favorite sound, for real.",
-    "Let’s go on a cute date, just us two.",
-    "Hold my hand, I feel safe with you.",
     "I love cooking tacos, and everyone eats in five minutes.",
     "I go jogging early, because coffee needs winners.",
     "I play video games, but only after I do chores.",
@@ -4398,6 +4393,11 @@
     "This jacket fits me perfectly, so I’ll wear it.",
     "I need new shoes because my sneakers stink.",
     "I’m always getting wrinkles, so I use moisturizer.",
-    "This shirt is too tight, so I can’t move."
+    "This shirt is too tight, so I can’t move.",
+    "I love birds, but I hate their messy feathers.",
+    "I want fish, but my tank always smells bad.",
+    "Don’t touch snakes, they bite when scared.",
+    "Rabbits are sweet, but they run away fast.",
+    "Raccoons are smart, but they steal my snacks."
   ]
 }
