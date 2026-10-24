@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-07T14:52:44.022119",
-      "category": "Education & Learning",
-      "num_phrases": 5,
-      "phrases": [
-        "I can’t find it. Where is it, please?",
-        "Please say it again slowly, I’m learning.",
-        "What does this mean? I need a simple answer.",
-        "I don’t understand. Can you explain it another way?",
-        "Do you speak English? Just a little, please."
-      ]
-    },
-    {
       "timestamp": "2026-08-07T20:40:41.531481",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Rabbits are sweet, but they run away fast.",
         "Raccoons are smart, but they steal my snacks."
       ]
+    },
+    {
+      "timestamp": "2026-10-24T17:14:11.976356",
+      "category": "Shopping",
+      "num_phrases": 5,
+      "phrases": [
+        "Do you have this in a bigger size, please?",
+        "How much is it, and does it include tax?",
+        "Do you have this in black instead?",
+        "Is there a sale today, or any discounts?",
+        "Where are the fitting rooms?"
+      ]
     }
   ],
   "used_phrases": [
-    "I love cooking tacos, and everyone eats in five minutes.",
-    "I go jogging early, because coffee needs winners.",
-    "I play video games, but only after I do chores.",
-    "I paint every weekend, and my walls look happier.",
-    "I watch soccer, and I yell like a tiny referee.",
     "I feel stressed, but I can handle it.",
     "I'm so happy today, everything feels lighter.",
     "I'm nervous before interviews, but I breathe slowly.",
@@ -4398,6 +4393,11 @@
     "I want fish, but my tank always smells bad.",
     "Don’t touch snakes, they bite when scared.",
     "Rabbits are sweet, but they run away fast.",
-    "Raccoons are smart, but they steal my snacks."
+    "Raccoons are smart, but they steal my snacks.",
+    "Do you have this in a bigger size, please?",
+    "How much is it, and does it include tax?",
+    "Do you have this in black instead?",
+    "Is there a sale today, or any discounts?",
+    "Where are the fitting rooms?"
   ]
 }
