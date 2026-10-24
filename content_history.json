@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-07T20:40:41.531481",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "Is there hot water in the shower? I’m cold.",
-        "How much is the rent per month? I need a number.",
-        "I’m looking for a new place to live. Any ideas?",
-        "The Wi-Fi doesn’t work. Can you reset the router?",
-        "Don’t worry, I can fix it. Just give me a minute."
-      ]
-    },
-    {
       "timestamp": "2026-08-08T08:40:38.273302",
       "category": "Food & Dining",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Is there a sale today, or any discounts?",
         "Where are the fitting rooms?"
       ]
+    },
+    {
+      "timestamp": "2026-10-24T22:16:31.670883",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good afternoon! What’s your plan for today?",
+        "Good evening! Are you enjoying your night?",
+        "How’s it going? Tell me one good thing!",
+        "See you later! Text me when you’re free.",
+        "Take care! Drive safe and call me."
+      ]
     }
   ],
   "used_phrases": [
-    "I feel stressed, but I can handle it.",
-    "I'm so happy today, everything feels lighter.",
-    "I'm nervous before interviews, but I breathe slowly.",
-    "I'm sad, and I just need a quiet chat.",
-    "I'm embarrassed, I tripped in front of everyone.",
     "I forgot my wallet, so I paid with my phone.",
     "That ATM charged me fees, and I was not amused.",
     "I’m on a budget, so I skip fancy coffee.",
@@ -4398,6 +4393,11 @@
     "How much is it, and does it include tax?",
     "Do you have this in black instead?",
     "Is there a sale today, or any discounts?",
-    "Where are the fitting rooms?"
+    "Where are the fitting rooms?",
+    "Good afternoon! What’s your plan for today?",
+    "Good evening! Are you enjoying your night?",
+    "How’s it going? Tell me one good thing!",
+    "See you later! Text me when you’re free.",
+    "Take care! Drive safe and call me."
   ]
 }
