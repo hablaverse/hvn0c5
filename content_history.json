@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-08T20:29:44.608589",
-      "category": "Colors & Descriptions",
-      "num_phrases": 5,
-      "phrases": [
-        "My shirt is blue, and my shoes are black.",
-        "The apple is red, and it tastes sweet.",
-        "That sweater is green, and I love the color.",
-        "The sky is gray today, but I feel okay.",
-        "My keys are silver, and they shine a lot."
-      ]
-    },
-    {
       "timestamp": "2026-08-09T08:42:19.150000",
       "category": "Emergency Situations",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I need subtitles because I miss jokes in Spanish.",
         "The trailer was great, and the movie lived up."
       ]
+    },
+    {
+      "timestamp": "2026-10-25T22:19:47.437866",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "I need an adapter for my phone charger today.",
+        "The bathroom light is too bright for me.",
+        "I can't find the Wi-Fi password in my room.",
+        "Please, move your shoes inside the door.",
+        "Is there a washing machine here for clothes?"
+      ]
     }
   ],
   "used_phrases": [
-    "I paid cash, so no credit card fees today.",
-    "How much is it per month, for the plan?",
-    "I think my bill is wrong; can you check it?",
-    "I want to cancel, because I don't use it.",
-    "Can I get a refund for this item?",
     "Where is the bathroom? My story ends here, fast.",
     "I’m looking for this address. Can you help me?",
     "I’ll have water, please. No drama, just water.",
@@ -4398,6 +4393,11 @@
     "That movie twist shocked me so much I yelled.",
     "This song hits hard, so I play it on repeat.",
     "I need subtitles because I miss jokes in Spanish.",
-    "The trailer was great, and the movie lived up."
+    "The trailer was great, and the movie lived up.",
+    "I need an adapter for my phone charger today.",
+    "The bathroom light is too bright for me.",
+    "I can't find the Wi-Fi password in my room.",
+    "Please, move your shoes inside the door.",
+    "Is there a washing machine here for clothes?"
   ]
 }
