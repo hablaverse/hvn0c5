@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-09T08:42:19.150000",
-      "category": "Emergency Situations",
-      "num_phrases": 5,
-      "phrases": [
-        "I think I’m choking, please call 911 right now.",
-        "My chest hurts, and I feel very weak.",
-        "I fell down, and my ankle is very painful.",
-        "I have trouble breathing, so I need help quickly.",
-        "I burned my hand, please bring cold water."
-      ]
-    },
-    {
       "timestamp": "2026-08-09T20:31:36.219599",
       "category": "Technology & Internet",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Please, move your shoes inside the door.",
         "Is there a washing machine here for clothes?"
       ]
+    },
+    {
+      "timestamp": "2026-10-26T14:53:16.515494",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the kitchen towel, please?",
+        "The fridge is empty, so we need groceries.",
+        "My shower is cold; the heater is not working.",
+        "Is there hot water right now?",
+        "I need more batteries for the remote."
+      ]
     }
   ],
   "used_phrases": [
-    "Where is the bathroom? My story ends here, fast.",
-    "I’m looking for this address. Can you help me?",
-    "I’ll have water, please. No drama, just water.",
-    "What do you recommend here? I trust your taste.",
-    "How much is this? Tell me before I fall in love.",
     "My phone is at 2%, so I need power fast.",
     "Can you send me that link, please, right now?",
     "I’m locked out of my account again, help me.",
@@ -4398,6 +4393,11 @@
     "The bathroom light is too bright for me.",
     "I can't find the Wi-Fi password in my room.",
     "Please, move your shoes inside the door.",
-    "Is there a washing machine here for clothes?"
+    "Is there a washing machine here for clothes?",
+    "Where is the kitchen towel, please?",
+    "The fridge is empty, so we need groceries.",
+    "My shower is cold; the heater is not working.",
+    "Is there hot water right now?",
+    "I need more batteries for the remote."
   ]
 }
