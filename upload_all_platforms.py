@@ -22,6 +22,14 @@ except ImportError as e:
     YOUTUBE_AVAILABLE = False
     print(f"[warning] YouTube upload module not available: {e}")
 
+# Import SEO and rich description generator
+try:
+    from seo_optimizer import generate_seo_metadata
+    SEO_OPTIMIZER_AVAILABLE = True
+    print('[info] Using advanced SEO optimizer')
+except ImportError:
+    SEO_OPTIMIZER_AVAILABLE = False
+
 # Import rich description generator from root folder (for Facebook)
 try:
     from upload_to_facebook import generate_facebook_description, generate_facebook_title
@@ -113,6 +121,8 @@ def get_latest_video():
 
 def generate_platform_metadata(category, phrases):
     """Generate platform-specific titles and descriptions"""
+    if SEO_OPTIMIZER_AVAILABLE:
+        return generate_seo_metadata(category, phrases)
 
     # Use RICH Facebook description (from root folder) as the base for all platforms
     fb_description = generate_facebook_description(phrases, category)
@@ -197,7 +207,8 @@ def upload_to_all_platforms(video_path, metadata, category):
                     video_path=video_path,
                     title=platform_meta["youtube"]["title"],
                     description=platform_meta["youtube"]["description"],
-                    tags=platform_meta["youtube"]["tags"]
+                    tags=platform_meta["youtube"]["tags"],
+                    category_id=platform_meta["youtube"].get("category_id", "27")
                 )
                 results["uploads"]["youtube"] = {"status": "success", "result": upload_result}
                 results["platforms_successful"].append("youtube")
