@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-09T20:31:36.219599",
-      "category": "Technology & Internet",
-      "num_phrases": 5,
-      "phrases": [
-        "My Wi‑Fi is slow again, can you restart it, please?",
-        "Where can I find the Wi‑Fi password on my router?",
-        "Can I use your charger for ten minutes, please?",
-        "My phone says no service, where is the signal?",
-        "This website is not loading, help me refresh it."
-      ]
-    },
-    {
       "timestamp": "2026-08-10T09:20:34.051562",
       "category": "Travel Essentials",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Is there hot water right now?",
         "I need more batteries for the remote."
       ]
+    },
+    {
+      "timestamp": "2026-10-26T23:36:24.205187",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m lost; where is the bus stop near here?",
+        "Where can I buy water before I get tired?",
+        "Is there a pharmacy open right now, please?",
+        "My phone battery is dying; where is the charger?",
+        "Do you have towels for the beach, right here?"
+      ]
     }
   ],
   "used_phrases": [
-    "My phone is at 2%, so I need power fast.",
-    "Can you send me that link, please, right now?",
-    "I’m locked out of my account again, help me.",
-    "My password won’t work, so I need a reset.",
-    "Tell me why it’s buffering, I’m trying to watch.",
     "I spent all my money yesterday, and I feel shocked.",
     "I need cash today, because the card machine is broken.",
     "I paid in installments, so my budget feels lighter.",
@@ -4398,6 +4393,11 @@
     "The fridge is empty, so we need groceries.",
     "My shower is cold; the heater is not working.",
     "Is there hot water right now?",
-    "I need more batteries for the remote."
+    "I need more batteries for the remote.",
+    "I’m lost; where is the bus stop near here?",
+    "Where can I buy water before I get tired?",
+    "Is there a pharmacy open right now, please?",
+    "My phone battery is dying; where is the charger?",
+    "Do you have towels for the beach, right here?"
   ]
 }
