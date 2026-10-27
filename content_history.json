@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-10T09:20:34.051562",
-      "category": "Travel Essentials",
-      "num_phrases": 5,
-      "phrases": [
-        "Where is the train station, please? I’m lost.",
-        "How much is this ticket to downtown?",
-        "Can I get a window seat, please?",
-        "Is there a pharmacy near here? I need medicine.",
-        "I’m looking for the nearest ATM, please."
-      ]
-    },
-    {
       "timestamp": "2026-08-10T14:58:39.959201",
       "category": "Emergency Situations",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "My phone battery is dying; where is the charger?",
         "Do you have towels for the beach, right here?"
       ]
+    },
+    {
+      "timestamp": "2026-10-27T14:41:38.079893",
+      "category": "Daily Greetings",
+      "num_phrases": 5,
+      "phrases": [
+        "Good morning! How is your day going?",
+        "Hi, friend! Did you eat breakfast yet?",
+        "Good evening! Let’s relax a bit tonight.",
+        "How are you? I hope things are good.",
+        "Take care! Have a great day tomorrow."
+      ]
     }
   ],
   "used_phrases": [
-    "I spent all my money yesterday, and I feel shocked.",
-    "I need cash today, because the card machine is broken.",
-    "I paid in installments, so my budget feels lighter.",
-    "I forgot my wallet, so I had to borrow money.",
-    "Is there a late fee, or do I just pay later?",
     "It's 7 a.m., so meet me at seven sharp.",
     "I have class at 3 p.m., not at 3:30.",
     "Wait, it's 11:59, so we need to hurry.",
@@ -4398,6 +4393,11 @@
     "Where can I buy water before I get tired?",
     "Is there a pharmacy open right now, please?",
     "My phone battery is dying; where is the charger?",
-    "Do you have towels for the beach, right here?"
+    "Do you have towels for the beach, right here?",
+    "Good morning! How is your day going?",
+    "Hi, friend! Did you eat breakfast yet?",
+    "Good evening! Let’s relax a bit tonight.",
+    "How are you? I hope things are good.",
+    "Take care! Have a great day tomorrow."
   ]
 }
