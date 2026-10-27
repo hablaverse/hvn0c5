@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-10T14:58:39.959201",
-      "category": "Emergency Situations",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m in danger, and I need help right now.",
-        "Call 911, because I feel dizzy and confused.",
-        "I have a severe headache, please get me help.",
-        "There’s smoke in my apartment, we must leave now!",
-        "I think I’m bitten by a bug, what should I do?"
-      ]
-    },
-    {
       "timestamp": "2026-08-10T20:42:22.643373",
       "category": "Technology & Internet",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "How are you? I hope things are good.",
         "Take care! Have a great day tomorrow."
       ]
+    },
+    {
+      "timestamp": "2026-10-27T23:31:37.835414",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel stressed, but I can handle it.",
+        "I’m excited to start learning Spanish today!",
+        "I’m fine, just a little sad today.",
+        "I’m tired, can we rest for a bit?",
+        "I feel lonely when I’m away from home."
+      ]
     }
   ],
   "used_phrases": [
-    "It's 7 a.m., so meet me at seven sharp.",
-    "I have class at 3 p.m., not at 3:30.",
-    "Wait, it's 11:59, so we need to hurry.",
-    "My phone is at 20%, so charge it now.",
-    "I’m hungry, so let’s eat at 6 o’clock.",
     "My mom makes the best tacos, seriously, every Sunday.",
     "Dad is grumpy, but he always helps me.",
     "I call my sister when I need advice.",
@@ -4398,6 +4393,11 @@
     "Hi, friend! Did you eat breakfast yet?",
     "Good evening! Let’s relax a bit tonight.",
     "How are you? I hope things are good.",
-    "Take care! Have a great day tomorrow."
+    "Take care! Have a great day tomorrow.",
+    "I feel stressed, but I can handle it.",
+    "I’m excited to start learning Spanish today!",
+    "I’m fine, just a little sad today.",
+    "I’m tired, can we rest for a bit?",
+    "I feel lonely when I’m away from home."
   ]
 }
