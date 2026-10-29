@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-11T08:56:05.733340",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "The Wi-Fi is down again, I need it fixed now!",
-        "I’m cold, can I turn on the heater, please?",
-        "Please close the window, the mosquitoes are partying!",
-        "The faucet is leaking, and my floor is becoming a pond.",
-        "My sink smells bad, can we clean it today?"
-      ]
-    },
-    {
       "timestamp": "2026-08-11T14:57:23.617060",
       "category": "Directions",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I need a spotter for my squats.",
         "That gym playlist is fire, I love it!"
       ]
+    },
+    {
+      "timestamp": "2026-10-29T23:49:15.267857",
+      "category": "Hobbies & Activities",
+      "num_phrases": 5,
+      "phrases": [
+        "I love taking photos of street art everywhere I go.",
+        "I’m obsessed with cooking tacos, even when I burn them.",
+        "I play soccer after work, and my shoes complain loudly.",
+        "I love painting, because my mood needs color.",
+        "I swear my plants are my best friends at home."
+      ]
     }
   ],
   "used_phrases": [
-    "I feel nervous before every job interview.",
-    "I’m so excited to start this new class!",
-    "I feel sad when I miss my best friend.",
-    "I’m angry, but I’ll calm down in five minutes.",
-    "I feel scared in the dark hall at night.",
     "I don't have enough money, so can I pay later?",
     "Don't worry, I'll pay by cash, not my card.",
     "I think this is too expensive, can we find cheaper?",
@@ -4398,6 +4393,11 @@
     "How many minutes left in this workout?",
     "My legs feel tired, can we slow down?",
     "I need a spotter for my squats.",
-    "That gym playlist is fire, I love it!"
+    "That gym playlist is fire, I love it!",
+    "I love taking photos of street art everywhere I go.",
+    "I’m obsessed with cooking tacos, even when I burn them.",
+    "I play soccer after work, and my shoes complain loudly.",
+    "I love painting, because my mood needs color.",
+    "I swear my plants are my best friends at home."
   ]
 }
