@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-11T14:57:23.617060",
-      "category": "Directions",
-      "num_phrases": 5,
-      "phrases": [
-        "Stop here, please, and take this picture with me.",
-        "Turn left at the corner, and follow me!",
-        "Go straight, then you’ll see it right there.",
-        "Walk two blocks, and I’ll meet you outside.",
-        "Take the elevator, not the stairs, trust me."
-      ]
-    },
-    {
       "timestamp": "2026-08-11T20:43:27.283899",
       "category": "Technology & Internet",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I love painting, because my mood needs color.",
         "I swear my plants are my best friends at home."
       ]
+    },
+    {
+      "timestamp": "2026-10-30T23:29:26.562983",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "Do you have water without ice, please?",
+        "I lost my keys. Can I get help, please?",
+        "Is there a pharmacy nearby, like right here?",
+        "I want a ticket for the next train to Madrid.",
+        "I’m just looking, but the price looks great."
+      ]
     }
   ],
   "used_phrases": [
-    "I don't have enough money, so can I pay later?",
-    "Don't worry, I'll pay by cash, not my card.",
-    "I think this is too expensive, can we find cheaper?",
-    "My card got declined, so I need another payment.",
-    "I forgot my PIN, so I can't buy anything.",
     "My phone says no service, so I need Wi-Fi.",
     "Where is the charging cable? Mine is missing again.",
     "I can't connect; the password is wrong, I think.",
@@ -4398,6 +4393,11 @@
     "I’m obsessed with cooking tacos, even when I burn them.",
     "I play soccer after work, and my shoes complain loudly.",
     "I love painting, because my mood needs color.",
-    "I swear my plants are my best friends at home."
+    "I swear my plants are my best friends at home.",
+    "Do you have water without ice, please?",
+    "I lost my keys. Can I get help, please?",
+    "Is there a pharmacy nearby, like right here?",
+    "I want a ticket for the next train to Madrid.",
+    "I’m just looking, but the price looks great."
   ]
 }
