@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-12T14:57:07.783518",
-      "category": "Travel Essentials",
-      "num_phrases": 5,
-      "phrases": [
-        "I need sunscreen, because the sun here is no joke.",
-        "Where is the nearest pharmacy? I need medicine, fast.",
-        "Can I pay with card? Cash makes me nervous.",
-        "Do you have water that is safe to drink?",
-        "I have a small suitcase. Where can I store it?"
-      ]
-    },
-    {
       "timestamp": "2026-08-12T20:43:05.206461",
       "category": "Weather",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "The air feels cold, give me a jacket!",
         "There’s fog, so I can’t see the road."
       ]
+    },
+    {
+      "timestamp": "2026-11-01T14:46:35.939483",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the kitchen? I’m lost, please help me.",
+        "This bathroom door sticks, and I can’t open it.",
+        "I need a towel, because I spilled water everywhere.",
+        "My shower is cold, turn it on warmer, please.",
+        "The fridge is empty, can you buy eggs tomorrow?"
+      ]
     }
   ],
   "used_phrases": [
-    "I’m hungry. What do you recommend at this place?",
-    "Sorry, I don’t understand. Can you say that again?",
-    "How much is this? I want to know the total price.",
-    "I’ll have water, please. No soda for me today.",
-    "Is there Wi-Fi here? I need to check something.",
     "It’s five o’clock, let’s go!",
     "I have ten minutes, then I’m leaving.",
     "The store opens at nine in the morning.",
@@ -4398,6 +4393,11 @@
     "The weather is hot, so I need water.",
     "It’s cloudy, so I think rain is coming.",
     "The air feels cold, give me a jacket!",
-    "There’s fog, so I can’t see the road."
+    "There’s fog, so I can’t see the road.",
+    "Where is the kitchen? I’m lost, please help me.",
+    "This bathroom door sticks, and I can’t open it.",
+    "I need a towel, because I spilled water everywhere.",
+    "My shower is cold, turn it on warmer, please.",
+    "The fridge is empty, can you buy eggs tomorrow?"
   ]
 }
