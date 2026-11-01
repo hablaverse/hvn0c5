@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-12T20:43:05.206461",
-      "category": "Weather",
-      "num_phrases": 5,
-      "phrases": [
-        "It's raining hard, so bring your umbrella right now.",
-        "The wind is crazy today, and my hat is gone!",
-        "It's freezing outside, so wear a warm jacket.",
-        "The sun is strong today, even when it's cloudy.",
-        "Is there a storm coming? I hate sudden thunder."
-      ]
-    },
-    {
       "timestamp": "2026-08-13T09:11:51.989145",
       "category": "Money & Finance",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "My shower is cold, turn it on warmer, please.",
         "The fridge is empty, can you buy eggs tomorrow?"
       ]
+    },
+    {
+      "timestamp": "2026-11-01T23:23:52.898079",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "My mom always tells me to call her.",
+        "Dad says I can do it, even when I doubt myself.",
+        "My sister is my best friend, for real.",
+        "Can you text me when you get home?",
+        "I miss you, and I hope you’re doing okay."
+      ]
     }
   ],
   "used_phrases": [
-    "It’s five o’clock, let’s go!",
-    "I have ten minutes, then I’m leaving.",
-    "The store opens at nine in the morning.",
-    "We’ll meet at seven p.m. tonight.",
-    "My class starts at six, not at seven.",
     "I have a headache again, ugh, it's so annoying.",
     "I’m thirsty; can I have some water, please?",
     "I’m not sick, I just feel a little tired.",
@@ -4398,6 +4393,11 @@
     "This bathroom door sticks, and I can’t open it.",
     "I need a towel, because I spilled water everywhere.",
     "My shower is cold, turn it on warmer, please.",
-    "The fridge is empty, can you buy eggs tomorrow?"
+    "The fridge is empty, can you buy eggs tomorrow?",
+    "My mom always tells me to call her.",
+    "Dad says I can do it, even when I doubt myself.",
+    "My sister is my best friend, for real.",
+    "Can you text me when you get home?",
+    "I miss you, and I hope you’re doing okay."
   ]
 }
