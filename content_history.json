@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-13T09:11:51.989145",
-      "category": "Money & Finance",
-      "num_phrases": 5,
-      "phrases": [
-        "I spend less when I track every purchase.",
-        "Can I pay in cash, or do you take cards?",
-        "I forgot my wallet, can I pay later?",
-        "The receipt is my proof, so please keep it.",
-        "Is there a discount if I buy two?"
-      ]
-    },
-    {
       "timestamp": "2026-08-13T20:42:01.738414",
       "category": "Numbers & Time",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Can you text me when you get home?",
         "I miss you, and I hope you’re doing okay."
       ]
+    },
+    {
+      "timestamp": "2026-11-02T17:52:50.396702",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel nervous before big meetings, even when I’m ready.",
+        "I’m super happy today, and I can’t stop smiling.",
+        "I’m tired, so please talk to me in simple words.",
+        "I’m angry, but I’m trying to calm down right now.",
+        "I feel sad, so I just need a quick hug."
+      ]
     }
   ],
   "used_phrases": [
-    "I have a headache again, ugh, it's so annoying.",
-    "I’m thirsty; can I have some water, please?",
-    "I’m not sick, I just feel a little tired.",
-    "I have a fever, so I won’t go out today.",
-    "My stomach hurts; I think I ate something bad.",
     "I love this song, it’s stuck in my head!",
     "This singer sounds amazing live, no joke!",
     "Don’t spoil it, I want to watch this tonight.",
@@ -4398,6 +4393,11 @@
     "Dad says I can do it, even when I doubt myself.",
     "My sister is my best friend, for real.",
     "Can you text me when you get home?",
-    "I miss you, and I hope you’re doing okay."
+    "I miss you, and I hope you’re doing okay.",
+    "I feel nervous before big meetings, even when I’m ready.",
+    "I’m super happy today, and I can’t stop smiling.",
+    "I’m tired, so please talk to me in simple words.",
+    "I’m angry, but I’m trying to calm down right now.",
+    "I feel sad, so I just need a quick hug."
   ]
 }
