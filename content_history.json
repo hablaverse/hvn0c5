@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-13T20:42:01.738414",
-      "category": "Numbers & Time",
-      "num_phrases": 5,
-      "phrases": [
-        "It’s ten minutes past two.",
-        "It’s five minutes to four.",
-        "I have class at seven o’clock.",
-        "We meet at eight tonight.",
-        "My phone number is three one seven."
-      ]
-    },
-    {
       "timestamp": "2026-08-14T09:07:19.791554",
       "category": "Hobbies & Activities",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’m angry, but I’m trying to calm down right now.",
         "I feel sad, so I just need a quick hug."
       ]
+    },
+    {
+      "timestamp": "2026-11-03T02:03:02.816786",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "Dude, this is cool, tell me where you got it!",
+        "That’s awesome, no way, I can’t believe it!",
+        "I’m starving, let’s grab tacos right now!",
+        "I’m running late, don’t wait up for me!",
+        "That’s shady, I don’t trust this guy."
+      ]
     }
   ],
   "used_phrases": [
-    "I love this song, it’s stuck in my head!",
-    "This singer sounds amazing live, no joke!",
-    "Don’t spoil it, I want to watch this tonight.",
-    "I’m obsessed with that new series, help me!",
-    "Can you turn it up? I need more bass!",
     "I love cooking; it’s my favorite hobby after work.",
     "I’m always practicing Spanish; it’s my daily workout.",
     "I go for a walk every night; it clears my head.",
@@ -4398,6 +4393,11 @@
     "I’m super happy today, and I can’t stop smiling.",
     "I’m tired, so please talk to me in simple words.",
     "I’m angry, but I’m trying to calm down right now.",
-    "I feel sad, so I just need a quick hug."
+    "I feel sad, so I just need a quick hug.",
+    "Dude, this is cool, tell me where you got it!",
+    "That’s awesome, no way, I can’t believe it!",
+    "I’m starving, let’s grab tacos right now!",
+    "I’m running late, don’t wait up for me!",
+    "That’s shady, I don’t trust this guy."
   ]
 }
