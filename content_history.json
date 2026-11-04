@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-14T20:31:06.646453",
-      "category": "Fashion & Appearance",
-      "num_phrases": 5,
-      "phrases": [
-        "This shirt is too tight for me, honestly.",
-        "Your shoes look great, but the color is bold.",
-        "I think my hat is on wrong, not cool.",
-        "My jacket is wrinkled, so I need it ironed.",
-        "These jeans fit me, but they feel too long."
-      ]
-    },
-    {
       "timestamp": "2026-08-15T08:27:55.690334",
       "category": "Directions",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Could you explain that again, slowly, please?",
         "What’s the budget for this project?"
       ]
+    },
+    {
+      "timestamp": "2026-11-04T15:59:23.562618",
+      "category": "Work & Business",
+      "num_phrases": 5,
+      "phrases": [
+        "I forgot to attach the document, sorry!",
+        "What time does the meeting start exactly?",
+        "Please write my name correctly on the list.",
+        "I’m free after 3 pm, can we talk then?",
+        "We need approval before we start production."
+      ]
     }
   ],
   "used_phrases": [
-    "Cats are cool, but I am allergic to cats.",
-    "I hate mosquitoes; they always bite me at night.",
-    "Dogs are friendly, and my neighbor has a friendly dog.",
-    "My favorite animal is a giraffe, so tall!",
-    "That horse is big, but it looks calm to me.",
     "I think I’m having a heart problem right now, please help!",
     "Call 911 now, I’m not feeling okay at all!",
     "Stop the bleeding, please! I need a bandage, now!",
@@ -4398,6 +4393,11 @@
     "I’m waiting for your reply, not a message later.",
     "Let’s set a meeting for tomorrow morning.",
     "Could you explain that again, slowly, please?",
-    "What’s the budget for this project?"
+    "What’s the budget for this project?",
+    "I forgot to attach the document, sorry!",
+    "What time does the meeting start exactly?",
+    "Please write my name correctly on the list.",
+    "I’m free after 3 pm, can we talk then?",
+    "We need approval before we start production."
   ]
 }
