@@ -24,7 +24,7 @@ from dotenv import load_dotenv
 # ============================================================
 
 # API Configuration
-POLLINATIONS_API_KEY = os.getenv("POLLINATIONS_API_KEY", "sk_M6MzY38oOt2wCvBZNWH4Y8byvhsrBhVK")
+POLLINATIONS_API_KEY = os.getenv("POLLINATIONS_API_KEY", "")
 
 # Voice settings
 ENGLISH_VOICE = "en-US-GuyNeural"
