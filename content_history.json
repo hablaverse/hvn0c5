@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-15T08:27:55.690334",
-      "category": "Directions",
-      "num_phrases": 5,
-      "phrases": [
-        "Turn left here, and keep walking straight.",
-        "Take the second street on your left, please.",
-        "Stop here for a second, then we continue.",
-        "Cross the street, and don’t run.",
-        "Turn around, your keys are on the table."
-      ]
-    },
-    {
       "timestamp": "2026-08-15T14:22:14.382232",
       "category": "Directions",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’m free after 3 pm, can we talk then?",
         "We need approval before we start production."
       ]
+    },
+    {
+      "timestamp": "2026-11-05T00:45:05.106635",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "That song is stuck in my head, help me!",
+        "This DJ plays nonstop hits, I love it!",
+        "I’m going to that concert tonight, are you coming?",
+        "Your playlist is fire, tell me your secret!",
+        "This movie is so funny, I can’t stop laughing!"
+      ]
     }
   ],
   "used_phrases": [
-    "I think I’m having a heart problem right now, please help!",
-    "Call 911 now, I’m not feeling okay at all!",
-    "Stop the bleeding, please! I need a bandage, now!",
-    "I can’t breathe! Help me breathe, right now!",
-    "My child is choking, please help immediately!",
     "Can you help me carry this big box?",
     "I locked the door, and now I need my key.",
     "Is the faucet dripping, or is it just me?",
@@ -4398,6 +4393,11 @@
     "What time does the meeting start exactly?",
     "Please write my name correctly on the list.",
     "I’m free after 3 pm, can we talk then?",
-    "We need approval before we start production."
+    "We need approval before we start production.",
+    "That song is stuck in my head, help me!",
+    "This DJ plays nonstop hits, I love it!",
+    "I’m going to that concert tonight, are you coming?",
+    "Your playlist is fire, tell me your secret!",
+    "This movie is so funny, I can’t stop laughing!"
   ]
 }
