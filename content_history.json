@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-15T14:22:14.382232",
-      "category": "Directions",
-      "num_phrases": 5,
-      "phrases": [
-        "Turn right at the bank, and go straight.",
-        "Go straight, and the door is on your left.",
-        "Stop here, then wait for the bus.",
-        "Please keep walking until you see the big sign.",
-        "Get off at the next stop, please."
-      ]
-    },
-    {
       "timestamp": "2026-08-15T20:21:27.122256",
       "category": "Slang & Informal",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Your playlist is fire, tell me your secret!",
         "This movie is so funny, I can’t stop laughing!"
       ]
+    },
+    {
+      "timestamp": "2026-11-05T16:11:07.359104",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "My bathroom is tiny, but it’s my cozy spot.",
+        "Can you bring the keys, they’re on the table?",
+        "The Wi-Fi is weak here, can we try again?",
+        "I need a blanket. This floor is freezing!",
+        "Don’t slam the door. It scares me at night!"
+      ]
     }
   ],
   "used_phrases": [
-    "Can you help me carry this big box?",
-    "I locked the door, and now I need my key.",
-    "Is the faucet dripping, or is it just me?",
-    "My sink smells bad; something is stuck.",
-    "Please, can I borrow your umbrella for today?",
     "I’m sore today, but I’ll stretch after my workout.",
     "I forgot my water bottle, so I’m thirsty right now.",
     "No, I don’t want to rest; let’s do one more set!",
@@ -4398,6 +4393,11 @@
     "This DJ plays nonstop hits, I love it!",
     "I’m going to that concert tonight, are you coming?",
     "Your playlist is fire, tell me your secret!",
-    "This movie is so funny, I can’t stop laughing!"
+    "This movie is so funny, I can’t stop laughing!",
+    "My bathroom is tiny, but it’s my cozy spot.",
+    "Can you bring the keys, they’re on the table?",
+    "The Wi-Fi is weak here, can we try again?",
+    "I need a blanket. This floor is freezing!",
+    "Don’t slam the door. It scares me at night!"
   ]
 }
