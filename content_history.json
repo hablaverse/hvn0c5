@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-15T20:21:27.122256",
-      "category": "Slang & Informal",
-      "num_phrases": 5,
-      "phrases": [
-        "That movie was awesome, I loved every minute.",
-        "I’m running late, I’ll meet you in five minutes.",
-        "That’s totally fine, no worries at all, okay?",
-        "I’m broke, can you spot me for coffee?",
-        "Let’s hang out tonight, just us and snacks."
-      ]
-    },
-    {
       "timestamp": "2026-08-16T08:29:14.159343",
       "category": "Slang & Informal",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I need a blanket. This floor is freezing!",
         "Don’t slam the door. It scares me at night!"
       ]
+    },
+    {
+      "timestamp": "2026-11-06T00:48:06.285391",
+      "category": "Hobbies & Activities",
+      "num_phrases": 5,
+      "phrases": [
+        "I love painting little things, they make me smile.",
+        "I ride my bike to clear my mind.",
+        "I play soccer after work, even if I’m tired.",
+        "I love cooking spicy food, it’s my superpower.",
+        "I go hiking with a playlist, it feels like magic."
+      ]
     }
   ],
   "used_phrases": [
-    "I’m sore today, but I’ll stretch after my workout.",
-    "I forgot my water bottle, so I’m thirsty right now.",
-    "No, I don’t want to rest; let’s do one more set!",
-    "My legs are shaking, so I’m slowing down a bit.",
-    "Can you spot me for squats, please?",
     "I love cooking pasta, and the smell makes me happy.",
     "I go jogging early, because mornings feel like a reset.",
     "I practice guitar at night, and my fingers learn quietly.",
@@ -4398,6 +4393,11 @@
     "Can you bring the keys, they’re on the table?",
     "The Wi-Fi is weak here, can we try again?",
     "I need a blanket. This floor is freezing!",
-    "Don’t slam the door. It scares me at night!"
+    "Don’t slam the door. It scares me at night!",
+    "I love painting little things, they make me smile.",
+    "I ride my bike to clear my mind.",
+    "I play soccer after work, even if I’m tired.",
+    "I love cooking spicy food, it’s my superpower.",
+    "I go hiking with a playlist, it feels like magic."
   ]
 }
