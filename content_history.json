@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-16T14:22:25.161901",
-      "category": "Money & Finance",
-      "num_phrases": 5,
-      "phrases": [
-        "How much is this, before taxes, please?",
-        "I’m on a budget, so this price worries me.",
-        "I paid in cash, so no receipt this time.",
-        "My card got declined, can you try again?",
-        "Do you have a cheaper option, like a smaller size?"
-      ]
-    },
-    {
       "timestamp": "2026-08-16T20:21:18.385971",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Your shirt is black; it looks classy and cool!",
         "I want white sneakers, they match everything!"
       ]
+    },
+    {
+      "timestamp": "2026-11-07T00:27:38.520532",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "I have a headache right now, can you get water?",
+        "My throat hurts, so I drink warm tea.",
+        "I’m tired, but my body feels heavy today.",
+        "I have a fever, and I’m staying in bed.",
+        "My stomach hurts, so I’ll eat something light."
+      ]
     }
   ],
   "used_phrases": [
-    "Can you help me find the bus stop near here?",
-    "Where is the nearest pharmacy for this medicine?",
-    "I need a ticket to the airport, please.",
-    "Is this water safe to drink, or is it risky?",
-    "Do you accept credit cards, or only cash here?",
     "I have a headache, so I need quiet right now.",
     "I’m tired, and I need to sleep early tonight.",
     "I feel sick, so I’m not going out today.",
@@ -4398,6 +4393,11 @@
     "My pen is blue, and it writes like magic!",
     "This wall is green, and it feels so fresh!",
     "Your shirt is black; it looks classy and cool!",
-    "I want white sneakers, they match everything!"
+    "I want white sneakers, they match everything!",
+    "I have a headache right now, can you get water?",
+    "My throat hurts, so I drink warm tea.",
+    "I’m tired, but my body feels heavy today.",
+    "I have a fever, and I’m staying in bed.",
+    "My stomach hurts, so I’ll eat something light."
   ]
 }
