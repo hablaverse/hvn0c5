@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-17T08:42:55.019757",
-      "category": "Common Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "Do you have Wi-Fi here? What’s the password?",
-        "I would like a coffee, please, no sugar.",
-        "I’m meeting my friend, what time does it start?",
-        "Is this spicy? I can’t handle too much heat.",
-        "What do you recommend here? I want something local."
-      ]
-    },
-    {
       "timestamp": "2026-08-17T14:26:51.617906",
       "category": "Slang & Informal",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I love your hair, it looks super shiny today.",
         "This perfume smells amazing, what is it called?"
       ]
+    },
+    {
+      "timestamp": "2026-11-07T23:27:47.089310",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel nervous before I speak in Spanish.",
+        "I’m really happy you invited me to dinner!",
+        "I feel calm when I listen to soft music.",
+        "I’m bored right now, what should we do?",
+        "I feel lonely when everyone leaves so fast."
+      ]
     }
   ],
   "used_phrases": [
-    "I need help right now. Call the police, please.",
-    "Is anyone injured? Please call an ambulance now.",
-    "I can’t breathe. Please call 911 immediately.",
-    "My chest hurts. I think I’m having a heart problem.",
-    "I’m choking. Someone help me, please.",
     "I cut my hand; press here and call for help now.",
     "I think I have food poisoning; I need a doctor.",
     "My phone is dead; I need to call emergency services.",
@@ -4398,6 +4393,11 @@
     "This jacket fits me perfectly, it makes me feel cool.",
     "Can you recommend a shirt color that suits me?",
     "I love your hair, it looks super shiny today.",
-    "This perfume smells amazing, what is it called?"
+    "This perfume smells amazing, what is it called?",
+    "I feel nervous before I speak in Spanish.",
+    "I’m really happy you invited me to dinner!",
+    "I feel calm when I listen to soft music.",
+    "I’m bored right now, what should we do?",
+    "I feel lonely when everyone leaves so fast."
   ]
 }
