@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-16T20:21:18.385971",
-      "category": "Daily Greetings",
-      "num_phrases": 5,
-      "phrases": [
-        "Hi, how’s it going today?",
-        "Nice to meet you! I’m Alex.",
-        "Hey, what’s up? Tell me!",
-        "Thank you! Have a great day.",
-        "See you later! Don’t forget me."
-      ]
-    },
-    {
       "timestamp": "2026-08-17T08:42:55.019757",
       "category": "Common Phrases",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I have a fever, and I’m staying in bed.",
         "My stomach hurts, so I’ll eat something light."
       ]
+    },
+    {
+      "timestamp": "2026-11-07T14:42:48.526999",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "Your outfit is so cute, I want the same vibe.",
+        "This jacket fits me perfectly, it makes me feel cool.",
+        "Can you recommend a shirt color that suits me?",
+        "I love your hair, it looks super shiny today.",
+        "This perfume smells amazing, what is it called?"
+      ]
     }
   ],
   "used_phrases": [
-    "I have a headache, so I need quiet right now.",
-    "I’m tired, and I need to sleep early tonight.",
-    "I feel sick, so I’m not going out today.",
-    "I have a sore throat, and it hurts when I talk.",
-    "I’m hungry, and I need something healthy to eat.",
     "I need help right now. Call the police, please.",
     "Is anyone injured? Please call an ambulance now.",
     "I can’t breathe. Please call 911 immediately.",
@@ -4398,6 +4393,11 @@
     "My throat hurts, so I drink warm tea.",
     "I’m tired, but my body feels heavy today.",
     "I have a fever, and I’m staying in bed.",
-    "My stomach hurts, so I’ll eat something light."
+    "My stomach hurts, so I’ll eat something light.",
+    "Your outfit is so cute, I want the same vibe.",
+    "This jacket fits me perfectly, it makes me feel cool.",
+    "Can you recommend a shirt color that suits me?",
+    "I love your hair, it looks super shiny today.",
+    "This perfume smells amazing, what is it called?"
   ]
 }
