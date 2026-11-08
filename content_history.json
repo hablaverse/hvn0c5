@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-17T14:26:51.617906",
-      "category": "Slang & Informal",
-      "num_phrases": 5,
-      "phrases": [
-        "That’s hilarious, I’m laughing so hard right now.",
-        "Wait, that’s wild! I can’t believe you said that.",
-        "No way, that can’t be true!",
-        "I’m super tired; I just want to chill now.",
-        "Don’t worry, I’ve got it. I’ll handle it."
-      ]
-    },
-    {
       "timestamp": "2026-08-17T20:26:21.618962",
       "category": "Animals",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’m bored right now, what should we do?",
         "I feel lonely when everyone leaves so fast."
       ]
+    },
+    {
+      "timestamp": "2026-11-08T14:48:02.941646",
+      "category": "Shopping",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the checkout counter?",
+        "Do you accept returns without the receipt?",
+        "Is this on sale today? I love discounts.",
+        "This looks great on me. Where are the colors?",
+        "Do you have a cheaper option?"
+      ]
     }
   ],
   "used_phrases": [
-    "I cut my hand; press here and call for help now.",
-    "I think I have food poisoning; I need a doctor.",
-    "My phone is dead; I need to call emergency services.",
-    "I’m dizzy; I might faint, so stay with me.",
-    "I got burned by hot water; cool it with water.",
     "I just emailed the invoice to you, okay?",
     "I’ll handle the meeting notes and send them.",
     "Can you give me a quick update on progress?",
@@ -4398,6 +4393,11 @@
     "I’m really happy you invited me to dinner!",
     "I feel calm when I listen to soft music.",
     "I’m bored right now, what should we do?",
-    "I feel lonely when everyone leaves so fast."
+    "I feel lonely when everyone leaves so fast.",
+    "Where is the checkout counter?",
+    "Do you accept returns without the receipt?",
+    "Is this on sale today? I love discounts.",
+    "This looks great on me. Where are the colors?",
+    "Do you have a cheaper option?"
   ]
 }
