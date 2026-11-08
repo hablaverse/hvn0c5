@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-17T20:26:21.618962",
-      "category": "Animals",
-      "num_phrases": 5,
-      "phrases": [
-        "I love cats, they make my day better.",
-        "Dogs are great, but I’m afraid of big ones.",
-        "I’m allergic to cats, so no cuddles today.",
-        "I have a pet turtle, and it’s very quiet.",
-        "That bird is so loud, it wakes me up!"
-      ]
-    },
-    {
       "timestamp": "2026-08-18T08:36:45.098087",
       "category": "Education & Learning",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "This looks great on me. Where are the colors?",
         "Do you have a cheaper option?"
       ]
+    },
+    {
+      "timestamp": "2026-11-08T23:27:19.524514",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "The sun is out, and it feels hot!",
+        "It’s windy, so I can’t keep my hat on.",
+        "The sky looks gray, so it might rain soon.",
+        "I think there will be thunderstorms tonight.",
+        "It’s snowing, so the roads look dangerous."
+      ]
     }
   ],
   "used_phrases": [
-    "I just emailed the invoice to you, okay?",
-    "I’ll handle the meeting notes and send them.",
-    "Can you give me a quick update on progress?",
-    "Please confirm the deadline by Friday.",
-    "I need this approved before we ship it.",
     "That dress is cute, and you look amazing tonight.",
     "This playlist is fire, turn it up right now.",
     "No worries, we’ll figure it out together.",
@@ -4398,6 +4393,11 @@
     "Do you accept returns without the receipt?",
     "Is this on sale today? I love discounts.",
     "This looks great on me. Where are the colors?",
-    "Do you have a cheaper option?"
+    "Do you have a cheaper option?",
+    "The sun is out, and it feels hot!",
+    "It’s windy, so I can’t keep my hat on.",
+    "The sky looks gray, so it might rain soon.",
+    "I think there will be thunderstorms tonight.",
+    "It’s snowing, so the roads look dangerous."
   ]
 }
