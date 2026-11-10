@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-18T14:33:41.025553",
-      "category": "Hobbies & Activities",
-      "num_phrases": 5,
-      "phrases": [
-        "I love hiking; I feel free on mountain trails.",
-        "I go to the gym after work, no excuses.",
-        "I cook pasta at home, and it tastes like comfort.",
-        "I paint for fun; my mess becomes art every time.",
-        "I play video games, but only with friends."
-      ]
-    },
-    {
       "timestamp": "2026-08-18T20:23:24.123862",
       "category": "Weather",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’m thirsty, this water tastes weird.",
         "I have a fever, please take my temperature."
       ]
+    },
+    {
+      "timestamp": "2026-11-10T16:08:41.354391",
+      "category": "Technology & Internet",
+      "num_phrases": 5,
+      "phrases": [
+        "My phone is at 1%, can you help me charge it?",
+        "What’s the password for the Wi-Fi network here?",
+        "The app is crashing, it closes by itself.",
+        "My internet is slow, pages take forever to load.",
+        "Where can I find the settings on my phone?"
+      ]
     }
   ],
   "used_phrases": [
-    "Can you send the invoice today, please?",
-    "I’ll review the document and get back to you.",
-    "Let’s jump on a quick call this afternoon.",
-    "Who’s responsible for the client follow-up?",
-    "I’m running late, but I’ll be there soon.",
     "I’ll be there in ten minutes, not one more.",
     "I have one coffee, then I’m done.",
     "My password is number seven, seriously.",
@@ -4398,6 +4393,11 @@
     "I have a headache, so I will drink water.",
     "I’m hungry, can we grab a quick snack?",
     "I’m thirsty, this water tastes weird.",
-    "I have a fever, please take my temperature."
+    "I have a fever, please take my temperature.",
+    "My phone is at 1%, can you help me charge it?",
+    "What’s the password for the Wi-Fi network here?",
+    "The app is crashing, it closes by itself.",
+    "My internet is slow, pages take forever to load.",
+    "Where can I find the settings on my phone?"
   ]
 }
