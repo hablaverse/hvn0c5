@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-18T20:23:24.123862",
-      "category": "Weather",
-      "num_phrases": 5,
-      "phrases": [
-        "It’s raining hard, so bring your umbrella.",
-        "The wind is crazy; my hat won’t stay on.",
-        "It’s snowing again, stay home if you can.",
-        "There’s thunder, so I’m staying indoors.",
-        "It’s cloudy now, but the weather can change fast."
-      ]
-    },
-    {
       "timestamp": "2026-08-19T08:39:33.947525",
       "category": "Weather",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "My internet is slow, pages take forever to load.",
         "Where can I find the settings on my phone?"
       ]
+    },
+    {
+      "timestamp": "2026-11-11T00:26:36.523697",
+      "category": "Health & Body",
+      "num_phrases": 5,
+      "phrases": [
+        "I have a sore throat, so please give me tea.",
+        "I need water, because I’m sweating a lot.",
+        "I have a cough, but I don’t feel sick.",
+        "I’m feeling dizzy, so I need to sit down.",
+        "I think I burned my skin in the sun."
+      ]
     }
   ],
   "used_phrases": [
-    "I’ll be there in ten minutes, not one more.",
-    "I have one coffee, then I’m done.",
-    "My password is number seven, seriously.",
-    "Call me at six o’clock, please.",
-    "I’m meeting you at 3 p.m. today.",
     "I love live music, it makes me feel alive.",
     "This song is a total earworm, I can’t stop.",
     "Are we going to the concert tonight or tomorrow?",
@@ -4398,6 +4393,11 @@
     "What’s the password for the Wi-Fi network here?",
     "The app is crashing, it closes by itself.",
     "My internet is slow, pages take forever to load.",
-    "Where can I find the settings on my phone?"
+    "Where can I find the settings on my phone?",
+    "I have a sore throat, so please give me tea.",
+    "I need water, because I’m sweating a lot.",
+    "I have a cough, but I don’t feel sick.",
+    "I’m feeling dizzy, so I need to sit down.",
+    "I think I burned my skin in the sun."
   ]
 }
