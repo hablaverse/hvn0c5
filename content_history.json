@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-19T14:33:28.134341",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I feel nervous before exams, but I breathe and continue.",
-        "I’m so excited today; everything feels brand new!",
-        "I’m sad right now, so please be gentle with me.",
-        "I’m happy you’re here; it makes my day better.",
-        "I feel stressed, so I need a quick break now."
-      ]
-    },
-    {
       "timestamp": "2026-08-19T20:31:13.047534",
       "category": "Technology & Internet",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’ll have the chicken, and I want it well cooked.",
         "Is there cheese in this? I don’t eat dairy."
       ]
+    },
+    {
+      "timestamp": "2026-11-12T16:37:39.930185",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "I love dogs; they always make my day.",
+        "That bird is noisy, so please close the window.",
+        "I don’t trust horses; they look too strong.",
+        "Dolphins are smart, and I love watching them.",
+        "I hate snakes; they make my skin crawl."
+      ]
     }
   ],
   "used_phrases": [
-    "I have a headache, can you help me find a pharmacy?",
-    "I feel dizzy, I need to sit down for a minute.",
-    "I’m allergic to peanuts, so no snacks for me.",
-    "I have a fever, can I buy some medicine today?",
-    "I hurt my ankle, where is the nearest clinic?",
     "Do you have a map of the city?",
     "How much is a ticket to the airport?",
     "I need water without ice, please.",
@@ -4398,6 +4393,11 @@
     "Do you have vegetarian options that are filling?",
     "No spicy food for me, please, I’m sensitive.",
     "I’ll have the chicken, and I want it well cooked.",
-    "Is there cheese in this? I don’t eat dairy."
+    "Is there cheese in this? I don’t eat dairy.",
+    "I love dogs; they always make my day.",
+    "That bird is noisy, so please close the window.",
+    "I don’t trust horses; they look too strong.",
+    "Dolphins are smart, and I love watching them.",
+    "I hate snakes; they make my skin crawl."
   ]
 }
