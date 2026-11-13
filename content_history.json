@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-19T20:31:13.047534",
-      "category": "Technology & Internet",
-      "num_phrases": 5,
-      "phrases": [
-        "Can you send me the link again, please?",
-        "My Wi-Fi is slow, can we restart it?",
-        "Where’s the password? I forgot it again.",
-        "I got a new phone, how do I sync photos?",
-        "Are you using mobile data, or Wi-Fi?"
-      ]
-    },
-    {
       "timestamp": "2026-08-20T08:37:46.276184",
       "category": "Food & Dining",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Dolphins are smart, and I love watching them.",
         "I hate snakes; they make my skin crawl."
       ]
+    },
+    {
+      "timestamp": "2026-11-13T00:55:24.958540",
+      "category": "Work & Business",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you send the invoice today, please?",
+        "I need this by Friday morning, no problem.",
+        "How much does this cost in total?",
+        "Let’s schedule a quick call this afternoon.",
+        "Could you reply when you get a minute?"
+      ]
     }
   ],
   "used_phrases": [
-    "Do you have a map of the city?",
-    "How much is a ticket to the airport?",
-    "I need water without ice, please.",
-    "Where can I buy a SIM card?",
-    "Can you write that down for me, please?",
     "My bus arrives at 8 o'clock, don’t be late.",
     "I’m free at two, and yes, you can call me.",
     "It’s 5 minutes from now, let’s hurry, okay?",
@@ -4398,6 +4393,11 @@
     "That bird is noisy, so please close the window.",
     "I don’t trust horses; they look too strong.",
     "Dolphins are smart, and I love watching them.",
-    "I hate snakes; they make my skin crawl."
+    "I hate snakes; they make my skin crawl.",
+    "Can you send the invoice today, please?",
+    "I need this by Friday morning, no problem.",
+    "How much does this cost in total?",
+    "Let’s schedule a quick call this afternoon.",
+    "Could you reply when you get a minute?"
   ]
 }
