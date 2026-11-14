@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-20T14:36:04.611770",
-      "category": "Directions",
-      "num_phrases": 5,
-      "phrases": [
-        "Turn left at the big bank, and follow the street.",
-        "Go straight for two blocks, then stop at the light.",
-        "Take the second right, and you’ll find the museum.",
-        "Please park over there, not in front of the door.",
-        "Walk past the pharmacy, and the café is on your left."
-      ]
-    },
-    {
       "timestamp": "2026-08-20T20:27:31.790963",
       "category": "Directions",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Wow, your yellow shirt is bright, and it matches your vibe!",
         "Your black shoes are sexy, they look so strong and cool!"
       ]
+    },
+    {
+      "timestamp": "2026-11-14T00:42:01.078283",
+      "category": "House & Home",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the kitchen? I want a snack right now.",
+        "Can you turn on the lights? I feel a little lost.",
+        "Don’t worry, I’ll hang the towels right away.",
+        "Where do we put the trash? I want it tidy.",
+        "Is there a washing machine in this apartment?"
+      ]
     }
   ],
   "used_phrases": [
-    "It’s raining hard, so take an umbrella, please.",
-    "The sun is out, so let’s go for a walk.",
-    "Is it going to storm tonight?",
-    "The wind is freezing, and I can’t stop shivering.",
-    "It’s too hot; I’m staying inside today.",
     "I spent too much money today; I need a cheaper plan.",
     "Can I pay with card, or do you only take cash?",
     "Where is the ATM nearby? I need cash fast.",
@@ -4398,6 +4393,11 @@
     "That blue car looks fast, like it’s always racing!",
     "This green jacket is perfect, it makes you look fresh!",
     "Wow, your yellow shirt is bright, and it matches your vibe!",
-    "Your black shoes are sexy, they look so strong and cool!"
+    "Your black shoes are sexy, they look so strong and cool!",
+    "Where is the kitchen? I want a snack right now.",
+    "Can you turn on the lights? I feel a little lost.",
+    "Don’t worry, I’ll hang the towels right away.",
+    "Where do we put the trash? I want it tidy.",
+    "Is there a washing machine in this apartment?"
   ]
 }
