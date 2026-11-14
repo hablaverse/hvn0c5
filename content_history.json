@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-21T08:40:17.772035",
-      "category": "Animals",
-      "num_phrases": 5,
-      "phrases": [
-        "Cats are my favorite animals, I love their faces.",
-        "I’m scared of spiders, they move like tiny monsters.",
-        "Dogs make me happy, they always want to play.",
-        "I love horses, they look like running dreams.",
-        "My goldfish only swims, but it’s so calming."
-      ]
-    },
-    {
       "timestamp": "2026-08-21T14:34:50.512429",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I can’t come today, but I’m free tomorrow morning.",
         "It’s 10 p.m., so let’s watch something and relax."
       ]
+    },
+    {
+      "timestamp": "2026-11-14T23:39:51.590198",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m on a tight budget this month, so I’ll cook at home.",
+        "Can I pay with a card, not cash, please?",
+        "I spent too much yesterday, and I regret it a bit.",
+        "I’m saving money by using coupons and shopping smart.",
+        "My bank app shows my balance, so I feel calmer."
+      ]
     }
   ],
   "used_phrases": [
-    "I’m meeting you at seven, not eight, okay?",
-    "My flight leaves at six fifty-five.",
-    "I’ll call you in ten minutes, trust me.",
-    "It’s one o’clock, and I’m starving!",
-    "Do you have a table for two tonight?",
     "I’m looking for a new couch, not another weird chair.",
     "Where is the light switch, because the room is dark?",
     "Please don’t slam the door; my walls are dramatic.",
@@ -4398,6 +4393,11 @@
     "I’m meeting you at 6 o’clock, right after work.",
     "My favorite number is seven, because it feels lucky.",
     "I can’t come today, but I’m free tomorrow morning.",
-    "It’s 10 p.m., so let’s watch something and relax."
+    "It’s 10 p.m., so let’s watch something and relax.",
+    "I’m on a tight budget this month, so I’ll cook at home.",
+    "Can I pay with a card, not cash, please?",
+    "I spent too much yesterday, and I regret it a bit.",
+    "I’m saving money by using coupons and shopping smart.",
+    "My bank app shows my balance, so I feel calmer."
   ]
 }
