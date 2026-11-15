@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-21T14:34:50.512429",
-      "category": "Daily Greetings",
-      "num_phrases": 5,
-      "phrases": [
-        "Good morning, Spanish friends, today is going to be great!",
-        "Good afternoon! I’m learning Spanish, and I’m feeling brave today.",
-        "Good evening! Let’s practice Spanish, even if we make mistakes.",
-        "Hi! How are you today? I hope your day is easy.",
-        "Nice to meet you! Your Spanish sounds cool already."
-      ]
-    },
-    {
       "timestamp": "2026-08-21T20:24:56.901357",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’m saving money by using coupons and shopping smart.",
         "My bank app shows my balance, so I feel calmer."
       ]
+    },
+    {
+      "timestamp": "2026-11-15T15:24:23.362715",
+      "category": "Education & Learning",
+      "num_phrases": 5,
+      "phrases": [
+        "I don’t understand. Can you say it more slowly, please?",
+        "Where is the nearest subway station?",
+        "I’m hungry, and I want something simple.",
+        "What’s your favorite snack from the store?",
+        "I’m looking for this street, not the other one."
+      ]
     }
   ],
   "used_phrases": [
-    "I’m looking for a new couch, not another weird chair.",
-    "Where is the light switch, because the room is dark?",
-    "Please don’t slam the door; my walls are dramatic.",
-    "This floor is slippery, so watch your step, okay?",
-    "My roommate keeps losing the keys, again and again.",
     "I understand, but I need it slower, please.",
     "Can you say that again in simpler words?",
     "What does this word mean in everyday Spanish?",
@@ -4398,6 +4393,11 @@
     "Can I pay with a card, not cash, please?",
     "I spent too much yesterday, and I regret it a bit.",
     "I’m saving money by using coupons and shopping smart.",
-    "My bank app shows my balance, so I feel calmer."
+    "My bank app shows my balance, so I feel calmer.",
+    "I don’t understand. Can you say it more slowly, please?",
+    "Where is the nearest subway station?",
+    "I’m hungry, and I want something simple.",
+    "What’s your favorite snack from the store?",
+    "I’m looking for this street, not the other one."
   ]
 }
