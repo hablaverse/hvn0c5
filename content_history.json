@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-21T20:24:56.901357",
-      "category": "Health & Body",
-      "num_phrases": 5,
-      "phrases": [
-        "I have a headache, but I feel okay.",
-        "My stomach hurts, I need water, please.",
-        "I’m sick, I don’t want to go out today.",
-        "I’m not hungry right now, thanks.",
-        "I’m thirsty, can I have some juice?"
-      ]
-    },
-    {
       "timestamp": "2026-08-22T08:29:14.228114",
       "category": "Food & Dining",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "What’s your favorite snack from the store?",
         "I’m looking for this street, not the other one."
       ]
+    },
+    {
+      "timestamp": "2026-11-15T23:46:26.910218",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m so excited for my Spanish quiz today!",
+        "I feel relaxed when I listen to Spanish songs.",
+        "I’m annoyed because the bus is late again.",
+        "I’m jealous when my friend speaks Spanish better.",
+        "I’m proud because I understood a full sentence."
+      ]
     }
   ],
   "used_phrases": [
-    "I understand, but I need it slower, please.",
-    "Can you say that again in simpler words?",
-    "What does this word mean in everyday Spanish?",
-    "I’m learning Spanish, so please talk to me kindly.",
-    "Where do I buy a SIM card for my phone?",
     "I need more towels, because this shower is a mess.",
     "The fridge is empty, so I’m craving something big.",
     "Don’t slam the windows, the neighbors hate loud sounds.",
@@ -4398,6 +4393,11 @@
     "Where is the nearest subway station?",
     "I’m hungry, and I want something simple.",
     "What’s your favorite snack from the store?",
-    "I’m looking for this street, not the other one."
+    "I’m looking for this street, not the other one.",
+    "I’m so excited for my Spanish quiz today!",
+    "I feel relaxed when I listen to Spanish songs.",
+    "I’m annoyed because the bus is late again.",
+    "I’m jealous when my friend speaks Spanish better.",
+    "I’m proud because I understood a full sentence."
   ]
 }
