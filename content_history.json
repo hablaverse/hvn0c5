@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-22T08:29:14.228114",
-      "category": "Food & Dining",
-      "num_phrases": 5,
-      "phrases": [
-        "I want a table for two, near the window, please.",
-        "Can I see the menu, please? I’m hungry and curious.",
-        "I’ll have the chicken with rice, please. No spicy sauce.",
-        "Do you have vegetarian options? I want something tasty.",
-        "Is tap water okay, or should I get bottled water?"
-      ]
-    },
-    {
       "timestamp": "2026-08-22T14:20:52.122355",
       "category": "Common Phrases",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’m jealous when my friend speaks Spanish better.",
         "I’m proud because I understood a full sentence."
       ]
+    },
+    {
+      "timestamp": "2026-11-16T17:59:58.103787",
+      "category": "Animals",
+      "num_phrases": 5,
+      "phrases": [
+        "I love cats, they make me laugh every day.",
+        "Dogs are my favorite animal, they’re so friendly.",
+        "I hate snakes, they make me feel nervous.",
+        "That spider is scary, so I stay away.",
+        "I’m scared of birds, they get too close."
+      ]
     }
   ],
   "used_phrases": [
-    "I need more towels, because this shower is a mess.",
-    "The fridge is empty, so I’m craving something big.",
-    "Don’t slam the windows, the neighbors hate loud sounds.",
-    "Where’s the trash bin? I have a snack wrapper.",
-    "My Wi-Fi drops here, so I need better signal indoors.",
     "I just spent all my cash, and now I’m broke.",
     "Can you split the bill, please? I forgot my card.",
     "I need cash for the bus, not excuses.",
@@ -4398,6 +4393,11 @@
     "I feel relaxed when I listen to Spanish songs.",
     "I’m annoyed because the bus is late again.",
     "I’m jealous when my friend speaks Spanish better.",
-    "I’m proud because I understood a full sentence."
+    "I’m proud because I understood a full sentence.",
+    "I love cats, they make me laugh every day.",
+    "Dogs are my favorite animal, they’re so friendly.",
+    "I hate snakes, they make me feel nervous.",
+    "That spider is scary, so I stay away.",
+    "I’m scared of birds, they get too close."
   ]
 }
