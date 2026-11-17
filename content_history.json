@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-22T14:20:52.122355",
-      "category": "Common Phrases",
-      "num_phrases": 5,
-      "phrases": [
-        "I need help, I got lost in this neighborhood.",
-        "I’m running late, I’ll be there in ten minutes.",
-        "I’ll pay, you don’t have to worry.",
-        "Do you have this in a smaller size?",
-        "No problem, we can do it another day."
-      ]
-    },
-    {
       "timestamp": "2026-08-22T20:22:09.295221",
       "category": "Emergency Situations",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "That spider is scary, so I stay away.",
         "I’m scared of birds, they get too close."
       ]
+    },
+    {
+      "timestamp": "2026-11-17T02:47:41.475476",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "I need a doctor, because I have a bad stomach ache.",
+        "How much is this? I want to buy it today.",
+        "Do you have water? I’m thirsty after this long walk.",
+        "I’m allergic to peanuts, so no snacks for me.",
+        "What time does it open? I’m trying to go early."
+      ]
     }
   ],
   "used_phrases": [
-    "I just spent all my cash, and now I’m broke.",
-    "Can you split the bill, please? I forgot my card.",
-    "I need cash for the bus, not excuses.",
-    "This price is crazy; I’m going to wait for sales.",
-    "I’m budgeting this month, and my cravings are shocked.",
     "Turn left at the bakery, and go straight for two blocks.",
     "Go to the pharmacy, then ask for medicine for a cough.",
     "Walk past the park, and you’ll see the museum on your right.",
@@ -4398,6 +4393,11 @@
     "Dogs are my favorite animal, they’re so friendly.",
     "I hate snakes, they make me feel nervous.",
     "That spider is scary, so I stay away.",
-    "I’m scared of birds, they get too close."
+    "I’m scared of birds, they get too close.",
+    "I need a doctor, because I have a bad stomach ache.",
+    "How much is this? I want to buy it today.",
+    "Do you have water? I’m thirsty after this long walk.",
+    "I’m allergic to peanuts, so no snacks for me.",
+    "What time does it open? I’m trying to go early."
   ]
 }
