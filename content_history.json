@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-22T20:22:09.295221",
-      "category": "Emergency Situations",
-      "num_phrases": 5,
-      "phrases": [
-        "Help! I think I got hurt. Call an ambulance, please.",
-        "Fire! Fire! Help me, the building is burning!",
-        "I can’t breathe. Please call emergency services now.",
-        "I feel dizzy. I need to sit down right now.",
-        "I have an allergic reaction to peanuts. Help!"
-      ]
-    },
-    {
       "timestamp": "2026-08-23T08:29:36.515877",
       "category": "Health & Body",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’m allergic to peanuts, so no snacks for me.",
         "What time does it open? I’m trying to go early."
       ]
+    },
+    {
+      "timestamp": "2026-11-17T17:24:52.476327",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I feel sick, and I want to go home now.",
+        "I’m tired, and I need a nap right now.",
+        "I’m worried, because I lost my keys again.",
+        "I’m frustrated, because the Wi-Fi never works here.",
+        "I’m happy, and I want to celebrate small wins."
+      ]
     }
   ],
   "used_phrases": [
-    "Turn left at the bakery, and go straight for two blocks.",
-    "Go to the pharmacy, then ask for medicine for a cough.",
-    "Walk past the park, and you’ll see the museum on your right.",
-    "Take the elevator to floor three, please, not the stairs.",
-    "The bathroom is behind you, so look back and go in.",
     "I have a meeting at ten, so I’m running late.",
     "Can we reschedule to tomorrow morning, please?",
     "I don’t understand, but I’ll ask after the call.",
@@ -4398,6 +4393,11 @@
     "How much is this? I want to buy it today.",
     "Do you have water? I’m thirsty after this long walk.",
     "I’m allergic to peanuts, so no snacks for me.",
-    "What time does it open? I’m trying to go early."
+    "What time does it open? I’m trying to go early.",
+    "I feel sick, and I want to go home now.",
+    "I’m tired, and I need a nap right now.",
+    "I’m worried, because I lost my keys again.",
+    "I’m frustrated, because the Wi-Fi never works here.",
+    "I’m happy, and I want to celebrate small wins."
   ]
 }
