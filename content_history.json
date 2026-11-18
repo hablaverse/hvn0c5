@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-23T08:29:36.515877",
-      "category": "Health & Body",
-      "num_phrases": 5,
-      "phrases": [
-        "I have a sore throat, so I’m drinking tea.",
-        "I’m cold, can I close the window, please?",
-        "I have a fever, but I’m okay right now.",
-        "I have a cough, and it’s getting worse.",
-        "I feel fine, but I’m tired today."
-      ]
-    },
-    {
       "timestamp": "2026-08-23T14:23:01.368000",
       "category": "Fashion & Appearance",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’m frustrated, because the Wi-Fi never works here.",
         "I’m happy, and I want to celebrate small wins."
       ]
+    },
+    {
+      "timestamp": "2026-11-18T02:09:14.454124",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "I love this jacket, it looks great on me.",
+        "This color is perfect, it matches my shoes.",
+        "I need a bigger size, these pants are too tight.",
+        "My shirt is wrinkled, do you have an iron?",
+        "These shoes are comfy, I can walk all day."
+      ]
     }
   ],
   "used_phrases": [
-    "I have a meeting at ten, so I’m running late.",
-    "Can we reschedule to tomorrow morning, please?",
-    "I don’t understand, but I’ll ask after the call.",
-    "The deadline is Friday, so please hurry.",
-    "I’m sending the file now, so check your email.",
     "I don’t speak Spanish yet, but I’m learning fast, promise.",
     "Can you say that again, slower, please? I’m lost.",
     "What does this word mean? My brain needs help.",
@@ -4398,6 +4393,11 @@
     "I’m tired, and I need a nap right now.",
     "I’m worried, because I lost my keys again.",
     "I’m frustrated, because the Wi-Fi never works here.",
-    "I’m happy, and I want to celebrate small wins."
+    "I’m happy, and I want to celebrate small wins.",
+    "I love this jacket, it looks great on me.",
+    "This color is perfect, it matches my shoes.",
+    "I need a bigger size, these pants are too tight.",
+    "My shirt is wrinkled, do you have an iron?",
+    "These shoes are comfy, I can walk all day."
   ]
 }
