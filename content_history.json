@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-23T14:23:01.368000",
-      "category": "Fashion & Appearance",
-      "num_phrases": 5,
-      "phrases": [
-        "I love this jacket, but it’s too hot for today.",
-        "My jeans have a hole, so I need them fixed.",
-        "This color looks weird on me, so I won’t buy it.",
-        "I’m wearing too much perfume; it’s bothering me.",
-        "Can you help me find a hat that fits?"
-      ]
-    },
-    {
       "timestamp": "2026-08-23T20:21:46.272798",
       "category": "Emotions & Feelings",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "My shirt is wrinkled, do you have an iron?",
         "These shoes are comfy, I can walk all day."
       ]
+    },
+    {
+      "timestamp": "2026-11-18T16:58:25.764025",
+      "category": "Hobbies & Activities",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m learning Spanish while I cook tacos at home.",
+        "I play guitar after dinner, even if I’m not perfect.",
+        "I go jogging in the morning to clear my mind.",
+        "I love drawing in my notebook when I need peace.",
+        "I watch funny videos and practice Spanish with the subtitles."
+      ]
     }
   ],
   "used_phrases": [
-    "I don’t speak Spanish yet, but I’m learning fast, promise.",
-    "Can you say that again, slower, please? I’m lost.",
-    "What does this word mean? My brain needs help.",
-    "How do you say hello in Spanish, please?",
-    "Excuse me, where is the bathroom? I’m in trouble!",
     "Go straight until you see the big church, please.",
     "Turn right at the pharmacy, then go one block.",
     "Turn left after the bridge, and follow the signs.",
@@ -4398,6 +4393,11 @@
     "This color is perfect, it matches my shoes.",
     "I need a bigger size, these pants are too tight.",
     "My shirt is wrinkled, do you have an iron?",
-    "These shoes are comfy, I can walk all day."
+    "These shoes are comfy, I can walk all day.",
+    "I’m learning Spanish while I cook tacos at home.",
+    "I play guitar after dinner, even if I’m not perfect.",
+    "I go jogging in the morning to clear my mind.",
+    "I love drawing in my notebook when I need peace.",
+    "I watch funny videos and practice Spanish with the subtitles."
   ]
 }
