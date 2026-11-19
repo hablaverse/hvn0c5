@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-23T20:21:46.272798",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I’m so happy you came with me today!",
-        "I’m nervous before my interview, so please be kind.",
-        "I feel sad because my team lost today.",
-        "I’m angry about the late bus again.",
-        "I’m worried you forgot my message."
-      ]
-    },
-    {
       "timestamp": "2026-08-24T08:47:16.727259",
       "category": "Emotions & Feelings",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I love drawing in my notebook when I need peace.",
         "I watch funny videos and practice Spanish with the subtitles."
       ]
+    },
+    {
+      "timestamp": "2026-11-19T01:44:48.444044",
+      "category": "Emotions & Feelings",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m excited to see the city at night.",
+        "I feel nervous before my first meeting.",
+        "I’m calm now, thanks for helping me.",
+        "I’m stressed about money this week.",
+        "I’m relieved we found the right bus."
+      ]
     }
   ],
   "used_phrases": [
-    "Go straight until you see the big church, please.",
-    "Turn right at the pharmacy, then go one block.",
-    "Turn left after the bridge, and follow the signs.",
-    "Is it near here, or do I need to walk?",
-    "Can you point to the bus stop, please?",
     "I’m starving; can we get tacos, please?",
     "That’s cool, but I’m not paying that price.",
     "Hold up, I need to check my wallet.",
@@ -4398,6 +4393,11 @@
     "I play guitar after dinner, even if I’m not perfect.",
     "I go jogging in the morning to clear my mind.",
     "I love drawing in my notebook when I need peace.",
-    "I watch funny videos and practice Spanish with the subtitles."
+    "I watch funny videos and practice Spanish with the subtitles.",
+    "I’m excited to see the city at night.",
+    "I feel nervous before my first meeting.",
+    "I’m calm now, thanks for helping me.",
+    "I’m stressed about money this week.",
+    "I’m relieved we found the right bus."
   ]
 }
