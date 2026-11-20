@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-24T08:47:16.727259",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I feel stressed when there’s too much noise.",
-        "I’m relaxed now, because the day is finally done.",
-        "I’m scared of spiders, even small ones.",
-        "I’m jealous when you get all the attention.",
-        "I feel proud when I help someone."
-      ]
-    },
-    {
       "timestamp": "2026-08-24T14:41:24.422428",
       "category": "Directions",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "I’m stressed about money this week.",
         "I’m relieved we found the right bus."
       ]
+    },
+    {
+      "timestamp": "2026-11-20T01:40:53.400768",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "Can you help me buy a bus ticket, please?",
+        "What time does the train leave? I don’t want to miss it.",
+        "Do you accept credit cards here, or only cash?",
+        "Is there free Wi-Fi in the hotel lobby?",
+        "Where is the bathroom? I really need it now."
+      ]
     }
   ],
   "used_phrases": [
-    "I’m starving; can we get tacos, please?",
-    "That’s cool, but I’m not paying that price.",
-    "Hold up, I need to check my wallet.",
-    "No way! You got it for free?",
-    "That sounds fake; are you serious?",
     "Good morning! Did you sleep well last night?",
     "Hi! How’s it going today, friend?",
     "Hey, what’s up? I’m in a great mood!",
@@ -4398,6 +4393,11 @@
     "I feel nervous before my first meeting.",
     "I’m calm now, thanks for helping me.",
     "I’m stressed about money this week.",
-    "I’m relieved we found the right bus."
+    "I’m relieved we found the right bus.",
+    "Can you help me buy a bus ticket, please?",
+    "What time does the train leave? I don’t want to miss it.",
+    "Do you accept credit cards here, or only cash?",
+    "Is there free Wi-Fi in the hotel lobby?",
+    "Where is the bathroom? I really need it now."
   ]
 }
