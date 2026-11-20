@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-24T14:41:24.422428",
-      "category": "Directions",
-      "num_phrases": 5,
-      "phrases": [
-        "Stop here for a second, then walk to the corner.",
-        "Take the second street on the right.",
-        "Go past the park, and you will see the cinema.",
-        "Don’t turn right here; keep going straight.",
-        "The bathroom is inside, not outside."
-      ]
-    },
-    {
       "timestamp": "2026-08-24T20:30:05.246714",
       "category": "House & Home",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "Is there free Wi-Fi in the hotel lobby?",
         "Where is the bathroom? I really need it now."
       ]
+    },
+    {
+      "timestamp": "2026-11-20T16:44:59.148505",
+      "category": "Common Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "Sorry, I don't understand. Can you speak slower?",
+        "I’m hungry. What can I eat here?",
+        "Is it okay if I sit here?",
+        "What do you recommend? I trust your choice.",
+        "The bill, please. We are ready."
+      ]
     }
   ],
   "used_phrases": [
-    "Good morning! Did you sleep well last night?",
-    "Hi! How’s it going today, friend?",
-    "Hey, what’s up? I’m in a great mood!",
-    "Good evening! Did you eat already?",
-    "Cheers! Today is better than yesterday, right?",
     "I’m so hungry; let’s grab something quick after class.",
     "That’s awesome, bro! You speak Spanish way better than me.",
     "Don’t worry, we’ll figure it out together, for real.",
@@ -4398,6 +4393,11 @@
     "What time does the train leave? I don’t want to miss it.",
     "Do you accept credit cards here, or only cash?",
     "Is there free Wi-Fi in the hotel lobby?",
-    "Where is the bathroom? I really need it now."
+    "Where is the bathroom? I really need it now.",
+    "Sorry, I don't understand. Can you speak slower?",
+    "I’m hungry. What can I eat here?",
+    "Is it okay if I sit here?",
+    "What do you recommend? I trust your choice.",
+    "The bill, please. We are ready."
   ]
 }
