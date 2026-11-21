@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-24T20:30:05.246714",
-      "category": "House & Home",
-      "num_phrases": 5,
-      "phrases": [
-        "Can you pass me the keys, please?",
-        "The stove is off, so it’s safe now.",
-        "Where is the laundry basket?",
-        "Don’t close that door, it sticks.",
-        "The Wi-Fi is weak in my room."
-      ]
-    },
-    {
       "timestamp": "2026-08-25T08:41:57.346105",
       "category": "Family & Relationships",
       "num_phrases": 5,
@@ -2396,14 +2384,21 @@
         "What do you recommend? I trust your choice.",
         "The bill, please. We are ready."
       ]
+    },
+    {
+      "timestamp": "2026-11-21T01:07:08.748580",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "I want a water bottle, not soda. Please.",
+        "How much is this? Please tell me the total price.",
+        "No spicy food for me today, please.",
+        "I have a reservation under the name Ana.",
+        "What time is breakfast? Tell me the hours, please."
+      ]
     }
   ],
   "used_phrases": [
-    "I’m so hungry; let’s grab something quick after class.",
-    "That’s awesome, bro! You speak Spanish way better than me.",
-    "Don’t worry, we’ll figure it out together, for real.",
-    "I’m broke today, so I’ll just look and walk.",
-    "That restaurant was crazy good, I’m going back tomorrow.",
     "I need this quote today, please. I’m ready to sign.",
     "Can you send the invoice to my email, right now?",
     "I’ll call you after the meeting. Don’t disappear, okay?",
@@ -4398,6 +4393,11 @@
     "I’m hungry. What can I eat here?",
     "Is it okay if I sit here?",
     "What do you recommend? I trust your choice.",
-    "The bill, please. We are ready."
+    "The bill, please. We are ready.",
+    "I want a water bottle, not soda. Please.",
+    "How much is this? Please tell me the total price.",
+    "No spicy food for me today, please.",
+    "I have a reservation under the name Ana.",
+    "What time is breakfast? Tell me the hours, please."
   ]
 }
