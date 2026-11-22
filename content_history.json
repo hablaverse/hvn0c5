@@ -1,17 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-25T20:28:18.420347",
-      "category": "Education & Learning",
-      "num_phrases": 4,
-      "phrases": [
-        "I understand, but I need to practice.",
-        "Is it formal or casual?",
-        "I’m going to study for twenty minutes.",
-        "Can you correct my Spanish?"
-      ]
-    },
-    {
       "timestamp": "2026-08-26T08:44:05.126658",
       "category": "Emergency Situations",
       "num_phrases": 5,
@@ -2396,14 +2385,21 @@
         "The wind is strong today. Keep your hat on.",
         "There’s a storm coming. Stay inside for a bit."
       ]
+    },
+    {
+      "timestamp": "2026-11-22T15:57:49.881870",
+      "category": "Family & Relationships",
+      "num_phrases": 5,
+      "phrases": [
+        "Can I call you later tonight after dinner?",
+        "I miss you, even if we talked yesterday.",
+        "Mom, can we talk for five minutes?",
+        "You’re right, I was overthinking again.",
+        "Are you free tonight, or are you busy?"
+      ]
     }
   ],
   "used_phrases": [
-    "Good morning! I’m ready for today, are you?",
-    "Hi, my friend! How are you today, really?",
-    "Hello! Tell me, how’s your day going so far?",
-    "Good afternoon! I hope your day is going well.",
-    "Hey! What did you do today? Give me the highlights.",
     "I love hiking on weekends; it clears my mind fast.",
     "I’m learning guitar, and my favorite song is easy.",
     "I cook tacos at home because it feels like fun therapy.",
@@ -4398,6 +4394,11 @@
     "It’s too hot today. I need water.",
     "I’m cold. Can I close the window?",
     "The wind is strong today. Keep your hat on.",
-    "There’s a storm coming. Stay inside for a bit."
+    "There’s a storm coming. Stay inside for a bit.",
+    "Can I call you later tonight after dinner?",
+    "I miss you, even if we talked yesterday.",
+    "Mom, can we talk for five minutes?",
+    "You’re right, I was overthinking again.",
+    "Are you free tonight, or are you busy?"
   ]
 }
