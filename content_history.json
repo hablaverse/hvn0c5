@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-25T14:44:41.997729",
-      "category": "Emotions & Feelings",
-      "num_phrases": 5,
-      "phrases": [
-        "I feel happy when you text me first.",
-        "I’m sad because the movie ended too fast.",
-        "I’m nervous before meeting new people.",
-        "I’m embarrassed when I drop my phone.",
-        "I feel calm when I walk without music."
-      ]
-    },
-    {
       "timestamp": "2026-08-25T20:28:18.420347",
       "category": "Education & Learning",
       "num_phrases": 4,
@@ -2396,14 +2384,21 @@
         "I’ll try it, but I hate cilantro.",
         "Waiter, can you bring me a fork, please?"
       ]
+    },
+    {
+      "timestamp": "2026-11-22T00:06:55.788286",
+      "category": "Weather",
+      "num_phrases": 5,
+      "phrases": [
+        "Is it sunny right now, or is it cloudy?",
+        "It’s too hot today. I need water.",
+        "I’m cold. Can I close the window?",
+        "The wind is strong today. Keep your hat on.",
+        "There’s a storm coming. Stay inside for a bit."
+      ]
     }
   ],
   "used_phrases": [
-    "Do you speak English, please, or a little?",
-    "I’m lost. Is there a bus to the center?",
-    "Can I pay by card? I don’t have cash.",
-    "I like this a lot. Do you have it in small?",
-    "What’s your name? I want to say it correctly.",
     "Good morning! I’m ready for today, are you?",
     "Hi, my friend! How are you today, really?",
     "Hello! Tell me, how’s your day going so far?",
@@ -4398,6 +4393,11 @@
     "This bread is so good, I want more.",
     "I’m allergic to shrimp, so please be careful.",
     "I’ll try it, but I hate cilantro.",
-    "Waiter, can you bring me a fork, please?"
+    "Waiter, can you bring me a fork, please?",
+    "Is it sunny right now, or is it cloudy?",
+    "It’s too hot today. I need water.",
+    "I’m cold. Can I close the window?",
+    "The wind is strong today. Keep your hat on.",
+    "There’s a storm coming. Stay inside for a bit."
   ]
 }
