@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-26T08:44:05.126658",
-      "category": "Emergency Situations",
-      "num_phrases": 5,
-      "phrases": [
-        "Call 911 now! I think it’s an emergency.",
-        "I’m bleeding a lot. Please help me stop it.",
-        "My chest hurts. I can’t breathe well.",
-        "I swallowed something! Call help, please.",
-        "I’m choking! Somebody help me right now!"
-      ]
-    },
-    {
       "timestamp": "2026-08-26T14:45:01.198314",
       "category": "Family & Relationships",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "You’re right, I was overthinking again.",
         "Are you free tonight, or are you busy?"
       ]
+    },
+    {
+      "timestamp": "2026-11-23T00:36:32.215641",
+      "category": "Slang & Informal",
+      "num_phrases": 5,
+      "phrases": [
+        "I’m starving right now, I need food fast.",
+        "I’m totally broke, so I can’t go out tonight.",
+        "That’s awesome, that made my day!",
+        "I’m running late, so please wait for me.",
+        "Take it easy, everything will be fine."
+      ]
     }
   ],
   "used_phrases": [
-    "I love hiking on weekends; it clears my mind fast.",
-    "I’m learning guitar, and my favorite song is easy.",
-    "I cook tacos at home because it feels like fun therapy.",
-    "I go to the gym, but I only love the warm-up.",
-    "I paint small pictures, and strangers always ask about them.",
     "I’m hungry. Where is the best food around here?",
     "What time does it open?",
     "I’m thirsty. Do you have water?",
@@ -4399,6 +4394,11 @@
     "I miss you, even if we talked yesterday.",
     "Mom, can we talk for five minutes?",
     "You’re right, I was overthinking again.",
-    "Are you free tonight, or are you busy?"
+    "Are you free tonight, or are you busy?",
+    "I’m starving right now, I need food fast.",
+    "I’m totally broke, so I can’t go out tonight.",
+    "That’s awesome, that made my day!",
+    "I’m running late, so please wait for me.",
+    "Take it easy, everything will be fine."
   ]
 }
