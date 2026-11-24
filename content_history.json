@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-28T04:04:29.941111",
-      "category": "Food & Dining",
-      "num_phrases": 5,
-      "phrases": [
-        "Can I get the menu, please, before we order?",
-        "Is there anything without nuts? I have a nut allergy.",
-        "No spice for me, please. I want it mild.",
-        "Can we pay separately? I’ll cover my part.",
-        "I’ll have water, not soda, please."
-      ]
-    },
-    {
       "timestamp": "2026-08-28T19:55:58.609298",
       "category": "Slang & Informal",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I love your laugh, it’s basically my favorite song.",
         "Hold my hand, and tell me you’re not running away."
       ]
+    },
+    {
+      "timestamp": "2026-11-24T04:56:53.649200",
+      "category": "Numbers & Time",
+      "num_phrases": 5,
+      "phrases": [
+        "It’s one o’clock, and we’re ready.",
+        "I have to leave at 6:00.",
+        "We start in five minutes, don’t be late!",
+        "Can you meet me at 3 pm today?",
+        "I’m going to bed at 11."
+      ]
     }
   ],
   "used_phrases": [
-    "Can I get the menu, please? I’m ready to order.",
-    "I want chicken, but I don’t want spicy sauce.",
-    "No onions, please. I can’t handle that smell.",
-    "Is this vegetarian? I need a simple answer.",
-    "I’m allergic to peanuts. Please keep them away.",
     "This shirt fits me perfectly, and I feel confident.",
     "My shoes are so comfortable; I can walk all day.",
     "I love this color; it makes me look fresh.",
@@ -4399,6 +4394,11 @@
     "You make my day better, for real, not joking.",
     "Are you flirting with me, or am I imagining?",
     "I love your laugh, it’s basically my favorite song.",
-    "Hold my hand, and tell me you’re not running away."
+    "Hold my hand, and tell me you’re not running away.",
+    "It’s one o’clock, and we’re ready.",
+    "I have to leave at 6:00.",
+    "We start in five minutes, don’t be late!",
+    "Can you meet me at 3 pm today?",
+    "I’m going to bed at 11."
   ]
 }
