@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-28T19:55:58.609298",
-      "category": "Slang & Informal",
-      "num_phrases": 5,
-      "phrases": [
-        "That’s awesome, man, Spanish is so fun!",
-        "No way! You speak Spanish that well?",
-        "I’m down to chat in Spanish right now.",
-        "Hold on, I need to understand that again.",
-        "I totally forgot. Where did we meet again?"
-      ]
-    },
-    {
       "timestamp": "2026-08-29T02:44:27.767901",
       "category": "Food & Dining",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Can you meet me at 3 pm today?",
         "I’m going to bed at 11."
       ]
+    },
+    {
+      "timestamp": "2026-11-24T19:22:25.818185",
+      "category": "Music & Entertainment",
+      "num_phrases": 5,
+      "phrases": [
+        "This song is stuck in my head all day, help!",
+        "The concert was amazing, but the line was crazy.",
+        "That singer lip-syncs, I can tell right away.",
+        "Can you turn it down? The volume is too loud.",
+        "I love this beat, it makes me want to dance."
+      ]
     }
   ],
   "used_phrases": [
-    "This shirt fits me perfectly, and I feel confident.",
-    "My shoes are so comfortable; I can walk all day.",
-    "I love this color; it makes me look fresh.",
-    "Do you think this hat matches my jacket?",
-    "I need a jacket because it’s chilly outside.",
     "Excuse me, where is the nearest bus stop?",
     "How much is this? I want a quick price.",
     "What does this mean? I want to understand signs.",
@@ -4399,6 +4394,11 @@
     "I have to leave at 6:00.",
     "We start in five minutes, don’t be late!",
     "Can you meet me at 3 pm today?",
-    "I’m going to bed at 11."
+    "I’m going to bed at 11.",
+    "This song is stuck in my head all day, help!",
+    "The concert was amazing, but the line was crazy.",
+    "That singer lip-syncs, I can tell right away.",
+    "Can you turn it down? The volume is too loud.",
+    "I love this beat, it makes me want to dance."
   ]
 }
