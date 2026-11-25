@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-29T02:44:27.767901",
-      "category": "Food & Dining",
-      "num_phrases": 5,
-      "phrases": [
-        "Can I have the check, please? I’m ready to go.",
-        "This soup is perfect. Can I get another bowl?",
-        "No thanks, I’m allergic to shellfish, not just fish.",
-        "What’s the house specialty? I want to try it.",
-        "Is this spicy? I don’t want it too hot."
-      ]
-    },
-    {
       "timestamp": "2026-08-29T13:39:17.295420",
       "category": "Family & Relationships",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Can you turn it down? The volume is too loud.",
         "I love this beat, it makes me want to dance."
       ]
+    },
+    {
+      "timestamp": "2026-11-25T03:23:40.191969",
+      "category": "Money & Finance",
+      "num_phrases": 5,
+      "phrases": [
+        "I forgot my wallet, so I can't pay right now.",
+        "Can you split the bill with me, please?",
+        "I spent too much on shopping this week.",
+        "I need cash, because my card doesn't work.",
+        "Don't buy it yet, I want to compare prices."
+      ]
     }
   ],
   "used_phrases": [
-    "Excuse me, where is the nearest bus stop?",
-    "How much is this? I want a quick price.",
-    "What does this mean? I want to understand signs.",
-    "I’m looking for the bathroom. Where is it?",
-    "Thank you! You’re super helpful.",
     "I like you, but I’m shy to say it.",
     "You look amazing, and it makes me smile.",
     "I can’t stop thinking about you tonight.",
@@ -4399,6 +4394,11 @@
     "The concert was amazing, but the line was crazy.",
     "That singer lip-syncs, I can tell right away.",
     "Can you turn it down? The volume is too loud.",
-    "I love this beat, it makes me want to dance."
+    "I love this beat, it makes me want to dance.",
+    "I forgot my wallet, so I can't pay right now.",
+    "Can you split the bill with me, please?",
+    "I spent too much on shopping this week.",
+    "I need cash, because my card doesn't work.",
+    "Don't buy it yet, I want to compare prices."
   ]
 }
