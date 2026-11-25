@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-29T13:39:17.295420",
-      "category": "Family & Relationships",
-      "num_phrases": 5,
-      "phrases": [
-        "Can you give me a hug, please?",
-        "I love you, but I need space right now.",
-        "Give me your phone password, not your location.",
-        "Where is your mom today, is she home?",
-        "My sister is always late, but she means well."
-      ]
-    },
-    {
       "timestamp": "2026-08-29T17:31:37.456290",
       "category": "Family & Relationships",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I need cash, because my card doesn't work.",
         "Don't buy it yet, I want to compare prices."
       ]
+    },
+    {
+      "timestamp": "2026-11-25T18:27:24.065770",
+      "category": "Directions",
+      "num_phrases": 5,
+      "phrases": [
+        "Take the first right, then walk two blocks.",
+        "Wait here for me, I’ll be right back.",
+        "Please go upstairs, the room is upstairs.",
+        "Go downstairs, but don’t hurry too much.",
+        "Turn around here, the bus stop is next."
+      ]
     }
   ],
   "used_phrases": [
-    "I like you, but I’m shy to say it.",
-    "You look amazing, and it makes me smile.",
-    "I can’t stop thinking about you tonight.",
-    "Let’s meet after work; I really want to see you.",
-    "Don’t worry, I’ll walk you home safely.",
     "You make my day feel calm and safe.",
     "I love your smile; it’s my favorite thing.",
     "Call me when you’re free, even for five minutes.",
@@ -4399,6 +4394,11 @@
     "Can you split the bill with me, please?",
     "I spent too much on shopping this week.",
     "I need cash, because my card doesn't work.",
-    "Don't buy it yet, I want to compare prices."
+    "Don't buy it yet, I want to compare prices.",
+    "Take the first right, then walk two blocks.",
+    "Wait here for me, I’ll be right back.",
+    "Please go upstairs, the room is upstairs.",
+    "Go downstairs, but don’t hurry too much.",
+    "Turn around here, the bus stop is next."
   ]
 }
