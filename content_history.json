@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-29T17:31:37.456290",
-      "category": "Family & Relationships",
-      "num_phrases": 5,
-      "phrases": [
-        "My mom taught me how to cook on Sundays.",
-        "My dad always says, “Call me when you’re free.”",
-        "I text my brother first, even if he teases me.",
-        "My sister and I share snacks like it’s a tradition.",
-        "I’m close to my cousins; we all laugh together."
-      ]
-    },
-    {
       "timestamp": "2026-08-29T22:24:26.674103",
       "category": "Music & Entertainment",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "Go downstairs, but don’t hurry too much.",
         "Turn around here, the bus stop is next."
       ]
+    },
+    {
+      "timestamp": "2026-11-26T18:10:26.097231",
+      "category": "Travel Essentials",
+      "num_phrases": 5,
+      "phrases": [
+        "Where is the nearest bus stop, please?",
+        "I need a taxi right now, please.",
+        "Do you accept cards here?",
+        "How much is this ticket, please?",
+        "Where can I buy a SIM card?"
+      ]
     }
   ],
   "used_phrases": [
-    "You make my day feel calm and safe.",
-    "I love your smile; it’s my favorite thing.",
-    "Call me when you’re free, even for five minutes.",
-    "I miss you, and I don’t know why so much.",
-    "You look cute tonight; I want to hug you.",
     "My dad cracks jokes, and everyone laughs.",
     "I’m close with my sister, and we tell everything.",
     "We argue a little, but we always make up quickly.",
@@ -4399,6 +4394,11 @@
     "Wait here for me, I’ll be right back.",
     "Please go upstairs, the room is upstairs.",
     "Go downstairs, but don’t hurry too much.",
-    "Turn around here, the bus stop is next."
+    "Turn around here, the bus stop is next.",
+    "Where is the nearest bus stop, please?",
+    "I need a taxi right now, please.",
+    "Do you accept cards here?",
+    "How much is this ticket, please?",
+    "Where can I buy a SIM card?"
   ]
 }
