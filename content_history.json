@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-29T22:24:26.674103",
-      "category": "Music & Entertainment",
-      "num_phrases": 5,
-      "phrases": [
-        "I love live music; the energy is unbelievable.",
-        "This song makes me want to dance right now.",
-        "The singer’s voice is so strong and clear.",
-        "Can you turn it up? This is my jam!",
-        "I bought tickets, and now I’m super excited!"
-      ]
-    },
-    {
       "timestamp": "2026-08-30T13:35:48.805392",
       "category": "Daily Greetings",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "How much is this ticket, please?",
         "Where can I buy a SIM card?"
       ]
+    },
+    {
+      "timestamp": "2026-11-27T02:40:54.424082",
+      "category": "Romantic Phrases",
+      "num_phrases": 5,
+      "phrases": [
+        "I think you're cute, and I want to ask you out.",
+        "Sorry, I flirt too much, but you make it easy.",
+        "Your smile is everything; I can't stop looking at you.",
+        "I don't just like you; I really like being with you.",
+        "Can we grab a drink tonight, just you and me?"
+      ]
     }
   ],
   "used_phrases": [
-    "My dad cracks jokes, and everyone laughs.",
-    "I’m close with my sister, and we tell everything.",
-    "We argue a little, but we always make up quickly.",
-    "Please don’t borrow my charger without asking.",
-    "I’m not mad; I just need quiet for ten minutes.",
     "I’m learning Spanish with music, and it’s really fun!",
     "I love cooking tacos at home; it smells amazing!",
     "I go jogging every morning, and it clears my head!",
@@ -4399,6 +4394,11 @@
     "I need a taxi right now, please.",
     "Do you accept cards here?",
     "How much is this ticket, please?",
-    "Where can I buy a SIM card?"
+    "Where can I buy a SIM card?",
+    "I think you're cute, and I want to ask you out.",
+    "Sorry, I flirt too much, but you make it easy.",
+    "Your smile is everything; I can't stop looking at you.",
+    "I don't just like you; I really like being with you.",
+    "Can we grab a drink tonight, just you and me?"
   ]
 }
