@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-30T13:35:48.805392",
-      "category": "Daily Greetings",
-      "num_phrases": 5,
-      "phrases": [
-        "Hey there! Are you ready for today?",
-        "Good evening! Let’s relax for a bit.",
-        "Take care! Text me when you can.",
-        "Excuse me! Where is the bathroom?",
-        "Nice to meet you! What do you like to do?"
-      ]
-    },
-    {
       "timestamp": "2026-08-30T17:57:05.085473",
       "category": "Weather",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "I don't just like you; I really like being with you.",
         "Can we grab a drink tonight, just you and me?"
       ]
+    },
+    {
+      "timestamp": "2026-11-27T17:52:17.315849",
+      "category": "Fashion & Appearance",
+      "num_phrases": 5,
+      "phrases": [
+        "This jacket is too tight; I need a bigger size.",
+        "This shirt is wrinkled; I need it without wrinkles.",
+        "These shoes are super slippery; I almost fell!",
+        "My hair is messy; I need to look neat.",
+        "I hate this shirt; the fabric itches!"
+      ]
     }
   ],
   "used_phrases": [
-    "I’m learning Spanish with music, and it’s really fun!",
-    "I love cooking tacos at home; it smells amazing!",
-    "I go jogging every morning, and it clears my head!",
-    "I’m into painting; your eyes would love my colors!",
-    "I take photos of sunsets; they make me feel calm!",
     "Is there a sale today, like a special discount?",
     "Can I try it on right now, please?",
     "Where is the fitting room? I don’t see it.",
@@ -4399,6 +4394,11 @@
     "Sorry, I flirt too much, but you make it easy.",
     "Your smile is everything; I can't stop looking at you.",
     "I don't just like you; I really like being with you.",
-    "Can we grab a drink tonight, just you and me?"
+    "Can we grab a drink tonight, just you and me?",
+    "This jacket is too tight; I need a bigger size.",
+    "This shirt is wrinkled; I need it without wrinkles.",
+    "These shoes are super slippery; I almost fell!",
+    "My hair is messy; I need to look neat.",
+    "I hate this shirt; the fabric itches!"
   ]
 }
