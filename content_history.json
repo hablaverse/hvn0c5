@@ -1,18 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-08-30T17:57:05.085473",
-      "category": "Weather",
-      "num_phrases": 5,
-      "phrases": [
-        "It’s raining, so I need an umbrella today.",
-        "It’s windy outside, so my hat keeps flying.",
-        "I hate when it’s cold; I want a warm coffee.",
-        "It might snow later, so bring a jacket.",
-        "There’s a storm coming, so stay inside."
-      ]
-    },
-    {
       "timestamp": "2026-08-30T22:26:22.125241",
       "category": "Directions",
       "num_phrases": 5,
@@ -2397,14 +2385,21 @@
         "My hair is messy; I need to look neat.",
         "I hate this shirt; the fabric itches!"
       ]
+    },
+    {
+      "timestamp": "2026-11-28T02:30:45.673559",
+      "category": "Colors & Descriptions",
+      "num_phrases": 5,
+      "phrases": [
+        "This red shirt looks amazing on you!",
+        "My phone is black, but the case is blue!",
+        "That green juice tastes fresh and not too sweet.",
+        "The sky is blue today, so I feel calm.",
+        "White walls make my room feel bigger!"
+      ]
     }
   ],
   "used_phrases": [
-    "Is there a sale today, like a special discount?",
-    "Can I try it on right now, please?",
-    "Where is the fitting room? I don’t see it.",
-    "I’ll take it. How much is it total?",
-    "Can I get a receipt, please? For my records.",
     "I need a good workout today, like right now.",
     "I’m sore, so I’m going to stretch gently.",
     "I can’t breathe, so I need water.",
@@ -4399,6 +4394,11 @@
     "This shirt is wrinkled; I need it without wrinkles.",
     "These shoes are super slippery; I almost fell!",
     "My hair is messy; I need to look neat.",
-    "I hate this shirt; the fabric itches!"
+    "I hate this shirt; the fabric itches!",
+    "This red shirt looks amazing on you!",
+    "My phone is black, but the case is blue!",
+    "That green juice tastes fresh and not too sweet.",
+    "The sky is blue today, so I feel calm.",
+    "White walls make my room feel bigger!"
   ]
 }
